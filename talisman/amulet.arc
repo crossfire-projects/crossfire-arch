@@ -3,7 +3,7 @@ face amulet.111
 type 39
 material 12
 weight 500
-value 250
+value 600
 nrof 1
 name_pl amulets
 client_type 381
@@ -18,7 +18,7 @@ type 39
 material 12
 materialname platinum and glass
 weight 500
-value 1250
+value 3000
 nrof 1
 name amulet
 name_pl amulets
@@ -32,7 +32,7 @@ type 39
 material 12
 materialname silver and glass
 weight 500
-value 25
+value 60
 nrof 1
 name amulet
 name_pl amulets

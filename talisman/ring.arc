@@ -3,7 +3,7 @@ name ring
 animation ring
 is_animated 0
 face ring.110
-value 500
+value 60
 weight 20
 type 70
 material 2
