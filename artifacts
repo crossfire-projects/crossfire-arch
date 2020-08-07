@@ -689,6 +689,29 @@ title Python
 slaying /python/items/weapon_occidental_mages.py
 end
 end
+# It looks like a normal weapon, but then is anything but if you use it.
+Allowed all
+chance 1
+difficulty 10
+Object Souls
+type 15
+value 1000
+msg
+  This weapon pulses with a malevolent glow. It whispers into your mind of its hunger, and promises infinite power if you satiate it.
+endmsg
+arch event_apply
+title Python
+slaying /python/items/curse_on_apply.py
+end
+arch event_drop
+title Python
+slaying /python/items/lose_buffs_on_drop.py
+end
+arch event_throw
+title Python
+slaying /python/items/lose_buffs_on_drop.py
+end
+end
 #
 #
 # Swords (subtype of weapons)
