@@ -112,8 +112,8 @@ Object amberium_converter
 name convert amberium into jade, 1 for 100
 other_arch jadecoin
 slaying ambercoin
-food 100
-sp 1
+food 1
+sp 100
 type 103
 no_pick 1
 face amberium_converter.111
