@@ -3598,7 +3598,7 @@ exp 2000
 yield 7
 skill woodsman
 cauldron stove
-ingred 7 food,potion of recuperation
+ingred 7 food ration,potion of recuperation
 #
 Object Aelingas
 arch waybread
