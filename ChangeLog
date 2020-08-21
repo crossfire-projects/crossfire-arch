@@ -12,9 +12,63 @@ Remove duplicate attributes.
 skills/Skill_Tools/mining_pick.arc
 Andreas Kirschbaum 2020-06-18
 
+Animate the player wizard graphic
+player/class/Wizardry/wizard.base.112.png
+player/class/Wizardry/wizard.base.132.png
+player/class/Wizardry/wizard.base.152.png
+player/class/Wizardry/wizard.base.153.png
+player/class/Wizardry/wizard.base.172.png
+player/class/Wizardry/wizard_class.arc
+player/class/Wizardry/wizard_class.face
+Kevin Zheng 2020-05-04
+
+Add book about the command for dipping empty potion bottles into fountains
+messages
+Kevin Zheng 2020-03-21
+
+Move non-generated files from server/lib/ to arch/
+Logically, these files belong with the archs, since if the archs change,
+these files may need to change, too. Moving them to arch should also
+remove the need for those running with custom maps/archs from needing
+to change the server tree.
+artifacts
+attackmess
+formulae
+image_info
+materials
+messages
+races
+Kevin Zheng 2020-03-03
+
+Apply modified patch for rock mining, by tituss.
+See https://sourceforge.net/p/crossfire/patches/363/
+ground/Mountain/mountain.trs
+ground/Mountain/mountain1.arc
+ground/Mountain/mountain2.arc
+ground/Mountain/mountain3.arc
+ground/Mountain/mountain4.arc
+ground/Mountain/mountain5.arc
+ground/Mountain/mountain_2.arc
+ground/Mountain/mountain_rubble.arc
+skills/Skill_Tools/mining_pick.arc
+skills/Skill_Tools/pickaxe.base.111.png
+skills/mining.arc
+Nicholas Weeger 2020-03-02
+
+Add cracked generic potion, and corresponding glass rubble.
+Patch https://sourceforge.net/p/crossfire/patches/367/ by tituss, picture by Saiapatsu.
+jewel/gems/glass_rubble.arc
+jewel/gems/glass_rubble.base.111.png
+potion/crackedpotiongen.arc
+Nicholas Weeger 2020-02-17
+
 Minor pixel clean up and color tweaks to east west river bridge
 river/bridge_37.base.111.png
 Rick Tanner 2020-01-13
+
+Add kite shield to random treasure
+treasures.trs
+Daniel Hawkins 2019-11-30
 
 Add new shield type -- kite shield.
 These were generally intended for use on horseback, but saw significant use among foot
