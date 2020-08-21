@@ -1,3 +1,17 @@
+Add a new rune -- rune of sparking. It's spark shower in a rune.
+spell/Rune/rune_sparking.arc
+spell/Rune/rune_sparking.face
+spell/Rune/rune_spark.base.111.png
+Daniel Hawkins 2020-08-14
+
+Add a new artifact: (weapon) of Souls. Requires server and maps (python scripts) updates to function.
+artifacts
+Daniel Hawkins 2020-08-07
+
+Remove duplicate attributes.
+skills/Skill_Tools/mining_pick.arc
+Andreas Kirschbaum 2020-06-18
+
 Minor pixel clean up and color tweaks to east west river bridge
 river/bridge_37.base.111.png
 Rick Tanner 2020-01-13
