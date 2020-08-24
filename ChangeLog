@@ -1,3 +1,8 @@
+
+Add background color behind the sign name on the Fantasy Weapon store.
+shop/store_weap_fant.base.x11.png
+Rick Tanner 2020-08-24
+
 Add a new rune -- rune of sparking. It's spark shower in a rune.
 spell/Rune/rune_sparking.arc
 spell/Rune/rune_sparking.face
