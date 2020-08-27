@@ -1,4 +1,25 @@
 
+Clean up pixelation on the flagstone wall sections
+Redesign of flagstone_0.base.111.png
+wall/flagstone/flagstone_0.base.111.png
+wall/flagstone/flagstone_1.base.111.png
+wall/flagstone/flagstone_2.base.111.png
+wall/flagstone/flagstone_3.base.111.png
+wall/flagstone/flagstone_4.base.111.png
+wall/flagstone/flagstone_5.base.111.png
+wall/flagstone/flagstone_6.base.111.png
+wall/flagstone/flagstone_7.base.111.png
+wall/flagstone/flagstone_8.base.111.png
+wall/flagstone/flagstone_9.base.111.png
+wall/flagstone/flagstone_A.base.111.png
+wall/flagstone/flagstone_B.base.111.png
+wall/flagstone/flagstone_C.base.111.png
+wall/flagstone/flagstone_D.base.111.png
+wall/flagstone/flagstone_E.base.111.png
+wall/flagstone/flagstone_F.base.111.png
+wall/flagstone/flagstone_win1.base.111.png
+Rick Tanner 2020-08-27
+
 Add background color behind the sign name on the Fantasy Armour store.
 shop/store_armo_fant.base.x11.png
 Rick Tanner 2020-08-24
