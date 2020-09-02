@@ -1,3 +1,32 @@
+New face for demon gate -- it actually looks like a gate now.
+And it is animated.
+Moved old image to classic tileset, and repeated it so it overrides all the faces of the animation.
+monster/demon/devil_gen.arc
+monster/demon/devil_gen.face
+monster/demon/devil_gen.base.111.png
+monster/demon/devil_gen.base.112.png
+monster/demon/devil_gen.base.113.png
+monster/demon/devil_gen.base.114.png
+monster/demon/devil_gen.base.115.png
+monster/demon/devil_gen.base.116.png
+monster/demon/devil_gen.base.117.png
+monster/demon/devil_gen.base.118.png
+monster/demon/devil_gen.clsc.111.png
+monster/demon/devil_gen.clsc.112.png
+monster/demon/devil_gen.clsc.113.png
+monster/demon/devil_gen.clsc.114.png
+monster/demon/devil_gen.clsc.115.png
+monster/demon/devil_gen.clsc.116.png
+monster/demon/devil_gen.clsc.117.png
+monster/demon/devil_gen.clsc.118.png
+Daniel Hawkins 2020-09-02
+
+New spell -- Searing Weapon
+Appears in spellbooks only at this point.
+spell/Spellbook/pyro_book.trs
+spell/Change_Ability/spell_searing_weapon.arc
+spell/Change_Ability/spell_searing_weapon.base.111.png
+Daniel Hawkins 2020-08-30
 
 Clean up pixelation on the flagstone wall sections
 Redesign of flagstone_0.base.111.png
