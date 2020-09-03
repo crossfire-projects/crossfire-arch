@@ -21,13 +21,6 @@ monster/demon/devil_gen.clsc.117.png
 monster/demon/devil_gen.clsc.118.png
 Daniel Hawkins 2020-09-02
 
-New spell -- Searing Weapon
-Appears in spellbooks only at this point.
-spell/Spellbook/pyro_book.trs
-spell/Change_Ability/spell_searing_weapon.arc
-spell/Change_Ability/spell_searing_weapon.base.111.png
-Daniel Hawkins 2020-08-30
-
 Clean up pixelation on the flagstone wall sections
 Redesign of flagstone_0.base.111.png
 wall/flagstone/flagstone_0.base.111.png
