@@ -1,3 +1,10 @@
+New spell -- Searing Weapon
+Appears in spellbooks only at this point.
+spell/Spellbook/pyro_book.trs
+spell/Change_Ability/spell_searing_weapon.arc
+spell/Change_Ability/spell_searing_weapon.base.111.png
+Daniel Hawkins 2020-09-03
+
 New face for demon gate -- it actually looks like a gate now.
 And it is animated.
 Moved old image to classic tileset, and repeated it so it overrides all the faces of the animation.

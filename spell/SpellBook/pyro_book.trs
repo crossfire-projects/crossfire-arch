@@ -25,6 +25,9 @@ treasureone pyro_book_low
   more
   arch spell_large_fireball
     chance 2
+  more
+  arch spell_searing_weapon
+    chance 4
 end
 
 treasureone pyro_book_medium
