@@ -9,6 +9,7 @@ material 4
 dam 1
 weight 50
 value 1
+identified 1
 attacktype 1
 weapontype 8
 client_type 611
@@ -27,6 +28,7 @@ material 4
 dam 1
 weight 500
 value 1
+identified 1
 attacktype 1
 weapontype 8
 client_type 611
@@ -45,6 +47,7 @@ material 4
 dam 1
 weight 1000
 value 3
+identified 1
 attacktype 1
 weapontype 8
 client_type 611
@@ -64,6 +67,7 @@ dam 1
 weight 600
 value 3
 attacktype 1
+identified 1
 weapontype 8
 client_type 611
 body_arm -1
@@ -81,6 +85,7 @@ material 4
 dam 1
 weight 700
 value 3
+identified 1
 attacktype 1
 weapontype 8
 client_type 611
@@ -99,6 +104,7 @@ material 4
 dam 1
 weight 700
 value 3
+identified 1
 attacktype 1
 weapontype 8
 client_type 611
@@ -117,6 +123,7 @@ material 4
 dam 1
 weight 70
 value 3
+identified 1
 attacktype 1
 weapontype 8
 client_type 611
@@ -135,6 +142,7 @@ material 1
 dam -5
 weight 25
 value 1
+identified 1
 attacktype 1
 weapontype 8
 client_type 611

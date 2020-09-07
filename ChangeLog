@@ -1,3 +1,8 @@
+Prevent xp shenanigans with dip command by making empty containers be identified.
+Did all of them, rather than just empty water bottles, for consistency and future-proofing.
+potion/emptybottles.arc
+Daniel Hawkins
+
 New spell -- Searing Weapon
 Appears in spellbooks only at this point.
 spell/Spellbook/pyro_book.trs
