@@ -1,7 +1,23 @@
+New items -- armor of lead
+This is intented to be craftable with smithery for moderate acid resistance.
+Presumably, one could craft a full set of leaden armor for good acid protection,
+but it would be heavy and give poor protection for everything else.
+armour/shield/lead_shield.arc
+armour/shield/lead_shield.base.111.png
+armour/shield/lead_shield.face
+armour/mail/lead_scale_mail.arc
+armour/mail/lead_scale_mail.base.111.png
+armour/mail/lead_scale_mail.face
+armour/helmet/lead_fullhelmet.arc
+armour/helmet/lead_fullhelmet.base.111.png
+armour/helmet/lead_fullhelmet.face
+formulae
+Daniel Hawkins 2020-09-07
+
 Prevent xp shenanigans with dip command by making empty containers be identified.
 Did all of them, rather than just empty water bottles, for consistency and future-proofing.
 potion/emptybottles.arc
-Daniel Hawkins
+Daniel Hawkins 2020-09-07
 
 New spell -- Searing Weapon
 Appears in spellbooks only at this point.
