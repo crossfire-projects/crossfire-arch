@@ -1,3 +1,16 @@
+Repurpose existing unused mountain dwarf face as custom racial class face
+for dwarf barbarians. Requires r21357 to appear, otherwise does nothing,
+player/race/dwarf_player_class_barbarian.base.111.png
+player/race/dwarf_player_class_barbarian.base.112.png
+player/race/dwarf_player_class_barbarian.base.131.png
+player/race/dwarf_player_class_barbarian.base.132.png
+player/race/dwarf_player_class_barbarian.base.151.png
+player/race/dwarf_player_class_barbarian.base.152.png
+player/race/dwarf_player_class_barbarian.base.171.png
+player/race/dwarf_player_class_barbarian.base.172.png
+player/race/dwarf_player_class_barbarian.face
+Daniel Hawkins 2020-09-08
+
 New items -- armor of lead
 This is intented to be craftable with smithery for moderate acid resistance.
 Presumably, one could craft a full set of leaden armor for good acid protection,
