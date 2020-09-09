@@ -1,6 +1,4 @@
 Object mining_pick
-harvest_race mountain_rubble
-harvest_tool pickaxe
 skill mining
 name pickaxe
 name_pl pickaxes

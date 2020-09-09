@@ -61,7 +61,7 @@ food 1
 sp 10
 type 103
 no_pick 1
-face gold_converter.111
+face gold_converter2.111
 move_on walk
 end
 Object platinum_converter
