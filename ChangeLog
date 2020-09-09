@@ -1,3 +1,10 @@
+Fix a couple creatures missing full race options.
+Faerie dragons are both faeries and dragons.
+Balrogs are demons and Balrogs, so ring of Mithrandir fully works.
+monster/dragon/fae_drag.arc
+monster/demon/Balrog.arc
+Daniel Hawkins 2020-09-09
+
 Repurpose existing unused mountain dwarf face as custom racial class face
 for dwarf barbarians. Requires r21357 to appear, otherwise does nothing,
 player/race/dwarf_player_class_barbarian.base.111.png
