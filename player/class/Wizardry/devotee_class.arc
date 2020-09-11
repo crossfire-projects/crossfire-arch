@@ -14,7 +14,9 @@ Wis 2
 Pow 2
 Cha 1
 msg
-Devotee
+Skills: 1H Weapons, Praying, Evocation
+Items: dagger, robe, prayerbook, 2 spellbooks
+---
 The axis of your existence is your devotion to your god, but you've also been busy in other areas.
 Your sensitivity to godly powers has also caused your natural magical ability to bloom, and your religious order has encouraged your study.
 Your religious superiors have forced you to learn weaponry against your choice, but you will find that they were wise to do so.  You haven't trained as assiduously as you should have, so you are soft and weak.

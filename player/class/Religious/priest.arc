@@ -15,6 +15,9 @@ Wis 3
 Pow 2
 Cha 2
 msg
+Skills: 1H Weapons, 2H Weapons, Praying, Sense Curse
+Items: quarterstaff, robe, amulet, 2 prayerbooks
+---
 As a priest, you've learned an intense devotion to your god, and you've learned how to channel the energies your god vouchsafes to his devotees.
 You've been taught the use of weapons, but only cursorily, and your physical training has been lacking in general.
 Since you're in tune with the holy powers, you can tell when a god has marked an object as accursed.

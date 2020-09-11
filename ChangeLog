@@ -1,3 +1,20 @@
+Update all class descriptions with crunch headers.
+This adds headers to all class descriptions, similar to the race headers,
+explaining what starting equipment and special abilities each class confers.
+Note that due to a bug in the server most caster classes only get 1 spellbook
+no matter what the treasurelist says; I've written descriptions based on the
+treasurelist rather than the current behaviour in the expectation that the bug
+will be fixed in the server soon.
+player/class/**.arc
+Rebecca Kelly 2020-09-10
+
+Update all race descriptions.
+This cleans up the header at the start of each race description to remove "dead"
+lines (e.g. "Special: None") and hopefully make it a bit more readable overall
+(e.g. starting items are now "Item:" rather than "Special:")
+player/race/**.arc
+Rebecca Kelly 2020-09-10
+
 Remove Use Magic Item from Barbarian and replace it with Punching
 Barbarians lacking Punching is likely an oversight stemming from the fact that
 they don't get the basic_skills package. Lacking UMI means that they won't be

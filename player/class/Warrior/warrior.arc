@@ -14,6 +14,9 @@ Int -2
 Wis -1
 Pow -1
 msg
+Skills: 1H Weapons, 2H Weapons, Ranged Weapons
+Items: sword, shield, medium armour, sack
+---
 As a Warrior you've been trained in the art of combat with weapons and in archery.
 Because of your training, you're stronger, more agile, and hardier than you would be otherwise.
 Your education, however, has not included studies in the magical arts or religious devotion, and, in general, lacks breadth.

@@ -15,8 +15,11 @@ Wis -1
 Pow -1
 Cha -3
 msg
-Trained to be a thief from a young age, you've learned to steal and you're familiar with the value a fence will give you on your "finds".
-You've had some weaponry training, including archery; this being advisable to someone who is likely to have acrimonious disagreements about the ownership of valuable objects.
+Skills: 1H Weapons, 2H Weapons, Ranged Weapons, Bargaining, Stealing
+Items: sword, cloak, light armor, lockpicks, sack
+---
+Trained as a thief from a young age, you've learned both to steal, and to assess how much a fence will give you for your "finds".
+You've had some weaponry training, including archery, this being advisable to someone who is likely to have acrimonious disagreements about the ownership of valuable objects.
 You've had no time for either religious devotion or the study of magecraft, but your quick wits have been enough to keep you alive so far.
 endmsg
 end
