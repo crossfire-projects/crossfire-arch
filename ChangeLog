@@ -1,3 +1,16 @@
+Remove Use Magic Item from Barbarian and replace it with Punching
+Barbarians lacking Punching is likely an oversight stemming from the fact that
+they don't get the basic_skills package. Lacking UMI means that they won't be
+able to use wands, horns, powders, and most other limited-use magic items;
+potions and magic equipment are still usable, though.
+This also splits the player skill packages into their own trs file and gives
+them a bit of additional documentation.
+player/class/Warrior/barbarian.arc
+player/class/Warrior/barbarian.trs
+player/player_skills.trs
+treasures.trs
+Rebecca Kelly 2020-09-10
+
 Fix Alchemist spell school and Alchemy spell description
 The Alchemist was assigned the Sorcery school (and given Sorcery and Evocation
 spellbooks) despite the fact that Alchemy is a Summoning spell. This may have

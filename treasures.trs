@@ -38,7 +38,7 @@ end
 #
 ##############################################################
 #
-# BODY PARTS - 
+# BODY PARTS -
 #
 # human/man-sized body parts
 treasureone human_parts
@@ -88,7 +88,7 @@ treasure door
 end
 #
 # skill scrolls
-# better scrolls are harder to find 
+# better scrolls are harder to find
 # ordered by skill names
 treasureone random_knowledge
   arch scroll_alchemy
@@ -117,8 +117,8 @@ treasureone random_knowledge
   arch scroll_hiding
     chance 9
   more
-#   the inscription skill is only available as a pen  
-  arch stylus	
+#   the inscription skill is only available as a pen
+  arch stylus
     chance 10
   more
   arch scroll_jewelry
@@ -1274,7 +1274,7 @@ treasureone uncommon_weapons
     magic 3
     chance 5
   end
-# uncommon artifacts 
+# uncommon artifacts
 treasureone uncommon_artifacts
   arch potion_shielding
     chance 5
@@ -1777,8 +1777,8 @@ treasure poor
     chance 20
   end
 # I switched the names to '_old' -- these lists
-# are just the way standard/rich were before we 
-# started adding bodyparts to the treasure mix. 
+# are just the way standard/rich were before we
+# started adding bodyparts to the treasure mix.
 # -b.t.
 treasure standard_old
   arch bow
@@ -2008,54 +2008,12 @@ treasure throw_rich
   more
   list rich
   end
-##############################################################################
-# start of starting equipment for players.
-#
-# All players will start with these skills
-# -- only skills critical to being able to
-# play should go here. -b.t.
-treasure basic_skills
-  arch skill_throwing
-  more
-  arch skill_find_traps
-  more
-  arch skill_remove_trap
-  more
-  arch skill_use_magic_item
-  more
-  arch skill_literacy
-  more
-  arch skill_punching
-  end
-# basic set for fighter players
-treasure fighter_skills
-  arch skill_one_handed_weapon
-  more
-  arch skill_two_handed_weapon
-  more
-  arch skill_missile_weapon
-  more
-  list basic_skills
-  end
-# basic set for talisman spellcasting players
 treasure mage_skills
   arch talisman_sorcery
-  end
-# basic set for multi-spellcasting players
-# Note that removed the spell skill form here,
-# since many things should start with this package,
-# but spell might be different.
-treasure wizard_skills
-  arch skill_one_handed_weapon
-  more
-  arch skill_praying
-  more
-  list basic_skills
   end
 treasure prayer_skills
   arch skill_praying
   end
-#
 treasure monk
   list basic_skills
   more
@@ -2108,7 +2066,7 @@ treasure human
 treasure ninja
   list fighter_skills
   more
-  arch skill_jumping 
+  arch skill_jumping
   more
   arch skill_hide
   more
