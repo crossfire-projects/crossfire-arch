@@ -1,3 +1,30 @@
+Fix Alchemist spell school and Alchemy spell description
+The Alchemist was assigned the Sorcery school (and given Sorcery and Evocation
+spellbooks) despite the fact that Alchemy is a Summoning spell. This may have
+stemmed from the fact that the Alchemy spell description consistently refers to
+it as a Sorcery spell.
+The Alchemist is given a summoning talisman and one summoning book (in addition
+to starting with the Alchemy spell pre-learned) and the description of the spell
+is updated.
+player/class/Wizardry/alchemist.arc
+player/class/Wizardry/alchemist.trs
+spell/Misc/spell_alchemy.arc
+Rebecca Kelly 2020-09-10
+
+Remove unintended abilities from Fenx race.
+The Fenx were never meant to have slow HP, fast SP, slow digestion, or
+darkvision; this appears to be an accidental copy-paste from Elf.
+player/race/fenx.arc
+player/race/fenx.trs
+Rebecca Kelly 2020-09-10
+
+Delete duplicate Mage class.
+This is identical in every respect (including face) to Warlock.
+Requires maps r21362 or the Hall of Selection will malfunction.
+player/class/Warrior/mage.arc
+player/class/Warrior/mage_class.face
+Rebecca Kelly 2020-09-10
+
 Fix a couple creatures missing full race options.
 Faerie dragons are both faeries and dragons.
 Balrogs are demons and Balrogs, so ring of Mithrandir fully works.

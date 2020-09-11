@@ -31,5 +31,5 @@ material 12
 path_attuned 16896
 client_type 451
 body_skill -1
-skill sorcery
+skill summoning
 end
