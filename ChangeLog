@@ -1,3 +1,10 @@
+Make the trident imagery less bright, using the W3C green rather than XPM green.
+This put the green hue at half the previous brightness.
+Move the bright green trident to the classic image set.
+weapon/misc/trident.base.*.png
+weapon/misc/trident.clsc.*.png
+Daniel Hawkins 2020-09-14
+
 Update all class descriptions with crunch headers.
 This adds headers to all class descriptions, similar to the race headers,
 explaining what starting equipment and special abilities each class confers.
