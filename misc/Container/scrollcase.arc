@@ -10,6 +10,7 @@ weight 500
 container 7000
 Str 10
 identified 1
+client_type 56
 end
 Object close_scrollcase
 name close the scroll case

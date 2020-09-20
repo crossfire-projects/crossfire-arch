@@ -473,6 +473,16 @@ skill smithery
 cauldron forge
 ingred 2 bronze bar
 #
+# lead scale mail
+Object NONE
+arch lead_scale_mail
+chance 2
+diff 4
+exp 800
+skill smithery
+cauldron forge
+ingred leather,2 lead bar
+#
 # iron small shield
 Object NONE
 arch small_shield
@@ -502,6 +512,27 @@ exp 2000
 skill smithery
 cauldron forge
 ingred 2 iron bar,2 leather strip
+#
+# lead shield
+Object NONE
+arch lead_shield
+chance 2
+# Lead is super soft, so its easy to get it to shape how you want
+diff 3
+exp 500
+skill smithery
+cauldron forge
+ingred 3 lead bar,2 leather strip
+#
+# lead full helmet
+Object NONE
+arch lead_full_helmet
+chance 2
+diff 3
+exp 500
+skill smithery
+cauldron forge
+ingred 2 lead bar
 #
 # ----------------
 # Tanning
