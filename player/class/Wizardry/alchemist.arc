@@ -14,6 +14,11 @@ Int 3
 Wis 0
 Pow 1
 msg
+Skills: 1H Weapons, Alchemy, Thaumaturgy
+Items: dagger, robe, summoning talisman, spellbook, cauldron
+Special: start with Alchemy spell
+Attuned: detonation, transmutation (talisman)
+---
 Your specialty is magical devices and concoctions, but you've also had some training in weaponry, so that you could fend off townsfolk angered by the vile reeks that frequently emanate from your workshop.
 Searching for the ultimate recipe and trying to recover lost knowledge has sharpened your wits considerably.
 Your focus, however, has left little time for physical training, and your sedentary lifestyle has weakened you.
@@ -31,5 +36,5 @@ material 12
 path_attuned 16896
 client_type 451
 body_skill -1
-skill sorcery
+skill summoning
 end

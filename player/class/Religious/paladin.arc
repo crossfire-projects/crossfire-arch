@@ -15,6 +15,10 @@ Wis 2
 Pow 1
 Cha 1
 msg
+Skills: 1H Weapons, 2H Weapons, Ranged Weapons, Oratory
+Items: sword, shield, heavy armor, prayerbook, holy symbol
+Special: resist magic +30
+---
 You are a militant priest, with an emphasis on 'priest'.
 You've been taught archery and the use of weapons, but great care has been taken that you're doctrinally correct.  Now you've been sent out in the world to convert the unrighteous and destroy the enemies of the faith.  Your churchmembers have been charged a pretty penny to equip you for the job!
 All other areas of your education have been neglected.  Perhaps aware of your deficiency, your superiors have given you some measure of protection from magic.

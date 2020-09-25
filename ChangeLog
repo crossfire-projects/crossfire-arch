@@ -1,3 +1,137 @@
+Make the trident imagery less bright, using the W3C green rather than XPM green.
+This put the green hue at half the previous brightness.
+Move the bright green trident to the classic image set.
+weapon/misc/trident.base.*.png
+weapon/misc/trident.clsc.*.png
+Daniel Hawkins 2020-09-14
+
+Update all class descriptions with crunch headers.
+This adds headers to all class descriptions, similar to the race headers,
+explaining what starting equipment and special abilities each class confers.
+Note that due to a bug in the server most caster classes only get 1 spellbook
+no matter what the treasurelist says; I've written descriptions based on the
+treasurelist rather than the current behaviour in the expectation that the bug
+will be fixed in the server soon.
+player/class/**.arc
+Rebecca Kelly 2020-09-10
+
+Update all race descriptions.
+This cleans up the header at the start of each race description to remove "dead"
+lines (e.g. "Special: None") and hopefully make it a bit more readable overall
+(e.g. starting items are now "Item:" rather than "Special:")
+player/race/**.arc
+Rebecca Kelly 2020-09-10
+
+Remove Use Magic Item from Barbarian and replace it with Punching
+Barbarians lacking Punching is likely an oversight stemming from the fact that
+they don't get the basic_skills package. Lacking UMI means that they won't be
+able to use wands, horns, powders, and most other limited-use magic items;
+potions and magic equipment are still usable, though.
+This also splits the player skill packages into their own trs file and gives
+them a bit of additional documentation.
+player/class/Warrior/barbarian.arc
+player/class/Warrior/barbarian.trs
+player/player_skills.trs
+treasures.trs
+Rebecca Kelly 2020-09-10
+
+Fix Alchemist spell school and Alchemy spell description
+The Alchemist was assigned the Sorcery school (and given Sorcery and Evocation
+spellbooks) despite the fact that Alchemy is a Summoning spell. This may have
+stemmed from the fact that the Alchemy spell description consistently refers to
+it as a Sorcery spell.
+The Alchemist is given a summoning talisman and one summoning book (in addition
+to starting with the Alchemy spell pre-learned) and the description of the spell
+is updated.
+player/class/Wizardry/alchemist.arc
+player/class/Wizardry/alchemist.trs
+spell/Misc/spell_alchemy.arc
+Rebecca Kelly 2020-09-10
+
+Remove unintended abilities from Fenx race.
+The Fenx were never meant to have slow HP, fast SP, slow digestion, or
+darkvision; this appears to be an accidental copy-paste from Elf.
+player/race/fenx.arc
+player/race/fenx.trs
+Rebecca Kelly 2020-09-10
+
+Delete duplicate Mage class.
+This is identical in every respect (including face) to Warlock.
+Requires maps r21362 or the Hall of Selection will malfunction.
+player/class/Warrior/mage.arc
+player/class/Warrior/mage_class.face
+Rebecca Kelly 2020-09-10
+
+Fix a couple creatures missing full race options.
+Faerie dragons are both faeries and dragons.
+Balrogs are demons and Balrogs, so ring of Mithrandir fully works.
+monster/dragon/fae_drag.arc
+monster/demon/Balrog.arc
+Daniel Hawkins 2020-09-09
+
+Repurpose existing unused mountain dwarf face as custom racial class face
+for dwarf barbarians. Requires r21357 to appear, otherwise does nothing,
+player/race/dwarf_player_class_barbarian.base.111.png
+player/race/dwarf_player_class_barbarian.base.112.png
+player/race/dwarf_player_class_barbarian.base.131.png
+player/race/dwarf_player_class_barbarian.base.132.png
+player/race/dwarf_player_class_barbarian.base.151.png
+player/race/dwarf_player_class_barbarian.base.152.png
+player/race/dwarf_player_class_barbarian.base.171.png
+player/race/dwarf_player_class_barbarian.base.172.png
+player/race/dwarf_player_class_barbarian.face
+Daniel Hawkins 2020-09-08
+
+New items -- armor of lead
+This is intented to be craftable with smithery for moderate acid resistance.
+Presumably, one could craft a full set of leaden armor for good acid protection,
+but it would be heavy and give poor protection for everything else.
+armour/shield/lead_shield.arc
+armour/shield/lead_shield.base.111.png
+armour/shield/lead_shield.face
+armour/mail/lead_scale_mail.arc
+armour/mail/lead_scale_mail.base.111.png
+armour/mail/lead_scale_mail.face
+armour/helmet/lead_fullhelmet.arc
+armour/helmet/lead_fullhelmet.base.111.png
+armour/helmet/lead_fullhelmet.face
+formulae
+Daniel Hawkins 2020-09-07
+
+Prevent xp shenanigans with dip command by making empty containers be identified.
+Did all of them, rather than just empty water bottles, for consistency and future-proofing.
+potion/emptybottles.arc
+Daniel Hawkins 2020-09-07
+
+New spell -- Searing Weapon
+Appears in spellbooks only at this point.
+spell/Spellbook/pyro_book.trs
+spell/Change_Ability/spell_searing_weapon.arc
+spell/Change_Ability/spell_searing_weapon.base.111.png
+Daniel Hawkins 2020-09-03
+
+New face for demon gate -- it actually looks like a gate now.
+And it is animated.
+Moved old image to classic tileset, and repeated it so it overrides all the faces of the animation.
+monster/demon/devil_gen.arc
+monster/demon/devil_gen.face
+monster/demon/devil_gen.base.111.png
+monster/demon/devil_gen.base.112.png
+monster/demon/devil_gen.base.113.png
+monster/demon/devil_gen.base.114.png
+monster/demon/devil_gen.base.115.png
+monster/demon/devil_gen.base.116.png
+monster/demon/devil_gen.base.117.png
+monster/demon/devil_gen.base.118.png
+monster/demon/devil_gen.clsc.111.png
+monster/demon/devil_gen.clsc.112.png
+monster/demon/devil_gen.clsc.113.png
+monster/demon/devil_gen.clsc.114.png
+monster/demon/devil_gen.clsc.115.png
+monster/demon/devil_gen.clsc.116.png
+monster/demon/devil_gen.clsc.117.png
+monster/demon/devil_gen.clsc.118.png
+Daniel Hawkins 2020-09-02
 
 Clean up pixelation on the flagstone wall sections
 Redesign of flagstone_0.base.111.png
