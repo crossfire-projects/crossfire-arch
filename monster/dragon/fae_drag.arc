@@ -1,5 +1,5 @@
 Object faerie_dragon
-race faerie,dragon
+race faerie
 name faerie dragon
 randomitems wyvern
 face fae_drag.171

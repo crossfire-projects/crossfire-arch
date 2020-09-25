@@ -1,4 +1,6 @@
 treasure fenx_player_items
+  arch fenx_player_force
+  more
   arch bow
   more
   arch arrow

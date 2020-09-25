@@ -15,10 +15,7 @@ Wis -2
 Pow -2
 Cha -1
 msg
-Skills: Karate, 1H Weapons, 2H Weapons, Ranged Weapons, Hiding, Jumping
-Items: nunchaku, light armor, cloak, bag
----
-As a member of the secret society of the Ninja, you've been taught archery, the use of weapons, and also the art of combat without weapons.  Your style of combat favours sneak attacks, so you've been taught how to be inconspicuous and to appear in places you're not expected.
+As a member of the secret society of the Ninja, you've been taught archery, the use of weapons, and also the art of combat without weapons.  Your style of combat, leans very much toward the sneak attack, so you've been taught how to be inconspicuous and to appear in places you're not expected.
 You have had no introduction to either religious devotion or magic.
 endmsg
 end

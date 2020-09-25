@@ -1,7 +1,7 @@
 Object Balrog
 name Balrog
 randomitems Balrog
-race demon,Balrog
+race demon
 face jessyb.x11
 animation jessyb
 attacktype 1029

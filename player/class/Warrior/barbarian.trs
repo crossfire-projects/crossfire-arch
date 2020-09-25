@@ -1,7 +1,3 @@
-# Class items for the Barbarian. Note that all skills from the "basic package"
-# (except Literacy and Use Magic Item) are replicated here, in order to let
-# Barbarians start without them. Don't forget to update this file as needed if
-# you change player_skills.trs!
 treasure barbarian_class_items
   arch skill_one_handed_weapon
   more
@@ -15,7 +11,7 @@ treasure barbarian_class_items
   more
   arch skill_remove_trap
   more
-  arch skill_punching
+  arch skill_use_magic_item
   more
   arch guide_melee
   more

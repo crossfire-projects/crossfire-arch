@@ -4,13 +4,11 @@ other_arch devil
 name demon gate
 generator 1
 face devil_gen.111
-animation devil_gen
 hp 400
 maxhp 400
 exp 180
 ac 7
 speed 0.01
-anim_speed 3
 resist_fire 100
 resist_cold -100
 resist_confusion -100

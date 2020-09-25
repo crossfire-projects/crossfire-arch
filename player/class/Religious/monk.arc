@@ -14,10 +14,6 @@ Con 1
 Wis 1
 Int -1
 msg
-Skills: Karate, Missile Weapons, Prayer, Sense Magic, Sense Curse, Meditation
-Items: robe, sandals, rucksack
-Special: cannot wield weapons
----
 In the Monastery, they believed in mental discipline and peace through physical training, meditation, and, to a lesser extent, religious devotion.
 Your mental equilibrium requires you to forego the use of weapons, but your physical training in karate means you're not helpless.
 Your inner peace grants you the ability to regenerate faster and to sense metaphysical auras.
