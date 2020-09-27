@@ -7,4 +7,5 @@ type 72
 # troll hide is heavy (25% weight vs. 20%)
 weight 25
 value 300
+client_type 623
 end

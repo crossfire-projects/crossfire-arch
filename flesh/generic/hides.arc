@@ -11,6 +11,7 @@ material 32
 type 72
 weight 20
 value 300
+client_type 623
 end
 
 # Brown
@@ -22,6 +23,7 @@ material 32
 type 72
 weight 20
 value 300
+client_type 623
 end
 
 # Gray
@@ -33,6 +35,7 @@ material 32
 type 72
 weight 20
 value 300
+client_type 623
 end
 
 # White
@@ -44,4 +47,5 @@ material 32
 type 72
 weight 20
 value 300
+client_type 623
 end
