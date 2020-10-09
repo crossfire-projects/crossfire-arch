@@ -3524,7 +3524,7 @@ ingred talisman of evocation,3 figurine of a clenched hand,3 balm of return home
 #
 # exp is maybe high, but demon's icor can't be stored, and messenger's head are rare,
 # so that should be ok
-# chance is 0 because this recipe is given as a quest reward
+# chance is 0 because this recipe is given as a quest reward
 Object NONE
 arch holy_symbol
 chance 0
@@ -3744,6 +3744,16 @@ ingred apple fourth
 chance 0
 combination 1
 tool slicingknife,b_slicingknife
+#
+# Filing metals into a powder
+Object NONE
+arch silver_filings
+yield 1000
+ingred silver bar
+chance 0
+combination 1
+tool file
+
 #
 # gem combos
 Object NONE
