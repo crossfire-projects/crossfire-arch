@@ -1,3 +1,11 @@
+Add crafting tool "file".
+Can be used to powderize metal bars (well, that's the plan anyway).
+crafting/Tools/file.arc
+crafting/Tools/file.base.111.png
+crafting/Tools/file.face
+crafting/README
+Daniel Hawkins 2020-10-09
+
 Add artifact entry for silvered weapons.
 Ensure it is restricted to stabbing and slicing weapons, since bludgeoning with
 silver doesn't seem like it would make much difference.
