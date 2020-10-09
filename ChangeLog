@@ -1,3 +1,9 @@
+Add artifact entry for silvered weapons.
+Ensure it is restricted to stabbing and slicing weapons, since bludgeoning with
+silver doesn't seem like it would make much difference.
+artifacts
+Daniel Hawkins 2020-10-09
+
 Make the trident imagery less bright, using the W3C green rather than XPM green.
 This put the green hue at half the previous brightness.
 Move the bright green trident to the classic image set.
