@@ -1713,8 +1713,11 @@ treasureone uncommon_items
   arch lockpicks
     chance 5
   more
+  arch file
+    chance 3
+  more
   list NONE
-    chance 25
+    chance 24
   end
 treasure poor_old
   arch bow
