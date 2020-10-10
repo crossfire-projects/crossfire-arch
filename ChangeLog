@@ -1,3 +1,10 @@
+Make aggravation a castable spell, and give it level-scaling
+The code to prevent charm monsters abuse
+from like 2010 appears to have caused the lvl 1
+aggravation horns to be essentially useless.
+spell/MoodChange/spell_aggravation.arc
+Daniel Hawkins 2020-10-10
+
 Add the file as a random drop.
 treasures.trs
 Daniel Hawkins 2020-10-09
@@ -399,7 +406,7 @@ Rick Tanner 2017-03-25
 
 Patch #270 New Items - 6 different items
 * Patch accepted with changes as summarized in the patch entry
-at Sourceforge. Basically, changes for clarity and removed 
+at Sourceforge. Basically, changes for clarity and removed
 duplicate and conflicting item properties identified by
 Gridarta for Crossfire
 armour/helmet/bone_helm.arc
@@ -416,7 +423,7 @@ weapon/sword/giants_knife.arc
 weapon/sword/giants_knife.base.111.png
 Rick Tanner 2017-03-19
 
-Patch #267 New Items - 7 different items 
+Patch #267 New Items - 7 different items
 * Changed attacktype of the Order Sword to remove GodPower, now uses
 Magic, Physical and WeaponMagic instead
 * Changed attacketype of Bloodreaver Axe to remove GodPower and disease
@@ -608,11 +615,11 @@ random/randomTrea.arc
 random/randomWeal.arc
 random/randomWeap.arc
 random/random_ore.arc
-random/random_tree.arc 
+random/random_tree.arc
 RJT 2014-09-08
 
 New graphic and face for random_ore tile, it was using the same
-face as random_mineral before. 
+face as random_mineral before.
 random/randomOre.base.111.png
 random/randomOre.face
 random/random_ore.arc
@@ -1215,7 +1222,7 @@ construct/town/dragon_guild.base.x11.png
 RJT 2012-09-21
 
 New Graphic and archetype for West Guild building and West Guild Storage building.
-Based on existing guild graphics but with a sign or banner on the front. 
+Based on existing guild graphics but with a sign or banner on the front.
 construct/town/guild2storage_west.base.x11.png
 construct/town/guild2storage_west.arc
 construct/town/guild2_west.arc
