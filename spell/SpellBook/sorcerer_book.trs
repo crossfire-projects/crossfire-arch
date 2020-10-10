@@ -55,6 +55,9 @@ treasureone sorcery_book_low
   more
   arch spell_transference
     chance 1
+  more
+  arch spell_aggravation
+    chance 2
 end
 
 treasureone sorcery_book_medium

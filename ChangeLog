@@ -3,7 +3,9 @@ The code to prevent charm monsters abuse
 from like 2010 appears to have caused the lvl 1
 aggravation horns to be essentially useless.
 Also, make the horns that spawn w/ aggravation have reasonable levels.
+Add the aggravation spell to the random spell list for sorcery.
 spell/MoodChange/spell_aggravation.arc
+spell/SpellBook/sorcerer_book.trs
 artifacts
 Daniel Hawkins 2020-10-10
 
