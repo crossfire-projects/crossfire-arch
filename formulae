@@ -448,6 +448,325 @@ skill smithery
 cauldron forge
 ingred 2 steel bar,brass bar
 #
+# ----------------
+# Silvered weapons
+# ----------------
+# It takes a different amount of silver filings depending on the weapon
+# so these all get to be defined seperately
+# The more silver a weapon requires, the higher the difficulty to not mess up the weapon.
+# Swords are estimated as 1% of weapon weight in added silver.
+# Non-swords estimate the amount of weight that is contributed by the sharp parts and use that
+#
+#
+# shortsword
+Object Silvered Edge
+arch shortsword,shortsword_2
+chance 1
+diff 35
+exp 10000
+trans 1
+skill smithery
+cauldron forge
+ingred shortsword,10 silver filings
+#
+# broadsword
+Object Silvered Edge
+arch broadsword
+chance 1
+diff 40
+exp 12000
+trans 1
+skill smithery
+cauldron forge
+ingred broadsword,20 silver filings
+#
+# dagger
+Object Silvered Edge
+arch dagger
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred dagger,2 silver filings
+#
+# sword
+Object Silvered Edge
+arch sword_4
+chance 1
+diff 37
+exp 11000
+trans 1
+skill smithery
+cauldron forge
+ingred sword,15 silver filings
+#
+# long sword
+Object Silvered Edge
+arch sword,sword_2
+chance 1
+diff 37
+exp 11000
+trans 1
+skill smithery
+cauldron forge
+ingred long sword,15 silver filings
+#
+# two-handed sword
+Object Silvered Edge
+arch sword_3
+chance 1
+diff 45
+exp 16000
+trans 1
+skill smithery
+cauldron forge
+ingred two-handed sword,25 silver filings
+#
+# light sword
+Object Silvered Edge
+arch light_sword
+chance 1
+diff 36
+exp 10500
+trans 1
+skill smithery
+cauldron forge
+ingred light sword,12 silver filings
+#
+# katana
+Object Silvered Edge
+arch katana_1
+chance 1
+diff 36
+exp 10500
+trans 1
+skill smithery
+cauldron forge
+ingred katana,11 silver filings
+#
+# falchion
+Object Silvered Edge
+arch falchion
+chance 1
+diff 36
+exp 10500
+trans 1
+skill smithery
+cauldron forge
+ingred falchion,13 silver filings
+#
+# sabre
+Object Silvered Edge
+arch sabre
+chance 1
+diff 36
+exp 10500
+trans 1
+skill smithery
+cauldron forge
+ingred sabre,13 silver filings
+#
+# scimitar
+Object Silvered Edge
+arch scimitar
+chance 1
+diff 37
+exp 11000
+trans 1
+skill smithery
+cauldron forge
+ingred scimitar,15 silver filings
+#
+# rapier
+Object Silvered Edge
+arch rapier
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred rapier,10 silver filings
+#
+# sicklesword
+Object Silvered Edge
+arch sicklesword
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred sicklesword,9 silver filings
+#
+# Serpentman sword
+Object Silvered Edge
+arch serp_sword
+chance 1
+diff 33
+exp 10000
+trans 1
+skill smithery
+cauldron forge
+ingred Serpentman sword,3 silver filings
+#
+# throwing dagger
+Object Silvered Edge
+arch t_dagger
+chance 1
+diff 28
+exp 8000
+trans 1
+skill smithery
+cauldron forge
+ingred throwing dagger,2 silver filings
+#
+# kama
+Object Silvered Edge
+arch kama1,kama2
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred kama,4 silver filings
+#
+# long spear
+Object Silvered Edge
+arch lspear
+chance 1
+diff 25
+exp 5000
+trans 1
+skill smithery
+cauldron forge
+ingred long spear,silver filings
+#
+# poleaxe
+Object Silvered Edge
+arch poleaxe
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred poleaxe,8 silver filings
+#
+# sai
+Object Silvered Edge
+arch sai1,sai2
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred sai,2 silver filings
+#
+# scythe
+Object Silvered Edge
+arch scythe1
+chance 1
+diff 35
+exp 10000
+trans 1
+skill smithery
+cauldron forge
+ingred scythe,10 silver filings
+#
+# sickle
+Object Silvered Edge
+arch sickle1
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred sickle,8 silver filings
+#
+# spear
+Object Silvered Edge
+arch spear
+chance 1
+diff 25
+exp 5000
+trans 1
+skill smithery
+cauldron forge
+ingred spear,silver filings
+#
+# taifu
+Object Silvered Edge
+arch taifu_1
+chance 1
+diff 29
+exp 8500
+trans 1
+skill smithery
+cauldron forge
+ingred taifu,5 silver filings
+#
+# trident
+Object Silvered Edge
+arch trident
+chance 1
+diff 31
+exp 9200
+trans 1
+skill smithery
+cauldron forge
+ingred trident,9 silver filings
+#
+# throwing stars
+Object Silvered Edge
+arch t_star1
+chance 1
+diff 35
+exp 10000
+trans 1
+yield 3
+skill smithery
+cauldron forge
+ingred 3 throwing star,silver filings
+#
+# Battle Axe
+Object Silvered Edge
+arch battle_axe
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred Battle Axe,5 silver filings
+#
+# vicious axe
+Object Silvered Edge
+arch axe_5
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred vicious axe,6 silver filings
+#
+# axes
+Object Silvered Edge
+arch axe,axe_2,axe_3,axe_4
+chance 1
+diff 30
+exp 9000
+trans 1
+skill smithery
+cauldron forge
+ingred axe,5 silver filings
+#
 # -----------
 # Basic armor
 # -----------

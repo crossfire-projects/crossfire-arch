@@ -768,7 +768,7 @@ item_power 1
 last_sp 110
 end
 # Silvered Edge (meant to be primarily a crafted item, so its rarer than its power level indicates it should be)
-Allowed dagger,axe,axe_2,axe_3,axe_4,axe_5,battle_axe,sword,sword_2,sword_3,sword_4,sabre,rapier,scimitar,light_sword,katana_1,falchion,broadsword,broadsword_2,shortsword,shortsword_2,lspear,spear,poleaxe,taifu_1,trident,vlongsword,sicklesword,serp_sword,t_dagger,sickle1,t_star1,sai1,sai2,kama1,kama2
+Allowed dagger,axe,axe_2,axe_3,axe_4,axe_5,battle_axe,sword,sword_2,sword_3,sword_4,sabre,rapier,scimitar,light_sword,katana_1,falchion,broadsword,broadsword_2,shortsword,shortsword_2,lspear,spear,poleaxe,taifu_1,trident,vlongsword,sicklesword,serp_sword,t_dagger,sickle1,t_star1,sai1,sai2,kama1,kama2,scythe1
 chance 1
 difficulty 15
 Object Silvered Edge

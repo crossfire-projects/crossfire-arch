@@ -1,3 +1,18 @@
+Add formulae for crafting weapons of Silvered Edge
+from the newly-added silver filings.
+Also added scythe to the list of valid weapons to silver.
+formulae
+artifacts
+Daniel Hawkins 2020-10-09
+
+Add silver filings as the first item creatable from
+the nee file crafting tool.
+formulae
+crafting/Materials/silver_filings.arc
+crafting/Materials/silver_filings.base.111.png
+crafting/Materials/silver_filings.face
+Daniel Hawkins 2020-10-09
+
 Add crafting tool "file".
 Can be used to powderize metal bars (well, that's the plan anyway).
 crafting/Tools/file.arc
