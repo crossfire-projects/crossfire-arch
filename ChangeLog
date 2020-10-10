@@ -2,7 +2,9 @@ Make aggravation a castable spell, and give it level-scaling
 The code to prevent charm monsters abuse
 from like 2010 appears to have caused the lvl 1
 aggravation horns to be essentially useless.
+Also, make the horns that spawn w/ aggravation have reasonable levels.
 spell/MoodChange/spell_aggravation.arc
+artifacts
 Daniel Hawkins 2020-10-10
 
 Add the file as a random drop.

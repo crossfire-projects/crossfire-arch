@@ -2243,10 +2243,11 @@ chance 33
 Object Aggravation
 type 3
 other_arch spell_aggravation
-hp -10
-maxhp -10
+hp -30
+maxhp -30
 value 3
 cursed 1
+level -40
 animation_suffix aggravation
 end
 #
@@ -2255,11 +2256,12 @@ chance 20
 Object Fools
 type 3
 other_arch spell_aggravation
-hp -10
-maxhp -10
+hp -50
+maxhp -50
 value 5
 luck -2
 Int -2
+level -100
 damned 1
 animation_suffix fools
 end
