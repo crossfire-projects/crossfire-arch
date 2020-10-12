@@ -1,3 +1,11 @@
+Start to move crafting-specific materials out of misc and into crafting
+crafting/Materials/leathers.arc
+crafting/Materials/leather.face
+crafting/Materials/leather.base.111.png
+crafting/Materials/leather_black.base.111.png
+crafting/Materials/leather_white.base.111.png
+crafting/Materials/leather_strips.base.111.png
+
 Fix weirdness involving repeated races on dwarves.
 races
 Daniel Hawkins 2020-10-12
