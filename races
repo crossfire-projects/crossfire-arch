@@ -229,7 +229,7 @@ RACE chaos
   living_chaos
   chaos_witch
 RACE dwarf
-  gnome
+  !gnome
   dwarf
   @dwarf_player
   dwarf_priest
