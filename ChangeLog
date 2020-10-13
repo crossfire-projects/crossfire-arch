@@ -10,6 +10,7 @@ crafting/Tools/b_slicingknife.face
 crafting/Tools/slicingknife.arc
 crafting/Tools/slicingknife.base.111.png
 crafting/Tools/slicingknife.face
+crafting/Container/*
 Daniel Hawkins 2020-10-12
 
 Fix weirdness involving repeated races on dwarves.
