@@ -5,6 +5,12 @@ crafting/Materials/leather.base.111.png
 crafting/Materials/leather_black.base.111.png
 crafting/Materials/leather_white.base.111.png
 crafting/Materials/leather_strips.base.111.png
+crafting/Tools/b_slicingknife.base.111.png
+crafting/Tools/b_slicingknife.face
+crafting/Tools/slicingknife.arc
+crafting/Tools/slicingknife.base.111.png
+crafting/Tools/slicingknife.face
+Daniel Hawkins 2020-10-12
 
 Fix weirdness involving repeated races on dwarves.
 races
