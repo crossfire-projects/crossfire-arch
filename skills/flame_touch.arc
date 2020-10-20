@@ -14,4 +14,8 @@ exp 0
 level 100
 wc_increase_rate 4
 wc 1
+msg
+As a being of pure flame, merely touching your enemies is enough to burn them.
+Melee: A fire attack with +2 damage.
+endmsg
 end

@@ -1,3 +1,11 @@
+Add descriptions to all skill objects.
+This annotates each skill with flavour text and information about what the
+skill's passive, active, and crafting effects (if any) are.
+Note that this information is not actually visible in-game prior to server
+version r21515.
+skill/*.arc
+Rebecca Kelly 2020-10-20
+
 Start to move crafting-specific materials out of misc and into crafting
 crafting/Materials/leathers.arc
 crafting/Materials/leather.face

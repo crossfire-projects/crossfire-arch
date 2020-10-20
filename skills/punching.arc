@@ -12,4 +12,8 @@ level 100
 attacktype 1
 wc_increase_rate 4
 wc 1
+msg
+Punching is the simplest form of melee attack and requires no special training.
+Melee: A basic unarmed attack with no bonuses.
+endmsg
 end
