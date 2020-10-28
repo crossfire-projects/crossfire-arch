@@ -1,3 +1,7 @@
+Add subtype 2 to guide to Close Combat
+readable/guide/guide_melee.arc
+Daniel Hawkins 2020-10-28
+
 Add descriptions to all skill objects.
 This annotates each skill with flavour text and information about what the
 skill's passive, active, and crafting effects (if any) are.
