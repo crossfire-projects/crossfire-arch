@@ -14,4 +14,8 @@ level 100
 attacktype 1
 wc_increase_rate 4
 wc 1
+msg
+This martial arts style is usable even by those with claws or tentacles instead of hands, and is the acme of unarmed combat techniques.
+Melee: A physical attack with +4 damage.
+endmsg
 end

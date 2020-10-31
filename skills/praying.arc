@@ -10,4 +10,9 @@ body_skill -1
 exp 0
 level 100
 anim_suffix praying
+msg
+By praying you can request assistance from your god, building up a charge of divine energy which can then be expended to work miracles. If you are not sworn to any god, you can still pray to the small gods and nature spirits found everywhere in the world.
+Active: Pray to regain grace quickly.
+Passive (Wis): Allows the learning and casting of prayers.
+endmsg
 end

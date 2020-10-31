@@ -1,0 +1,5 @@
+This folder contains items that are intermediate products useful only to crafting and other crafting-specific items.
+
+Materials contains items that have no use outside crafting.
+Tools contains items that are used to make intermediary crafting items, like the slicing knife.
+Container contains the cauldron, forge, workbenches, etc.

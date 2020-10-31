@@ -8,4 +8,7 @@ subtype 28
 body_skill -1
 exp 100
 level 100
+msg
+(This skill is not implemented, and you should never see this message -- report this as a bug.)
+endmsg
 end

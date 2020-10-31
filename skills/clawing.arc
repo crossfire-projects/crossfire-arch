@@ -12,4 +12,8 @@ exp 0
 level 100
 wc_increase_rate 4
 wc 1
+msg
+Your razor-sharp claws make you a force to be reckoned with even without weapons.
+Melee: A physical attack with +2 damage.
+endmsg
 end

@@ -64,7 +64,7 @@
 # 'animation' if defined replaces the item's animation.
 # If 'animation_suffix' is defined, the artifact will have the
 # '<base item's animation>_<animation suffix>' animation if it exists, else no
-# change is done.
+# change is done.
 # If 'animation' is set, 'animation_suffix' is ignored.
 # If an animation with or without suffix is defined and valid for the item,
 # it takes precedences over the face with or without suffix.
@@ -766,6 +766,20 @@ weight 85
 attacktype 5
 item_power 1
 last_sp 110
+end
+# Silvered Edge (meant to be primarily a crafted item, so its rarer than its power level indicates it should be)
+Allowed dagger,axe,axe_2,axe_3,axe_4,axe_5,battle_axe,sword,sword_2,sword_3,sword_4,sabre,rapier,scimitar,light_sword,katana_1,falchion,broadsword,broadsword_2,shortsword,shortsword_2,lspear,spear,poleaxe,taifu_1,trident,vlongsword,sicklesword,serp_sword,t_dagger,sickle1,t_star1,sai1,sai2,kama1,kama2,scythe1
+chance 1
+difficulty 15
+Object Silvered Edge
+material 8194
+materialname silver
+type 15
+value 10
+# The silver coating adds a little bit of weight
+weight 101
+slaying vampire
+attacktype 2
 end
 #
 # Daggers (subtype of weapons)
@@ -2229,10 +2243,11 @@ chance 33
 Object Aggravation
 type 3
 other_arch spell_aggravation
-hp -10
-maxhp -10
+hp -30
+maxhp -30
 value 3
 cursed 1
+level -40
 animation_suffix aggravation
 end
 #
@@ -2241,11 +2256,12 @@ chance 20
 Object Fools
 type 3
 other_arch spell_aggravation
-hp -10
-maxhp -10
+hp -50
+maxhp -50
 value 5
 luck -2
 Int -2
+level -100
 damned 1
 animation_suffix fools
 end
