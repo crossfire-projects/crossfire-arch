@@ -1,0 +1,21 @@
+treasure ranger_class_items
+  arch huntersbow
+  more
+  arch arrow
+    nrof 400
+  more
+  arch quiver
+  more
+  arch b_dagger
+  more
+  arch skill_woodsman
+  more
+  arch skill_missile_weapon
+  more
+  arch skill_hide
+  more
+  arch skill_one_handed_weapon
+  more
+  list basic_skills
+  end
+
