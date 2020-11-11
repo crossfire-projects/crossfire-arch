@@ -17,5 +17,7 @@ treasure ranger_class_items
   arch skill_one_handed_weapon
   more
   list basic_skills
+  more
+  arch leather_armour
   end
 
