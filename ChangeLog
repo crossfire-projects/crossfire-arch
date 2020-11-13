@@ -1,3 +1,8 @@
+Add guide to Ranged Combat so that the Ranger class can start with a guide.
+readable/guide/guide_ranged.arc
+player/class/Warrior/ranger.trs
+Daniel Hawkins 2020-11-13
+
 New image for composite bow. Move the old image to the classic tileset.
 weapon/bow/compositebow.base.111.png
 weapon/bow/compositebow.clsc.111.png

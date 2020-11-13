@@ -19,5 +19,7 @@ treasure ranger_class_items
   list basic_skills
   more
   arch leather_armour
+  more
+  arch guide_ranged
   end
 
