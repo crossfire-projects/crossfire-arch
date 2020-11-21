@@ -1,3 +1,8 @@
+Make the light bulb invisible lighting arches have no_pick
+so that spells can't push them around.
+light/light_bulb.arc
+Daniel Hawkins 2020-11-21
+
 Add guide to Ranged Combat so that the Ranger class can start with a guide.
 readable/guide/guide_ranged.arc
 player/class/Warrior/ranger.trs
