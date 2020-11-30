@@ -1,3 +1,102 @@
+Make the light bulb invisible lighting arches have no_pick
+so that spells can't push them around.
+light/light_bulb.arc
+Daniel Hawkins 2020-11-21
+
+Add guide to Ranged Combat so that the Ranger class can start with a guide.
+readable/guide/guide_ranged.arc
+player/class/Warrior/ranger.trs
+Daniel Hawkins 2020-11-13
+
+New image for composite bow. Move the old image to the classic tileset.
+weapon/bow/compositebow.base.111.png
+weapon/bow/compositebow.clsc.111.png
+Daniel Hawkins 2020-11-12
+
+Add new player class -- ranger
+This is intended to allow better early-game focus on missile weapons.
+Also include special handling so the elf race image is also used as
+the elf ranger image.
+player/class/Warrior/ranger.*
+player/class/Warrior/ranger_class.face
+player/race/elf_player_class_ranger.*
+Daniel Hawkins 2020-11-10
+
+Add subtype 2 to guide to Close Combat
+readable/guide/guide_melee.arc
+Daniel Hawkins 2020-10-28
+
+Add descriptions to all skill objects.
+This annotates each skill with flavour text and information about what the
+skill's passive, active, and crafting effects (if any) are.
+Note that this information is not actually visible in-game prior to server
+version r21515.
+skill/*.arc
+Rebecca Kelly 2020-10-20
+
+Start to move crafting-specific materials out of misc and into crafting
+crafting/Materials/leathers.arc
+crafting/Materials/leather.face
+crafting/Materials/leather.base.111.png
+crafting/Materials/leather_black.base.111.png
+crafting/Materials/leather_white.base.111.png
+crafting/Materials/leather_strips.base.111.png
+crafting/Tools/b_slicingknife.base.111.png
+crafting/Tools/b_slicingknife.face
+crafting/Tools/slicingknife.arc
+crafting/Tools/slicingknife.base.111.png
+crafting/Tools/slicingknife.face
+crafting/Container/*
+Daniel Hawkins 2020-10-12
+
+Fix weirdness involving repeated races on dwarves.
+races
+Daniel Hawkins 2020-10-12
+
+Make aggravation a castable spell, and give it level-scaling
+The code to prevent charm monsters abuse
+from like 2010 appears to have caused the lvl 1
+aggravation horns to be essentially useless.
+Also, make the horns that spawn w/ aggravation have reasonable levels.
+Add the aggravation spell to the random spell list for sorcery.
+spell/MoodChange/spell_aggravation.arc
+spell/SpellBook/sorcerer_book.trs
+artifacts
+Daniel Hawkins 2020-10-10
+
+Add the file as a random drop.
+treasures.trs
+Daniel Hawkins 2020-10-09
+
+Add formulae for crafting weapons of Silvered Edge
+from the newly-added silver filings.
+Also added scythe to the list of valid weapons to silver.
+formulae
+artifacts
+Daniel Hawkins 2020-10-09
+
+Add silver filings as the first item creatable from
+the nee file crafting tool.
+formulae
+crafting/Materials/silver_filings.arc
+crafting/Materials/silver_filings.base.111.png
+crafting/Materials/silver_filings.face
+Daniel Hawkins 2020-10-09
+
+Add crafting tool "file".
+Can be used to powderize metal bars (well, that's the plan anyway).
+crafting/Tools/file.arc
+crafting/Tools/file.base.111.png
+crafting/Tools/file.face
+crafting/README
+Daniel Hawkins 2020-10-09
+
+Add artifact entry for silvered weapons.
+Ensure it is restricted to stabbing and slicing weapons, since bludgeoning with
+silver doesn't seem like it would make much difference.
+artifacts
+Daniel Hawkins 2020-10-09
+
 Make the trident imagery less bright, using the W3C green rather than XPM green.
 This put the green hue at half the previous brightness.
 Move the bright green trident to the classic image set.
@@ -366,7 +465,7 @@ Rick Tanner 2017-03-25
 
 Patch #270 New Items - 6 different items
 * Patch accepted with changes as summarized in the patch entry
-at Sourceforge. Basically, changes for clarity and removed 
+at Sourceforge. Basically, changes for clarity and removed
 duplicate and conflicting item properties identified by
 Gridarta for Crossfire
 armour/helmet/bone_helm.arc
@@ -383,7 +482,7 @@ weapon/sword/giants_knife.arc
 weapon/sword/giants_knife.base.111.png
 Rick Tanner 2017-03-19
 
-Patch #267 New Items - 7 different items 
+Patch #267 New Items - 7 different items
 * Changed attacktype of the Order Sword to remove GodPower, now uses
 Magic, Physical and WeaponMagic instead
 * Changed attacketype of Bloodreaver Axe to remove GodPower and disease
@@ -575,11 +674,11 @@ random/randomTrea.arc
 random/randomWeal.arc
 random/randomWeap.arc
 random/random_ore.arc
-random/random_tree.arc 
+random/random_tree.arc
 RJT 2014-09-08
 
 New graphic and face for random_ore tile, it was using the same
-face as random_mineral before. 
+face as random_mineral before.
 random/randomOre.base.111.png
 random/randomOre.face
 random/random_ore.arc
@@ -1182,7 +1281,7 @@ construct/town/dragon_guild.base.x11.png
 RJT 2012-09-21
 
 New Graphic and archetype for West Guild building and West Guild Storage building.
-Based on existing guild graphics but with a sign or banner on the front. 
+Based on existing guild graphics but with a sign or banner on the front.
 construct/town/guild2storage_west.base.x11.png
 construct/town/guild2storage_west.arc
 construct/town/guild2_west.arc
