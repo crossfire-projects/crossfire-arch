@@ -1,3 +1,6 @@
+Add smoothing to firebolt so diagonals actually merge seamlessly.
+Nicolas Weeger 2020-12-01
+
 Make the light bulb invisible lighting arches have no_pick
 so that spells can't push them around.
 light/light_bulb.arc
