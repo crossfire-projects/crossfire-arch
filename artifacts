@@ -2238,6 +2238,19 @@ value 10
 animation_suffix frost
 end
 #
+# Because rod of wonder wasn't enough >:)
+Allowed horn,shell_horn
+chance 1
+Object Mysteries
+type 3
+other_arch spell_wonder
+level 5
+hp -35
+maxhp -35
+value 25
+animation_suffix mystery
+end
+#
 Allowed horn,shell horn
 chance 33
 Object Aggravation
