@@ -1,3 +1,7 @@
+Fiddle with the big tomato image so that it doesn't have the insufficient-transparency outline.
+food/produce/tomato_big.base.111.png
+Daniel Hawkins 2020-12-02
+
 Add smoothing to firebolt so diagonals actually merge seamlessly.
 Nicolas Weeger 2020-12-01
 
