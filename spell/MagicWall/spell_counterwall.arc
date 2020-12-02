@@ -8,7 +8,7 @@ sp 8
 attacktype 524288
 casting_time 14
 path_attuned 256
-other_arch counterspell
+other_arch counterwall
 skill summoning
 type 101
 subtype 15

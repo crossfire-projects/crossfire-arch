@@ -1,3 +1,17 @@
+Change face for counterwall, add animation.
+spells/MagicWall/counterwall.arc
+spells/MagicWall/counterwall.base.111.png
+spells/MagicWall/counterwall.base.112.png
+spells/MagicWall/counterwall.base.121.png
+spells/MagicWall/counterwall.base.122.png
+spells/MagicWall/counterwall.base.131.png
+spells/MagicWall/counterwall.base.132.png
+spells/MagicWall/counterwall.base.141.png
+spells/MagicWall/counterwall.base.142.png
+spells/MagicWall/counterwall.face
+spells/MagicWall/spell_counterwall.arc
+Nicolas Weeger 2020-12-02
+
 Add horn of Mysteries as a horn artifact. It casts wonder.
 artifacts
 Daniel Hawkins 2020-12-02
