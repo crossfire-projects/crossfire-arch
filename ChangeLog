@@ -1,3 +1,7 @@
+Add name for deep sea, so it does not show up in-game with an underscore.
+ground/deep_sea.arc
+Daniel Hawkins 2020-12-04
+
 Change face for counterwall, add animation.
 spells/MagicWall/counterwall.arc
 spells/MagicWall/counterwall.base.111.png
