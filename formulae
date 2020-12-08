@@ -2961,7 +2961,6 @@ Object Mostrai
 arch crossbow
 diff 18
 chance 3
-diff 18
 exp 17500
 trans 1
 yield 1
