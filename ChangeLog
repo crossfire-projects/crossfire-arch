@@ -1,3 +1,7 @@
+Remove damage_physical from flame touch.
+skills/flame_touch.arc
+Nicolas Weeger 2020-12-08
+
 Add name for deep sea, so it does not show up in-game with an underscore.
 ground/deep_sea.arc
 Daniel Hawkins 2020-12-04
