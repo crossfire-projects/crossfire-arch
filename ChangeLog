@@ -1,3 +1,9 @@
+Clean up tinted ores (green, yellow, red) to no longer use an alpha channel.
+jewel/ores/ore_g.base.111.png
+jewel/ores/ore_r.base.111.png
+jewel/ores/ore_y.base.111.png
+Daniel Hawkins 2020-12-08
+
 Remove damage_physical from flame touch.
 skills/flame_touch.arc
 Nicolas Weeger 2020-12-08
