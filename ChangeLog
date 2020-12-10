@@ -1,3 +1,9 @@
+Remove unused archetypes.
+system/editcursor.arc
+system/editcursor.face
+system/editor.arc
+Nicolas Weeger 2020-12-10
+
 Clean up tinted ores (green, yellow, red) to no longer use an alpha channel.
 jewel/ores/ore_g.base.111.png
 jewel/ores/ore_r.base.111.png
