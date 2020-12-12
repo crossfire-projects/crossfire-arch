@@ -3411,6 +3411,42 @@ materialname adamantium
 food 10
 end
 #
+Allowed arrow,bolt
+chance 1
+Object fire explosion
+type 13
+value 20
+arrow_spell small fireball
+arch event_attacks
+title Python
+slaying python/items/spell_arrow.py
+end
+end
+#
+Allowed arrow,bolt
+chance 1
+Object cold storm
+type 13
+value 20
+arrow_spell small snowstorm
+arch event_attacks
+title Python
+slaying python/items/spell_arrow.py
+end
+end
+#
+Allowed arrow,bolt
+chance 1
+Object noxious fumes
+type 13
+value 20
+arrow_spell poison cloud
+arch event_attacks
+title Python
+slaying python/items/spell_arrow.py
+end
+end
+#
 # Bows
 #
 Allowed all
