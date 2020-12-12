@@ -69,6 +69,8 @@
 # If an animation with or without suffix is defined and valid for the item,
 # it takes precedences over the face with or without suffix.
 #
+# Other key-values not part of an item's regular fields are copied to the item as-is.
+#
 #	items in inventory (through an "arch xxx", like in maps)
 #	will be copied into the item's inventory.
 #
