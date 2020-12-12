@@ -1,3 +1,7 @@
+Apply patch https://sourceforge.net/p/crossfire/patches/349/ by Daniel Ziem.
+formulae
+Nicolas Weeger 2020-12-12
+
 Add spell casting arrows, based on patch https://sourceforge.net/p/crossfire/patches/364/
 artifacts
 Nicolas Weeger 2020-12-12
