@@ -1,3 +1,7 @@
+Add wand.111 face to wand animation.
+spell/Wand/wand.face
+Nicolas Weeger 2020-12-17
+
 Add animation to lamppost.
 light/lampost.arc
 light/lampost.base.112.png
