@@ -2,7 +2,7 @@ Object violin
 name violin
 name_pl violins
 nrof 1
-face violin.x11
+face violin.11A
 animation violin
 speed -0.3
 type 3
