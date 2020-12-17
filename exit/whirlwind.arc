@@ -1,6 +1,6 @@
 Object whirlwind_exit
 name whirl wind
-face stalkergen.111
+face elem_air.111
 anim_speed 5
 client_anim_random 1
 type 66
