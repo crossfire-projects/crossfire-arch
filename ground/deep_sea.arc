@@ -1,4 +1,5 @@
 Object deep_sea
+name deep sea
 face deep_sea.111
 animation deep_sea
 smoothlevel 17

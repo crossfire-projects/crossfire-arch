@@ -1,0 +1,50 @@
+# Starting skill packages for players.
+# Note that these are also used by some monsters, e.g. the "elf" list references
+# both fighter_skills and wizard_skills and is used by a number of elven
+# enemies.
+# It might someday be a good idea to split those lists off from here so player
+# skill packages can be tweaked without adding/removing skills on a bunch of
+# monsters as well.
+
+# Basic skills. All* players will start with these skills, so only skills
+# critical for being able to play should go here.
+#
+# * Exception: Barbarians get their own skill package based on a copy of this,
+#   so that Literacy and Use Magic Item can be removed. If editing this list
+#   make sure to update barbarian.trs as well, if needed.
+treasure basic_skills
+  arch skill_throwing
+  more
+  arch skill_find_traps
+  more
+  arch skill_remove_trap
+  more
+  arch skill_use_magic_item
+  more
+  arch skill_literacy
+  more
+  arch skill_punching
+  end
+
+# Skill package for fighty types.
+treasure fighter_skills
+  arch skill_one_handed_weapon
+  more
+  arch skill_two_handed_weapon
+  more
+  arch skill_missile_weapon
+  more
+  list basic_skills
+  end
+
+# Skill package for multipath (religious+arcane) spellcasters.
+# Note that the actual arcane casting skill isn't present here, since different
+# classes will use different spell types -- classes using this will have to
+# provide their own casting skill or talisman.
+treasure wizard_skills
+  arch skill_one_handed_weapon
+  more
+  arch skill_praying
+  more
+  list basic_skills
+  end

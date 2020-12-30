@@ -1,3 +1,76 @@
+Fix violin's face.
+misc/music/violin.arc
+Nicolas Weeger 2020-12-17
+
+Fix whirlwind exit's face (not visible since animated).
+exit/whirlwind.arc
+Nicolas Weeger 2020-12-17
+
+Add animation to lamppost.
+light/lampost.arc
+light/lampost.base.112.png
+light/lampost.clsc.112.png
+light/lampost.face
+Nicolas Weeger 2020-12-17
+
+Apply patch https://sourceforge.net/p/crossfire/patches/349/ by Daniel Ziem.
+formulae
+Nicolas Weeger 2020-12-12
+
+Add spell casting arrows, based on patch https://sourceforge.net/p/crossfire/patches/364/
+artifacts
+Nicolas Weeger 2020-12-12
+
+Add speech bubble by Kevin Zheng.
+system/speech.arch
+system/speech.base.111.png
+Nicolas Weeger 2020-12-10
+
+Remove unused archetypes.
+system/editcursor.arc
+system/editcursor.face
+system/editor.arc
+Nicolas Weeger 2020-12-10
+
+Clean up tinted ores (green, yellow, red) to no longer use an alpha channel.
+jewel/ores/ore_g.base.111.png
+jewel/ores/ore_r.base.111.png
+jewel/ores/ore_y.base.111.png
+Daniel Hawkins 2020-12-08
+
+Remove damage_physical from flame touch.
+skills/flame_touch.arc
+Nicolas Weeger 2020-12-08
+
+Add name for deep sea, so it does not show up in-game with an underscore.
+ground/deep_sea.arc
+Daniel Hawkins 2020-12-04
+
+Change face for counterwall, add animation.
+spells/MagicWall/counterwall.arc
+spells/MagicWall/counterwall.base.111.png
+spells/MagicWall/counterwall.base.112.png
+spells/MagicWall/counterwall.base.121.png
+spells/MagicWall/counterwall.base.122.png
+spells/MagicWall/counterwall.base.131.png
+spells/MagicWall/counterwall.base.132.png
+spells/MagicWall/counterwall.base.141.png
+spells/MagicWall/counterwall.base.142.png
+spells/MagicWall/counterwall.face
+spells/MagicWall/spell_counterwall.arc
+Nicolas Weeger 2020-12-02
+
+Add horn of Mysteries as a horn artifact. It casts wonder.
+artifacts
+Daniel Hawkins 2020-12-02
+
+Fiddle with the big tomato image so that it doesn't have the insufficient-transparency outline.
+food/produce/tomato_big.base.111.png
+Daniel Hawkins 2020-12-02
+
+Add smoothing to firebolt so diagonals actually merge seamlessly.
+Nicolas Weeger 2020-12-01
+
 Make the light bulb invisible lighting arches have no_pick
 so that spells can't push them around.
 light/light_bulb.arc

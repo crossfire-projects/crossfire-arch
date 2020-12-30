@@ -49,6 +49,10 @@
 #	    product so don't be a fool and leave out a
 #	    common archetype ingredient!! See bolt of Dragon
 #	    slaying for an example of a transmution formula.
+#	    Ingredients with titles, such as items given by
+#	    other fomulas, can not be used as base items in
+#	    transmutation recipes. Such items will be
+#	    cleared of all stats if given.
 #
 #  "keycode"  A string, such as "fire".  In order for the alchemist
 #           to execute this recipe, he must have a FORCE with a
