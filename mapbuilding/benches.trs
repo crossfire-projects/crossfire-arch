@@ -1,0 +1,19 @@
+treasureone building_benches
+  arch building_jeweler_bench
+    chance 1
+  more
+  arch building_forge
+    chance 1
+  more
+  arch building_kitchen_stove
+    chance 1
+  more
+  arch building_thaumaturgist_desk
+    chance 1
+  more
+  arch building_workbench
+    chance 1
+  more
+  arch building_tanning_bench
+    chance 1
+end

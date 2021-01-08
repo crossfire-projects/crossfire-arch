@@ -1,3 +1,20 @@
+Apply modified version of patch https://sourceforge.net/p/crossfire/patches/366/ by Titus
+After discussion on IRC, shop tile building materials as well as flaming tower
+and magma were not included, deemed too specific to HW.
+mapbuilding/benches.arc
+mapbuilding/benches.trs
+mapbuilding/building.trs
+mapbuilding/mb_burningfountain.base.111.png
+mapbuilding/mb_lavawell.base.111.png
+mapbuilding/mbforge_bench.base.111.png
+mapbuilding/mbjeweler_bench.base.111.png
+mapbuilding/mbkitchen_stove.base.111.png
+mapbuilding/mbtanbench.base.111.png
+mapbuilding/mbthaumaturgy_desk.base.111.png
+mapbuilding/mbworkbench.base.111.png
+mapbuilding/objects.arc
+mapbuilding/objects.trs
+Nicolas Weeger 2021-01-08
 
 New item, unlit (or burnt out) brazier
 light/unlit_brazier.arc

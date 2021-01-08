@@ -69,3 +69,23 @@ level 30
 face mbaltar_none.111
 slaying altar_none
 end
+Object building_lava_well
+name Lava Well material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_lavawell.111
+slaying lava_well
+end
+Object building_burning_fountain
+name Burning Fountain material
+nrof 1
+weight 1500
+value 9500
+type 161
+subtype 3
+face mb_burningfountain.111
+slaying burning_fountain
+end

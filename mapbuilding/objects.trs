@@ -19,4 +19,10 @@ treasureone building_objects
   more
   arch building_altar
     chance 1
+  more
+  arch building_lava_well
+    chance 1
+  more
+  arch building_burning_fountain
+    chance 1
 end
