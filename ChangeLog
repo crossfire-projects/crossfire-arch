@@ -1,3 +1,9 @@
+Add food shop archetype.
+shop/store_food.arc
+shop/store_food.base.x11.png
+shop/store_food.face
+Nicolas Weeger 2020-01-10
+
 Apply modified version of patch https://sourceforge.net/p/crossfire/patches/366/ by Titus
 After discussion on IRC, shop tile building materials as well as flaming tower
 and magma were not included, deemed too specific to HW.
