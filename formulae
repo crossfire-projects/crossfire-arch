@@ -904,15 +904,27 @@ skill woodsman
 cauldron tanbench
 ingred bear's hide
 #
-# white leather -- from sheep
-#Object NONE
-#arch leather_white
-#chance 3
-#diff 7
-#exp 1500
-#skill woodsman
-#cauldron tanbench
-#ingred 2 sheepskin
+# white leather -- from sheep's sheepskin
+Object NONE
+arch leather_white
+chance 2
+diff 7
+exp 1500
+skill woodsman
+cauldron tanbench
+ingred 2 sheep's sheepskin
+#
+#
+white leather -- from sheepskin rugs
+Object NONE
+arch leather_white
+chance 1
+# To be a rug, there's already been some amount of processing done to it.
+diff 3
+exp 500
+skill woodsman
+cauldron tanbench
+ingred 2 sheepskin rug
 #
 # white leather -- from dire wolf
 Object NONE
