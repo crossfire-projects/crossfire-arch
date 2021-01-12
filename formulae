@@ -915,7 +915,7 @@ cauldron tanbench
 ingred 2 sheep's sheepskin
 #
 #
-white leather -- from sheepskin rugs
+# white leather -- from sheepskin rugs
 Object NONE
 arch leather_white
 chance 1
