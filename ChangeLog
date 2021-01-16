@@ -1,3 +1,7 @@
+Add "tissue paper" archetype, to replace ones in Raffle.
+misc/item/tissue*
+Nicolas Weeger 2020-01-16
+
 Fix formula ingredient for "sickle sword".
 formulae
 Nicolas Weeger 2020-01-16
