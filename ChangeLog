@@ -1,3 +1,8 @@
+Add barn-like food store.
+Intended to be used for Wolfsburg Provisions.
+shop/store_food_barn.*
+Daniel Hawkins 2020-01-16
+
 Add "tissue paper" archetype, to replace ones in Raffle.
 misc/item/tissue*
 Nicolas Weeger 2020-01-16
