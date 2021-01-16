@@ -603,7 +603,7 @@ exp 9000
 trans 1
 skill smithery
 cauldron forge
-ingred sicklesword,9 silver filings
+ingred sickle sword,9 silver filings
 #
 # Serpentman sword
 Object Silvered Edge
