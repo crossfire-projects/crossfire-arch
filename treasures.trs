@@ -258,6 +258,10 @@ treasureone random_armour
     magic 4
     chance 5
   more
+  arch coif
+    magic 4
+    chance 5
+  more
   arch b_gauntlets
     magic 4
     chance 5
@@ -1867,6 +1871,11 @@ treasure standard_old
         arch bighorned_helmet
         magic 1
         chance 1
+        no
+          arch coif
+          magic 1
+          chance 10
+          end
         end
       end
     end
