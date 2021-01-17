@@ -1,3 +1,12 @@
+Add coif as a helmet-like armor.
+Is lighter and has worse protection than regular helmets,
+but can be found earlier from goblin/gnoll drops.
+armour/helmet/coif.base.111.png
+armour/helmet/coif.arc
+armour/helmet/coif.face
+treasures.trs
+Daniel Hawkins 2020-01-17
+
 Add barn-like food store.
 Intended to be used for Wolfsburg Provisions.
 shop/store_food_barn.*

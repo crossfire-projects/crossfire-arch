@@ -1750,6 +1750,9 @@ treasure poor_old
   arch b_small_shield
   chance 4
   more
+  arch coif
+  chance 3
+  more
   arch silvercoin
   nrof 80
   chance 20
