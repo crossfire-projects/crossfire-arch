@@ -1,10 +1,10 @@
 Add archetypes for building instructions, found in enough shops to warrant it.
 readable/guide/buildings_instructions.arc
-Nicolas Weeger 2020-01-19
+Nicolas Weeger 2021-01-19
 
 Remove extra space in attack message.
 attackmess
-Nicolas Weeger 2020-01-18
+Nicolas Weeger 2021-01-18
 
 Add coif as a helmet-like armor.
 Is lighter and has worse protection than regular helmets,
@@ -13,39 +13,39 @@ armour/helmet/coif.base.111.png
 armour/helmet/coif.arc
 armour/helmet/coif.face
 treasures.trs
-Daniel Hawkins 2020-01-17
+Daniel Hawkins 2021-01-17
 
 Add barn-like food store.
 Intended to be used for Wolfsburg Provisions.
 shop/store_food_barn.*
-Daniel Hawkins 2020-01-16
+Daniel Hawkins 2021-01-16
 
 Add "tissue paper" archetype, to replace ones in Raffle.
 misc/item/tissue*
-Nicolas Weeger 2020-01-16
+Nicolas Weeger 2021-01-16
 
 Fix formula ingredient for "sickle sword".
 formulae
-Nicolas Weeger 2020-01-16
+Nicolas Weeger 2021-01-16
 
 Change format for new no-collect mechanism.
 image_info
-Nicolas Weeger 2020-01-14
+Nicolas Weeger 2021-01-14
 
 Make beholder eyes be "flesh".
 flesh/misc/behold_eye.arc
-Nicolas Weeger 2020-01-14
+Nicolas Weeger 2021-01-14
 
 Enable sheepskin crafting for leather.
 Handles both fresh sheepskin and sheepskin rugs.
 formulae
-Daniel Hawkins 2020-01-12
+Daniel Hawkins 2021-01-12
 
 Add food shop archetype.
 shop/store_food.arc
 shop/store_food.base.x11.png
 shop/store_food.face
-Nicolas Weeger 2020-01-10
+Nicolas Weeger 2021-01-10
 
 Apply modified version of patch https://sourceforge.net/p/crossfire/patches/366/ by Titus
 After discussion on IRC, shop tile building materials as well as flaming tower
