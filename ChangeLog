@@ -1,3 +1,10 @@
+Add rings that contain spells.
+Functionally like low-power rods, but groups with rings client-side.
+spell/Wand/spell_ring.arc
+spell/Wand/spell_ring.trs
+treasures.trs
+Daniel Hawkins 2021-01-21
+
 Add archetypes for building instructions, found in enough shops to warrant it.
 readable/guide/buildings_instructions.arc
 Nicolas Weeger 2021-01-19

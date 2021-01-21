@@ -935,6 +935,9 @@ treasureone special_uncommon
   more
   arch ring_nodrain
     chance 5
+  more
+  arch ring_spell
+    chance 1
   end
 treasureone containers
   arch sack
@@ -1392,6 +1395,9 @@ treasureone random_magical
     chance 5
     nrof 5
   more
+  arch ring_spell
+    chance 1
+  more
   list special_uncommon
     magic 9
     chance 5
@@ -1532,6 +1538,9 @@ treasureone random_wands
     chance 5
   more
   arch rod_heavy
+    chance 1
+  more
+  arch ring_spell
     chance 1
   end
 # for shop
@@ -1720,8 +1729,11 @@ treasureone uncommon_items
   arch file
     chance 3
   more
+  arch ring_spell
+    chance 1
+  more
   list NONE
-    chance 24
+    chance 23
   end
 treasure poor_old
   arch bow
@@ -1974,6 +1986,10 @@ treasure rich_old
   no
     arch rod_heavy
     chance 1
+    no
+      arch ring_spell
+      chance 1
+      end
     end
   more
   list random_books
@@ -1994,6 +2010,10 @@ treasure rod
   no
     arch rod_heavy
     chance 1
+    no
+      arch ring_spell
+      chance 1
+      end
     end
   end
 treasure ring
