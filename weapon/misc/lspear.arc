@@ -5,7 +5,7 @@ last_sp 9
 type 15
 face lspear.111
 material 18
-dam 12
+dam 15
 weight 26500
 value 50
 can_impale 1

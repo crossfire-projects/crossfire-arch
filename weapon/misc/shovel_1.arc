@@ -2,11 +2,11 @@ Object shovel_1
 name shovel
 nrof 1
 slaying wall
-last_sp 15
+last_sp 12
 type 15
 face shovel_1.111
 material 2
-dam 10
+dam 12
 weight 30000
 value 5
 animation shovel_1

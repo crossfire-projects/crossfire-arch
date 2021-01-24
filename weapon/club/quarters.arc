@@ -1,10 +1,10 @@
 Object quarterstaff
 nrof 1
-last_sp 8
+last_sp 5
 type 15
 face quarters.111
 material 16
-dam 5
+dam 8
 weapontype 8
 weight 9000
 value 20

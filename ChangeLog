@@ -1,3 +1,17 @@
+Rebalance two-handed weapons.
+Many of the weapons were worse than a broadsword.
+Adjusted them upward so they were more in-line with the 25kg two-handed sword.
+In particular, the spiked flail needed a buff to make it worth its rarity.
+weapon/misc/shovel_1.arc
+weapon/misc/scythe1.arc
+weapon/misc/poleaxe.arc
+weapon/misc/lspear.arc
+weapon/club/quarters.arc
+weapon/club/big_club.arc
+weapon/chained/sflail1.arc
+weapon/chained/lmornstar.arc
+Daniel Hawkins 2021-01-23
+
 Add rings that contain spells.
 Functionally like low-power rods, but groups with rings client-side.
 spell/Wand/spell_ring.arc

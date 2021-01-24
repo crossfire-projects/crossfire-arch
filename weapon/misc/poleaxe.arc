@@ -1,6 +1,6 @@
 Object poleaxe
 nrof 1
-last_sp 12
+last_sp 11
 type 15
 face poleaxe.111
 material 18
