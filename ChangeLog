@@ -1,3 +1,9 @@
+Add blue and green dragon caves, to generate electric and cold dragons.
+monster/dragon/dragoncave.arc
+monster/dragon/dragoncave_blue.base.111.png
+monster/dragon/dragoncave_green.base.111.png
+Nicolas Weeger 2021-01-28
+
 Adjust quarterstaff after realizing I made a 9 kg weapon keep up with 20 kg weapons.
 weapon/club/quarters.arc
 Daniel Hawkins 2021-01-26
