@@ -1,3 +1,22 @@
+Add animations to some generators.
+monster/undead/ghost_gen.arc
+monster/undead/ghost_gen.base.112.png
+monster/undead/ghost_gen.clsc.112.png
+monster/undead/ghost_gen.face
+monster/undead/skull_gen.arc
+monster/undead/skull_gen.base.112.png
+monster/undead/skull_gen.clsc.112.png
+monster/undead/skull_gen.face
+monster/undead/vampiregen.arc
+monster/undead/vampiregen.base.112.png
+monster/undead/vampiregen.clsc.112.png
+monster/undead/vampiregen.face
+monster/undead/zombie_gen.arc
+monster/undead/zombie_gen.base.112.png
+monster/undead/zombie_gen.clsc.112.png
+monster/undead/zombie_gen.face
+Nicolas Weeger 2021-01-28
+
 Add spell effects to some balms and foods.
 artifacts
 Nicolas Weeger 2021-01-28
