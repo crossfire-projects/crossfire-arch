@@ -3902,6 +3902,7 @@ Object Heat Resistance
 type 6
 value 30
 resist_fire 30
+other_arch protection_fire_effect
 end
 #
 Allowed mushroom_2
@@ -3910,6 +3911,7 @@ Object Frost Resistance
 type 6
 value 30
 resist_cold 30
+other_arch protection_cold_effect
 end
 #
 Allowed mushroom_1, mushroom_2, mushroom_3
@@ -4131,6 +4133,7 @@ face balm_asbestos.111
 type 5
 resist_fire 50
 value 5
+other_arch protection_fire_effect
 end
 #
 Allowed balm_generic
@@ -4140,6 +4143,7 @@ face balm_insulation.111
 type 5
 resist_electricity 50
 value 5
+other_arch protection_electricity_effect
 end
 #
 Allowed balm_generic
@@ -4149,6 +4153,7 @@ face balm_warmth.111
 type 5
 resist_cold 50
 value 5
+other_arch protection_cold_effect
 end
 #
 Allowed potion_generic
