@@ -1,3 +1,9 @@
+Add broken gravestone, spawn it when a skeleton generator is destroyed.
+misc/broken_gravestone.arc
+misc/broken_gravestone.base.111.png
+monster/undead/skelet_gen.arc
+Nicolas Weeger 2021-01-29
+
 Add Valkyrie guide.
 readable/guide/guide_valkyrie.arc
 Nicolas Weeger 2021-01-28
