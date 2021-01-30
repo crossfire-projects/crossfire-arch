@@ -1,7 +1,7 @@
 Object trap_diseased_needle
 name diseased needle
 type 154
-face needle.111
+face trap_diseased_needle.111
 randomitems needle_diseases
 speed 1
 hp 1
