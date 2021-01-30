@@ -1,3 +1,7 @@
+Make drop green to reflect poison.
+traps/needle.base.111.png
+Nicolas Weeger 2021-01-30
+
 Copy current 'needle' face to diseased needle, use it.
 disease/diseased_needle.arc
 disease/trap_diseased_needle.base.111.png
