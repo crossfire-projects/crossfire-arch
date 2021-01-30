@@ -1,3 +1,9 @@
+Add broken vampire sarcophagus, use it for destroyed generator.
+monster/undead/broken_sarcophagus.arc
+monster/undead/broken_sarcophagus.base.111.png
+monster/undead/vampiregen.arc
+Nicolas Weeger 2021-01-30
+
 Add red, dark blue and light blue cave walls, based on the 'cave' archetype.
 wall/dark_blue_cave/
 wall/light_blue_cave/
