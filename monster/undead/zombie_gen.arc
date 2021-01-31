@@ -1,12 +1,15 @@
 Object generate_zombie
 race undead
 other_arch zombie
-randomitems generate_zombie
+death_animation gravedirt
 name grave
 generator 1
 alive 1
 level 1
 face zombie_gen.111
+animation zombie_gen
+anim_speed 4
+client_anim_random 1
 hp 100
 maxhp 100
 ac 6

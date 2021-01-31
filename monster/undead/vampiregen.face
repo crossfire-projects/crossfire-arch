@@ -1,3 +1,10 @@
 face vampiregen.111
 magicmap brown
 end
+face vampiregen.112
+magicmap brown
+end
+animation vampiregen
+vampiregen.111
+vampiregen.112
+mina

@@ -4,6 +4,9 @@ other_arch ghost
 name ghost generator
 generator 1
 face ghost_gen.111
+animation ghost_gen
+anim_speed 4
+client_anim_random 1
 speed 0.01
 exp 70
 alive 1

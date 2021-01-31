@@ -6,7 +6,7 @@ type 15
 face lmornstar.111
 weapontype 7
 material 18
-dam 13
+dam 20
 weight 25000
 value 44
 attacktype 1

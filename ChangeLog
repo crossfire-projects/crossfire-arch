@@ -1,3 +1,166 @@
+Make drop green to reflect poison.
+traps/needle.base.111.png
+Nicolas Weeger 2021-01-30
+
+Copy current 'needle' face to diseased needle, use it.
+disease/diseased_needle.arc
+disease/trap_diseased_needle.base.111.png
+disease/trap_diseased_needle.face
+Nicolas Weeger 2021-01-30
+
+Add broken vampire sarcophagus, use it for destroyed generator.
+monster/undead/broken_sarcophagus.arc
+monster/undead/broken_sarcophagus.base.111.png
+monster/undead/vampiregen.arc
+Nicolas Weeger 2021-01-30
+
+Add red, dark blue and light blue cave walls, based on the 'cave' archetype.
+wall/dark_blue_cave/
+wall/light_blue_cave/
+wall/red_cave/
+Nicolas Weeger 2021-01-30
+
+Use 'death_animation' instead of treasurelist with only one item.
+monster/undead/zombie_gen.arch
+monster/undead/zombie_gen.trs
+Nicolas Weeger 2021-01-29
+
+Add broken gravestone, spawn it when a skeleton generator is destroyed.
+misc/broken_gravestone.arc
+misc/broken_gravestone.base.111.png
+monster/undead/skelet_gen.arc
+Nicolas Weeger 2021-01-29
+
+Add Valkyrie guide.
+readable/guide/guide_valkyrie.arc
+Nicolas Weeger 2021-01-28
+
+Add animations to some generators.
+monster/undead/ghost_gen.arc
+monster/undead/ghost_gen.base.112.png
+monster/undead/ghost_gen.clsc.112.png
+monster/undead/ghost_gen.face
+monster/undead/skull_gen.arc
+monster/undead/skull_gen.base.112.png
+monster/undead/skull_gen.clsc.112.png
+monster/undead/skull_gen.face
+monster/undead/vampiregen.arc
+monster/undead/vampiregen.base.112.png
+monster/undead/vampiregen.clsc.112.png
+monster/undead/vampiregen.face
+monster/undead/zombie_gen.arc
+monster/undead/zombie_gen.base.112.png
+monster/undead/zombie_gen.clsc.112.png
+monster/undead/zombie_gen.face
+Nicolas Weeger 2021-01-28
+
+Add spell effects to some balms and foods.
+artifacts
+Nicolas Weeger 2021-01-28
+
+Add blue and green dragon caves, to generate electric and cold dragons.
+monster/dragon/dragoncave.arc
+monster/dragon/dragoncave_blue.base.111.png
+monster/dragon/dragoncave_green.base.111.png
+Nicolas Weeger 2021-01-28
+
+Adjust quarterstaff after realizing I made a 9 kg weapon keep up with 20 kg weapons.
+weapon/club/quarters.arc
+Daniel Hawkins 2021-01-26
+
+Rebalance two-handed weapons.
+Many of the weapons were worse than a broadsword.
+Adjusted them upward so they were more in-line with the 25kg two-handed sword.
+In particular, the spiked flail needed a buff to make it worth its rarity.
+weapon/misc/shovel_1.arc
+weapon/misc/scythe1.arc
+weapon/misc/poleaxe.arc
+weapon/misc/lspear.arc
+weapon/club/quarters.arc
+weapon/club/big_club.arc
+weapon/chained/sflail1.arc
+weapon/chained/lmornstar.arc
+Daniel Hawkins 2021-01-23
+
+Add rings that contain spells.
+Functionally like low-power rods, but groups with rings client-side.
+spell/Wand/spell_ring.arc
+spell/Wand/spell_ring.trs
+treasures.trs
+Daniel Hawkins 2021-01-21
+
+Add archetypes for building instructions, found in enough shops to warrant it.
+readable/guide/buildings_instructions.arc
+Nicolas Weeger 2021-01-19
+
+Remove extra space in attack message.
+attackmess
+Nicolas Weeger 2021-01-18
+
+Add coif as a helmet-like armor.
+Is lighter and has worse protection than regular helmets,
+but can be found earlier from goblin/gnoll drops.
+armour/helmet/coif.base.111.png
+armour/helmet/coif.arc
+armour/helmet/coif.face
+treasures.trs
+Daniel Hawkins 2021-01-17
+
+Add barn-like food store.
+Intended to be used for Wolfsburg Provisions.
+shop/store_food_barn.*
+Daniel Hawkins 2021-01-16
+
+Add "tissue paper" archetype, to replace ones in Raffle.
+misc/item/tissue*
+Nicolas Weeger 2021-01-16
+
+Fix formula ingredient for "sickle sword".
+formulae
+Nicolas Weeger 2021-01-16
+
+Change format for new no-collect mechanism.
+image_info
+Nicolas Weeger 2021-01-14
+
+Make beholder eyes be "flesh".
+flesh/misc/behold_eye.arc
+Nicolas Weeger 2021-01-14
+
+Enable sheepskin crafting for leather.
+Handles both fresh sheepskin and sheepskin rugs.
+formulae
+Daniel Hawkins 2021-01-12
+
+Add food shop archetype.
+shop/store_food.arc
+shop/store_food.base.x11.png
+shop/store_food.face
+Nicolas Weeger 2021-01-10
+
+Apply modified version of patch https://sourceforge.net/p/crossfire/patches/366/ by Titus
+After discussion on IRC, shop tile building materials as well as flaming tower
+and magma were not included, deemed too specific to HW.
+mapbuilding/benches.arc
+mapbuilding/benches.trs
+mapbuilding/building.trs
+mapbuilding/mb_burningfountain.base.111.png
+mapbuilding/mb_lavawell.base.111.png
+mapbuilding/mbforge_bench.base.111.png
+mapbuilding/mbjeweler_bench.base.111.png
+mapbuilding/mbkitchen_stove.base.111.png
+mapbuilding/mbtanbench.base.111.png
+mapbuilding/mbthaumaturgy_desk.base.111.png
+mapbuilding/mbworkbench.base.111.png
+mapbuilding/objects.arc
+mapbuilding/objects.trs
+Nicolas Weeger 2021-01-08
+
+New item, unlit (or burnt out) brazier
+light/unlit_brazier.arc
+light/unlit_brazier.base.111.png
+Rick Tanner 2020-12-30
+
 Fix violin's face.
 misc/music/violin.arc
 Nicolas Weeger 2020-12-17

@@ -2240,6 +2240,19 @@ value 10
 animation_suffix frost
 end
 #
+# Because rod of wonder wasn't enough >:)
+Allowed horn,shell_horn
+chance 1
+Object Mysteries
+type 3
+other_arch spell_wonder
+level 5
+hp -35
+maxhp -35
+value 25
+animation_suffix mystery
+end
+#
 Allowed horn,shell horn
 chance 33
 Object Aggravation
@@ -3398,6 +3411,42 @@ materialname adamantium
 food 10
 end
 #
+Allowed arrow,bolt
+chance 1
+Object fire explosion
+type 13
+value 20
+arrow_spell small fireball
+arch event_attacks
+title Python
+slaying python/items/spell_arrow.py
+end
+end
+#
+Allowed arrow,bolt
+chance 1
+Object cold storm
+type 13
+value 20
+arrow_spell small snowstorm
+arch event_attacks
+title Python
+slaying python/items/spell_arrow.py
+end
+end
+#
+Allowed arrow,bolt
+chance 1
+Object noxious fumes
+type 13
+value 20
+arrow_spell poison cloud
+arch event_attacks
+title Python
+slaying python/items/spell_arrow.py
+end
+end
+#
 # Bows
 #
 Allowed all
@@ -3853,6 +3902,7 @@ Object Heat Resistance
 type 6
 value 30
 resist_fire 30
+other_arch protection_fire_effect
 end
 #
 Allowed mushroom_2
@@ -3861,6 +3911,7 @@ Object Frost Resistance
 type 6
 value 30
 resist_cold 30
+other_arch protection_cold_effect
 end
 #
 Allowed mushroom_1, mushroom_2, mushroom_3
@@ -4082,6 +4133,7 @@ face balm_asbestos.111
 type 5
 resist_fire 50
 value 5
+other_arch protection_fire_effect
 end
 #
 Allowed balm_generic
@@ -4091,6 +4143,7 @@ face balm_insulation.111
 type 5
 resist_electricity 50
 value 5
+other_arch protection_electricity_effect
 end
 #
 Allowed balm_generic
@@ -4100,6 +4153,7 @@ face balm_warmth.111
 type 5
 resist_cold 50
 value 5
+other_arch protection_cold_effect
 end
 #
 Allowed potion_generic

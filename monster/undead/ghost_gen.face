@@ -1,3 +1,10 @@
 face ghost_gen.111
 magicmap red
 end
+face ghost_gen.112
+magicmap red
+end
+animation ghost_gen
+ghost_gen.111
+ghost_gen.112
+mina

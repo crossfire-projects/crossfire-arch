@@ -1,18 +1,17 @@
-# "$Id: image_info 21127 2020-03-03 03:40:26Z partmedia $";
+# "$Id: image_info 21765 2021-01-14 10:05:40Z ryo_saeba $";
 #
 # This file describes the various image files installed.
 # For more information on how all this works and about adding new
 # image sets, see the doc/Developer/images file.
 #
 # The format of each line:
-# num:extension:long name:fallback:geometry:extension:description
-# num is the set number.
+# extension:long name:fallback:geometry:extension:description
 # extension is the extension that image set uses (eg, base, clsc)
 # long name is just that - a longer (more english) name, eg, classic instead
 #   of clsc.  This is really just used by the client for it to map the
 #   image names.  Its not really intuitive for users to say -image clsc
-# fallback is what set to fallback to if the image does not exist in
-#   that set.  In the end, all sets must fall back to set 0.
+# fallback is what set (by extension) to fallback to if the image does not exist in
+#   that set.  In the end, all sets must fall back to one set.
 # geometry is in width x height form.  This is used by the client so it
 #   knows the spacing to use.  Images in the set could be of different
 #   sizes (eg, a 4 spaces image would be larger), but this is the normal
@@ -26,5 +25,5 @@
 # NOTE: lines can not be continued with \ - everything must be on one line
 #  for things to work.
 # Lines that start with # are obviously ignored.
-0:base:standard:0:32x32:none:The standard image set.
-1:clsc:classic:0:32x32:none:Classic and new styling.
+base:standard::32x32:none:The standard image set.
+clsc:classic:base:32x32:none:Classic and new styling.

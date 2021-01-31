@@ -1,3 +1,10 @@
 face skull_gen.111
 magicmap white
 end
+face skull_gen.112
+magicmap white
+end
+animation skull_gen
+skull_gen.111
+skull_gen.112
+mina

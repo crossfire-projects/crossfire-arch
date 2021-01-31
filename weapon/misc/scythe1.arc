@@ -5,7 +5,7 @@ last_sp 13
 type 15
 face scythe_1.111
 material 18
-dam 14
+dam 23
 weight 29500
 value 485
 attacktype 1

@@ -18,4 +18,5 @@ resist_cold 50
 undead 1
 map_layer living
 generator_limit 5
+death_animation broken_gravestone
 end

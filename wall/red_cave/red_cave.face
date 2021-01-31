@@ -1,0 +1,312 @@
+face red_cave_0.111
+magicmap blue
+visibility 100
+end
+face red_cave_0.112
+magicmap blue
+visibility 100
+end
+animation red_cave_0
+red_cave_0.111
+red_cave_0.112
+mina
+face red_cave_1.111
+magicmap blue
+visibility 100
+end
+face red_cave_1.112
+magicmap blue
+visibility 100
+end
+animation red_cave_1
+red_cave_1.111
+red_cave_1.112
+mina
+face red_cave_2.111
+magicmap blue
+visibility 100
+end
+face red_cave_2.112
+magicmap blue
+visibility 100
+end
+animation red_cave_2
+red_cave_2.111
+red_cave_2.112
+mina
+face red_cave_3.111
+magicmap blue
+visibility 100
+end
+face red_cave_3.112
+magicmap blue
+visibility 100
+end
+animation red_cave_3
+red_cave_3.111
+red_cave_3.112
+mina
+face red_cave_4.111
+magicmap blue
+visibility 100
+end
+face red_cave_4.112
+magicmap blue
+visibility 100
+end
+animation red_cave_4
+red_cave_4.111
+red_cave_4.112
+mina
+face red_cave_5.111
+magicmap blue
+visibility 100
+end
+face red_cave_5.112
+magicmap blue
+visibility 100
+end
+animation red_cave_5
+red_cave_5.111
+red_cave_5.112
+mina
+face red_cave_6.111
+magicmap blue
+visibility 100
+end
+face red_cave_6.112
+magicmap blue
+visibility 100
+end
+animation red_cave_6
+red_cave_6.111
+red_cave_6.112
+mina
+face red_cave_7.111
+magicmap blue
+visibility 100
+end
+face red_cave_7.112
+magicmap blue
+visibility 100
+end
+animation red_cave_7
+red_cave_7.111
+red_cave_7.112
+mina
+face red_cave_8.111
+magicmap blue
+visibility 100
+end
+face red_cave_8.112
+magicmap blue
+visibility 100
+end
+animation red_cave_8
+red_cave_8.111
+red_cave_8.112
+mina
+face red_cave_9.111
+magicmap blue
+visibility 100
+end
+face red_cave_9.112
+magicmap blue
+visibility 100
+end
+animation red_cave_9
+red_cave_9.111
+red_cave_9.112
+mina
+face red_cave_10.111
+magicmap blue
+visibility 100
+end
+face red_cave_10.112
+magicmap blue
+visibility 100
+end
+animation red_cave_10
+red_cave_10.111
+red_cave_10.112
+mina
+face red_cave_11.111
+magicmap blue
+visibility 100
+end
+face red_cave_11.112
+magicmap blue
+visibility 100
+end
+animation red_cave_11
+red_cave_11.111
+red_cave_11.112
+mina
+face red_cave_12.111
+magicmap blue
+visibility 100
+end
+face red_cave_12.112
+magicmap blue
+visibility 100
+end
+animation red_cave_12
+red_cave_12.111
+red_cave_12.112
+mina
+face red_cave_13.111
+magicmap blue
+visibility 100
+end
+face red_cave_13.112
+magicmap blue
+visibility 100
+end
+animation red_cave_13
+red_cave_13.111
+red_cave_13.112
+mina
+face red_cave_14.111
+magicmap blue
+visibility 100
+end
+face red_cave_14.112
+magicmap blue
+visibility 100
+end
+animation red_cave_14
+red_cave_14.111
+red_cave_14.112
+mina
+face red_cave_15.111
+magicmap blue
+visibility 100
+end
+face red_cave_15.112
+magicmap blue
+visibility 100
+end
+animation red_cave_15
+red_cave_15.111
+red_cave_15.112
+mina
+face red_cave_16.111
+magicmap blue
+visibility 100
+end
+face red_cave_16.112
+magicmap blue
+visibility 100
+end
+animation red_cave_16
+red_cave_16.111
+red_cave_16.112
+mina
+face red_cave_17.111
+magicmap blue
+visibility 100
+end
+face red_cave_17.112
+magicmap blue
+visibility 100
+end
+animation red_cave_17
+red_cave_17.111
+red_cave_17.112
+mina
+face red_cave_18.111
+magicmap blue
+visibility 100
+end
+face red_cave_18.112
+magicmap blue
+visibility 100
+end
+animation red_cave_18
+red_cave_18.111
+red_cave_18.112
+mina
+face red_cave_19.111
+magicmap blue
+visibility 100
+end
+face red_cave_19.112
+magicmap blue
+visibility 100
+end
+animation red_cave_19
+red_cave_19.111
+red_cave_19.112
+mina
+face red_cave_20.111
+magicmap blue
+visibility 100
+end
+face red_cave_20.112
+magicmap blue
+visibility 100
+end
+animation red_cave_20
+red_cave_20.111
+red_cave_20.112
+mina
+face red_cave_21.111
+magicmap blue
+visibility 100
+end
+face red_cave_21.112
+magicmap blue
+visibility 100
+end
+animation red_cave_21
+red_cave_21.111
+red_cave_21.112
+mina
+face red_cave_22.111
+magicmap blue
+visibility 100
+end
+face red_cave_22.112
+magicmap blue
+visibility 100
+end
+animation red_cave_22
+red_cave_22.111
+red_cave_22.112
+mina
+face red_cave_23.111
+magicmap blue
+visibility 100
+end
+face red_cave_23.112
+magicmap blue
+visibility 100
+end
+animation red_cave_23
+red_cave_23.111
+red_cave_23.112
+mina
+face red_cave_24.111
+magicmap blue
+visibility 100
+end
+face red_cave_24.112
+magicmap blue
+visibility 100
+end
+animation red_cave_24
+red_cave_24.111
+red_cave_24.112
+mina
+face red_cave_25.111
+magicmap blue
+visibility 100
+end
+face red_cave_25.112
+magicmap blue
+visibility 100
+end
+animation red_cave_25
+red_cave_25.111
+red_cave_25.112
+mina

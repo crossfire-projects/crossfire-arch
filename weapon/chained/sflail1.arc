@@ -1,12 +1,12 @@
 Object sflail1
 nrof 1
 name spiked flail
-last_sp 15
+last_sp 14
 type 15
 face sflail_1.111
 weapontype 7
 material 18
-dam 16
+dam 34
 weight 28000
 value 288
 attacktype 1

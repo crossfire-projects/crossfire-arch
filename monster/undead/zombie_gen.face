@@ -1,3 +1,10 @@
 face zombie_gen.111
 magicmap brown
 end
+face zombie_gen.112
+magicmap brown
+end
+animation zombie_gen
+zombie_gen.111
+zombie_gen.112
+mina
