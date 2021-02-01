@@ -1,3 +1,17 @@
+Add 'broken' generator faces and archetypes.
+monster/dragon/broken_dragoncave.base.111.png
+monster/dragon/broken_dragoncave_blue.base.111.png
+monster/dragon/broken_dragoncave_green.base.111.png
+monster/dragon/dragoncave.arc
+monster/giant/broken_giant_gen.base.111.png
+monster/giant/giant_gen.arc
+monster/undead/broken_generate_ghost.base.111.png
+monster/undead/broken_skull.arc
+monster/undead/broken_skull.base.111.png
+monster/undead/ghost_gen.arc
+monster/undead/skull_gen.arc
+Nicolas Weeger 2021-02-01
+
 Add a jeweler guide for making rings and amulets from nuggets, and vice-versa.
 readable/guide/guide_jeweler.arc
 readable/guide/guide_jeweler.base.111.png

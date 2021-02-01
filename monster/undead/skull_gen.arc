@@ -19,4 +19,5 @@ maxsp 1
 weight 2000
 undead 1
 generator_limit 5
+death_animation broken_skull
 end

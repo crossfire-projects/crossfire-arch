@@ -16,6 +16,7 @@ alive 1
 maxsp 1
 weight 1000000
 generator_limit 5
+death_animation broken_generate_dragon
 end
 Object generate_cold_dragon
 race dragon
@@ -35,6 +36,7 @@ maxsp 1
 weight 1000000
 generator_limit 5
 resist_cold 100
+death_animation broken_generate_cold_dragon
 end
 Object generate_dragon_electric
 race dragon
@@ -54,4 +56,38 @@ alive 1
 maxsp 1
 weight 1000000
 generator_limit 5
+death_animation broken_generate_electric_dragon
+end
+Object broken_generate_dragon
+face broken_dragoncave.111
+name broken dragon cave
+weight 500000
+type 98
+subtype 48
+material 64
+value 2000
+nrof 1
+client_type 8011
+end
+Object broken_generate_cold_dragon
+face broken_dragoncave_green.111
+name broken dragon cave
+weight 500000
+type 98
+subtype 48
+material 64
+value 2000
+nrof 1
+client_type 8011
+end
+Object broken_generate_electric_dragon
+face broken_dragoncave_blue.111
+name broken dragon cave
+weight 500000
+type 98
+subtype 48
+material 64
+value 2000
+nrof 1
+client_type 8011
 end
