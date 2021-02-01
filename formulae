@@ -3380,6 +3380,7 @@ ingred dagger,dust of stasis,bottle of mineral oil
 # Amulets
 # -------------------
 # cast large gold nugget -> amulet
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch amulet
 ingred large gold nugget
@@ -3390,6 +3391,7 @@ chance 0
 exp 2000
 diff -25
 # melt amulet -> large gold nugget
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch largenugget
 ingred amulet
@@ -3484,6 +3486,7 @@ ingred amulet,2 potion of wisdom,holy symbol,30 pearl
 # Rings
 # -------------------
 # cast small gold nugget -> ring
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch ring
 ingred small gold nugget
@@ -3494,6 +3497,7 @@ chance 0
 exp 1000
 diff -30
 # melt ring -> small gold nugget
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch smallnugget
 ingred ring
