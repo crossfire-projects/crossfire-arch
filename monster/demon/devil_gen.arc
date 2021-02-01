@@ -19,4 +19,16 @@ level 1
 maxsp 1
 weight 300000
 generator_limit 5
+death_animation broken_generate_devil
+end
+Object broken_generate_devil
+face broken_devil_gen.111
+name broken archway
+weight 400000
+type 98
+subtype 48
+material 64
+value 2500
+nrof 1
+client_type 8011
 end

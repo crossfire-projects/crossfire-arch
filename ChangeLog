@@ -1,3 +1,20 @@
+Add 'broken' generator faces and archetypes.
+monster/animal/bird_gen.arc
+monster/animal/broken_bird_gen.base.111.png
+monster/animal/broken_scorpi_gen.base.111.png
+monster/animal/scorpi_gen.arc
+monster/beholder/behold_gen.arc
+monster/beholder/broken_behold_gen.base.111.png
+monster/demon/broken_devil_gen.base.111.png
+monster/demon/devil_gen.arc
+monster/goblin/broken_gnoll_gen.base.111.png
+monster/goblin/gnoll_gen.arc
+monster/insect/bee/bee_gen.arc
+monster/insect/bee/broken_bee_gen.base.111.png
+monster/misc/broken_pixie_gen.base.111.png
+monster/misc/pixie_gen.arc
+Nicolas Weeger 2021-02-01
+
 Add comments for nuggets-related formulae.
 formulae
 Nicolas Weeger 2021-02-01

@@ -15,4 +15,16 @@ speed -0.003
 maxsp 1
 weight 1000
 generator_limit 5
+death_animation broken_generate_pixie
+end
+Object broken_generate_pixie
+face broken_pixie_gen.111
+name broken pixie generator
+weight 700
+type 98
+subtype 48
+material 64
+value 800
+nrof 1
+client_type 8011
 end
