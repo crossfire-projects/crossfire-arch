@@ -1,3 +1,18 @@
+Add images to the classic faceset for the broken generators.
+This avoids jarring style changes when the classic and base
+images do not match.
+monster/animal/broken_bird_gen.clsc.111.png
+monster/animal/broken_scorpi_gen.clsc.111.png
+monster/demon/broken_devil_gen.clsc.111.png
+monster/giant/broken_giant_gen.clsc.111.png
+monster/undead/broken_skull.clsc.111.png
+monster/undead/broken_generate_ghost.clsc.111.png
+monster/undead/broken_sarcophagus.clsc.111.png
+misc/broken_gravestone.clsc.111.png
+monster/beholder/broken_behold_gen.clsc.111.png
+monster/insect/bee/broken_bee_gen.clsc.111.png
+Daniel Hawkins 2021-02-02
+
 Fix spell effect name.
 spell/Change_Ability/protection_cold_effect.arc
 spell/Change_Ability/protection_fire_effect.arc
