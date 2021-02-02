@@ -1,5 +1,5 @@
 Object protection_fire_effect
-name rage
+name spell effect
 face protection_fire_effect.111
 animation protection_fire_effect
 speed 0.5

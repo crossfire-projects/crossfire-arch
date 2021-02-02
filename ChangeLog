@@ -1,3 +1,9 @@
+Fix spell effect name.
+spell/Change_Ability/protection_cold_effect.arc
+spell/Change_Ability/protection_fire_effect.arc
+spell/Healing/cure_disease_effect.arc
+Nicolas Weeger 2021-02-02
+
 Add 'broken' generator faces and archetypes.
 monster/animal/bird_gen.arc
 monster/animal/broken_bird_gen.base.111.png
