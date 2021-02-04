@@ -1,3 +1,10 @@
+Add zinc filings and a couple recipes to craft poison food.
+crafting/Materials/zinc_filings.arc
+crafting/Materials/zinc_filings.base.111.png
+crafting/Materials/zinc_filings.face
+formulae
+Daniel Hawkins 2021-02-04
+
 Add images to the classic faceset for the broken generators.
 This avoids jarring style changes when the classic and base
 images do not match.

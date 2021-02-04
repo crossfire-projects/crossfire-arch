@@ -4049,6 +4049,51 @@ skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of resist draining
 #
+# Poisoned food:
+# Uses Zinc filings
+# (Zinc is very toxic when ingested)
+# These don't show in random books, and should
+# appear only in some real shady locales
+Object Poison
+arch food
+diff 3
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred food ration,10 zinc filings
+#
+Object Hideous Poison
+arch food
+diff 5
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred food ration,20 zinc filings
+#
+Object Poison
+arch mushroom_1,mushroom_2,mushrrom_3
+diff 4
+exp 100
+chance 0
+trans 1
+skill woodsman
+cauldron stove
+ingred mushroom, 3 zinc filings
+#
+Object Hideous Poison
+arch mushroom_1,mushroom_2,mushroom_3
+diff 6
+exp 100
+chance 0
+trans 1
+skill woodsman
+cauldron stove
+ingred mushroom, 10 zinc filings
+#
 # Misc items that don't fit anywhere else
 Object NONE
 arch dice
@@ -4088,6 +4133,14 @@ Object NONE
 arch silver_filings
 yield 1000
 ingred silver bar
+chance 0
+combination 1
+tool file
+#
+Object NONE
+arch zinc_filings
+yield 1000
+ingred zinc bar
 chance 0
 combination 1
 tool file
