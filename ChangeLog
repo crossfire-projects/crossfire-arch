@@ -1,3 +1,7 @@
+Add name for stonefloor2 so that it shows in in-game as "stone floor"
+floor/stfloor.arc
+Daniel Hawkins 2021-02-05
+
 Add zinc filings and a couple recipes to craft poison food.
 crafting/Materials/zinc_filings.arc
 crafting/Materials/zinc_filings.base.111.png
