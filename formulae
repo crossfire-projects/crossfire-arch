@@ -1601,7 +1601,7 @@ ingred ogre's heart,3 water of the wise,pile of philosophical salt,pirate's hear
 # -- fire immune
 # (quest: peterm/FireTemple)
 Object NONE
-arch potion_cold
+arch potion_fire
 chance 0
 diff 50
 exp 500000
@@ -1613,7 +1613,7 @@ keycode fire alchemist
 #
 # -- cold immune
 Object NONE
-arch potion_fire
+arch potion_cold
 chance 1
 diff 50
 exp 500000
