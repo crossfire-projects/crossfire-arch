@@ -1,3 +1,9 @@
+Add placeholder faces to the classic faceset for wraith feeding
+skill. This prevents jarring style changes when using the wraith
+with the classic face set.
+player/race/wraith_player_feeding.clsc.*
+Daniel Hawkins 2021-02-08
+
 Restyle black fire bullet face to look like new fire bullet face.
 Moved old faces to the classic image set.
 misc/blackfirebullet.base.1*1.png
