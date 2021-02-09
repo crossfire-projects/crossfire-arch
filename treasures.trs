@@ -1732,6 +1732,9 @@ treasureone uncommon_items
   arch ring_spell
     chance 1
   more
+  arch slicingknife
+    chance 2
+  more
   list NONE
     chance 23
   end
