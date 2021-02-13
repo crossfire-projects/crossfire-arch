@@ -24,7 +24,7 @@ Object broken_generate_ghost
 face broken_generate_ghost.111
 name broken tomb
 weight 600000
-type 98
+type 79
 subtype 48
 material 64
 value 3000

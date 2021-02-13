@@ -2,7 +2,7 @@ Object broken_skull
 face broken_skull.111
 name broken skull
 weight 600000
-type 98
+type 79
 subtype 48
 material 64
 value 3000

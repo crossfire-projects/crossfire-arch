@@ -20,7 +20,7 @@ Object broken_generate_scorpion
 face broken_scorpi_gen.111
 name broken scorpion generator
 weight 700
-type 98
+type 79
 subtype 48
 material 64
 value 800

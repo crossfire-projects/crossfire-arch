@@ -21,7 +21,7 @@ Object broken_generate_bee
 face broken_bee_gen.111
 name broken tree
 weight 10000
-type 98
+type 79
 subtype 48
 material 64
 value 700

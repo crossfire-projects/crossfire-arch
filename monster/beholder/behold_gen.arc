@@ -21,7 +21,7 @@ Object broken_generate_beholder
 face broken_behold_gen.111
 name broken beholder hive
 weight 700
-type 98
+type 79
 subtype 48
 material 64
 value 800

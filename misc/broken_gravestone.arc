@@ -1,6 +1,6 @@
 Object broken_gravestone
 face broken_gravestone.111
-type 98
+type 79
 subtype 48
 material 64
 weight 100000
