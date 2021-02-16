@@ -1,3 +1,8 @@
+Add recipes for crafting minor, medium, major, and supreme potions of life.
+Previous supreme recipe is now major.
+formulae
+Daniel Hawkins 2021-02-16
+
 Apply patch #388 Remove default sage NPC message
 by DraugTheWhopper.
 monster/humanoid/Human/c_sage.arc

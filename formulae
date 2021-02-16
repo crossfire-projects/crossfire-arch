@@ -1779,16 +1779,82 @@ skill alchemy
 cauldron cauldron
 ingred potion of mystic power,mushroom of Magic,water of diamond
 #
-# -- restoration
+# -- minor potion of life
 Object NONE
-arch potion_restoration
-chance 7
+arch minor_potion_restoration
+chance 20
+diff 1
+exp 500
+yield 1
+skill alchemy
+cauldron cauldron
+ingred water,booze
+#
+# -- medium potion of life
+Object NONE
+arch medium_potion_restoration
+chance 15
+diff 5
+exp 5000
+yield 3
+skill alchemy
+cauldron cauldron
+ingred troll's liver,2 booze
+#
+# -- medium potion of life (upgrading a minor potion)
+Object NONE
+arch medium_potion_restoration
+chance 15
+diff 5
+exp 4500
+yield 1
+skill alchemy
+cauldron cauldron
+ingred troll's liver,2 minor potion of life
+#
+# -- major potion of life
+Object NONE
+arch major_potion_restoration
+chance 10
 diff 10
 exp 10000
 yield 5
 skill alchemy
 cauldron cauldron
 ingred unicorn horn,3 booze
+#
+# -- major potion of life (upgrading a medium potion)
+Object NONE
+arch major_potion_restoration
+chance 10
+diff 10
+exp 5000
+yield 1
+skill alchemy
+cauldron cauldron
+ingred unicorn horn,3 medium potion of life
+#
+# -- supreme potion of life
+Object NONE
+arch potion_restoration
+chance 5
+diff 20
+exp 25000
+yield 7
+skill alchemy
+cauldron cauldron
+ingred potion of recuperation,2 pile of philosophical salt,4 booze
+#
+# -- supreme potion of life (upgrading a major potion)
+Object NONE
+arch potion_restoration
+chance 5
+diff 20
+exp 15000
+yield 1
+skill alchemy
+cauldron cauldron
+ingred potion of recuperation,pile of philosophical salt,4 major potion of life
 #
 # -- healing recipe #1
 Object NONE
