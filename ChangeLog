@@ -1,3 +1,8 @@
+Apply patch #387: Fix guard dialog so he responds to the player
+by DraugTheWhopper.
+monster/humanoid/Human/c_sage.arc
+Nicolas Weeger 2021-02-16
+
 Make broken generators 'misc' instead of 'sign'.
 misc/broken_gravestone.arc
 monster/animal/bird_gen.arc
