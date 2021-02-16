@@ -1,4 +1,4 @@
-Apply patch #387: Fix guard dialog so he responds to the player
+Apply patch #388 Remove default sage NPC message
 by DraugTheWhopper.
 monster/humanoid/Human/c_sage.arc
 Nicolas Weeger 2021-02-16
