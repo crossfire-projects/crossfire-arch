@@ -2241,7 +2241,7 @@ animation_suffix frost
 end
 #
 # Because rod of wonder wasn't enough >:)
-Allowed horn,shell_horn
+Allowed horn,shell horn
 chance 1
 Object Mysteries
 type 3
