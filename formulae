@@ -452,6 +452,61 @@ skill smithery
 cauldron forge
 ingred 2 steel bar,brass bar
 #
+# bronze broadsword
+Object NONE
+arch b_bsword_1
+chance 6
+diff 10
+exp 2000
+yield 2
+skill smithery
+cauldron forge
+ingred 3 bronze bar,brass bar
+#
+# iron broadsword
+Object NONE
+arch bsword_1
+chance 5
+diff 11
+exp 2200
+yield 2
+skill smithery
+cauldron forge
+ingred 3 iron bar,brass bar
+#
+# iron long sword
+Object NONE
+arch sword_1
+chance 4
+diff 12
+exp 2250
+yield 3
+skill smithery
+cauldron forge
+ingred 3 iron bar,2 brass bar
+#
+# bronze long sword
+Object NONE
+arch b_sword_1
+chance 5
+diff 11
+exp 2100
+yield 3
+skill smithery
+cauldron forge
+ingred 3 bronze bar,2 brass bar
+#
+# two-handed sword
+Object NONE
+arch sword_3
+chance 3
+diff 15
+exp 2500
+yield 2
+skill smithery
+cauldron forge
+ingred 4 iron bar,brass bar
+#
 # ----------------
 # Silvered weapons
 # ----------------
