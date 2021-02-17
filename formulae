@@ -485,6 +485,17 @@ skill smithery
 cauldron forge
 ingred 3 iron bar,2 brass bar
 #
+# iron sword
+Object NONE
+arch sword_4
+chance 4
+diff 12
+exp 2250
+yield 3
+skill smithery
+cauldron forge
+ingred 2 iron bar,2 brass bar
+#
 # bronze long sword
 Object NONE
 arch b_sword_1
