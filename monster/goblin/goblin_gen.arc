@@ -7,7 +7,7 @@ face goblin_gen.111
 hp 30
 maxhp 30
 ac 8
-exp 100
+exp 50
 alive 1
 level 1
 no_pick 1
