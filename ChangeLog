@@ -1,3 +1,14 @@
+Make messengers and light angels less similar in stats, to warrant their large difference in XP rewarded.
+Swap a couple stats that were higher on the light angel, presumably from when regens were affected by speed.
+Give messengers 80% blind resistance.
+Move light angels down to level 17 from 20. Move messengers up to level 22 from 21.
+Reduce light angels to 450 health from 500, increase messengers from 500 to 600 health.
+Reduce light angel's wc to -8 from -10.
+Reduce messengers to 70k XP from 80k XP.
+monster/angel/liteangel.arc
+monster/angel/mesangel.arc
+Daniel Hawkins 2021-02-21
+
 New art for kobold generator that puts it in perspective.
 monster/goblin/kobold_gen.base.111.png
 Daniel Hawkins 2021-02-20
