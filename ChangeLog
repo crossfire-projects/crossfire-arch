@@ -1,3 +1,7 @@
+Give kobold generator flavorful name: "kobold hole"
+monster/goblin/kobold_gen.arc
+Daniel Hawkins 2021-02-20
+
 Reduce goblin generator XP from 100 to 50.
 monster/goblin/goblin_gen.arc
 Daniel Hawkins 2021-02-20

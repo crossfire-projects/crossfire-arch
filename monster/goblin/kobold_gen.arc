@@ -1,7 +1,7 @@
 Object generate_kobold
 race goblin
 other_arch kobold
-name generator
+name kobold hole
 generator 1
 face kobold_gen.111
 hp 20
