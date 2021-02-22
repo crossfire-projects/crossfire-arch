@@ -8,4 +8,5 @@ nrof 1
 is_animated 1
 weight 100
 client_type 2030
+value 576
 end
