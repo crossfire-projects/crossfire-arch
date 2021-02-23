@@ -1,3 +1,9 @@
+Give greater dwarven guards enough wc to actually hit things
+wc 20 -> 2 (this is improvement, since negative wc is better)
+dam 12-> 22
+monster/humanoid/Dwarf/greater_dwarven_guard.arc
+Daniel Hawkins 2021-02-23
+
 Give a value to dice.
 misc/dice.arc
 Nicolas Weeger 2021-02-22

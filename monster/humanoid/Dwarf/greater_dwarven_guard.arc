@@ -15,8 +15,8 @@ move_type walk
 attack_movement 4
 alive 1
 ac -5
-wc 20
-dam 12
+wc 2
+dam 22
 hp 600
 maxhp 600
 exp 20000
