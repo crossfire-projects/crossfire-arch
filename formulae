@@ -2159,6 +2159,7 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,dragon's claw
 #
+# Those 2 recipes are given by the "dragon hunter" quest, started in Wolfsburg.
 #
 Object Assassinating Dragons
 arch bolt
@@ -2171,7 +2172,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,dragon's heart,water of emerald,scorpion's stinger
 #
-#
 Object Assassinating Dragons
 arch arrow
 chance 0
@@ -2182,6 +2182,7 @@ trans 1
 skill bowyer
 cauldron workbench
 ingred 20 arrow,dragon's heart,water of emerald,scorpion's stinger
+#
 #
 Object Assassinating Trolls
 arch bolt
