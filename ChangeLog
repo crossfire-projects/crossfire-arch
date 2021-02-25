@@ -1,3 +1,10 @@
+Adjust the spawn rate for literacy and use magic item scrolls.
+literacy chance 15 -> 8, use magic item chance 1 -> 8.
+Since barbarians no longer get UMI out-of-the-box, there
+needs to be a reasonable chance to get it.
+treasures.trs
+Daniel Hawkins 2021-02-25
+
 Adjust the value on spell rings to not be insanely expensive.
 spell/Wand/spell_ring.arc
 Daniel Hawkins 2021-02-25

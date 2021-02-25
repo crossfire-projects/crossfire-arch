@@ -131,8 +131,11 @@ treasureone random_knowledge
     chance 8
   more
 # levitation is not something to be learned
+# Everyone but barbarians start with literacy.
+# And the libraries have a skill scroll there every time.
+# So we can reduce this a little without too much issue.
   arch scroll_literacy
-    chance 15
+    chance 8
   more
 # not knowledge per se, but is a random skill
   arch lockpicks
@@ -189,9 +192,9 @@ treasureone random_knowledge
   arch scroll_two_handed_weapons
     chance 10
   more
-# use magic is a native ability, but give slight chance for unclassed players
+# Barbarians lack use magic item. So they should have a viable path to get this.
   arch scroll_use_magic_item
-    chance 1
+    chance 8
   more
   arch scroll_woodsman
     chance 10
