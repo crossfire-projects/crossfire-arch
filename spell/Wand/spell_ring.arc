@@ -6,7 +6,7 @@ face ring.110
 identified_face ring.117
 speed 0.02
 type 3
-value 5000
+value 150
 hp 1
 maxhp 1
 weight 20

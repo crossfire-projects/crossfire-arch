@@ -1,3 +1,7 @@
+Adjust the value on spell rings to not be insanely expensive.
+spell/Wand/spell_ring.arc
+Daniel Hawkins 2021-02-25
+
 Add faces for arrows and bolts of Assassinating Dragons.
 artifacts
 weapon/bow/arrow_assassinating_dragon.base.101.png
