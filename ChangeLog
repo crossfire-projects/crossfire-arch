@@ -1,3 +1,27 @@
+Add faces for arrows and bolts of Assassinating Dragons.
+artifacts
+weapon/bow/arrow_assassinating_dragon.base.101.png
+weapon/bow/arrow_assassinating_dragon.base.111.png
+weapon/bow/arrow_assassinating_dragon.base.121.png
+weapon/bow/arrow_assassinating_dragon.base.131.png
+weapon/bow/arrow_assassinating_dragon.base.141.png
+weapon/bow/arrow_assassinating_dragon.base.151.png
+weapon/bow/arrow_assassinating_dragon.base.161.png
+weapon/bow/arrow_assassinating_dragon.base.171.png
+weapon/bow/arrow_assassinating_dragon.base.181.png
+weapon/bow/arrow_assassinating_dragon.face
+weapon/bow/bolt_assassinating_dragon.base.101.png
+weapon/bow/bolt_assassinating_dragon.base.111.png
+weapon/bow/bolt_assassinating_dragon.base.121.png
+weapon/bow/bolt_assassinating_dragon.base.131.png
+weapon/bow/bolt_assassinating_dragon.base.141.png
+weapon/bow/bolt_assassinating_dragon.base.151.png
+weapon/bow/bolt_assassinating_dragon.base.161.png
+weapon/bow/bolt_assassinating_dragon.base.171.png
+weapon/bow/bolt_assassinating_dragon.base.181.png
+weapon/bow/bolt_assassinating_dragon.face
+Nicolas Weeger 2021-02-25
+
 Note on recipes of Assassinating Dragons.
 formulae
 Nicolas Weeger 2021-02-23
