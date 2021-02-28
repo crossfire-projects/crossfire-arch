@@ -1,5 +1,5 @@
 Object cure_disease_effect
-name rage
+name spell effect
 face cure_disease_effect.111
 animation cure_disease_effect
 speed 0.5

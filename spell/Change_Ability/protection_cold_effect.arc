@@ -1,5 +1,5 @@
 Object protection_cold_effect
-name rage
+name spell effect
 face protection_cold_effect.111
 animation protection_cold_effect
 speed 0.5

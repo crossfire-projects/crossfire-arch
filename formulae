@@ -452,6 +452,72 @@ skill smithery
 cauldron forge
 ingred 2 steel bar,brass bar
 #
+# bronze broadsword
+Object NONE
+arch b_bsword_1
+chance 6
+diff 10
+exp 2000
+yield 2
+skill smithery
+cauldron forge
+ingred 3 bronze bar,brass bar
+#
+# iron broadsword
+Object NONE
+arch bsword_1
+chance 5
+diff 11
+exp 2200
+yield 2
+skill smithery
+cauldron forge
+ingred 3 iron bar,brass bar
+#
+# iron long sword
+Object NONE
+arch sword_1
+chance 4
+diff 12
+exp 2250
+yield 3
+skill smithery
+cauldron forge
+ingred 3 iron bar,2 brass bar
+#
+# iron sword
+Object NONE
+arch sword_4
+chance 4
+diff 12
+exp 2250
+yield 3
+skill smithery
+cauldron forge
+ingred 2 iron bar,2 brass bar
+#
+# bronze long sword
+Object NONE
+arch b_sword_1
+chance 5
+diff 11
+exp 2100
+yield 3
+skill smithery
+cauldron forge
+ingred 3 bronze bar,2 brass bar
+#
+# two-handed sword
+Object NONE
+arch sword_3
+chance 3
+diff 15
+exp 2500
+yield 2
+skill smithery
+cauldron forge
+ingred 4 iron bar,brass bar
+#
 # ----------------
 # Silvered weapons
 # ----------------
@@ -1601,7 +1667,7 @@ ingred ogre's heart,3 water of the wise,pile of philosophical salt,pirate's hear
 # -- fire immune
 # (quest: peterm/FireTemple)
 Object NONE
-arch potion_cold
+arch potion_fire
 chance 0
 diff 50
 exp 500000
@@ -1613,7 +1679,7 @@ keycode fire alchemist
 #
 # -- cold immune
 Object NONE
-arch potion_fire
+arch potion_cold
 chance 1
 diff 50
 exp 500000
@@ -1779,16 +1845,82 @@ skill alchemy
 cauldron cauldron
 ingred potion of mystic power,mushroom of Magic,water of diamond
 #
-# -- restoration
+# -- minor potion of life
 Object NONE
-arch potion_restoration
-chance 7
+arch minor_potion_restoration
+chance 20
+diff 1
+exp 500
+yield 1
+skill alchemy
+cauldron cauldron
+ingred water,booze
+#
+# -- medium potion of life
+Object NONE
+arch medium_potion_restoration
+chance 15
+diff 5
+exp 5000
+yield 3
+skill alchemy
+cauldron cauldron
+ingred troll's liver,2 booze
+#
+# -- medium potion of life (upgrading a minor potion)
+Object NONE
+arch medium_potion_restoration
+chance 15
+diff 5
+exp 4500
+yield 1
+skill alchemy
+cauldron cauldron
+ingred troll's liver,2 minor potion of life
+#
+# -- major potion of life
+Object NONE
+arch major_potion_restoration
+chance 10
 diff 10
 exp 10000
 yield 5
 skill alchemy
 cauldron cauldron
 ingred unicorn horn,3 booze
+#
+# -- major potion of life (upgrading a medium potion)
+Object NONE
+arch major_potion_restoration
+chance 10
+diff 10
+exp 5000
+yield 1
+skill alchemy
+cauldron cauldron
+ingred unicorn horn,3 medium potion of life
+#
+# -- supreme potion of life
+Object NONE
+arch potion_restoration
+chance 5
+diff 20
+exp 25000
+yield 7
+skill alchemy
+cauldron cauldron
+ingred potion of recuperation,2 pile of philosophical salt,4 booze
+#
+# -- supreme potion of life (upgrading a major potion)
+Object NONE
+arch potion_restoration
+chance 5
+diff 20
+exp 15000
+yield 1
+skill alchemy
+cauldron cauldron
+ingred potion of recuperation,pile of philosophical salt,4 major potion of life
 #
 # -- healing recipe #1
 Object NONE
@@ -2027,6 +2159,7 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,dragon's claw
 #
+# Those 2 recipes are given by the "dragon hunter" quest, started in Wolfsburg.
 #
 Object Assassinating Dragons
 arch bolt
@@ -2039,7 +2172,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,dragon's heart,water of emerald,scorpion's stinger
 #
-#
 Object Assassinating Dragons
 arch arrow
 chance 0
@@ -2050,6 +2182,7 @@ trans 1
 skill bowyer
 cauldron workbench
 ingred 20 arrow,dragon's heart,water of emerald,scorpion's stinger
+#
 #
 Object Assassinating Trolls
 arch bolt
@@ -3380,6 +3513,7 @@ ingred dagger,dust of stasis,bottle of mineral oil
 # Amulets
 # -------------------
 # cast large gold nugget -> amulet
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch amulet
 ingred large gold nugget
@@ -3390,6 +3524,7 @@ chance 0
 exp 2000
 diff -25
 # melt amulet -> large gold nugget
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch largenugget
 ingred amulet
@@ -3484,6 +3619,7 @@ ingred amulet,2 potion of wisdom,holy symbol,30 pearl
 # Rings
 # -------------------
 # cast small gold nugget -> ring
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch ring
 ingred small gold nugget
@@ -3494,6 +3630,7 @@ chance 0
 exp 1000
 diff -30
 # melt ring -> small gold nugget
+# This recipe is in a jeweler's guide, so chance 0.
 Object NONE
 arch smallnugget
 ingred ring
@@ -4045,6 +4182,51 @@ skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of resist draining
 #
+# Poisoned food:
+# Uses Zinc filings
+# (Zinc is very toxic when ingested)
+# These don't show in random books, and should
+# appear only in some real shady locales
+Object Poison
+arch food
+diff 3
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred food ration,10 zinc filings
+#
+Object Hideous Poison
+arch food
+diff 5
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred food ration,20 zinc filings
+#
+Object Poison
+arch mushroom_1,mushroom_2,mushrrom_3
+diff 4
+exp 100
+chance 0
+trans 1
+skill woodsman
+cauldron stove
+ingred mushroom, 3 zinc filings
+#
+Object Hideous Poison
+arch mushroom_1,mushroom_2,mushroom_3
+diff 6
+exp 100
+chance 0
+trans 1
+skill woodsman
+cauldron stove
+ingred mushroom, 10 zinc filings
+#
 # Misc items that don't fit anywhere else
 Object NONE
 arch dice
@@ -4084,6 +4266,14 @@ Object NONE
 arch silver_filings
 yield 1000
 ingred silver bar
+chance 0
+combination 1
+tool file
+#
+Object NONE
+arch zinc_filings
+yield 1000
+ingred zinc bar
 chance 0
 combination 1
 tool file

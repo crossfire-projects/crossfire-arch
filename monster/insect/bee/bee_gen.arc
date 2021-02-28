@@ -15,4 +15,16 @@ speed 0.02
 maxsp 1
 weight 10000
 generator_limit 5
+death_animation broken_generate_bee
+end
+Object broken_generate_bee
+face broken_bee_gen.111
+name broken tree
+weight 10000
+type 79
+subtype 48
+material 64
+value 700
+nrof 1
+client_type 8011
 end

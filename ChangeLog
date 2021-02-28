@@ -1,3 +1,220 @@
+Adjust the spawn rate for literacy and use magic item scrolls.
+literacy chance 15 -> 8, use magic item chance 1 -> 8.
+Since barbarians no longer get UMI out-of-the-box, there
+needs to be a reasonable chance to get it.
+treasures.trs
+Daniel Hawkins 2021-02-25
+
+Adjust the value on spell rings to not be insanely expensive.
+spell/Wand/spell_ring.arc
+Daniel Hawkins 2021-02-25
+
+Add faces for arrows and bolts of Assassinating Dragons.
+artifacts
+weapon/bow/arrow_assassinating_dragon.base.101.png
+weapon/bow/arrow_assassinating_dragon.base.111.png
+weapon/bow/arrow_assassinating_dragon.base.121.png
+weapon/bow/arrow_assassinating_dragon.base.131.png
+weapon/bow/arrow_assassinating_dragon.base.141.png
+weapon/bow/arrow_assassinating_dragon.base.151.png
+weapon/bow/arrow_assassinating_dragon.base.161.png
+weapon/bow/arrow_assassinating_dragon.base.171.png
+weapon/bow/arrow_assassinating_dragon.base.181.png
+weapon/bow/arrow_assassinating_dragon.face
+weapon/bow/bolt_assassinating_dragon.base.101.png
+weapon/bow/bolt_assassinating_dragon.base.111.png
+weapon/bow/bolt_assassinating_dragon.base.121.png
+weapon/bow/bolt_assassinating_dragon.base.131.png
+weapon/bow/bolt_assassinating_dragon.base.141.png
+weapon/bow/bolt_assassinating_dragon.base.151.png
+weapon/bow/bolt_assassinating_dragon.base.161.png
+weapon/bow/bolt_assassinating_dragon.base.171.png
+weapon/bow/bolt_assassinating_dragon.base.181.png
+weapon/bow/bolt_assassinating_dragon.face
+Nicolas Weeger 2021-02-25
+
+Note on recipes of Assassinating Dragons.
+formulae
+Nicolas Weeger 2021-02-23
+
+Give greater dwarven guards enough wc to actually hit things
+wc 20 -> 2 (this is improvement, since negative wc is better)
+dam 12-> 22
+monster/humanoid/Dwarf/greater_dwarven_guard.arc
+Daniel Hawkins 2021-02-23
+
+Give a value to dice.
+misc/dice.arc
+Nicolas Weeger 2021-02-22
+
+Make messengers and light angels less similar in stats, to warrant their large difference in XP rewarded.
+Swap a couple stats that were higher on the light angel, presumably from when regens were affected by speed.
+Give messengers 80% blind resistance.
+Move light angels down to level 17 from 20. Move messengers up to level 22 from 21.
+Reduce light angels to 450 health from 500, increase messengers from 500 to 600 health.
+Reduce light angel's wc to -8 from -10.
+Reduce messengers to 70k XP from 80k XP.
+monster/angel/liteangel.arc
+monster/angel/mesangel.arc
+Daniel Hawkins 2021-02-21
+
+New art for kobold generator that puts it in perspective.
+monster/goblin/kobold_gen.base.111.png
+Daniel Hawkins 2021-02-20
+
+Give kobold generator flavorful name: "kobold hole"
+monster/goblin/kobold_gen.arc
+Daniel Hawkins 2021-02-20
+
+Reduce goblin generator XP from 100 to 50.
+monster/goblin/goblin_gen.arc
+Daniel Hawkins 2021-02-20
+
+Fix allowed item for horn of Mysteries.
+artifacts
+Nicolas Weeger 2021-02-17
+
+Add recipe for a regular sword.
+formulae
+Nicolas Weeger 2021-02-17
+
+Add recipes for making long swords, broadswords, and a two-handed sword.
+formulae
+Daniel Hawkins 2021-02-16
+
+Introduce some crossover in treasure between random_inorganic and random_ore
+treasures.trs
+Daniel Hawkins 2021-02-16
+
+Add recipes for crafting minor, medium, major, and supreme potions of life.
+Previous supreme recipe is now major.
+formulae
+Daniel Hawkins 2021-02-16
+
+Apply patch #388 Remove default sage NPC message
+by DraugTheWhopper.
+monster/humanoid/Human/c_sage.arc
+Nicolas Weeger 2021-02-16
+
+Make broken generators 'misc' instead of 'sign'.
+misc/broken_gravestone.arc
+monster/animal/bird_gen.arc
+monster/animal/scorpi_gen.arc
+monster/beholder/behold_gen.arc
+monster/demon/devil_gen.arc
+monster/dragon/dragoncave.arc
+monster/giant/giant_gen.arc
+monster/goblin/gnoll_gen.arc
+monster/insect/bee/bee_gen.arc
+monster/misc/pixie_gen.arc
+monster/undead/broken_sarcophagus.arc
+monster/undead/broken_skull.arc
+monster/undead/ghost_gen.arc
+Nicolas Weeger 2021-02-13
+
+Add animation for Valkyrie's altar.
+gods/altars/altarvalk.arc
+gods/altars/altarvalk.base.121.png
+gods/altars/altarvalk.face
+Nicolas Weeger 2021-02-09
+
+Change recipes for potion of fire and cold resistance, based on the contents of the Fire Temple quest.
+formulae
+Nicolas Weeger 2021-02-09
+
+Add slicing knife to uncommon items treasure list.
+treasures.trs
+Nicolas Weeger 2021-02-09
+
+Add placeholder faces to the classic faceset for wraith feeding
+skill. This prevents jarring style changes when using the wraith
+with the classic face set.
+player/race/wraith_player_feeding.clsc.*
+Daniel Hawkins 2021-02-08
+
+Restyle black fire bullet face to look like new fire bullet face.
+Moved old faces to the classic image set.
+misc/blackfirebullet.base.1*1.png
+misc/blackfirebullet.clsc.1*1.png
+Daniel Hawkins 2021-02-07
+
+New image for firebullet. Moved old image to classic image set.
+spell/Bullet/Fire/firebullet.base.1*1.png
+spell/Bullet/Fire/firebullet.clsc.1*1.png
+Daniel Hawkins 2021-02-06
+
+Add name for stonefloor2 so that it shows in in-game as "stone floor"
+floor/stfloor.arc
+Daniel Hawkins 2021-02-05
+
+Add zinc filings and a couple recipes to craft poison food.
+crafting/Materials/zinc_filings.arc
+crafting/Materials/zinc_filings.base.111.png
+crafting/Materials/zinc_filings.face
+formulae
+Daniel Hawkins 2021-02-04
+
+Add images to the classic faceset for the broken generators.
+This avoids jarring style changes when the classic and base
+images do not match.
+monster/animal/broken_bird_gen.clsc.111.png
+monster/animal/broken_scorpi_gen.clsc.111.png
+monster/demon/broken_devil_gen.clsc.111.png
+monster/giant/broken_giant_gen.clsc.111.png
+monster/undead/broken_skull.clsc.111.png
+monster/undead/broken_generate_ghost.clsc.111.png
+monster/undead/broken_sarcophagus.clsc.111.png
+misc/broken_gravestone.clsc.111.png
+monster/beholder/broken_behold_gen.clsc.111.png
+monster/insect/bee/broken_bee_gen.clsc.111.png
+Daniel Hawkins 2021-02-02
+
+Fix spell effect name.
+spell/Change_Ability/protection_cold_effect.arc
+spell/Change_Ability/protection_fire_effect.arc
+spell/Healing/cure_disease_effect.arc
+Nicolas Weeger 2021-02-02
+
+Add 'broken' generator faces and archetypes.
+monster/animal/bird_gen.arc
+monster/animal/broken_bird_gen.base.111.png
+monster/animal/broken_scorpi_gen.base.111.png
+monster/animal/scorpi_gen.arc
+monster/beholder/behold_gen.arc
+monster/beholder/broken_behold_gen.base.111.png
+monster/demon/broken_devil_gen.base.111.png
+monster/demon/devil_gen.arc
+monster/goblin/broken_gnoll_gen.base.111.png
+monster/goblin/gnoll_gen.arc
+monster/insect/bee/bee_gen.arc
+monster/insect/bee/broken_bee_gen.base.111.png
+monster/misc/broken_pixie_gen.base.111.png
+monster/misc/pixie_gen.arc
+Nicolas Weeger 2021-02-01
+
+Add comments for nuggets-related formulae.
+formulae
+Nicolas Weeger 2021-02-01
+
+Add 'broken' generator faces and archetypes.
+monster/dragon/broken_dragoncave.base.111.png
+monster/dragon/broken_dragoncave_blue.base.111.png
+monster/dragon/broken_dragoncave_green.base.111.png
+monster/dragon/dragoncave.arc
+monster/giant/broken_giant_gen.base.111.png
+monster/giant/giant_gen.arc
+monster/undead/broken_generate_ghost.base.111.png
+monster/undead/broken_skull.arc
+monster/undead/broken_skull.base.111.png
+monster/undead/ghost_gen.arc
+monster/undead/skull_gen.arc
+Nicolas Weeger 2021-02-01
+
+Add a jeweler guide for making rings and amulets from nuggets, and vice-versa.
+readable/guide/guide_jeweler.arc
+readable/guide/guide_jeweler.base.111.png
+Nicolas Weeger 2021-02-01
+
 Make drop green to reflect poison.
 traps/needle.base.111.png
 Nicolas Weeger 2021-01-30

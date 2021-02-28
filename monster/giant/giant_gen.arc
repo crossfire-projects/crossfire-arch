@@ -14,4 +14,16 @@ no_pick 1
 maxsp 1
 weight 30000
 generator_limit 5
+death_animation broken_generate_giant
+end
+Object broken_generate_giant
+face broken_giant_gen.111
+name broken tree
+weight 600000
+type 79
+subtype 48
+material 64
+value 3000
+nrof 1
+client_type 8011
 end

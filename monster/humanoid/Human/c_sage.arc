@@ -2,10 +2,6 @@ Object c_sage
 randomitems jail
 name sage
 race human
-msg
-@match *
-I'm too busy to answer your queries.
-endmsg
 face sage.151
 animation c_sage
 Pow 5

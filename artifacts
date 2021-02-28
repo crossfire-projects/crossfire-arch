@@ -2241,7 +2241,7 @@ animation_suffix frost
 end
 #
 # Because rod of wonder wasn't enough >:)
-Allowed horn,shell_horn
+Allowed horn,shell horn
 chance 1
 Object Mysteries
 type 3
@@ -3311,8 +3311,8 @@ dam -20
 food 100
 nrof 10
 resist_fire 100
-
 level 50
+animation_suffix assassinating_dragon
 end
 #
 Allowed all

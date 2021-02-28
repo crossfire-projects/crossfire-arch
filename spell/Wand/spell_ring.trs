@@ -1,0 +1,89 @@
+treasureone ring_spell
+  arch spell_small_fireball
+    nrof 40
+    chance 8
+  more
+  arch spell_small_snowstorm
+    nrof 40
+    chance 8
+  more
+  arch spell_poison_cloud
+    nrof 30
+    chance 4
+  more
+  arch spell_fear
+    nrof 25
+    chance 8
+  more
+  arch spell_slow
+    nrof 30
+    chance 6
+  more
+  arch spell_wonder
+    nrof 20
+    chance 4
+  more
+  arch spell_dimension_door
+    nrof 8
+    chance 5
+  more
+  arch spell_magic_mapping
+    nrof 20
+    chance 5
+  more
+  arch spell_create_earth_wall
+    nrof 12
+    chance 4
+  more
+  arch spell_counterwall
+    nrof 30
+    chance 5
+  more
+  arch spell_probe
+    nrof 40
+    chance 5
+  more
+  arch spell_detect_magic
+    nrof 50
+    chance 5
+  more
+  arch spell_show_invisible
+    nrof 8
+    chance 4
+  more
+  arch spell_minor_healing
+    nrof 40
+    chance 3
+  more
+  arch spell_perceive_self
+    nrof 20
+    chance 5
+  more
+  arch spell_xray
+    nrof 3
+    chance 3
+  more
+  arch spell_searing_weapon
+    nrof 3
+    chance 7
+  more
+  arch spell_dark_vision
+    nrof 4
+    chance 9
+  more
+  arch spell_summon_water_elemental
+    nrof 6
+    chance 4
+  more
+  arch spell_summon_air_elemental
+    nrof 6
+    chance 4
+  more
+  arch spell_summon_fire_elemental
+    nrof 6
+    chance 4
+  more
+  arch spell_summon_earth_elemental
+    nrof 6
+    chance 4
+end
