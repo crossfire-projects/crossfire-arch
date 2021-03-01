@@ -1,3 +1,7 @@
+Fix some incorrect arches in the formula list
+formulae
+Daniel Hawkins 2021-03-01
+
 Adjust the spawn rate for literacy and use magic item scrolls.
 literacy chance 15 -> 8, use magic item chance 1 -> 8.
 Since barbarians no longer get UMI out-of-the-box, there
