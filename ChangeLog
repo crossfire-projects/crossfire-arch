@@ -1,3 +1,7 @@
+Make puddles more transparent.
+ground/Weather/rain*.base.111.png
+Daniel Hawkins 2021-03-03
+
 Decrease probability of blue dragon scale for electric dragons.
 monster/dragon/Electric/elec_dr.trs
 Nicolas Weeger 2021-03-03
