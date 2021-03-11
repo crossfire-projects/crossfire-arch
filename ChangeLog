@@ -1,3 +1,8 @@
+Utilize new level-scaling attributes for the mimic type.
+This should rebalance mimics to be an appropriate challenge for the random map level they are on.
+monster/mimic/mimic.arc
+Daniel Hawkins 2021-03-11
+
 New art for deposit box in the cavalier perspective.
 Shifted old art to classic face set.
 misc/Container/close_dbox.base.111.png
