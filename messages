@@ -429,6 +429,7 @@ ENDMSG
 MSG G-034
 TITLE Preparing Weapons
 CHANCE 1
+FACE prepare_weapon.111
 TEXT
 Sven opened his pouch and poured diamonds onto the floor beneath his feet. Hundreds, thousands clattered to the floor before my eyes. I had never seen so many gems at once.
 Sven, noticing my jaw agape, smiled, and pulled out a scroll. "The gods like their shinies," he quipped, then began to read from the scroll, holding his prized sword high as he chanted the words.
