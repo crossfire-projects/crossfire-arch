@@ -1,3 +1,8 @@
+Add new book message that describes using a Prepare Weapon scroll
+as an anecdote of an onlooker.
+messages
+Daniel Hawkins 2021-03-11
+
 Utilize new level-scaling attributes for the mimic type.
 This should rebalance mimics to be an appropriate challenge for the random map level they are on.
 monster/mimic/mimic.arc

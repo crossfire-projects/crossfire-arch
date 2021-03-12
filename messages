@@ -12,14 +12,14 @@
 #  If set then players will keep the message as part of their knowledge when read.
 #  Do NOT reuse identifiers if changing messages.
 # TITLE <title>: message's title, for knowledge management. Mandatory if
-#  the message has an identifier, else unused.
+#  the message has an identifier, else unused.
 # CHANCE <chance>: optional chance of the message appearing in a book, relative
 #  to the sum of all chances. 0 or no line means this message will never appear.
 # TEXT: start of the message's body
-# ENDMSG: marks the end of a message's body and message.
+# ENDMSG: marks the end of a message's body and message.
 # QUEST: optional quest internal code and state this message will activate.
 #  Example: "QUEST TempleOfDoom 0>10" will set the quest 'TempleOfDoom' to state 10
-#  if the player didn't yet do it.
+#  if the player didn't yet do it.
 #
 # TEXT must be the last item in a MSG block.
 #
@@ -425,4 +425,12 @@ TEXT
 Travelers refilling their empty bottles at fountains around the world often claim that water from their home town tastes the best. This apparent conundrum was settled by leading alchemists from Nurnberg, who found no material differences between bottles of water collected from various fountains around the world.
 
 Still, this was not enough reason to sway the fanciful; some claim that fantastic things happen when they 'dip' their empty bottles or other belongings into fountains.
+ENDMSG
+MSG G-034
+TITLE Preparing Weapons
+CHANCE 1
+TEXT
+Sven opened his pouch and poured diamonds onto the floor beneath his feet. Hundreds, thousands clattered to the floor before my eyes. I had never seen so many gems at once.
+Sven, noticing my jaw agape, smiled, and pulled out a scroll. "The gods like their shinies," he quipped, then began to read from the scroll, holding his prized sword high as he chanted the words.
+As quickly as they had come, the gems vanished, not into a pouch, but into the beyond. A bright flash of light left me blinking for a few seconds; next I saw, Sven had lowered his sword, admiring the anticipatory sheen it had acquired.
 ENDMSG
