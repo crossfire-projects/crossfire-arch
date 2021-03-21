@@ -81,6 +81,7 @@ ENDMSG
 MSG G-004
 TITLE Map of western world
 CHANCE 1
+FACE map.111
 TEXT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~
@@ -110,6 +111,7 @@ ENDMSG
 MSG G-005
 TITLE Alchemy attempt
 CHANCE 1
+FACE cauldron.111
 TEXT
 ...and then did the Alchemist agree to make me my potion.
 
@@ -124,6 +126,7 @@ ENDMSG
 MSG G-006
 TITLE Alchemy basics
 CHANCE 1
+FACE cauldron_open.111
 TEXT
   Know that there are 4 principle philosophical ingredients. In order, they are:
 
@@ -280,6 +283,7 @@ ENDMSG
 MSG G-023
 TITLE The Enchanted Music
 CHANCE 1
+FACE violin.117
 TEXT
 Many said that, if the Enchanted Music could be found, it would open the gates of many treasures, but because none of the former Euthvillians survived, and because nobody knows where the Boy went afterwards, those gates are still closed. I’ve heard that the School of Daemonology was precisely founded to rediscover that spell. But who am I to claim this to be true? I’m only a man of the past that tells stories before a fire, and the fire is dying, and so has my tale reached the end.
 ENDMSG
@@ -351,6 +355,7 @@ ENDMSG
 MSG G-029
 TITLE Glowing Crystals
 CHANCE 1
+FACE power_crystal.111
 TEXT
 Glowing Crystals are the dream of every magician.
 
@@ -364,7 +369,7 @@ MSG G-030
 TITLE The Dark Forest
 CHANCE 1
 QUEST scorn/DarkForest 0>10
-FACE power_crystal.111
+FACE darkforest.111
 TEXT
 And thus the Glowing Crystal was stolen from Scorn's City Hall.
 
@@ -421,6 +426,7 @@ ENDMSG
 MSG G-033
 TITLE Who has the best water?
 CHANCE 1
+FACE fountain.112
 TEXT
 Travelers refilling their empty bottles at fountains around the world often claim that water from their home town tastes the best. This apparent conundrum was settled by leading alchemists from Nurnberg, who found no material differences between bottles of water collected from various fountains around the world.
 
