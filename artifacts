@@ -406,6 +406,20 @@ endmsg
 item_power 2
 end
 #
+Allowed club,morningstar,large_morningstar,big_club,mace,mace_2,sflail1
+chance 3
+Object the Brute
+type 15
+value 3
+dam 15
+wc 1
+ac -5
+msg
+  Bash first, ask questions never.
+endmsg
+item_power 5
+end
+#
 Allowed all
 chance 5
 Object Ixalovh

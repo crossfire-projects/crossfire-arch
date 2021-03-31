@@ -465,7 +465,7 @@ ingred 3 bronze bar,brass bar
 #
 # iron broadsword
 Object NONE
-arch bsword_1
+arch broadsword
 chance 5
 diff 11
 exp 2200
@@ -476,7 +476,7 @@ ingred 3 iron bar,brass bar
 #
 # iron long sword
 Object NONE
-arch sword_1
+arch sword
 chance 4
 diff 12
 exp 2250
@@ -4208,7 +4208,7 @@ cauldron stove
 ingred food ration,20 zinc filings
 #
 Object Poison
-arch mushroom_1,mushroom_2,mushrrom_3
+arch mushroom_1,mushroom_2,mushroom_3
 diff 4
 exp 100
 chance 0

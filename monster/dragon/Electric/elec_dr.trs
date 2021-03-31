@@ -12,6 +12,7 @@ treasure big_elec
   chance 90
   more
   arch blue_dragon_scale
+  chance 75
   more
   arch wand
   more

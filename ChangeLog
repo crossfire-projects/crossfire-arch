@@ -1,3 +1,47 @@
+Add faces to random messages.
+messages
+Nicolas Weeger 2021-03-21
+
+Add bludgeoning weapons of "the Brute", which do more damage at the expense
+of a sizable amount of AC. Do more damage, take more damage.
+artifacts
+Daniel Hawkins 2021-03-18
+
+Amend book message to use the prepare weapon scroll's face,
+per Nicholas Weeger's suggestion.
+messages
+Daniel Hawkins 2021-03-12
+
+Add new book message that describes using a Prepare Weapon scroll
+as an anecdote of an onlooker.
+messages
+Daniel Hawkins 2021-03-11
+
+Utilize new level-scaling attributes for the mimic type.
+This should rebalance mimics to be an appropriate challenge for the random map level they are on.
+monster/mimic/mimic.arc
+Daniel Hawkins 2021-03-11
+
+New art for deposit box in the cavalier perspective.
+Shifted old art to classic face set.
+misc/Container/close_dbox.base.111.png
+misc/Container/close_dbox.clsc.111.png
+misc/Container/depositbox.base.111.png
+misc/Container/depositbox.clsc.111.png
+Saiapatsu (art) and SilverNexus (classic faceset move, optimizing pngs) 2021-03-03
+
+Make puddles more transparent.
+ground/Weather/rain*.base.111.png
+Daniel Hawkins 2021-03-03
+
+Decrease probability of blue dragon scale for electric dragons.
+monster/dragon/Electric/elec_dr.trs
+Nicolas Weeger 2021-03-03
+
+Fix some incorrect arches in the formula list
+formulae
+Daniel Hawkins 2021-03-01
+
 Adjust the spawn rate for literacy and use magic item scrolls.
 literacy chance 15 -> 8, use magic item chance 1 -> 8.
 Since barbarians no longer get UMI out-of-the-box, there

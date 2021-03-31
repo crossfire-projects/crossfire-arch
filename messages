@@ -12,14 +12,14 @@
 #  If set then players will keep the message as part of their knowledge when read.
 #  Do NOT reuse identifiers if changing messages.
 # TITLE <title>: message's title, for knowledge management. Mandatory if
-#  the message has an identifier, else unused.
+#  the message has an identifier, else unused.
 # CHANCE <chance>: optional chance of the message appearing in a book, relative
 #  to the sum of all chances. 0 or no line means this message will never appear.
 # TEXT: start of the message's body
-# ENDMSG: marks the end of a message's body and message.
+# ENDMSG: marks the end of a message's body and message.
 # QUEST: optional quest internal code and state this message will activate.
 #  Example: "QUEST TempleOfDoom 0>10" will set the quest 'TempleOfDoom' to state 10
-#  if the player didn't yet do it.
+#  if the player didn't yet do it.
 #
 # TEXT must be the last item in a MSG block.
 #
@@ -81,6 +81,7 @@ ENDMSG
 MSG G-004
 TITLE Map of western world
 CHANCE 1
+FACE map.111
 TEXT
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~
@@ -110,6 +111,7 @@ ENDMSG
 MSG G-005
 TITLE Alchemy attempt
 CHANCE 1
+FACE cauldron.111
 TEXT
 ...and then did the Alchemist agree to make me my potion.
 
@@ -124,6 +126,7 @@ ENDMSG
 MSG G-006
 TITLE Alchemy basics
 CHANCE 1
+FACE cauldron_open.111
 TEXT
   Know that there are 4 principle philosophical ingredients. In order, they are:
 
@@ -280,6 +283,7 @@ ENDMSG
 MSG G-023
 TITLE The Enchanted Music
 CHANCE 1
+FACE violin.117
 TEXT
 Many said that, if the Enchanted Music could be found, it would open the gates of many treasures, but because none of the former Euthvillians survived, and because nobody knows where the Boy went afterwards, those gates are still closed. I’ve heard that the School of Daemonology was precisely founded to rediscover that spell. But who am I to claim this to be true? I’m only a man of the past that tells stories before a fire, and the fire is dying, and so has my tale reached the end.
 ENDMSG
@@ -351,6 +355,7 @@ ENDMSG
 MSG G-029
 TITLE Glowing Crystals
 CHANCE 1
+FACE power_crystal.111
 TEXT
 Glowing Crystals are the dream of every magician.
 
@@ -364,7 +369,7 @@ MSG G-030
 TITLE The Dark Forest
 CHANCE 1
 QUEST scorn/DarkForest 0>10
-FACE power_crystal.111
+FACE darkforest.111
 TEXT
 And thus the Glowing Crystal was stolen from Scorn's City Hall.
 
@@ -421,8 +426,18 @@ ENDMSG
 MSG G-033
 TITLE Who has the best water?
 CHANCE 1
+FACE fountain.112
 TEXT
 Travelers refilling their empty bottles at fountains around the world often claim that water from their home town tastes the best. This apparent conundrum was settled by leading alchemists from Nurnberg, who found no material differences between bottles of water collected from various fountains around the world.
 
 Still, this was not enough reason to sway the fanciful; some claim that fantastic things happen when they 'dip' their empty bottles or other belongings into fountains.
+ENDMSG
+MSG G-034
+TITLE Preparing Weapons
+CHANCE 1
+FACE prepare_weapon.111
+TEXT
+Sven opened his pouch and poured diamonds onto the floor beneath his feet. Hundreds, thousands clattered to the floor before my eyes. I had never seen so many gems at once.
+Sven, noticing my jaw agape, smiled, and pulled out a scroll. "The gods like their shinies," he quipped, then began to read from the scroll, holding his prized sword high as he chanted the words.
+As quickly as they had come, the gems vanished, not into a pouch, but into the beyond. A bright flash of light left me blinking for a few seconds; next I saw, Sven had lowered his sword, admiring the anticipatory sheen it had acquired.
 ENDMSG
