@@ -1,3 +1,9 @@
+Erase previously defined recipes.
+This solves duplicated recipes index warnings when 'make install' is done on the server
+while the 'arch' directory is symlinked to share.
+formulae
+Nicolas Weeger 2021-04-20
+
 Add faces to random messages.
 messages
 Nicolas Weeger 2021-03-21

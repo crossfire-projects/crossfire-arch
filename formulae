@@ -123,6 +123,8 @@
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #		F O R M U L A E  B E G I N
 # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+# Remove previous recipes
+Remove *
 #
 # --------------
 # Basic formulae - these formulae make some of the most often used
