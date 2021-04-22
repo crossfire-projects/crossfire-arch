@@ -1,3 +1,10 @@
+New art for corpse.
+This should be easier to use as a base for making different corpse images for goblins, angels, etc.
+Moved old image to classic image set.
+flesh/human/corpse.base.111.png
+flesh/human/corpse.clsc.111.png
+Daniel Hawkins 2021-04-22
+
 Erase previously defined recipes.
 This solves duplicated recipes index warnings when 'make install' is done on the server
 while the 'arch' directory is symlinked to share.
