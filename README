@@ -4,6 +4,15 @@ Crossfire Development Team <crossfire@metalforge.org>
 :numbered:
 :toc:
 
+Introduction
+------------
+This file contains general design notes about archetypes and faces. For more
+technical details about how archetypes are handled inside the engine, see
+'server/doc/Developers/objects' and 'server/doc/Developers/objects.dox'.
+
+Some bits of info like types and subtypes are defined in
+'server/include/object.h'.
+
 Item Attributes
 ---------------
 Correctly choosing item attributes is key to maintaining balance and fun.
@@ -15,14 +24,23 @@ Values are given in integer silver coins.
 Weight
 ~~~~~~
 Weights are given in integer grams, and should resemble those of real-life
-counterparts to objects. Players should be able to carry at most 100 kg
-(with limited exceptions for creatures such as dragons).  Until this change
-is implemented in the game itself, weight values should be multiplied by
-ten. For example, an apple with a real-world weight of 0.1 kg should have a
-weight value of 1000 in the archetype file.
+counterparts to objects. You may find some objects do not follow this closely,
+so examine similar objects to better judge what weight to set. For extremely
+bulky objects, you can increase the weight a bit to simulate the difficulty of
+carrying large objects.
 
-Pixmaps
+At one time, it was theorized that players would have a weight limit of about
+100kg, but currently the balance is pretty far from this.
+--DraugTheWhopper 4/20/2021
+
+Images
 -------
+Images should generally be stored in PNG, optionally with indexed color.
+You may find that server or clients still support XBM or XPM, but these are
+considered deprecated.
+
+Pixmap support (deprecated)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The color bitmap files use the XPM library (called xpm-3.4f on
 most ftp sites. A later version may be out now.)
 

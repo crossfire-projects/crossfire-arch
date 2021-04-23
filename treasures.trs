@@ -7,8 +7,8 @@
 # re-linking and generation of only 1 item on that list.  This does away
 # with the treasure lists from being embedded in the program.
 #
-# See the file doc/crossfire.doc for information on the format of this
-# file
+# See the file server/doc/Developers/treasure_list.dox for information on the
+# format of this file
 #
 #
 #NOTE: GOD treasure lists have been moved out to the arches

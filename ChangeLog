@@ -1,3 +1,9 @@
+Updated docs pointers and added more relevant info. Axed some deprecated info.
+Patch https://sourceforge.net/p/crossfire/patches/392/
+README
+treasures.trs
+DraugTheWhopper
+
 New art for corpse.
 This should be easier to use as a base for making different corpse images for goblins, angels, etc.
 Moved old image to classic image set.
