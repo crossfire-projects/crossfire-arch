@@ -1,3 +1,8 @@
+Clean up formatting in formulae file.
+Patch https://sourceforge.net/p/crossfire/patches/394/
+formulae
+DraugTheWhopper
+
 Updated docs pointers and added more relevant info. Axed some deprecated info.
 Patch https://sourceforge.net/p/crossfire/patches/392/
 README

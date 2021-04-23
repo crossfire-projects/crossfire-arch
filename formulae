@@ -2185,7 +2185,6 @@ skill bowyer
 cauldron workbench
 ingred 20 arrow,dragon's heart,water of emerald,scorpion's stinger
 #
-#
 Object Assassinating Trolls
 arch bolt
 chance 0
@@ -2196,7 +2195,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 bolt,troll's heart,scorpion's stinger
-#
 #
 Object Assassinating Trolls
 arch arrow
@@ -2209,7 +2207,6 @@ skill bowyer
 cauldron workbench
 ingred 20 arrow,troll's heart,scorpion's stinger
 #
-#
 Object Blessedness
 arch bolt
 chance 0
@@ -2220,7 +2217,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 bolt,unicorn horn,2 water of sapphire
-#
 #
 Object Blessedness
 arch arrow
@@ -2233,7 +2229,6 @@ skill bowyer
 cauldron workbench
 ingred 20 arrow,unicorn horn,2 water of sapphire
 #
-#
 Object Magic
 arch arrow
 chance 4
@@ -2244,7 +2239,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 arrow,potion of mystic power
-#
 #
 Object Magic
 arch bolt
@@ -2257,7 +2251,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,potion of mystic power
 #
-#
 Object Fire
 arch arrow
 chance 4
@@ -2268,7 +2261,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 arrow,wyvern's steak
-#
 #
 Object Fire
 arch bolt
@@ -2281,7 +2273,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,wyvern's steak
 #
-#
 Object Frost
 arch arrow
 chance 4
@@ -2292,7 +2283,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 arrow,ghost's ectoplasm
-#
 #
 Object Frost
 arch bolt
@@ -2305,7 +2295,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,ghost's ectoplasm
 #
-#
 Object Lightning
 arch arrow
 chance 4
@@ -2316,7 +2305,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 arrow,skull's tooth
-#
 #
 Object Lightning
 arch bolt
@@ -2329,7 +2317,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,skull's tooth
 #
-#
 Object Paralysis
 arch arrow
 chance 4
@@ -2340,7 +2327,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 arrow,beholdereye
-#
 #
 Object Paralysis
 arch bolt
@@ -2353,7 +2339,6 @@ skill bowyer
 cauldron workbench
 ingred 20 bolt,beholdereye
 #
-#
 Object Poison
 arch arrow
 chance 4
@@ -2364,7 +2349,6 @@ yield 20
 skill bowyer
 cauldron workbench
 ingred 20 arrow,scorpion's stinger
-#
 #
 Object Poison
 arch bolt
@@ -4279,7 +4263,6 @@ ingred zinc bar
 chance 0
 combination 1
 tool file
-
 #
 # gem combos
 Object NONE
@@ -4291,6 +4274,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 2
 exp 2000
+#
 Object great value
 arch gem
 yield 1
@@ -4300,7 +4284,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 2
 exp 2000
-
+#
 Object NONE
 arch raw_diamond_exceptional_beauty
 yield 1
@@ -4310,6 +4294,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 6
 exp 6000
+#
 Object exceptional beauty
 arch gem
 yield 1
@@ -4319,7 +4304,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 6
 exp 6000
-
+#
 Object NONE
 arch raw_diamond_flawless_beauty
 yield 1
@@ -4329,6 +4314,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 12
 exp 12000
+#
 Object flawless beauty
 arch gem
 yield 1
@@ -4338,7 +4324,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 12
 exp 12000
-
+#
 Object NONE
 arch raw_ruby_great_value
 yield 1
@@ -4348,6 +4334,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 2
 exp 2000
+#
 Object great value
 arch ruby
 yield 1
@@ -4357,7 +4344,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 2
 exp 2000
-
+#
 Object NONE
 arch raw_ruby_exceptional_beauty
 yield 1
@@ -4367,6 +4354,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 6
 exp 6000
+#
 Object exceptional beauty
 arch ruby
 yield 1
@@ -4376,7 +4364,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 6
 exp 6000
-
+#
 Object NONE
 arch raw_ruby_flawless_beauty
 yield 1
@@ -4386,6 +4374,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 12
 exp 12000
+#
 Object flawless beauty
 arch ruby
 yield 1
@@ -4395,7 +4384,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 12
 exp 12000
-
+#
 Object NONE
 arch raw_sapphire_great_value
 yield 1
@@ -4405,6 +4394,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 2
 exp 2000
+#
 Object great value
 arch sapphire
 yield 1
@@ -4414,7 +4404,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 2
 exp 2000
-
+#
 Object NONE
 arch raw_sapphire_exceptional_beauty
 yield 1
@@ -4424,6 +4414,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 6
 exp 6000
+#
 Object exceptional beauty
 arch sapphire
 yield 1
@@ -4433,7 +4424,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 6
 exp 6000
-
+#
 Object NONE
 arch raw_sapphire_flawless_beauty
 yield 1
@@ -4443,6 +4434,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 12
 exp 12000
+#
 Object flawless beauty
 arch sapphire
 yield 1
@@ -4452,7 +4444,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 12
 exp 12000
-
+#
 Object NONE
 arch raw_emerald_great_value
 yield 1
@@ -4462,6 +4454,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 2
 exp 2000
+#
 Object great value
 arch emerald
 yield 1
@@ -4471,7 +4464,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 2
 exp 2000
-
+#
 Object NONE
 arch raw_emerald_exceptional_beauty
 yield 1
@@ -4481,6 +4474,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 6
 exp 6000
+#
 Object exceptional beauty
 arch emerald
 yield 1
@@ -4490,7 +4484,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 6
 exp 6000
-
+#
 Object NONE
 arch raw_emerald_flawless_beauty
 yield 1
@@ -4500,6 +4494,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 12
 exp 12000
+#
 Object flawless beauty
 arch emerald
 yield 1
@@ -4509,8 +4504,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 12
 exp 12000
-
-
+#
 Object NONE
 arch raw_amethyst_great_value
 yield 1
@@ -4520,6 +4514,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 2
 exp 2000
+#
 Object great value
 arch amethyst
 yield 1
@@ -4529,7 +4524,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 2
 exp 2000
-
+#
 Object NONE
 arch raw_amethyst_exceptional_beauty
 yield 1
@@ -4539,6 +4534,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 6
 exp 6000
+#
 Object exceptional beauty
 arch amethyst
 yield 1
@@ -4548,7 +4544,7 @@ skill jeweler
 cauldron jeweler_bench
 diff 6
 exp 6000
-
+#
 Object NONE
 arch raw_amethyst_flawless_beauty
 yield 1
@@ -4558,6 +4554,7 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 diff 12
 exp 12000
+#
 Object flawless beauty
 arch amethyst
 yield 1
