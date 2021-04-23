@@ -1,3 +1,16 @@
+Rename and move the treasurelist for human bodyparts.
+Patch https://sourceforge.net/p/crossfire/patches/393/
+monster/humanoid/Arabic/a_priest.trs
+monster/humanoid/Arabic/holy_priest.trs
+monster/humanoid/Arabic/slave.trs
+monster/humanoid/Human/evilclown.trs
+monster/humanoid/Human/postman/postman.trs
+monster/humanoid/Human/sage.trs
+monster/misc/c_knight.trs
+monster/misc/c_priest.trs
+treasures.trs
+DraugTheWhopper
+
 Clean up formatting in formulae file.
 Patch https://sourceforge.net/p/crossfire/patches/394/
 formulae

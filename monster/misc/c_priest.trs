@@ -1,7 +1,7 @@
 treasure c_m_priest
   list all_spell_skills
   more
-  list human_parts
+  list humanoid_parts
   more
   arch staff
   magic 1
@@ -43,7 +43,7 @@ treasure c_m_priest
 treasure c_priest
   list all_spell_skills
   more
-  list human_parts
+  list humanoid_parts
   more
   arch staff
   magic 3

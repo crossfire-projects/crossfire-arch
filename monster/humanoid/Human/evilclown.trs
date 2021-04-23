@@ -1,5 +1,5 @@
 treasure evilclown
-  list human_parts
+  list humanoid_parts
     chance 50
   more
   arch spell_ball_lightning

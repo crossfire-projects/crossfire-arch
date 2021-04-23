@@ -36,52 +36,6 @@ treasure all_spell_skills
   arch skill_summoning
 end
 #
-##############################################################
-#
-# BODY PARTS -
-#
-# human/man-sized body parts
-treasureone human_parts
-  arch fl_corpse
-    chance 60
-  more
-  arch arm
-    nrof 2
-    chance 15
-  more
-  arch leg
-    nrof 2
-    chance 15
-  more
-  arch head
-    chance 15
-  more
-  arch eye
-    nrof 2
-    chance 1
-  more
-  arch tongue
-    chance 1
-  more
-  arch foot
-    nrof 2
-    chance 10
-  more
-  arch hand
-    nrof 2
-    chance 10
-  more
-  arch finger
-    nrof 5
-    chance 3
-  more
-  arch skin
-    chance 1
-  more
-  arch brain
-    chance 1
-  end
-#
 treasure door
   list traps
   chance 30
@@ -1794,7 +1748,7 @@ treasure poor_old
 treasure rich
   list rich_old
   more
-  list human_parts
+  list humanoid_parts
     chance 20
   end
 treasure standard
@@ -1807,13 +1761,13 @@ treasure standard
     nrof 3
     chance 1
   more
-  list human_parts
+  list humanoid_parts
     chance 20
   end
 treasure poor
   list poor_old
   more
-  list human_parts
+  list humanoid_parts
     chance 20
   end
 # I switched the names to '_old' -- these lists

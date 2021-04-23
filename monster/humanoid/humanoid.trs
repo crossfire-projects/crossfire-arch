@@ -1,0 +1,42 @@
+# humanoid body parts
+# careful, some humanoids should not use this list. (cyclops have only one eye!)
+treasureone humanoid_parts
+  arch fl_corpse
+    chance 60
+  more
+  arch arm
+    nrof 2
+    chance 15
+  more
+  arch leg
+    nrof 2
+    chance 15
+  more
+  arch head
+    chance 15
+  more
+  arch eye
+    nrof 2
+    chance 1
+  more
+  arch tongue
+    chance 1
+  more
+  arch foot
+    nrof 2
+    chance 10
+  more
+  arch hand
+    nrof 2
+    chance 10
+  more
+  arch finger
+    nrof 5
+    chance 3
+  more
+  arch skin
+    chance 1
+  more
+  arch brain
+    chance 1
+  end

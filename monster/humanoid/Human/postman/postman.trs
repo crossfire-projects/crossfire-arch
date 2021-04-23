@@ -1,7 +1,7 @@
 treasure postman
   arch skill_use_magic_item
   more
-  list human_parts
+  list humanoid_parts
     chance 20
   more
   arch letter

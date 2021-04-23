@@ -9,6 +9,6 @@ treasure sage
     arch skill_jeweler
     end
   more
-  list human_parts
+  list humanoid_parts
   end
 

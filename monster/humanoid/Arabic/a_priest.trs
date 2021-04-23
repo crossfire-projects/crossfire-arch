@@ -1,7 +1,7 @@
 treasure a_priest
   list all_spell_skills
   more
-  list human_parts
+  list humanoid_parts
     chance 20
   more
   arch spell_paralyze

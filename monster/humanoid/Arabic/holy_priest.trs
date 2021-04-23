@@ -1,7 +1,7 @@
 treasure holy_priest
   list all_spell_skills
   more
-  list human_parts
+  list humanoid_parts
   more
   arch spell_paralyze
   more
