@@ -1,3 +1,9 @@
+New art to override the default corpse art for zombies and goblin.
+Added copies of classic corpse image so that image set gets a consistent corpse.
+flesh/goblin/goblin_corpse.*
+flesh/misc/zombie_corpse.*
+Daniel Hawkins 2021-04-24
+
 Rename and move the treasurelist for human bodyparts.
 Patch https://sourceforge.net/p/crossfire/patches/393/
 monster/humanoid/Arabic/a_priest.trs
