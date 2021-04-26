@@ -1,3 +1,7 @@
+Fix animation issue from a missing face in the classic faceset for big galleon.
+transport/biggalleon.clsc.x71.png
+Daniel Hawkins 2021-04-26
+
 New art to override the default corpse art for zombies and goblin.
 Added copies of classic corpse image so that image set gets a consistent corpse.
 flesh/goblin/goblin_corpse.*
