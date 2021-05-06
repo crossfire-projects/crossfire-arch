@@ -1,3 +1,10 @@
+Add special face for goblin's hand. Add a copy of human hand as classic image to preserve old
+appearance for that face set.
+flesh/goblin/goblin_hand.base.111.png
+flesh/goblin/goblin_hand.clsc.111.png
+flesh/goblin/goblin_hand.face
+Daniel Hawkins 2021-05-06
+
 Fix animation issue from a missing face in the classic faceset for big galleon.
 transport/biggalleon.clsc.x71.png
 Daniel Hawkins 2021-04-26
