@@ -203,6 +203,9 @@ treasureone random_weapon
     chance 10
   end
 treasureone random_armour
+  list random_gauntlet
+    chance 10
+  more
   arch b_full_helmet
     magic 4
     chance 5
@@ -216,10 +219,6 @@ treasureone random_armour
     chance 5
   more
   arch coif
-    magic 4
-    chance 5
-  more
-  arch b_gauntlets
     magic 4
     chance 5
   more
@@ -239,7 +238,6 @@ treasureone random_armour
     magic 4
     chance 5
   more
-#
   arch ring_mail
     magic 4
     chance 5
@@ -316,10 +314,6 @@ treasureone random_armour
     magic 1
     chance 5
   more
-  arch gauntlets
-    magic 2
-    chance 1
-  more
   arch high_boots
     magic 3
     chance 3
@@ -334,18 +328,6 @@ treasureone random_armour
   more
   arch tunic
     magic 3
-    chance 1
-  more
-  arch gloves
-    magic 2
-    chance 2
-  more
-  arch gloves_b
-    magic 2
-    chance 1
-  more
-  arch gloves_w
-    magic 2
     chance 1
   more
   arch lapron

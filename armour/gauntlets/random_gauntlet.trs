@@ -1,0 +1,21 @@
+treasureone random_gauntlet
+  arch gloves
+    magic 1
+    chance 5
+  more
+  arch gloves_b
+    magic 3
+    chance 1
+  more
+  arch gloves_w
+    magic 3
+    chance 1
+  more
+  arch b_gauntlets
+    magic 2
+    chance 5
+  more
+  arch gauntlets
+    magic 4
+    chance 5
+  end

@@ -1,3 +1,9 @@
+Rebalance gauntlet treasurelist. Move gauntlets to their own treasure list.
+Patch https://sourceforge.net/p/crossfire/patches/395/
+armour/gauntlets/random_gauntlet.trs
+treasures.trs
+DraugTheWhopper
+
 Add special face for goblin's hand. Add a copy of human hand as classic image to preserve old
 appearance for that face set.
 flesh/goblin/goblin_hand.base.111.png
