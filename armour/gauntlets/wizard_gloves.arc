@@ -8,7 +8,7 @@ material 128
 magic 1
 ac 1
 item_power 4
-resist_physical 0
+resist_physical 1
 resist_magic 5
 resist_confusion 5
 resist_blind -5

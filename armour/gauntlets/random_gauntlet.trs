@@ -1,4 +1,8 @@
 treasureone random_gauntlet
+# cloth gloves are the lowest armor tier, so it doesn't get a "magic" qualifier
+  arch gloves_cloth
+    chance 5
+  more
   arch gloves
     magic 1
     chance 5

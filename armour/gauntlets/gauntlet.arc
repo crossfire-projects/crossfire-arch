@@ -3,7 +3,7 @@ name gauntlets
 client_type 305
 face gauntlet_s.111
 type 100
-resist_physical 3
+resist_physical 5
 value 25
 nrof 1
 material 2

@@ -7,7 +7,7 @@ name_pl thunderking's gauntlets
 weight 1900
 value 85000
 item_power 5
-resist_physical 4
+resist_physical 8
 resist_electricity 40
 resist_paralyze 15
 Int 1

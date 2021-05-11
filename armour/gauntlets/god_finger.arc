@@ -10,7 +10,7 @@ anim_speed 10
 client_anim_random 1
 Str 2
 Dex -1
-resist_physical 3
+resist_physical 5
 dam +3
 make_invisible 1
 value 120000

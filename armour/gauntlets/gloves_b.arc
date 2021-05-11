@@ -1,13 +1,13 @@
 Object gloves_b
-name gloves
+name black leather gloves
 client_type 301
 face gloves_b.111
 type 100
-resist_physical 1
+resist_physical 3
 nrof 1
 value 64
 material 8
 materialname black leather
-weight 100
+weight 200
 body_hand -2
 end

@@ -9,7 +9,7 @@ animation shining_finger
 anim_speed 10
 client_anim_random 1
 Str 2
-resist_physical 3
+resist_physical 5
 dam +3
 value 120000
 material 2
