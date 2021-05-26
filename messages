@@ -441,3 +441,70 @@ Sven opened his pouch and poured diamonds onto the floor beneath his feet. Hundr
 Sven, noticing my jaw agape, smiled, and pulled out a scroll. "The gods like their shinies," he quipped, then began to read from the scroll, holding his prized sword high as he chanted the words.
 As quickly as they had come, the gems vanished, not into a pouch, but into the beyond. A bright flash of light left me blinking for a few seconds; next I saw, Sven had lowered his sword, admiring the anticipatory sheen it had acquired.
 ENDMSG
+
+MSG G-LOCKPICKS
+TITLE Picking locks
+CHANCE 1
+FACE lockpicks.111
+TEXT
+With a sigh, Cinen put down his half-empty glass on the table.
+"It's the third time monsters managed to flee before I could slaughter them..."
+
+"Really? But how could that happen?", asked Votlar sceptically.
+
+"They managed to jump out of the window while I was bashing the door."
+
+"Well, you're making too much noise, and they notice you, obviously."
+
+"But how can I do otherwise?", sighed Cinen.
+
+Votlar raised an eyebrow.
+"Why don't you pick the lock, simply?"
+
+"And how can I do that? I'm no thief like you.", snarled Cinen back.
+
+"Don't be so angry, you just need lockpicks. Then you slowly approach the door, use them precautionously, and you're good to go."
+
+"This can't be this simple, now.", replied Cinen, taken aback.
+
+"Actually, it is. Well, not for all doors, mind you, but enough to be worth it."
+
+"Hmmm... Guess I could give it a try..."
+ENDMSG
+
+MSG G-APARTMENTS
+TITLE Permanent apartments
+CHANCE 1
+FACE rl_house_west.x11
+TEXT
+"Someone stole my stuff!", yelled Lokof, devastated.
+
+"That's what you get for leaving it anywhere.", said the city guard.
+
+"And where should I put it to be safe?", asked Lokof, barely controlling his temper - no need to spend some time in jail.
+
+"Why don't you buy your own apartment?"
+
+"Is that possible?"
+
+"Sure, you can buy private or permanent apartments in various towns, for a fee of course. Once you're in it, no one can enter."
+
+"That sure sounds interesting.", admitted Lokof.
+
+"And depending on the town, you can even buy your own altar, or cauldron, or other facilities."
+
+"You convinced me, thank you! Now I just need to find enough money..."
+ENDMSG
+
+MSG G-STATS-DEPLETION
+TITLE Stats depletion
+CHANCE 1
+FACE potion_heal2.111
+TEXT
+If, unfortunately, you should lose stats after being defeated by an evil foo, drink a potion of life.
+It will restore everything you lost.
+
+Depending on your level, you must drink a minor, medium, major or supreme potion.
+
+Note that some gods can also restore you if you pray enough over their altar.
+ENDMSG
