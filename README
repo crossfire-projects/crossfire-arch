@@ -35,45 +35,8 @@ At one time, it was theorized that players would have a weight limit of about
 
 Images
 -------
-Images should generally be stored in PNG, optionally with indexed color.
-You may find that server or clients still support XBM or XPM, but these are
-considered deprecated.
-
-Pixmap support (deprecated)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The color bitmap files use the XPM library (called xpm-3.4f on
-most ftp sites. A later version may be out now.)
-
-This library is needed in order to compile crossfire with the color
-pixmap support.
-
-The pixmap files have the same name as the bitmap file with ".xpm"
-concatenated to the end. If your system has short filename length
-limits, this may cause a problem.
-
-I use `pixmap` to edit the xpm files. This should be available the
-same place the xpm library can be found. It does require the xpm
-library.
-
-All of the XPM files have been colored. However, only a small number
-have actually been done so properly - that is, by hand, and with the
-proper outlines. Many people are working on fixing more of these up.
-
-If you do start to work on colorizing the other directories, please
-let me know. Otherwise, you may start working on something that someone
-else has already done.
-
-The file xpm.template in the dev directory is a XPM file that has all of
-the colors that are allowable for XPM files. This is to limit the total
-number of colors used, in order not of overrun color spaces on systems.
-If you really need a color not in that file, please send mail to Mark
-Wedel (mwedel@pyramid.com), and it might be added to the list of
-acceptable colors.
-
-For a list of colors to use, look at the 'dev/xpm.template' file.
-
-Mark Wedel
-mwedel@pyramid.com
+Images must be stored in PNG, optionally with indexed color, and be compressed
+by tools such as optipng or pngcrush.
 
 Perspective
 ~~~~~~~~~~~
@@ -98,12 +61,6 @@ Naming Conventions
 
 Archetype File Name
 ~~~~~~~~~~~~~~~~~~~
-The name of an archetype file should be no more than 10 characters long, for
-a total of 14 characters in the entire file name. This is to ensure maximum
-portability across different systems.
-
-NOTE: Is this still a limitation?
-
 Archetype file names should end with an extension of '.arc'. Image files
 have a 3-digit extension in the form of '.PDA', where:
 
