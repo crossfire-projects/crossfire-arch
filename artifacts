@@ -1,45 +1,91 @@
-# artifacts -- a list of artifact modifiers
+# Describe all artifacts available, that is modifications to generic items.
 #
-# Note:
-#	Attributes (str, dex, etc) are modifiers to the previous
+# An artifact changes items with the same 'type', and optionally a matching name.
+#
+# Only generated items (in treasures and monsters) are affected, items defined
+# on a map are not changed.
+#
+# Running crossfire with -m3 creates a nice list of this
+# table.  Good for debugging if you seem to have problems with
+# some entry.
+#
+# Each artifact definition must start with an "Allowed" keyword, followed with a comma
+# separated list of items that this artifact is allowed for.
+# The name can be 'all' to indicate any item with the right type is allowed.
+# A ! can precede the object name, to mean that the object is allowed for all
+# objects except those with that name.
+# The name will be matched to either the normal item name, or the name of the archetype.
+#
+# After the 'Allowed <whatever>' field, a 'chance <value>' field
+# follows.  This is how likely the item is to be created.  It is relative
+# to other objects of the same type.  What happens is that all of the
+# artifacts with the same type are put on 1 list, and their chance
+# field is summed together.  Then, when an artifact is created,
+# a roll is made based on that sum, and the appropriate artifact
+# is chosen.  If the item being transformed can not turn into that
+# artifact (magic bonus, difficulty (see below), or just not 'Allowed'),
+# it will be re-rolled, attempting to make an artifact again.  The number
+# of re-rolls attempted is determined in the treasure.c file.  It is,
+# by default, 1.
+#
+# 'chance' is meaningless if there is only 1 artifact of a certain
+# type.  It will always be generated, no matter what the chance
+# is set to.  As such, if adding an artifact for a new type,
+# make sure there are at least two, unless you always want
+# that specific one to be generated.
+#
+#
+# 'difficulty <value>' can also be included before the 'Object <name>'
+# field.  If set, the difficulty must be greater or equal to that
+# value in order to the object to be created.  This can make it so that
+# some items are never created on easy maps.
+#
+#
+# The 'Object <title>' introduces the changes to be applied.
+# 'title' will be given to the item, as 'of title'.
+# So an artifact 'Silvered Edge' applied on a 'sword' gives a 'sword of Silvered Edge'.
+#
+# Values until the 'end' keyword are modifiers to the base item.
+#
+#	Attributes ('str', 'dex', etc.) are modifiers to the previous
 #	value - positive will increase it by that much, negative
 #	will decrease it.
 #
-#	cursed and damned flags will make the object cursed/damned.
+#	'cursed' and 'damned' flags will make the object cursed/damned.
 #	no way to remove cursed/damnedness right now.  If the
 #	object is cursed, the present magic value will become
 #	negative (ie, a +1 sword will become -1 cursed.)
 #
-#	path_attuned, path_denied and path_repelled values are OR'd to existing values.
+#	'path_attuned', 'path_denied' and 'path_repelled' values are OR'd to existing values.
 #
-#	resistances are modifiers to the previous value.
+#	'resistances' are modifiers to the previous value.
 #
-#	luck,exp, wc and ac  increase the value by that amount (which means
+#	'luck', 'exp', 'wc' and 'ac' increase the value by that amount (which means
 #	a negative value will decrease the value)
 #
-#	lifesave, reflect_spell, reflect_missile, stealth, xrays,
-#	and make_invisible invisible sets the appropriate value
-#	in the new artifact.  No way to remove these abilities.
+#	'lifesave', 'reflect_spell', 'reflect_missile', 'stealth', 'xrays',
+#	and 'invisible' sets the appropriate value
+#	in the new artifact. No way to remove these abilities.
 #
-#	if stand_still is set, the object will not be animated
+#	if 'stand_still' is set, the object will not be animated
 #	(useful if giving an artifact a new image when the object
-#	it is being created from is animated.
+#	it is being created from is animated).
 #
-#	nrof is the number of object to be created.  A range
+#	'nrof' is the number of object to be created.  A range
 #	of 1-nrof of objects will be created.  If 0, then the
-#	default number will be used instead.
+#	default number of the item will be used instead.
 #
-#	hp, maxhp, sp, maxsp, food, level have this:  If the value is
-#	positive, it is increased by that amount.  If negative, the
+#	'hp', 'maxhp', 'sp', 'maxsp', 'food', 'level' have this: If the value is
+#	positive, it is increased by that amount. If negative, the
 #	artifact is created with that value absolute (ie, hp -5
-#	will create and artifact with hp value of 5)
+#	will create an artifact with hp value of 5)
 #
-#	dam:  If negative, absolute value is used (as in
-#	hp, maxhp, etc above).  If positive, it acts as a percentage
+#	'dam': If negative, absolute value is used (as in
+#	hp, maxhp, etc. above).  If positive, it acts as a percentage
 #	in increments of 10 (a value of 10 has the normal value, 5
 #	would be half normal, 20 twice, etc.
 #
-#	weight, last_sp, gen_sp_armour is in percent (200 would
+#	'weight', 'last_sp', 'gen_sp_armour' is in percent (200 would
 #	be twice normal, 50 half of normal) if positive. If negative,
 #	the absolute value is used (so -5 would give 5);
 #
@@ -49,9 +95,9 @@
 #	the 'material', 'attacktype', 'slaying', and 'msg' elements will
 #	replace exiting values.
 #
-#	magic is the mininum magic for an item to become that artifact.
+#	'magic' is the mininum magic for an item to become that artifact.
 #
-#	item_power replaces the item's value.
+#	'item_power' replaces the item's value.
 #
 # 'face' if defined replaces the item's face.
 # If 'face_suffix' is defined, the artifact will have the face named
@@ -71,67 +117,18 @@
 #
 # Other key-values not part of an item's regular fields are copied to the item as-is.
 #
-#	items in inventory (through an "arch xxx", like in maps)
+#	Items in inventory (through an "arch xxx", like in maps)
 #	will be copied into the item's inventory.
 #
 #	If the value is not described above, changing it probably is
 #	not supported.
 #
-# This file has been changed around in 0.91.1 to allow better
-# control of probability and creation conditions.
-#
-# Allowed is followed with a comma seperated list of items that
-# that artifact is allowed for.  a ! can precede the object name,
-# to mean that the object is allowed for all objects except those with
-# that name.  The name will be matched to either the normal item
-# name, or the name of the archetype.
-#
-# After the 'Allowed <whatever>' field, a 'chance <value>' field
-# follows.  This is how likely the item is to be created.  It is relative
-# to other objects of the same type.  What happens is that all of the
-# artifacts with the same type are put on 1 list, and their chance
-# field is summed together.  Then, when an artifact is created,
-# a roll is made based on that sum, and the appropriate artifact
-# is chosen.  If the item being transformed can not turn into that
-# artifact (magic bonus, difficulty (see below), or just not 'Allowed'),
-# it will be re-rolled, attempting to make an artifact again.  The number
-# of re-rolls attempted is determined in the treasure.c file.  IT is,
-# by default, 1.
-#
-# 'difficulty <value>' can also be included before the 'Object <name>'
-# field.  If set, the difficulty must be greater or equal to that
-# value in order to the object to be created.  This can make it so that
-# some items are never created on easy maps.
-#
-# Note that the above mentioned fields (chance, difficulty) must be set
-# before the Object command - if they are placed between the Object and
-# End commands, they will have no affect.
-#
-# Because of these changes, general artifact types are no longer allowed.
-# This is for a few reasons: 1) With no type, it would not be possible
-# to know what lists to put it on.  If it put it on all lists
-# presently existing, then the order of this file would become relevant,
-# 2) Since chance is now a a field, and different items types have
-# different total chances, using a generic chance value could have
-# unexpected results.
-#
-# Various notes:
-# chance is meaningless if there is only 1 artifact of a certain
-# type.  It will always be generated, no matter what the chance
-# is set to.  As such, if adding an artifact for a new type,
-# make sure there are at least two, unless you always want
-# that specific one to be generated.
-#
-# running crossfire with -m3 creates a nice list of this
-# table.  Good for debugging if you seem to have problems with
-# some entry.
 #
 # Try to keep common types of items together.  For example, keep
 # all helmets types together, all weapon types, etc.  From there,
 # try to group by subtype (plate mails, leathers, chains, crowns,
-# etc.)  This just makes it easier to find stuff.  From their, it
-# might be nice to keep them in chance order, but most aren't in
-# that right now.
+# etc.)  This just makes it easier to find stuff.
+#
 #
 # Monsters
 # Note: Only generated monsters are affected (just like items) - monsters
