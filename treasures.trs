@@ -1,12 +1,6 @@
 #
 # This file contains various treasures, with generation rules.
 #
-# $Id$
-#
-# As of version 0.91.1, what this file was extended to handle list
-# re-linking and generation of only 1 item on that list.  This does away
-# with the treasure lists from being embedded in the program.
-#
 # See the file server/doc/Developers/treasure_list.dox for information on the
 # format of this file
 #
