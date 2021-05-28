@@ -3,18 +3,9 @@
 # To start a new race category, write a line with 'RACE' identifier then
 # list the name of the archetypes singly on lines below.
 #
-# If the arch is a creature, it is added to a linked
-# list of monsters that all have the same race.
-# Any type of archetype may be listed, but monsters
-# should be ordered by inherent level value/exp, as higher summoning levels
-# should yield more powerful creatures.
+# Listed archetypes must be monsters. Their order is not significant.
 #
 RACE undead
-  generate_ghost
-  generate_zombie
-  generate_skeleton
-  generate_skull
-  generate_vampire
   ghost
   zombie
   skeleton
@@ -31,7 +22,6 @@ RACE undead
   dave
   nazgul
 RACE demon
-  generate_devil
   imp
   devil
   raas
@@ -51,10 +41,6 @@ RACE angel
   mesangel
   ArchAngel
 RACE goblin
-  generate_kobold
-  generate_goblin
-  generate_orc
-  generate_gnoll
   kobold
   goblin
   orc
@@ -67,8 +53,6 @@ RACE troll
   troll
   gaelotroll
 RACE faerie
-  generate_pixie
-  generate_stalker
   pixie
   elf_1
   sandy
@@ -80,10 +64,6 @@ RACE faerie
   ent
   lamia
 RACE animal
-  generate_bat
-  generate_mouse
-  generate_panther
-  generate_scorpion
   mouse
   bat
   dog
@@ -102,12 +82,10 @@ RACE animal
   pet_necro
   neko
 RACE bird
-  generate_bird
   chicken
   goose
   bird
 RACE reptile
-  generate_serp_man
   snake
   serpent
   serp_man
@@ -122,14 +100,12 @@ RACE slime
   green_slime
   black_pudding
 RACE unnatural
-  generate_beholder
   beholder
   sphinx
   baslic
   dread
   golem_necro
 RACE dragon
-  generate_dragon
   dragon
   baby_dragon
   chinese_dragon
@@ -160,8 +136,6 @@ RACE earth_elemental
   earth_elemental
   earth_witch
 RACE giant
-  generate_ogre
-  generate_giant
   ogre
   giant
   titan
@@ -171,7 +145,6 @@ RACE giant
   EDK
   mabu
 RACE human
-  generate_madman
   charwoman
   prisoner
   crone
@@ -220,11 +193,6 @@ RACE dwarf
   lesser_dwarven_guard
   greater_dwarven_guard
 RACE insect
-  generate_ant
-  generate_bee
-  spider_gen
-  generate_xan
-  beehive
   ant
   bee
   centipede
