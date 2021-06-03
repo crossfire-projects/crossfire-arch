@@ -1,3 +1,16 @@
+Exclude god avatars from books and knowledge
+gods/demihumans/gnarg_avatar.arc
+gods/demihumans/lythander_avatar.arc
+gods/demihumans/mostrai_avatar.arc
+gods/elemental/gaea_avatar.arc
+gods/elemental/ixalovh_avatar.arc
+gods/elemental/ruggilli_avatar.arc
+gods/elemental/sorig_avatar.arc
+gods/supernatural/devourers_avatar.arc
+gods/supernatural/gorokh_avatar.arc
+gods/supernatural/valriel_avatar.arc
+Nicolas Weeger 2021-06-03
+
 Fix text.
 spell/BlessCurse/spell_holy_possession.arc
 Nicolas Weeger 2021-05-12

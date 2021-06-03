@@ -32,4 +32,5 @@ can_use_armour 1
 can_cast_spell 1
 exp 1
 weight 500000
+exclude_from_readable 1
 end

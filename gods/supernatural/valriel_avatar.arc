@@ -33,4 +33,5 @@ can_use_weapon 1
 can_use_shield 1
 exp 1
 weight 100000
+exclude_from_readable 1
 end

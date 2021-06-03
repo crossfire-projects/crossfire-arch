@@ -34,4 +34,5 @@ last_heal 1
 last_eat 1
 exp 1
 weight 500000
+exclude_from_readable 1
 end
