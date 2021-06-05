@@ -12,3 +12,6 @@ end
 face para_water.113
 magicmap blue
 end
+face para_water_residue.111
+magicmap grey
+end
