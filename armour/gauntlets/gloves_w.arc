@@ -1,5 +1,5 @@
 Object gloves_w
-name fine gloves
+name gloves
 client_type 301
 face gloves_w.111
 type 100
@@ -14,7 +14,7 @@ weight 150
 body_hand -2
 end
 Object gloves_w_l
-name gloves
+name steel gloves
 client_type 301
 face gloves_w.111
 type 100
