@@ -18,4 +18,28 @@ treasure belzebub
   more
   arch cloak
   chance 50
+  more
+  arch spell_paralyze
+  more
+  arch spell_mass_confusion
+  more
+  arch spell_sm_lightning
+  more
+  arch spell_hellfire
+  more
+  arch spell_hellfire
+  more
+  arch spell_heal
+  more
+  arch abil_burning_hands
+  more
+  arch abil_fear
+  more
+  arch spell_icestorm
+  more
+  arch abil_icestorm
+  more
+  arch abil_icestorm
+  more
+  arch spell_create_bomb
   end
