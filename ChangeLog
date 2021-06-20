@@ -1,3 +1,7 @@
+Adapt existing chest image to create a new firechest image.
+Moved old image to the classic face set.
+Daniel Hawkins 2021-06-20
+
 Rename 'fine gloves' to 'gloves' because of alchemy use
 Rename 'gloves' to 'steel gloves' to avoid duplicate name
 armour/gauntlets/gloves_w.arc
