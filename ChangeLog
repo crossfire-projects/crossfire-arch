@@ -1,3 +1,7 @@
+Apply patch #401 by Saiapatsu: new base graphics for bwall, earthwall and stoneblock graphics
+See https://sourceforge.net/p/crossfire/patches/401/ for details.
+Nicolas Weeger 2021-07-10
+
 Adapt existing chest image to create a new firechest image.
 Moved old image to the classic face set.
 Daniel Hawkins 2021-06-20
