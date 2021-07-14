@@ -417,6 +417,15 @@ endmsg
 item_power 5
 end
 #
+# Throwing hammer that reflects off walls
+Allowed hammer_2
+chance 16
+Object Reflection
+type 15
+value 2
+reflecting 1
+end
+#
 Allowed all
 chance 5
 Object Ixalovh

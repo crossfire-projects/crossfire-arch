@@ -1,3 +1,8 @@
+Add throwing hammer of Reflection -- a throwing hammer that reflects off walls like lightning bolts do
+Expects server revision v1.75.0-172 or newer, else will behave like a normal throwing hammer.
+artifacts
+Daniel Hawkins 2021-07-14
+
 Apply patch #401 by Saiapatsu: new base graphics for bwall, earthwall and stoneblock graphics
 See https://sourceforge.net/p/crossfire/patches/401/ for details.
 Nicolas Weeger 2021-07-10
