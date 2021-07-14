@@ -9,4 +9,5 @@ is_water 1
 is_floor 1
 smoothlevel 45
 smoothface cyangrasspond.111 cyangrass_S.111
+randomitems freshwater_fish
 end

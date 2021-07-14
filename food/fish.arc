@@ -15,8 +15,8 @@ name_pl fishes
 client_type 601
 harvestable 1
 harvest_race fish
-harvest_exp 100
-harvest_level 1
+harvest_exp 40000
+harvest_level 20
 harvest_tool pole
 end
 
@@ -37,8 +37,8 @@ name_pl fishes
 client_type 601
 harvestable 1
 harvest_race fish
-harvest_exp 100
-harvest_level 1
+harvest_exp 40000
+harvest_level 20
 harvest_tool pole
 end
 
@@ -63,8 +63,8 @@ name_pl fishes
 client_type 601
 harvestable 1
 harvest_race fish
-harvest_exp 100
-harvest_level 1
+harvest_exp 4000
+harvest_level 10
 harvest_tool pole
 end
 
@@ -83,8 +83,8 @@ name_pl fishes
 client_type 601
 harvestable 1
 harvest_race fish
-harvest_exp 100
-harvest_level 1
+harvest_exp 800
+harvest_level 5
 harvest_tool pole
 end
 
@@ -103,8 +103,8 @@ name_pl fishes
 client_type 601
 harvestable 1
 harvest_race fish
-harvest_exp 100
-harvest_level 1
+harvest_exp 4000
+harvest_level 10
 harvest_tool pole
 end
 
@@ -123,7 +123,7 @@ name_pl fishes
 client_type 601
 harvestable 1
 harvest_race fish
-harvest_exp 100
-harvest_level 1
+harvest_exp 4000
+harvest_level 10
 harvest_tool pole
 end
