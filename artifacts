@@ -64,7 +64,7 @@
 #	a negative value will decrease the value)
 #
 #	'lifesave', 'reflect_spell', 'reflect_missile', 'stealth', 'xrays',
-#	and 'invisible' sets the appropriate value
+#	'reflecting', and 'invisible' sets the appropriate value
 #	in the new artifact. No way to remove these abilities.
 #
 #	if 'stand_still' is set, the object will not be animated
