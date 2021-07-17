@@ -1,3 +1,12 @@
+Add a variant of fire_permanent that flickers a bit better
+Created initially to be used on the random maps northeast of Navar
+in order to replace the clunky creator mechanism previously in place.
+Uses the burnout face, but is animated differently than fire_permanent.
+Additionally, they glow a little, as a fire would.
+spell/fire_permanent.arc
+spell/fire_permanent.face
+Daniel Hawkins 2021-07-17
+
 Add throwing hammer of Reflection -- a throwing hammer that reflects off walls like lightning bolts do
 Expects server revision v1.75.0-172 or newer, else will behave like a normal throwing hammer.
 artifacts
