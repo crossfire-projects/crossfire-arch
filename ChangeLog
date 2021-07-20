@@ -1,3 +1,9 @@
+New face for cracked cauldrons.
+Adjusted cracked cauldrons to use this new face when identified.
+crafting/Container/cauldron.arc
+crafting/Container/cauldron.face
+Daniel Hawkins 2021-07-19
+
 Add a variant of fire_permanent that flickers a bit better
 Created initially to be used on the random maps northeast of Navar
 in order to replace the clunky creator mechanism previously in place.

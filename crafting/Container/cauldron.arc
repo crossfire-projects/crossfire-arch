@@ -15,6 +15,7 @@ Object bad_cauldron
 name cracked cauldron
 other_arch cauldron_open
 face cauldron.111
+identified_face cauldron_cracked.111
 type 122
 material 2
 weight 20000
