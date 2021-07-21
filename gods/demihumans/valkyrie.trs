@@ -26,6 +26,9 @@ treasure Valkyrie
   more
   arch god_grace_limit_low
   more
+  arch valkyrie_holy_oil
+    chance 10
+  more
   arch god_grace_limit_medium
   more
   arch valkyrie_amulet_lifesave
