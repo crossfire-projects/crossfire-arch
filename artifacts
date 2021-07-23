@@ -3198,6 +3198,7 @@ chance 100
 Object Holding Arrows
 type 122
 value 100
+race arrows
 Str 80
 face quiver_arrow.111
 end

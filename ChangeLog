@@ -1,3 +1,7 @@
+Fix potential for quivers of Holding Arrows to generate and expect throwing items.
+artifacts
+Daniel Hawkins 2021-07-23
+
 New face for cracked cauldrons.
 Adjusted cracked cauldrons to use this new face when identified.
 crafting/Container/cauldron.arc
