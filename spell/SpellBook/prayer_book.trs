@@ -164,6 +164,9 @@ treasureone prayer_book_high
   arch spell_protection_from_attack
     chance 1
   more
+  arch spell_zone_of_healing
+    chance 1
+  more
   arch spell_restoration
     chance 1
 #  more
