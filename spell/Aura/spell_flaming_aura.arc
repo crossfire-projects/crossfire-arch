@@ -16,6 +16,7 @@ duration 100
 duration_modifier 4
 dam 6
 dam_modifier 25
+range 1
 maxgrace 20
 attacktype 4
 no_drop 1

@@ -14,6 +14,7 @@ path_attuned 1
 other_arch sanctuary
 duration 100
 duration_modifier 4
+range 1
 maxgrace 20
 attacktype 524288
 no_drop 1

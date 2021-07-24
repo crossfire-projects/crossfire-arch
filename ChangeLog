@@ -1,3 +1,9 @@
+Define range directly in aura spells in preparation for having higher-radius
+auras possible in the spell code.
+spell/Aura/spell_sanctuary.arc
+spell/Aura/spell_flaming_aura.arc
+Daniel Hawkins 2021-07-24
+
 Fix potential for quivers of Holding Arrows to generate and expect throwing items.
 artifacts
 Daniel Hawkins 2021-07-23
