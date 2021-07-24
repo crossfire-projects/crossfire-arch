@@ -1,3 +1,9 @@
+New spell -- zone of healing (level 18 prayer)
+Utilizes new aura range-aware code to be larger than 1 space radius.
+spell/Aura/spell_zone_of_healing.arc
+spell/Aura/zone_of_healing.arc
+Daniel Hawkins 2021-07-24
+
 Define range directly in aura spells in preparation for having higher-radius
 auras possible in the spell code.
 spell/Aura/spell_sanctuary.arc
