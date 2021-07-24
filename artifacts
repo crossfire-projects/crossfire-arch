@@ -1239,7 +1239,7 @@ value 175
 item_power 3
 end
 #
-Allowed gloves
+Allowed gloves,gloves_b
 chance 10
 Object Havok
 type 100
@@ -1251,7 +1251,7 @@ value 175
 item_power 2
 end
 #
-Allowed gloves
+Allowed gloves,gloves_b
 chance 10
 Object Sorig
 type 100
@@ -1284,7 +1284,7 @@ weight 2500
 value 40
 end
 #
-Allowed gloves
+Allowed gloves,gloves_b
 chance 20
 Object marksmanship
 type 100
