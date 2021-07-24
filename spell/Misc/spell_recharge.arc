@@ -7,7 +7,6 @@ level 10
 sp 200
 casting_time 75
 path_attuned 32768
-skill ???
 type 101
 subtype 28
 value 100

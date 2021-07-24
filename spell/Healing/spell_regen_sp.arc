@@ -9,7 +9,6 @@ sp 0
 casting_time 0
 path_attuned 256
 other_arch healing
-skill ???
 type 101
 subtype 21
 value 990

@@ -10,7 +10,6 @@ sp 8
 casting_time 30
 path_attuned 256
 other_arch lava
-skill ????
 type 101
 subtype 15
 value 80
