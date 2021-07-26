@@ -509,3 +509,11 @@ Depending on your level, you must drink a minor, medium, major or supreme potion
 
 Note that some gods can also restore you if you pray enough over their altar.
 ENDMSG
+
+MSG
+TITLE Strange looking book
+CHANCE 1
+QUEST quests/Azumauindo 0>10
+TEXT
+(This book is written using indecipherable boxy runes somewhat resembling sheds. The writing appears to start on the top right and works its way to the bottom left.)
+ENDMSG
