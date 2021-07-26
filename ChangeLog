@@ -1,3 +1,9 @@
+New ring -- ring of Wizard's Bane
+Gives the wearer vulnerability to magic damage, as well as
+denies the wearer all spell paths.
+artifacts
+Daniel Hawkins 2021-07-26
+
 New spell -- zone of healing (level 18 prayer)
 Utilizes new aura range-aware code to be larger than 1 space radius.
 Can spawn as a prayerbook.

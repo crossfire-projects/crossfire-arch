@@ -2170,6 +2170,26 @@ damned 1
 end
 #
 Allowed all
+chance 20
+Object Wizard's Bane
+face ring.117
+type 70
+value 35
+msg
+  The first one was a guild prank gone wrong. An aspiring guildmaster was given one of these from a fellow member, then asked to perform their normal duties in the guild. They found they couldn't cast anything. When they tried to remove it, it was stuck.
+  The guild soon realized it's potential for interfering with rival guilds, and made many more. Most guild's elites quickly learned to not wear unidentified rings as a result, and the rings fell back into disuse, and were ultimately forgotten.
+  To this day, no one remembers which guild actually started creating these, or even if the guild that did still exists.
+endmsg
+# denied: all
+path_denied 1048575
+path_attuned 0
+Pow -5
+magic -5
+resist_magic -50
+damned 1
+end
+#
+Allowed all
 chance 33
 Object Doom
 face ring_doom.111
