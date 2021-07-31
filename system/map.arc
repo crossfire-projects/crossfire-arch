@@ -2,11 +2,7 @@ Object map
 type 22
 subtype 1
 slaying /HallOfSelection
-race /start/HallsOfSelection
 face map.111
-# Let's see... does this help?
-# x 16
-# y 16
 hp 1
 sp 1
 value 300
