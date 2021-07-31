@@ -31,21 +31,28 @@ anim_speed 5
 randomitems sea_fish
 end
 Object sea_route
-name sea
-face sea.111
-animation sea
-smoothface sea.111 sea_S.111
-smoothface sea.112 sea_S.112
-smoothface sea.113 sea_S.113
-smoothface sea.114 sea_S.114
-move_block all -boat
+name sea route 1
+face blocked_cyan.111
+invisible 1
 no_pick 1
-is_water 1
-is_floor 1
-smoothlevel 20
-client_anim_sync 1
-anim_speed 5
-randomitems sea_fish
+end
+Object sea_route_2
+name sea route 2
+face blocked_lime.111
+invisible 1
+no_pick 1
+end
+Object sea_route_3
+name sea route 3
+face blocked_magenta.111
+invisible 1
+no_pick 1
+end
+Object sea_route_4
+name sea route 4
+face blocked_red.111
+invisible 1
+no_pick 1
 end
 Object sea_nw
 name sea
