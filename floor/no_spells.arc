@@ -3,7 +3,7 @@
 Object dungeon_magic
 name no_spells
 face no_spells.111
-damned 1
+blocks_prayer 1
 no_pick 1
 no_magic 1
 invisible 1
