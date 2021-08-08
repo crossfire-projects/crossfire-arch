@@ -2,7 +2,8 @@ Object snow_c
 name snow
 face snow_c.111
 animation snow_c
-materialname ice
+# By not giving a material, it cannot be burned.
+#materialname ice
 no_pick 1
 is_water 1
 map_layer fly

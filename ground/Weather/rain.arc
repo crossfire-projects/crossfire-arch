@@ -2,7 +2,8 @@ Object rain
 name rain
 face rain.111
 animation rain
-material 512
+# By having no material, we make it unburnable
+#material 512
 no_pick 1
 is_water 1
 map_layer fly
