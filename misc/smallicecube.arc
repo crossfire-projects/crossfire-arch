@@ -1,5 +1,6 @@
 Object smallicecube
 name small icecube
+type 163
 move_slow walk
 move_slow_penalty 1
 face smallicecube.111

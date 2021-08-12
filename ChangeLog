@@ -1,3 +1,11 @@
+Make icecubes and torches be of new type -- lightable
+This tells the server to find a fire/heat sourceto light it
+when you apply the item.
+misc/icecube.arc
+misc/smallicecube.arc
+light/torch.arc
+Daniel Hawkins 2021-08-11
+
 New ring -- ring of Wizard's Bane
 Gives the wearer vulnerability to magic damage, as well as
 denies the wearer all spell paths.

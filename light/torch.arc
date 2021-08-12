@@ -1,5 +1,6 @@
 Object torch_unlit
 name torch
+type 163
 face torch_unlit.111
 other_arch torch_1
 material 144
