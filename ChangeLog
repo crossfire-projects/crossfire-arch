@@ -1,3 +1,8 @@
+New image for goblin's foot.
+flesh/goblin/goblin_foot.base.111.png
+flesh/goblin/goblin_foot.clsc.111.png
+Daniel Hawkins 2021-08-12
+
 Make icecubes and torches be of new type -- lightable
 This tells the server to find a fire/heat sourceto light it
 when you apply the item.
