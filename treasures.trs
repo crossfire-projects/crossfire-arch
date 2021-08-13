@@ -890,6 +890,10 @@ treasureone melee_weapons
     magic 4
     chance 5
   more
+  arch punch_dagger
+    magic 4
+    chance 5
+  more
   arch shortsword_2
     magic 4
     chance 5
@@ -1780,6 +1784,11 @@ treasure rich_old
           arch sword_4
           magic 4
           chance 60
+          no
+            arch punch_dagger
+            magic 4
+            chance 80
+            end
           end
         end
       end

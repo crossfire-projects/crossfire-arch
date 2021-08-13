@@ -1,3 +1,14 @@
+New weapon -- punching daggers
+Similar to regular daggers, but use the punching skill instead of
+one-handed weapons. And they come in pairs rather than individually.
+And they use both hands.
+weapon/sword/punch_dagger.arc
+weapon/sword/punch_dagger.face
+weapon/sword/punch_dagger.base.111.png
+treasures.trs
+artifacts
+Daniel Hawkins 2021-08-13
+
 New arch for tear-downable (or, rather, force open) garden gate.
 A custom thing was used in Pupland maps like this,
 but it appears the animations it relied on got changed
