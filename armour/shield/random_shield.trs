@@ -1,0 +1,33 @@
+treasureone random_shield
+  arch b_shield
+    magic 4
+    chance 5
+  more
+  arch b_small_shield
+    magic 4
+    chance 5
+  more
+  arch spiked_shield
+    magic 1
+    chance 1
+  more
+  arch shield
+    magic 2
+    chance 5
+  more
+  arch small_shield
+    magic 1
+    chance 5
+  more
+  arch high_shield
+    magic 2
+    chance 5
+  more
+  arch kite_shield
+    magic 2
+    chance 5
+  more
+  arch round_shield
+    magic 1
+    chance 5
+  end

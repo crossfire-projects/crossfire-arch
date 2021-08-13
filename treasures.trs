@@ -200,133 +200,17 @@ treasureone random_armour
   list random_gauntlet
     chance 10
   more
-  arch b_full_helmet
-    magic 4
-    chance 5
+  list random_helmet
+    chance 40
   more
-  arch b_helmet
-    magic 4
-    chance 5
+  list random_mail
+    chance 52
   more
-  arch b_horned_helmet
-    magic 4
-    chance 5
+  list random_shield
+    chance 36
   more
-  arch coif
-    magic 4
-    chance 5
-  more
-  arch b_plate_mail
-    magic 4
-    chance 5
-  more
-  arch b_scale_mail
-    magic 4
-    chance 5
-  more
-  arch b_shield
-    magic 4
-    chance 5
-  more
-  arch b_small_shield
-    magic 4
-    chance 5
-  more
-  arch ring_mail
-    magic 4
-    chance 5
-  more
-  arch ring_mail
-    magic 4
-    chance 5
-  more
-  arch plate_mail
-    magic 4
-    chance 5
-  more
-  arch robe
-    magic 4
-    chance 5
-  more
-  arch leather_armour
-    magic 4
-    chance 5
-  more
-  arch scale_mail
-    magic 4
-    chance 5
-  more
-  arch ring_mail2
-    magic 3
-    chance 5
-  more
-  arch chain_mail
-    magic 3
-    chance 5
-  more
-  arch full_helmet
-    magic 2
-    chance 5
-  more
-  arch spiked_shield
-    magic 1
-    chance 1
-  more
-  arch horned_helmet
-    magic 1
-    chance 5
-  more
-  arch helmet
-    magic 2
-    chance 5
-  more
-  arch bighorned_helmet
-    magic 1
-    chance 5
-  more
-  arch shield
-    magic 2
-    chance 5
-  more
-  arch small_shield
-    magic 1
-    chance 5
-  more
-  arch high_shield
-    magic 2
-    chance 5
-  more
-  arch kite_shield
-    magic 2
-    chance 5
-  more
-  arch round_shield
-    magic 1
-    chance 5
-  more
-  arch low_boots
-    magic 1
-    chance 5
-  more
-  arch high_boots
-    magic 3
-    chance 3
-  more
-  arch high_boots_b
-    magic 3
-    chance 1
-  more
-  arch high_boots_w
-    magic 3
-    chance 1
-  more
-  arch tunic
-    magic 3
-    chance 1
-  more
-  arch lapron
-    magic 1
-    chance 1
+  list random_boots
+    chance 10
   more
   arch cloak
     chance 10
