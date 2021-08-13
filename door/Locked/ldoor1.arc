@@ -1,5 +1,5 @@
 Object locked_door1
-slaying set_individual_value
+slaying set_individual_value_door
 name locked door
 msg
 You need the special key to open this door.

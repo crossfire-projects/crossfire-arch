@@ -1,7 +1,7 @@
 Object key2
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key2.111
 type 21
 value 100

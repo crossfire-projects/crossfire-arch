@@ -1,7 +1,7 @@
 Object blue_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_blue.111
 type 21
 value 100
@@ -13,7 +13,7 @@ end
 Object brown_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_brown.111
 type 21
 value 100
@@ -25,7 +25,7 @@ end
 Object darkgray_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_darkgray.111
 type 21
 value 100
@@ -37,7 +37,7 @@ end
 Object darkgreen_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_darkgreen.111
 type 21
 value 100
@@ -49,7 +49,7 @@ end
 Object gray_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_gray.111
 type 21
 value 100
@@ -61,7 +61,7 @@ end
 Object green_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_green.111
 type 21
 value 100
@@ -73,7 +73,7 @@ end
 Object magenta_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_magenta.111
 type 21
 value 100
@@ -85,7 +85,7 @@ end
 Object red_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_red.111
 type 21
 value 100
@@ -97,7 +97,7 @@ end
 Object white_key
 name strange key
 race keys
-slaying set_individual_value
+slaying set_individual_value_key
 face key_white.111
 type 21
 value 100
