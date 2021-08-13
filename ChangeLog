@@ -1,3 +1,11 @@
+New arch for tear-downable (or, rather, force open) garden gate.
+A custom thing was used in Pupland maps like this,
+but it appears the animations it relied on got changed
+at some point and made it break backward.
+connect/Garden_gate/ggate_breakable.face
+wall/swall/ggate_breakable.arc
+Daniel Hawkins 2021-08-12
+
 New image for goblin's foot.
 flesh/goblin/goblin_foot.base.111.png
 flesh/goblin/goblin_foot.clsc.111.png
