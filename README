@@ -38,6 +38,22 @@ Images
 Images must be stored in PNG, optionally with indexed color, and be compressed
 by tools such as optipng or pngcrush.
 
+Licensing
+~~~~~~~~~
+When adding new artwork, add a sidecar file containing the licensing
+information. Use freeform text comments marked by "#" to describe the origins,
+author, and link to the source if applicable. After the comments, use a
+"license" line to state the license name, and and "licenseurl" line to link to
+the full license text.
+
+The license sidecar file name can vary based on the item type.
+
+As an example of how to format the sidecar file, reference
+"/misc/Container/depositbox.base.LICENSE"
+
+If creating or adapting new artwork for the project, a Creative Commons license
+is preferred, but other FOSS-type licenses are acceptable.
+
 Perspective
 ~~~~~~~~~~~
 Some coloring/perspective hints/clarifications from David Sundqvist:
@@ -67,6 +83,16 @@ have a 3-digit extension in the form of '.PDA', where:
     P:: part number
     D:: coding, or any other instance coding in
     A:: animation phase
+
+.License sidecar names
+
+When an artwork file would be 'name.imageset.PDA.png', the license sidecar
+should be 'name.imageset.LICENSE'. For example,
+'/misc/Container/depositbox.base.111.png' has a sidecar file
+'/misc/Container/depositbox.base.LICENSE'. Note that the the "P/D/A" suffix
+is omitted. We also do not specify that the license is for the .png file only,
+in case we have both a vector image and raster image, in which case it is
+assumed to apply to both.
 
 Numbering (PDA)
 ^^^^^^^^^^^^^^^
@@ -139,6 +165,16 @@ X is a bit-wise combination expressed in hexadecimal form.  For example,
 vertical wall.
 
 P, D, and A are always 1.
+
+.License sidecar names for walls
+
+When a wall artwork file would be 'name_X.imageset.PDA.png', the license sidecar
+should be 'name.imageset.LICENSE'. For example,
+'/wall/bwall/bwall_0.base.111.png' has a sidecar file
+'/wall/bwall/bwall.base.LICENSE'. Note that the wall connection suffix is
+omitted, as well as the "P/D/A" suffix. We also do not specify that the license
+is for the .png file only, in case we have both a vector image and raster
+image, in which case it is assumed to apply to both.
 
 .Object Names
 
