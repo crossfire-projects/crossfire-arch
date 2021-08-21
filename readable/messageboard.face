@@ -1,0 +1,8 @@
+face messageboard.111
+magicmap brown
+visibility 40
+end
+face messageboard_red.111
+magicmap red
+visibility 40
+end
