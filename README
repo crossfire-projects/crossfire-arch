@@ -44,7 +44,13 @@ When adding new artwork, add a sidecar file containing the licensing
 information. Use freeform text comments marked by "#" to describe the origins,
 author, and link to the source if applicable. After the comments, use a
 "license" line to state the license name, and and "licenseurl" line to link to
-the full license text.
+the full license text. Also, use a "sourcename" line to specify the
+author's or licensor's name or handle, and a "sourceurl" line to link to the
+most original source possible, if it's publicly available on the internet.
+
+If some piece of information has several values, like multiple contributing
+authors, feel free to add another line for each item, like one "sourcename"
+line for each author.
 
 The license sidecar file name can vary based on the item type.
 
