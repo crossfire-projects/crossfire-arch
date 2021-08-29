@@ -1,3 +1,9 @@
+Redesigned small bulletwall images using Saiapatsu's
+earthwall graphics. Moved old images to the classic face set.
+wall/bulletwall/bul_wall_*.base.111.png
+wall/bulletwall/bul_wall_*.clsc.111.png
+Daniel Hawkins 2021-08-28
+
 New flat-perspective art for coif for the classic face set.
 armour/helmet/coif.clsc.111.png
 Daniel Hawkins 2021-08-15
