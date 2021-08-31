@@ -2,3 +2,7 @@ face galleon.111
 magicmap brown
 visibility 100
 end
+face galleon.121
+magicmap brown
+visibility 100
+end
