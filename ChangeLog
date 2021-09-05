@@ -1,3 +1,9 @@
+Redraw the tridents to have some depth.
+The darker color I gave them earlier made them hard to see on some floors.
+Giving them a black outline and some lighting effects should resolve this.
+weapon/misc/trident.base.*.png
+Daniel Hawkins 2021-09-05
+
 Added some Modified David Gervais tiles to be vials in the classic face set.
 potion/vial_*.clsc.111.png
 Daniel Hawkins 2021-09-03
