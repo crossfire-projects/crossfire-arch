@@ -1,10 +1,67 @@
 animation devil
+facings 8
 devil.111
 devil.112
+devil.121
+devil.122
+devil.131
+devil.132
+devil.141
+devil.142
+devil.151
+devil.152
+devil.161
+devil.162
+devil.171
+devil.172
+devil.181
+devil.182
 mina
 face devil.111
 magicmap red
 end
 face devil.112
+magicmap red
+end
+face devil.121
+magicmap red
+end
+face devil.122
+magicmap red
+end
+face devil.131
+magicmap red
+end
+face devil.132
+magicmap red
+end
+face devil.141
+magicmap red
+end
+face devil.142
+magicmap red
+end
+face devil.151
+magicmap red
+end
+face devil.152
+magicmap red
+end
+face devil.161
+magicmap red
+end
+face devil.162
+magicmap red
+end
+face devil.171
+magicmap red
+end
+face devil.172
+magicmap red
+end
+face devil.181
+magicmap red
+end
+face devil.182
 magicmap red
 end

@@ -2,7 +2,7 @@ Object devil
 name demon
 race demon
 randomitems devil
-face devil.111
+face devil.151
 animation devil
 monster 1
 move_type walk
