@@ -1,3 +1,13 @@
+Replace existing fiend image in the classic face set with a Gervais tile.
+Existing tile was derived from Greater Demon or Medium Demon, both
+of which look suspiciously like the accompanying artwork for demons from the 1994
+DOS game Dark Legions. Worth noting both those should also be replaced in the fututre
+for the same reason.
+monster/demon/fiend.clsc.111.png
+monster/demon/fiend.clsc.112.png
+monster/demon/fiend.clsc.LICENSE
+Daniel Hawkins 2021-09-19
+
 Redraw the tridents to have some depth.
 The darker color I gave them earlier made them hard to see on some floors.
 Giving them a black outline and some lighting effects should resolve this.
