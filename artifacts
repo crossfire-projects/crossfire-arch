@@ -3593,6 +3593,25 @@ value 5
 wc -4
 cursed 1
 end
+# Duality of firing speed buffs
+# A good buff for firing rate for crossbows and bows
+# Accompanied by a cursed counterpart for slow firing
+Allowed all
+chance 10
+Object Rapid Fire
+type 14
+value 10
+sp 15
+end
+#
+Allowed all
+chance 15
+Object Lethargy
+type 14
+value 1
+sp -15
+cursed 1
+end
 #
 Allowed bow
 chance 1

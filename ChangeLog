@@ -1,3 +1,9 @@
+Two new artifacts for bows/crossbows: Lethargy and Rapid Fire
+Lethargy fires very slowly and is cursed.
+Rapid Fire fires a little faster, and seems to be more noticeable on crossbows.
+artifacts
+Daniel Hawkins 2021-10-03
+
 Replace existing fiend image in the classic face set with a Gervais tile.
 Existing tile was derived from Greater Demon or Medium Demon, both
 of which look suspiciously like the accompanying artwork for demons from the 1994
