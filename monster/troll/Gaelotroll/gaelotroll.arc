@@ -10,7 +10,7 @@ attacktype 65
 can_see_in_dark 1
 exp 70000
 ac -7
-wc -50
+wc -15
 dam 25
 hp 3000
 Str 55
