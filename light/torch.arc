@@ -17,6 +17,7 @@ end
 
 Object torch_1
 name torch
+type 75
 face torch_lit1.111
 other_arch dim_torch
 animation torch_1
@@ -34,6 +35,7 @@ end
 
 Object dim_torch
 name torch
+type 75
 face torch_lit2.111
 other_arch burnt_torch
 animation dim_torch
