@@ -1560,6 +1560,67 @@ endmsg
 item_power 3
 end
 #
+# Dresses (subtype of armor)
+# because why not have heavily enchanted dresses possible?
+#
+Allowed dress1,dress2,dress3
+chance 15
+Object Conjuration
+sp 3
+type 16
+value 15
+path_attuned 18496
+msg
+  Not every wizard wears robes.
+endmsg
+item_power 5
+end
+#
+Allowed dress1,dress2,dress3
+chance 15
+Object the Priestess
+Cha 2
+Wis 1
+path_attuned 590081
+type 16
+value 20
+item_power 10
+magic 1
+end
+#
+Allowed dress1,dress2,dress3
+chance 20
+Object Constraint
+Dex -2
+exp -2
+ac -2
+wc -2
+last_sp -2
+cursed 1
+type 16
+value 2
+msg
+  The design of this dress clearly was not intended for the wearer to move at more than a slow pace.
+  It's too tight in all the wrong places, and too loose in others.
+endmsg
+end
+#
+Allowed dress1,dress2,dress3
+chance 10
+Object the Duelist
+resist_physical 20
+ac 2
+type 16
+value 25
+last_sp 3
+item_power 6
+weight 400
+msg
+  A protective layer is sewn into the fabric, probably for protection at high-profile, fancy gatherings.
+  It also seems to have been designed to allow for decent mobility while still looking like a normal dress.
+endmsg
+end
+#
 # Rings
 #
 # Ring of Thieves

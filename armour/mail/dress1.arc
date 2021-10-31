@@ -10,7 +10,7 @@ last_sp 5
 Cha 2
 ac 1
 weight 10000
-value 10000
+value 2000
 material 128
 body_torso -1
 end

@@ -1,3 +1,13 @@
+Add some artifact definitions for dresses.
+Also, make them rarely spawn in random loot.
+Make their value 1/5th what it previously was, since they are now less rare.
+artifacts
+armour/mail/random_mail.trs
+armour/mail/dress1.arc
+armour/mail/dress2.arc
+armour/mail/dress3.arc
+Daniel Hawkins 2021-10-31
+
 Two new artifacts for bows/crossbows: Lethargy and Rapid Fire
 Lethargy fires very slowly and is cursed.
 Rapid Fire fires a little faster, and seems to be more noticeable on crossbows.

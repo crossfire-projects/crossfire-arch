@@ -46,4 +46,23 @@ treasureone random_mail
   arch plate_mail
     magic 4
     chance 5
+  more
+  list random_dress
+    magic 3
+    chance 1
+  end
+
+treasureone random_dress
+  arch dress3
+    chance 10
+  more
+  arch dress2
+    chance 5
+  more
+  arch dress1
+    chance 1
+  more
+# Give the tunic another chance to generate.
+  arch tunic
+    chance 25
   end
