@@ -85,10 +85,7 @@ treasureone random_knowledge
   arch scroll_literacy
     chance 8
   more
-# not knowledge per se, but is a random skill
-  arch lockpicks
-    chance 8
-  more
+# lockpicking can not be learned
 # meditation can not be learned
   arch scroll_missile_weap
     chance 15
@@ -178,15 +175,18 @@ treasureone needle_diseases
   end
 treasureone random_shop
   list random_weapon
-    chance 15
+    chance 10
   more
   list random_armour
-    chance 15
+    chance 10
   more
   list random_food
-    chance 15
+    chance 10
   more
   list random_special
+    chance 5
+  more
+  list random_tool
     chance 5
   end
 treasureone random_weapon
@@ -243,17 +243,6 @@ treasureone random_special
   more
   arch scroll_new
     chance 10
-  more
-  arch torch_unlit
-    nrof 8
-    chance 3
-  more
-  arch torch_unlit
-    nrof 3
-    chance 7
-  more
-  arch flint_and_steel
-    chance 5
   more
   arch amulet
     chance 10
@@ -1556,17 +1545,8 @@ treasureone uncommon_items
   arch rod_heavy
     chance 10
   more
-  arch lockpicks
-    chance 5
-  more
-  arch file
-    chance 3
-  more
   arch ring_spell
     chance 1
-  more
-  arch slicingknife
-    chance 2
   more
   list NONE
     chance 23

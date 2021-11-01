@@ -1,0 +1,26 @@
+treasureone random_tool
+  arch slicingknife
+    chance 7
+  more
+  arch file
+    chance 5
+  more
+  arch lockpicks
+    chance 2
+  more
+  arch mining_pick
+    chance 5
+  arch torch_unlit
+    nrof 8
+    chance 3
+  more
+  arch torch_unlit
+    nrof 3
+    chance 7
+  more
+  arch flint_and_steel
+    chance 5
+  more
+  list containers
+    chance 10
+  end
