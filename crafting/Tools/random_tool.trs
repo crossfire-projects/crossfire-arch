@@ -23,4 +23,10 @@ treasureone random_tool
   more
   list containers
     chance 10
+  more
+  arch fishing_pole
+    chance 3
+  more
+  arch fishing_pole2
+    chance 3
   end
