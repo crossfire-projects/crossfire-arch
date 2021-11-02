@@ -10,6 +10,7 @@ treasureone random_tool
   more
   arch mining_pick
     chance 5
+  more
   arch torch_unlit
     nrof 8
     chance 3
