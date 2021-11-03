@@ -1,3 +1,4 @@
+# This is deprecated, and shop_random should be used instead.
 Object shop_general
 name general items tile
 is_floor 1

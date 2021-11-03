@@ -1,0 +1,16 @@
+treasureone random_shop
+  list random_weapon
+    chance 10
+  more
+  list random_armour
+    chance 10
+  more
+  list random_food
+    chance 10
+  more
+  list random_special
+    chance 5
+  more
+  list random_tool
+    chance 5
+  end

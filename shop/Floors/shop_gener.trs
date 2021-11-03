@@ -1,3 +1,4 @@
+# This is only used for the shop_general floor tile, which is deprecated.
 treasureone shop_general
   list containers
     chance 70
