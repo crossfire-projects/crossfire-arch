@@ -1,3 +1,8 @@
+Give 'mimic' the same client_type as a container so it appears at the same location
+in the player's inventory.
+monster/mimic/mimic.arc
+Nicolas Weeger 2021-11-08
+
 Add some artifact definitions for dresses.
 Also, make them rarely spawn in random loot.
 Make their value 1/5th what it previously was, since they are now less rare.

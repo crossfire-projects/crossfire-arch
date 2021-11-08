@@ -43,6 +43,7 @@ resist_death 100
 resist_confusion 50
 value 50
 weight 50000
+client_type 51
 identified 1
 randomitems mimic
 name_pl chests
