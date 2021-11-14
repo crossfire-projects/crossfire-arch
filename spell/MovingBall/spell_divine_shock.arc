@@ -7,14 +7,14 @@ type 101
 subtype 35
 level 10
 value 10
-grace 3
+grace 4
 casting_time 10
 skill praying
 path_attuned 131072
 path_repelled 8
 other_arch divine_shock
-dam 4
-dam_modifier 3
+dam 3
+dam_modifier 4
 duration 35
 duration_modifier 2
 maxgrace 10
