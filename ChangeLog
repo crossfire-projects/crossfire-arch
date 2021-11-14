@@ -1,5 +1,5 @@
 Weaken divine shock without removing the godpower attacktype.
-Hopefully this is enough to make it a solution to every problem.
+Hopefully this is enough to make it not a solution to every problem.
 Specifically, the changes are:
 grace 3 -> 4 (since the grace increase goes by doubling, this causes a >1 increase in cost at higher levels)
 dam 4 -> 3
