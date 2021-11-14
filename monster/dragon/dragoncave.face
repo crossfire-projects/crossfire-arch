@@ -1,3 +1,19 @@
+animation dragoncave
+facings 1
+dragoncave.111
+dragoncave.112
+dragoncave.113
+dragoncave.114
+mina
 face dragoncave.111
+magicmap red
+end
+face dragoncave.112
+magicmap red
+end
+face dragoncave.113
+magicmap red
+end
+face dragoncave.114
 magicmap red
 end

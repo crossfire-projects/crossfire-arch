@@ -15,6 +15,10 @@ dam_modifier 3 -> 4 (This causes the damage to increase less quickly)
 spell/MovingBall/spell_divine_shock.arc
 Daniel Hawkins 2021-11-14
 
+Move current 'dragoncave.base' face to clsc set, create new faces and animation for base,
+make new face for 'broken_dragoncave.base', move old one to clsc set
+Nicolas Weeger 2021-11-14
+
 Give 'mimic' the same client_type as a container so it appears at the same location
 in the player's inventory.
 monster/mimic/mimic.arc
