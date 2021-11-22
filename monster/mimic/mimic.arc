@@ -9,12 +9,12 @@ name chest
 hp 100
 maxhp 100
 dam 20
-ac 10
+ac 15
 wc 5
 exp 500
 speed 0.1
 # Adjustments for the level provided (either map difficulty or arch level)
-ac_per_level -0.5
+ac_per_level -0.25
 wc_per_level -0.5
 dam_per_level 2
 hp_per_level 100
@@ -24,7 +24,7 @@ speed_per_level 0.01
 alive 0
 monster 0
 # Static stuff -- unchanged across all mimic of this type
-Con 5
+Con 3
 move_type walk
 run_away 0
 material 18
