@@ -34,6 +34,22 @@ endmsg
 end
 #
 Object map_beginners_house
+name Tutorial 1
+type 22
+subtype 3
+slaying /start/tutorial1
+face map.111
+unique 1
+hp 11
+sp 1
+msg
+The beginners tutorial is a good choice for first time players.  It will teach you some of the mechanics of the game.
+
+If you have played before, you may choose to skip the beginners tutorial and start your adventures in some other location right away.
+endmsg
+end
+#
+Object map_beginners_house
 name Beginners House
 type 22
 subtype 3
