@@ -33,8 +33,8 @@ This does however mean that many others may be adventuring in the same areas.
 endmsg
 end
 #
-Object map_beginners_house
-name Tutorial 1
+Object map_tutorial_step_by_step
+name Step by step tutorial
 type 22
 subtype 3
 slaying /start/tutorial1
@@ -43,14 +43,16 @@ unique 1
 hp 11
 sp 1
 msg
-The beginners tutorial is a good choice for first time players.  It will teach you some of the mechanics of the game.
+A tutorial is a good choice for first time players. It will teach you some of the mechanics of the game.
 
-If you have played before, you may choose to skip the beginners tutorial and start your adventures in some other location right away.
+This tutorial is step-by-step, guiding you in a predefined way. If you prefer more freedom to explore, select the "Free form tutorial".
+
+If you have played before, you may choose to skip the tutorials and start your adventures in some other location right away.
 endmsg
 end
 #
-Object map_beginners_house
-name Beginners House
+Object map_tutorial_free_form
+name Free-form tutorial
 type 22
 subtype 3
 slaying /start/newbieshouse
@@ -59,9 +61,11 @@ unique 1
 hp 9
 sp 4
 msg
-The beginners house is a good choice for first time players.  It will teach you some of the mechanics of the game.
+A tutorial is a good choice for first time players. It will teach you some of the mechanics of the game.
 
-If you have played before, you may choose to skip the beginners house and start your adventures in some other location right away.
+This tutorial is a free-form tutorial, in which you roam around a small area to discover mechanisms. If you prefer a more guided approach, select the "Step by step tutorial".
+
+If you have played before, you may choose to skip the tutorials and start your adventures in some other location right away.
 endmsg
 end
 #
