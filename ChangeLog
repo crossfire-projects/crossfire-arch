@@ -1,3 +1,11 @@
+New faces for nightmare, move current faces to clsc
+monster/undead/nightmare.base.111.png
+monster/undead/nightmare.base.112.png
+monster/undead/nightmare.base.LICENSE
+monster/undead/nightmare.clsc.111.png
+monster/undead/nightmare.clsc.112.png
+Nicolas Weeger 2021-12-17
+
 Weaken divine shock without removing the godpower attacktype.
 Hopefully this is enough to make it not a solution to every problem.
 Specifically, the changes are:
