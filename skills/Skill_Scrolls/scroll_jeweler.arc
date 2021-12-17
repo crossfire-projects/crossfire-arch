@@ -3,7 +3,7 @@ name scroll
 name_pl scrolls
 face scroll.111
 identified_name scroll of jeweler
-identified_name_pl scroll of jewelers
+identified_name_pl scrolls of jeweler
 skill jeweler
 identified_face scroll_jewelry.111
 race scrolls
