@@ -7,6 +7,7 @@ animation knight
 alive 1
 monster 1
 move_type walk
+is_guard 1
 sleep 1
 Wis 15
 see_invisible 1
