@@ -9,7 +9,7 @@ smoothlevel 200
 speed 1
 wc -30
 move_type fly_low
-glow_radius 1
+glow_radius 2
 no_pick 1
 weight 500
 end

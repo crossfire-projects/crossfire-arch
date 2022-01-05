@@ -10,7 +10,7 @@ smoothface fireball.113 fireball_S.113
 wc -30
 speed 0.2
 speed_left -0.21
-glow_radius 1
+glow_radius 2
 move_type fly_low
 no_pick 1
 attacktype 4

@@ -8,7 +8,7 @@ is_animated 0
 is_turnable 1
 move_on walk fly_low
 speed 1
-glow_radius 1
+glow_radius 3
 move_type fly_low
 no_pick 1
 end
