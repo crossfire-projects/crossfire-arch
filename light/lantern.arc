@@ -5,7 +5,8 @@ other_arch lantern_1
 material 2
 value 5000
 weight 1500
-food 10000
+food 1000
+maxsp 1000
 type 82
 nrof 1
 glow_radius 0
@@ -18,12 +19,13 @@ name lantern
 face lantern.111
 other_arch lantern_unlit
 material 2
-food 10000
+food 1000
+maxsp 1000
 changing 1
 value 0
 type 82
 weight 1500
-speed 0.01
+speed 0.02
 glow_radius 5
 is_lightable 1
 name_pl lanterns
