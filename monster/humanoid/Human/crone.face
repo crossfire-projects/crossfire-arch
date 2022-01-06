@@ -1,0 +1,35 @@
+animation crone
+facings 8
+crone.111
+crone.121
+crone.131
+crone.141
+crone.151
+crone.161
+crone.171
+crone.181
+mina
+face crone.111
+magicmap white
+end
+face crone.121
+magicmap white
+end
+face crone.131
+magicmap white
+end
+face crone.141
+magicmap white
+end
+face crone.151
+magicmap white
+end
+face crone.161
+magicmap white
+end
+face crone.171
+magicmap white
+end
+face crone.181
+magicmap white
+end
