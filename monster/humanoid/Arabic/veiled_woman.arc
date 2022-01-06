@@ -2,6 +2,7 @@ Object veiled_woman
 race human
 name Veiled woman
 face veiled_woman.111
+animation veiled_woman
 alive 1
 monster 1
 move_type walk
