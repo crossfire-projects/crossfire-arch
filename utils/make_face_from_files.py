@@ -26,6 +26,7 @@ parser.add_argument('--face', required=True, type=str, help='name of the face to
 parser.add_argument('--facings', default=8, type=int, help='number of facings for the face, 1, 2, 4 or 8, default 8')
 parser.add_argument('--magicmap', type=str, help='color to assign the face on the magicmap, default none so no magic '
                                                  'map information')
+parser.add_argument('--license', type=str, help='License file to use for these faces')
 
 args = parser.parse_args()
 
@@ -74,3 +75,6 @@ for m in magicmap:
 out = open("{0}.face".format(args.face), 'w')
 out.write(anim_file)
 out.close()
+
+if args.license:
+    shutil.copyfile(args.license, "{0}.{1}.LICENSE".format(args.face, args.faceset))
