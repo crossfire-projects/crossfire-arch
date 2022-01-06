@@ -1,3 +1,67 @@
+animation veiled_woman3
+facings 8
+veiled_woman3.111
+veiled_woman3.112
+veiled_woman3.121
+veiled_woman3.122
+veiled_woman3.131
+veiled_woman3.132
+veiled_woman3.141
+veiled_woman3.142
+veiled_woman3.151
+veiled_woman3.152
+veiled_woman3.161
+veiled_woman3.162
+veiled_woman3.171
+veiled_woman3.172
+veiled_woman3.181
+veiled_woman3.182
+mina
 face veiled_woman3.111
-magicmap green
+magicmap red
+end
+face veiled_woman3.112
+magicmap red
+end
+face veiled_woman3.121
+magicmap red
+end
+face veiled_woman3.122
+magicmap red
+end
+face veiled_woman3.131
+magicmap red
+end
+face veiled_woman3.132
+magicmap red
+end
+face veiled_woman3.141
+magicmap red
+end
+face veiled_woman3.142
+magicmap red
+end
+face veiled_woman3.151
+magicmap red
+end
+face veiled_woman3.152
+magicmap red
+end
+face veiled_woman3.161
+magicmap red
+end
+face veiled_woman3.162
+magicmap red
+end
+face veiled_woman3.171
+magicmap red
+end
+face veiled_woman3.172
+magicmap red
+end
+face veiled_woman3.181
+magicmap red
+end
+face veiled_woman3.182
+magicmap red
 end
