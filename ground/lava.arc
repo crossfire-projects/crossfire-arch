@@ -22,6 +22,7 @@ duration 60
 dam 3
 is_floor 1
 move_block boat swim
+glow_radius 2
 end
 #
 Object permanent_lava
@@ -47,4 +48,5 @@ hp 1
 dam 3
 is_floor 1
 move_block boat swim
+glow_radius 2
 end
