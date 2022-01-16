@@ -7,4 +7,5 @@ Click.
 endmsg
 no_pick 1
 invisible 1
+level 120
 end
