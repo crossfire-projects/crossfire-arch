@@ -1,0 +1,19 @@
+animation dragoncave_green
+facings 1
+dragoncave_green.111
+dragoncave_green.112
+dragoncave_green.113
+dragoncave_green.114
+mina
+face dragoncave_green.111
+magicmap green
+end
+face dragoncave_green.112
+magicmap green
+end
+face dragoncave_green.113
+magicmap green
+end
+face dragoncave_green.114
+magicmap green
+end

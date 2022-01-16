@@ -28,6 +28,10 @@ other_arch cold_dragon
 name dragon cave
 generator 1
 face dragoncave_green.111
+animation dragoncave_green
+is_animated 1
+anim_speed 5
+client_anim_random 1
 speed 0.004000
 level 10
 hp 300
