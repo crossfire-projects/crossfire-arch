@@ -2,6 +2,9 @@ Object fog
 face fog.111
 other_arch fog
 animation fog
+smoothlevel 180
+smoothface fog.111 fog_S.111
+smoothface fog.112 fog_S.112
 type 67
 move_type fly_low
 no_pick 1

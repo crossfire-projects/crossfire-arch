@@ -1,6 +1,7 @@
 Object fogexit
 name mysterious fog
 face fog.111
+smoothlevel 180
 anim_speed 5
 client_anim_random 1
 type 66

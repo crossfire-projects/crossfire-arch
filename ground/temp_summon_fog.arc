@@ -2,6 +2,7 @@ Object temp_summon_fog
 name fog
 face fog.111
 animation temp_fog
+smoothlevel 180
 type 67
 move_type fly_low
 no_pick 1

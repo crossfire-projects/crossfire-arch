@@ -4,6 +4,7 @@ Object fog_wall
 name fog
 face fog.111
 animation fog_wall
+smoothlevel 180
 type 102
 subtype 7
 move_type fly_low
