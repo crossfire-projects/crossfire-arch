@@ -1,0 +1,19 @@
+animation dragoncave_blue
+facings 1
+dragoncave_blue.111
+dragoncave_blue.112
+dragoncave_blue.113
+dragoncave_blue.114
+mina
+face dragoncave_blue.111
+magicmap blue
+end
+face dragoncave_blue.112
+magicmap blue
+end
+face dragoncave_blue.113
+magicmap blue
+end
+face dragoncave_blue.114
+magicmap blue
+end

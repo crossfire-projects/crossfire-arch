@@ -50,6 +50,10 @@ resist_electricity 100
 name dragon cave
 generator 1
 face dragoncave_blue.111
+animation dragoncave_blue
+is_animated 1
+anim_speed 5
+client_anim_random 1
 level 10
 hp 300
 maxhp 300
