@@ -117,6 +117,35 @@ end
 #
 # - curative potions
 #
+Allowed potion_generic
+chance 10
+Object minor healing
+face potion_tiny_red_swirling.111
+type 5
+value 1
+other_arch spell_minor_healing
+end
+#
+Allowed potion_generic
+chance 5
+difficulty 5
+Object medium healing
+face potion_mediumtapered_red_swirling.111
+type 5
+value 3
+other_arch spell_medium_healing
+end
+#
+Allowed potion_generic
+chance 2
+difficulty 10
+Object greater healing
+face potion_largesquare_red_swirling.111
+type 5
+value 1
+other_arch spell_major_healing
+end
+#
 Allowed balm_generic
 chance 1
 Object first aid
