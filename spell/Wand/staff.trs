@@ -24,18 +24,19 @@ more
 		nrof 3
 		chance 5
 more
-	arch spell_minor_healing
-		nrof 40
-		chance 5
-more
-	arch spell_medium_healing
-		nrof 12
-		chance 5
-more
-	arch spell_heal
-		nrof 5
-		chance 5
-more
+# Healing spells removed in favor of healing consumables
+#	arch spell_minor_healing
+#		nrof 40
+#		chance 5
+#more
+#	arch spell_medium_healing
+#		nrof 12
+#		chance 5
+#more
+#	arch spell_heal
+#		nrof 5
+#		chance 5
+#more
 	arch spell_show_invisible
 		nrof 8
 		chance 4
