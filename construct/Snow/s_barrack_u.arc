@@ -6,6 +6,8 @@ animation s_barrack_up
 anim_speed 1
 client_anim_random 10
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object s_barrack_up_2
@@ -17,4 +19,6 @@ anim_speed 1
 client_anim_random 10
 y 1
 no_pick 1
+hp -1
+sp -1
 end

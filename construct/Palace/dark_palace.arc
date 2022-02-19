@@ -3,6 +3,8 @@ type 66
 face dark_palace.x11
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object dark_palace_2
@@ -10,6 +12,8 @@ type 66
 face dark_palace.x11
 x 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_3
@@ -17,6 +21,8 @@ type 66
 face dark_palace.x11
 x 2
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_4
@@ -24,6 +30,8 @@ type 66
 face dark_palace.x11
 x 3
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_5
@@ -31,6 +39,8 @@ type 66
 face dark_palace.x11
 y 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_6
@@ -39,6 +49,8 @@ face dark_palace.x11
 x 1
 y 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_7
@@ -47,6 +59,8 @@ face dark_palace.x11
 x 2
 y 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_8
@@ -55,6 +69,8 @@ face dark_palace.x11
 x 3
 y 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_9
@@ -62,6 +78,8 @@ type 66
 face dark_palace.x11
 y 2
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_10
@@ -70,6 +88,8 @@ face dark_palace.x11
 x 1
 y 2
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_11
@@ -78,6 +98,8 @@ face dark_palace.x11
 x 2
 y 2
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object dark_palace_12
@@ -86,4 +108,6 @@ face dark_palace.x11
 x 3
 y 2
 no_pick 1
+hp -1
+sp -1
 end

@@ -15,10 +15,14 @@ face ahole_blue.131
 type 66
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 Object ahole_blue_left
 face ahole_blue.171
 type 66
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end

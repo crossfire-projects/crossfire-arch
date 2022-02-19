@@ -3,6 +3,8 @@ face guild2_northwest.x11
 type 66
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object guild2_2_northwest
@@ -12,6 +14,8 @@ type 66
 no_pick 1
 move_block all
 x 1
+hp -1
+sp -1
 end
 More
 Object guild2_3_northwest
@@ -20,6 +24,8 @@ face guild2_northwest.x11
 type 66
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object guild2_4_northwest
@@ -29,4 +35,6 @@ type 66
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end

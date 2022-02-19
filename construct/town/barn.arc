@@ -3,6 +3,8 @@ type 66
 face barn.x11
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object barn_2
@@ -11,6 +13,8 @@ type 66
 face barn.x11
 no_pick 1
 x 1
+hp -1
+sp -1
 end
 More
 Object barn_3
@@ -19,6 +23,8 @@ type 66
 face barn.x11
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object barn_4
@@ -28,4 +34,6 @@ face barn.x11
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end

@@ -5,6 +5,8 @@ type 66
 no_pick 1
 move_block all
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object a_civic_2
@@ -14,6 +16,8 @@ type 66
 no_pick 1
 move_block all
 x 1
+hp -1
+sp -1
 end
 More
 Object a_civic_3
@@ -22,6 +26,8 @@ face a_civic.x11
 type 66
 no_pick 1
 x 2
+hp -1
+sp -1
 end
 More
 Object a_civic_4
@@ -30,6 +36,8 @@ face a_civic.x11
 type 66
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object a_civic_5
@@ -39,6 +47,8 @@ type 66
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end
 More
 Object a_civic_6
@@ -48,6 +58,8 @@ type 66
 no_pick 1
 x 2
 y 1
+hp -1
+sp -1
 end
 More
 Object a_civic_7
@@ -56,6 +68,8 @@ face a_civic.x11
 type 66
 no_pick 1
 y 2
+hp -1
+sp -1
 end
 More
 Object a_civic_8
@@ -65,6 +79,8 @@ type 66
 no_pick 1
 x 1
 y 2
+hp -1
+sp -1
 end
 More
 Object a_civic_9
@@ -74,4 +90,6 @@ type 66
 no_pick 1
 x 2
 y 2
+hp -1
+sp -1
 end

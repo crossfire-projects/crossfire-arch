@@ -7,6 +7,8 @@ anim_speed 2
 client_anim_random 1
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object dragon_exit_2
@@ -17,6 +19,8 @@ no_pick 1
 type 66
 x 1
 weight 4000000
+hp -1
+sp -1
 end
 More
 Object dragon_exit_3
@@ -27,6 +31,8 @@ no_pick 1
 type 66
 x 2
 weight 4000000
+hp -1
+sp -1
 end
 More
 Object dragon_exit_4
@@ -37,6 +43,8 @@ no_pick 1
 type 66
 y 1
 weight 4000000
+hp -1
+sp -1
 end
 More
 Object dragon_exit_5
@@ -48,6 +56,8 @@ type 66
 x 1
 y 1
 weight 4000000
+hp -1
+sp -1
 end
 More
 Object dragon_exit_6
@@ -59,4 +69,6 @@ type 66
 x 2
 y 1
 weight 4000000
+hp -1
+sp -1
 end

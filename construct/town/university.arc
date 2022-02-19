@@ -4,6 +4,8 @@ face university.x11
 type 66
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object university_2
@@ -12,6 +14,8 @@ face university.x11
 type 66
 no_pick 1
 x 1
+hp -1
+sp -1
 end
 More
 Object university_3
@@ -20,6 +24,8 @@ face university.x11
 type 66
 no_pick 1
 x 2
+hp -1
+sp -1
 end
 More
 Object university_4
@@ -28,6 +34,8 @@ face university.x11
 type 66
 no_pick 1
 x 3
+hp -1
+sp -1
 end
 More
 Object university_5
@@ -36,6 +44,8 @@ face university.x11
 type 66
 no_pick 1
 x 4
+hp -1
+sp -1
 end
 More
 Object university_6
@@ -44,6 +54,8 @@ face university.x11
 type 66
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object university_7
@@ -53,6 +65,8 @@ type 66
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end
 More
 Object university_8
@@ -62,6 +76,8 @@ type 66
 no_pick 1
 x 2
 y 1
+hp -1
+sp -1
 end
 More
 Object university_9
@@ -71,6 +87,8 @@ type 66
 no_pick 1
 x 3
 y 1
+hp -1
+sp -1
 end
 More
 Object university_10
@@ -80,6 +98,8 @@ type 66
 no_pick 1
 x 4
 y 1
+hp -1
+sp -1
 end
 More
 Object university_11
@@ -88,6 +108,8 @@ face university.x11
 type 66
 no_pick 1
 y 2
+hp -1
+sp -1
 end
 More
 Object university_12
@@ -97,6 +119,8 @@ type 66
 no_pick 1
 x 1
 y 2
+hp -1
+sp -1
 end
 More
 Object university_13
@@ -106,6 +130,8 @@ type 66
 no_pick 1
 x 2
 y 2
+hp -1
+sp -1
 end
 More
 Object university_14
@@ -115,6 +141,8 @@ type 66
 no_pick 1
 x 3
 y 2
+hp -1
+sp -1
 end
 More
 Object university_15
@@ -124,6 +152,8 @@ type 66
 no_pick 1
 x 4
 y 2
+hp -1
+sp -1
 end
 More
 Object university_16
@@ -132,6 +162,8 @@ face university.x11
 type 66
 no_pick 1
 y 3
+hp -1
+sp -1
 end
 More
 Object university_17
@@ -141,6 +173,8 @@ type 66
 no_pick 1
 x 1
 y 3
+hp -1
+sp -1
 end
 More
 Object university_18
@@ -150,6 +184,8 @@ type 66
 no_pick 1
 x 2
 y 3
+hp -1
+sp -1
 end
 More
 Object university_19
@@ -159,6 +195,8 @@ type 66
 no_pick 1
 x 3
 y 3
+hp -1
+sp -1
 end
 More
 Object university_20
@@ -168,4 +206,6 @@ type 66
 no_pick 1
 x 4
 y 3
+hp -1
+sp -1
 end

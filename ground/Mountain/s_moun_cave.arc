@@ -5,4 +5,6 @@ face s_moun_cave.111
 no_pick 1
 is_floor 1
 client_type 25012
+hp -1
+sp -1
 end

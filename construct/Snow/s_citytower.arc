@@ -4,6 +4,8 @@ type 66
 face s_citytower.x11
 speed -0.1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object s_citytower_2
@@ -13,4 +15,6 @@ face s_citytower.x11
 speed -0.1
 y 1
 no_pick 1
+hp -1
+sp -1
 end

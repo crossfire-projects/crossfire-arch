@@ -5,6 +5,8 @@ face darkhold.x11
 no_pick 1
 move_block all
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object darkhold_2
@@ -14,6 +16,8 @@ face darkhold.x11
 x 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_3
@@ -23,6 +27,8 @@ face darkhold.x11
 x 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_4
@@ -32,6 +38,8 @@ face darkhold.x11
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_5
@@ -42,6 +50,8 @@ x 1
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_6
@@ -52,6 +62,8 @@ x 2
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_7
@@ -61,6 +73,8 @@ face darkhold.x11
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_8
@@ -71,6 +85,8 @@ x 1
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_9
@@ -81,6 +97,8 @@ x 2
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_10
@@ -90,6 +108,8 @@ face darkhold.x11
 y 3
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_11
@@ -100,6 +120,8 @@ x 1
 y 3
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_12
@@ -110,6 +132,8 @@ x 2
 y 3
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_13
@@ -119,6 +143,8 @@ face darkhold.x11
 y 4
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object darkhold_14
@@ -128,6 +154,8 @@ face darkhold.x11
 x 1
 y 4
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object darkhold_15
@@ -138,4 +166,6 @@ x 2
 y 4
 no_pick 1
 move_block all
+hp -1
+sp -1
 end

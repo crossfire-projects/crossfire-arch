@@ -5,6 +5,8 @@ blocksview 1
 face house_long.x11
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object house_long_2
@@ -14,4 +16,6 @@ blocksview 1
 face house_long.x11
 x 1
 no_pick 1
+hp -1
+sp -1
 end

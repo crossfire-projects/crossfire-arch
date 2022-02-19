@@ -4,6 +4,8 @@ face stronghold.x11
 no_pick 1
 move_block all
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object stronghold_2
@@ -13,6 +15,8 @@ face stronghold.x11
 x 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object stronghold_3
@@ -22,6 +26,8 @@ face stronghold.x11
 x 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object stronghold_4
@@ -31,6 +37,8 @@ face stronghold.x11
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object stronghold_5
@@ -41,6 +49,8 @@ x 1
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object stronghold_6
@@ -51,6 +61,8 @@ x 2
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object stronghold_7
@@ -60,6 +72,8 @@ face stronghold.x11
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object stronghold_8
@@ -69,6 +83,8 @@ face stronghold.x11
 x 1
 y 2
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object stronghold_9
@@ -79,4 +95,6 @@ x 2
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end

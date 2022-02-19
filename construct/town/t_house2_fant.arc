@@ -5,6 +5,8 @@ type 66
 no_pick 1
 move_block all
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object t_house2_2_fant
@@ -14,6 +16,8 @@ type 66
 no_pick 1
 move_block all
 x 1
+hp -1
+sp -1
 end
 More
 Object t_house2_3_fant
@@ -22,6 +26,8 @@ face t_house2_fant.x11
 type 66
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object t_house2_4_fant
@@ -31,4 +37,6 @@ type 66
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end

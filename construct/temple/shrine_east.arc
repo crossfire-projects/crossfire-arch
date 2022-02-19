@@ -4,6 +4,8 @@ type 66
 face shrine_east.x11
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object shrine_east_2
@@ -12,6 +14,8 @@ type 66
 face shrine_east.x11
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 
 Object shrine_east_r
@@ -20,6 +24,8 @@ type 66
 face shrine_east_r.x11
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object shrine_east_r_2
@@ -28,4 +34,6 @@ type 66
 face shrine_east_r.x11
 no_pick 1
 y 1
+hp -1
+sp -1
 end

@@ -7,6 +7,8 @@ client_anim_random 1
 animation castle_a
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object castle_b
@@ -16,6 +18,8 @@ face castle_a.x11
 animation castle_a
 x 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object castle_c
@@ -25,6 +29,8 @@ face castle_a.x11
 animation castle_a
 y 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object castle_d
@@ -35,4 +41,6 @@ animation castle_a
 x 1
 y 1
 no_pick 1
+hp -1
+sp -1
 end

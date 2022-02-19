@@ -5,6 +5,8 @@ face ruggilli_cathedral.x11
 no_pick 1
 move_block all
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_2
@@ -14,6 +16,8 @@ face ruggilli_cathedral.x11
 x 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_3
@@ -23,6 +27,8 @@ face ruggilli_cathedral.x11
 x 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_4
@@ -32,6 +38,8 @@ face ruggilli_cathedral.x11
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_5
@@ -42,6 +50,8 @@ x 1
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_6
@@ -52,6 +62,8 @@ x 2
 y 1
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_7
@@ -61,6 +73,8 @@ face ruggilli_cathedral.x11
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_8
@@ -71,6 +85,8 @@ x 1
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_9
@@ -81,6 +97,8 @@ x 2
 y 2
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_10
@@ -90,6 +108,8 @@ face ruggilli_cathedral.x11
 y 3
 no_pick 1
 move_block all
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_11
@@ -99,6 +119,8 @@ face ruggilli_cathedral.x11
 x 1
 y 3
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object ruggilli_cathedral_12
@@ -109,4 +131,6 @@ x 2
 y 3
 no_pick 1
 move_block all
+hp -1
+sp -1
 end

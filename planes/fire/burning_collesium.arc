@@ -4,6 +4,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object burning_collesium_2
@@ -12,6 +14,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 x 1
+hp -1
+sp -1
 end
 More
 Object burning_collesium_3
@@ -20,6 +24,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 x 2
+hp -1
+sp -1
 end
 More
 Object burning_collesium_4
@@ -28,6 +34,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 x 3
+hp -1
+sp -1
 end
 More
 Object burning_collesium_5
@@ -36,6 +44,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 x 4
+hp -1
+sp -1
 end
 More
 Object burning_collesium_6
@@ -44,6 +54,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object burning_collesium_7
@@ -53,6 +65,8 @@ type 66
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end
 More
 Object burning_collesium_8
@@ -62,6 +76,8 @@ type 66
 no_pick 1
 x 2
 y 1
+hp -1
+sp -1
 end
 More
 Object burning_collesium_9
@@ -71,6 +87,8 @@ type 66
 no_pick 1
 x 3
 y 1
+hp -1
+sp -1
 end
 More
 Object burning_collesium_10
@@ -80,6 +98,8 @@ type 66
 no_pick 1
 x 4
 y 1
+hp -1
+sp -1
 end
 More
 Object burning_collesium_11
@@ -88,6 +108,8 @@ face burning_collesium.x11
 type 66
 no_pick 1
 y 2
+hp -1
+sp -1
 end
 More
 Object burning_collesium_12
@@ -97,6 +119,8 @@ type 66
 no_pick 1
 x 1
 y 2
+hp -1
+sp -1
 end
 More
 Object burning_collesium_13
@@ -106,6 +130,8 @@ type 66
 no_pick 1
 x 2
 y 2
+hp -1
+sp -1
 end
 More
 Object burning_collesium_14
@@ -115,6 +141,8 @@ type 66
 no_pick 1
 x 3
 y 2
+hp -1
+sp -1
 end
 More
 Object burning_collesium_15
@@ -124,4 +152,6 @@ type 66
 no_pick 1
 x 4
 y 2
+hp -1
+sp -1
 end

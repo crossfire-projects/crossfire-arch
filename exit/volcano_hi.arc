@@ -7,6 +7,8 @@ move_slow walk
 move_slow_penalty 20
 blocksview 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object volcano_high_2
@@ -18,6 +20,8 @@ move_slow walk
 move_slow_penalty 20
 blocksview 1
 type 66
+hp -1
+sp -1
 end
 More
 Object volcano_high_3
@@ -29,6 +33,8 @@ move_slow walk
 move_slow_penalty 20
 blocksview 1
 type 66
+hp -1
+sp -1
 end
 More
 Object volcano_high_4
@@ -41,4 +47,6 @@ move_slow walk
 move_slow_penalty 20
 blocksview 1
 type 66
+hp -1
+sp -1
 end

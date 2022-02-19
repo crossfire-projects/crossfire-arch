@@ -5,6 +5,8 @@ no_pick 1
 move_on walk fly_low
 type 66
 blocksview 1
+hp -1
+sp -1
 end
 Object redguard_house_2
 name Guard House
@@ -13,6 +15,8 @@ no_pick 1
 move_on walk fly_low
 type 66
 blocksview 1
+hp -1
+sp -1
 end
 Object redguard_house_3
 name Guard House
@@ -21,6 +25,8 @@ no_pick 1
 move_on walk fly_low
 type 66
 blocksview 1
+hp -1
+sp -1
 end
 Object redguard_house_1
 name Guard House
@@ -29,4 +35,6 @@ no_pick 1
 move_on walk fly_low
 type 66
 blocksview 1
+hp -1
+sp -1
 end

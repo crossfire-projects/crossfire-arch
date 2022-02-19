@@ -3,6 +3,8 @@ type 66
 face church.x11
 no_pick 1
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object church_2
@@ -11,6 +13,8 @@ type 66
 face church.x11
 x 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object church_3
@@ -19,6 +23,8 @@ type 66
 face church.x11
 y 1
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object church_4
@@ -28,4 +34,6 @@ face church.x11
 x 1
 y 1
 no_pick 1
+hp -1
+sp -1
 end

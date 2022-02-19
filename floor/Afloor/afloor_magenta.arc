@@ -14,9 +14,13 @@ Object ahole_magenta_right
 face ahole_magenta.131
 type 66
 no_pick 1
+hp -1
+sp -1
 end
 Object ahole_magenta_left
 face ahole_magenta.171
 type 66
 no_pick 1
+hp -1
+sp -1
 end

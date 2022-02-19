@@ -7,4 +7,6 @@ move_on walk
 smoothface darkforest.111 darkforest_S.111
 smoothlevel 136
 client_type 25012
+hp -1
+sp -1
 end

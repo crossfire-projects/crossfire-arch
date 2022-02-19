@@ -3,6 +3,8 @@ type 66
 name hut
 face hut_vert.x11
 no_pick 1
+hp -1
+sp -1
 end
 More
 Object hut_vert_2
@@ -11,4 +13,6 @@ name hut
 face hut_vert.x11
 no_pick 1
 y 1
+hp -1
+sp -1
 end

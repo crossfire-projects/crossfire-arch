@@ -4,6 +4,8 @@ type 66
 no_pick 1
 move_block all
 client_type 25012
+hp -1
+sp -1
 end
 More
 Object dragon_guild2_2
@@ -13,6 +15,8 @@ type 66
 no_pick 1
 move_block all
 x 1
+hp -1
+sp -1
 end
 More
 Object dragon_guild2_3
@@ -21,6 +25,8 @@ face dragon_guild2.x11
 type 66
 no_pick 1
 y 1
+hp -1
+sp -1
 end
 More
 Object dragon_guild2_4
@@ -30,4 +36,6 @@ type 66
 no_pick 1
 x 1
 y 1
+hp -1
+sp -1
 end

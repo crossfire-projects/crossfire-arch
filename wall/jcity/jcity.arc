@@ -5,6 +5,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_1_2
 name wall
@@ -13,6 +15,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_1_4
 name wall
@@ -21,6 +25,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_2_2_1
 name wall
@@ -29,6 +35,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_1_1
 name wall
@@ -37,6 +45,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_2_1_1
 name wall
@@ -45,6 +55,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_2_2_2
 name wall
@@ -53,6 +65,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_3_2
 name wall
@@ -61,6 +75,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_1_3
 name wall
@@ -69,6 +85,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_2_2_4
 name wall
@@ -77,6 +95,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_2_1_2
 name wall
@@ -85,6 +105,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_3_1
 name wall
@@ -93,6 +115,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_2_2_3
 name wall
@@ -101,6 +125,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_3_4
 name wall
@@ -109,6 +135,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_3_3
 name wall
@@ -117,6 +145,8 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
 Object jcity_4
 name wall
@@ -125,4 +155,6 @@ blocksview 1
 no_pick 1
 type 66
 client_type 25012
+hp -1
+sp -1
 end
