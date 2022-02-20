@@ -5,7 +5,7 @@ name aggravation
 name_pl aggravation
 level 5
 sp 5
-max_sp 10
+maxsp 10
 casting_time 1
 path_attuned 1024
 skill sorcery
