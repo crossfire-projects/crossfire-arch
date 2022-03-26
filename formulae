@@ -269,6 +269,17 @@ skill alchemy
 cauldron cauldron
 ingred 3 pearl,water of the wise
 #
+# black powder
+Object NONE
+arch blackpowder
+chance 40
+diff 1
+yield 8
+exp 100
+skill alchemy
+cauldron cauldron
+ingred 1 charcoal,1 pile of sulphur,6 pile of saltpeter
+#
 # Now for basic smithery ingredients -- the bars (made from ores)
 #
 #
@@ -519,6 +530,28 @@ yield 2
 skill smithery
 cauldron forge
 ingred 4 iron bar,brass bar
+#
+# bomb shell
+Object NONE
+arch bomb_shell
+chance 3
+diff 5
+exp 500
+yield 1
+skill smithery
+cauldron forge
+ingred iron bar
+#
+# bomb
+Object NONE
+arch bomb_unlit
+chance 3
+diff 10
+exp 2000
+yield 1
+skill smithery
+cauldron forge
+ingred bomb shell,3 pile of black powder
 #
 # ----------------
 # Silvered weapons

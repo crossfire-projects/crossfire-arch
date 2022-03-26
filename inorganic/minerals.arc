@@ -26,6 +26,20 @@ name_pl piles
 client_type 641
 end
 
+Object saltpeter
+name pile
+name_pl piles
+title of saltpeter
+face salt.111
+nrof 1
+material 64
+materialname saltpeter
+type 73
+value 10
+weight 500
+client_type 641
+end
+
 Object sulphur
 name pile
 title of sulphur
@@ -39,6 +53,21 @@ resist_fire -100
 resist_acid 100
 weight 500
 name_pl piles
+client_type 641
+end
+
+Object blackpowder
+name pile
+name_pl piles
+title of black powder
+face graphite.111
+nrof 1
+material 64
+materialname blackpowder
+type 73
+value 15
+resist_fire -100
+weight 500
 client_type 641
 end
 

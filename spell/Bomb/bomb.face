@@ -1,3 +1,9 @@
+face bomb_shell.111
+magicmap black
+end
+face bomb_unlit.111
+magicmap black
+end
 animation bomb
 bomb.111
 bomb.111
