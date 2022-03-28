@@ -3250,6 +3250,19 @@ path_attuned 542
 path_denied 2048
 end
 #
+Allowed all
+chance 100
+difficulty 9
+Object finding
+face amulet.111
+type 39
+value 800
+arch event_apply
+title Python
+slaying /python/items/finding.py
+end
+end
+#
 # Containers (the following is hack to get a quiver for bolts also)
 # It would be better that it would be possible to define object
 # NONE also, and not use the fixed probability.
