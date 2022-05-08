@@ -2141,3 +2141,21 @@ end
 treasure queen_ant
 	arch gem
 end
+
+treasure humanoidpockets_low
+	list random_mushroom
+		chance 2
+	more
+	list random_wealth
+		chance 1
+	more
+	list random_gem
+		chance 1
+	more
+	list random_read
+		chance 2
+	more
+	list random_inorganic
+		chance 5
+	end
+#
