@@ -1,8 +1,6 @@
 treasure monk_class_items
   list basic_skills
   more
-  arch skill_missile_weapon
-  more
   arch skill_meditation
   more
   arch skill_karate
