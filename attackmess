@@ -823,7 +823,7 @@ TYPE:19
 3= feeds upon
 6=steal some of
 6='s life
-6=steals some life from
+6= steals some life from
 10=pull life from
 10=
 10= pulls life from
@@ -856,4 +856,4 @@ TYPE:19
 165= sucks lifeless
 9999=take
 9999='s soul
-9999= take soul from
+9999= takes soul from
