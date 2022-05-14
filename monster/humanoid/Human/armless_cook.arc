@@ -33,7 +33,7 @@ body_skill 1
 body_torso 1
 body_head 1
 body_shoulder 1
-body_foot 1
+body_foot 2
 body_wrist 1
 body_waist 1
 body_range 1
