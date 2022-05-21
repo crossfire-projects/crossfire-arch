@@ -39,4 +39,5 @@ endmsg
 exp 1
 weight 100000
 randomitems Mostrai
+exclude_from_readable 1
 end

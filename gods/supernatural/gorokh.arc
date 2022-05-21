@@ -42,4 +42,5 @@ endmsg
 exp 1
 weight 400000
 randomitems Gorokh
+exclude_from_readable 1
 end

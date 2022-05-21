@@ -38,4 +38,5 @@ endmsg
 exp 1
 weight 100000
 randomitems Valkyrie
+exclude_from_readable 1
 end

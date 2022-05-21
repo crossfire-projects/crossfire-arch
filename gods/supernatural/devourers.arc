@@ -48,4 +48,5 @@ endmsg
 exp 1
 weight 1
 randomitems Devourers
+exclude_from_readable 1
 end

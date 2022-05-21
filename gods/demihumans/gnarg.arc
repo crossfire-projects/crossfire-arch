@@ -38,4 +38,5 @@ endmsg
 exp 1
 weight 500000
 randomitems Gnarg
+exclude_from_readable 1
 end

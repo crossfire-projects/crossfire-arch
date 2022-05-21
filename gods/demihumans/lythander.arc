@@ -42,4 +42,5 @@ endmsg
 exp 1
 weight 500000
 randomitems Lythander
+exclude_from_readable 1
 end
