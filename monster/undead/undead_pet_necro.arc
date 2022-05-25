@@ -1,0 +1,33 @@
+Object undead_pet_necro
+other_arch undead_pet_necro
+race animal
+name Undead Pet Necromancer
+face pet_necro.111
+animation pet_necro
+Con 2
+Int 7
+Wis 15
+hp 200
+maxhp 200
+maxsp 10
+exp 5000
+dam 25
+wc -100
+ac -5
+speed 0.1
+level 80
+attacktype 1025
+resist_fire -100
+weight 30000
+alive 1
+monster 1
+undead 1
+can_see_in_dark 1
+see_invisible 1
+move_type walk
+random_movement 1
+run_away 20
+generator 1
+hitback 1
+sleep 1
+end
