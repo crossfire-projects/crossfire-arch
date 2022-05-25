@@ -2114,7 +2114,7 @@ resist_deplete 100
 resist_ghosthit 100
 Wis 3
 Pow 2
-grace 2
+grace 3
 item_power 25
 end
 #
@@ -3219,9 +3219,10 @@ face amulet_holiness.111
 type 39
 material 256
 Wis 3
+grace 3
 value 300
 path_attuned 385
-item_power 3
+item_power 6
 end
 #
 Allowed all
