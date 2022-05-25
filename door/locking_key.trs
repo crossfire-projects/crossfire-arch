@@ -1,6 +1,9 @@
+##
 treasure locking_key
-  arch locking_key_apply
+	arch locking_key_apply
 end
+
+##
 treasure lockable_door
-  arch lockable_door_trigger
+	arch lockable_door_trigger
 end

@@ -1,4 +1,4 @@
+##
 treasure shop_rings
-  arch ring
-  end
-
+	arch ring
+end

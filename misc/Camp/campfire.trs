@@ -1,5 +1,6 @@
+##
 treasure campfire_talking
 	arch campfire_say
-	more
+more
 	arch campfire_timer
 end

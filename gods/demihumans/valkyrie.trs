@@ -1,39 +1,45 @@
 #############################################################
 # Valkyrie - goddess of warriors
+#
 treasure Valkyrie
-  arch god_restore_grace
-  more
-  arch god_restore_hitpoints
-  more
-  arch god_cure_confusion
-  more
-  arch god_remove_curse
-    chance 50
-  more
-  arch god_remove_damnation
-    chance 30
-  more
-  arch god_remove_depletion
-    chance 50
-  more
-  arch valkyrie_general_info
-    chance 10
-  more
-  arch god_enchant_weapon_high
-    chance 10
-  more
-  arch god_grace_limit_wimpy
-  more
-  arch god_grace_limit_low
-  more
-  arch valkyrie_holy_oil
-    chance 10
-  more
-  arch god_grace_limit_medium
-  more
-  arch valkyrie_amulet_lifesave
-    chance 10
+	arch god_restore_grace
+more
+	arch god_restore_hitpoints
+more
+	arch god_cure_confusion
+more
+	arch god_remove_curse
+		chance 50
+more
+	arch god_remove_damnation
+		chance 30
+more
+	arch god_remove_depletion
+		chance 50
+more
+	arch valkyrie_general_info
+		chance 10
+more
+	arch god_enchant_weapon_high
+		chance 10
+more
+## God grace limit wimpy
+	arch god_grace_limit_wimpy
+more
+## God grace limit low
+	arch god_grace_limit_low
+more
+	arch valkyrie_holy_oil
+		chance 10
+more
+## God grace limit medium
+	arch god_grace_limit_medium
+more
+	arch valkyrie_amulet_lifesave
+		chance 10
 end
+
+##
 treasure altar_valkyrie
-  arch altar_valkyrie_pray_event
+	arch altar_valkyrie_pray_event
 end

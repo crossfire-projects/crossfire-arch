@@ -1,6 +1,6 @@
+##
 treasure shadow
-  arch spell_negaball
-  more
-  arch spell_cancellation
- end
-
+	arch spell_negaball
+more
+	arch spell_cancellation
+end

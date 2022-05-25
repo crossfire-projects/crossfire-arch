@@ -1,4 +1,5 @@
+##
 treasureone horn_siren
- arch spell_siren_call
- chance 1
+	arch spell_siren_call
+		chance 1
 end

@@ -1,3 +1,4 @@
+##
 treasure mountain
-  arch mountain_rubble
+	arch mountain_rubble
 end

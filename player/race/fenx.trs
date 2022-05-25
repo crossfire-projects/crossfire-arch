@@ -1,18 +1,19 @@
+##
 treasure fenx_player_items
-  arch bow
-  more
-  arch arrow
-    nrof 100
-  more
-  arch quiver
-  more
-  arch skill_woodsman
-  more
-  arch skill_missile_weapon
-  more
-  arch no_class_face_change
-  more
-  arch skill_jumping
-  more
-  arch skill_singing
+	arch bow
+more
+	arch arrow
+		nrof 100
+more
+	arch quiver
+more
+	arch skill_woodsman
+more
+	arch skill_missile_weapon
+more
+	arch no_class_face_change
+more
+	arch skill_jumping
+more
+	arch skill_singing
 end

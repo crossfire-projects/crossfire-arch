@@ -1,9 +1,9 @@
+##
 treasure slave
-  list humanoid_parts
-    chance 20
-  more
-  arch turban
-  more
-  arch sandals
-  end
-
+	list humanoid_parts
+		chance 20
+more
+	arch turban
+more
+	arch sandals
+end

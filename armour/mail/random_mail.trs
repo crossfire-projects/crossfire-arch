@@ -1,68 +1,70 @@
+##
 treasureone random_mail
-  arch b_plate_mail
-    magic 4
-    chance 5
-  more
-  arch b_scale_mail
-    magic 4
-    chance 5
-  more
-  arch robe
-    magic 4
-    chance 5
-  more
-  arch leather_armour
-    magic 4
-    chance 5
-  more
-  arch scale_mail
-    magic 4
-    chance 5
-  more
-  arch ring_mail2
-    magic 3
-    chance 5
-  more
-  arch chain_mail
-    magic 3
-    chance 5
-  more
-  arch lapron
-    magic 1
-    chance 1
-  more
-  arch tunic
-    magic 3
-    chance 1
-  more
-  arch ring_mail
-    magic 4
-    chance 5
-  more
-  arch ring_mail
-    magic 4
-    chance 5
-  more
-  arch plate_mail
-    magic 4
-    chance 5
-  more
-  list random_dress
-    magic 3
-    chance 1
-  end
+	arch b_plate_mail
+		magic 4
+		chance 5
+more
+	arch b_scale_mail
+		magic 4
+		chance 5
+more
+	arch robe
+		magic 4
+		chance 5
+more
+	arch leather_armour
+		magic 4
+		chance 5
+more
+	arch scale_mail
+		magic 4
+		chance 5
+more
+	arch ring_mail2
+		magic 3
+		chance 5
+more
+	arch chain_mail
+		magic 3
+		chance 5
+more
+	arch lapron
+		magic 1
+		chance 1
+more
+	arch tunic
+		magic 3
+		chance 1
+more
+	arch ring_mail
+		magic 4
+		chance 5
+more
+	arch ring_mail
+		magic 4
+		chance 5
+more
+	arch plate_mail
+		magic 4
+		chance 5
+more
+	list random_dress
+		magic 3
+		chance 1
+end
 
+##
 treasureone random_dress
-  arch dress3
-    chance 10
-  more
-  arch dress2
-    chance 5
-  more
-  arch dress1
-    chance 1
-  more
+	arch dress3
+		chance 10
+more
+	arch dress2
+		chance 5
+more
+	arch dress1
+		chance 1
+more
 # Give the tunic another chance to generate.
-  arch tunic
-    chance 25
-  end
+	arch tunic
+		chance 25
+end

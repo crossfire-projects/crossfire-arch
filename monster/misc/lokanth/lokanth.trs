@@ -1,6 +1,6 @@
+##
 treasure lokanth
-  list standard
-  more
-  arch skill_clawing
-  end
-
+	list standard
+more
+	arch skill_clawing
+end

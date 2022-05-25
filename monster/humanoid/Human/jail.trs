@@ -1,9 +1,10 @@
+##
 treasure jail
-  list all_spell_skills
-  more
-  arch knight
-  more
-  arch knight
-  more
-  arch knight
-  end
+	list all_spell_skills
+more
+	arch knight
+more
+	arch knight
+more
+	arch knight
+end

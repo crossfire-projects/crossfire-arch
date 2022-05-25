@@ -1,17 +1,18 @@
+##
 treasureone random_boots
-  arch low_boots
-    magic 1
-    chance 5
-  more
-  arch high_boots
-    magic 3
-    chance 3
-  more
-  arch high_boots_b
-    magic 3
-    chance 1
-  more
-  arch high_boots_w
-    magic 3
-    chance 1
-  end
+	arch low_boots
+		magic 1
+		chance 5
+more
+	arch high_boots
+		magic 3
+		chance 3
+more
+	arch high_boots_b
+		magic 3
+		chance 1
+more
+	arch high_boots_w
+		magic 3
+		chance 1
+end

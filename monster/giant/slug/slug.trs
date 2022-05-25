@@ -1,4 +1,5 @@
+##
 treasure slug
-  arch slug_slime
-    chance 10
-  end
+	arch slug_slime
+		chance 10
+end

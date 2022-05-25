@@ -1,33 +1,34 @@
+##
 treasureone random_helmet
-  arch b_full_helmet
-    magic 4
-    chance 5
-  more
-  arch b_helmet
-    magic 4
-    chance 5
-  more
-  arch b_horned_helmet
-    magic 4
-    chance 5
-  more
-  arch coif
-    magic 4
-    chance 5
-  more
-  arch full_helmet
-    magic 2
-    chance 5
-  more
-  arch horned_helmet
-    magic 1
-    chance 5
-  more
-  arch helmet
-    magic 2
-    chance 5
-  more
-  arch bighorned_helmet
-    magic 1
-    chance 5
-  end
+	arch b_full_helmet
+		magic 4
+		chance 5
+more
+	arch b_helmet
+		magic 4
+		chance 5
+more
+	arch b_horned_helmet
+		magic 4
+		chance 5
+more
+	arch coif
+		magic 4
+		chance 5
+more
+	arch full_helmet
+		magic 2
+		chance 5
+more
+	arch horned_helmet
+		magic 1
+		chance 5
+more
+	arch helmet
+		magic 2
+		chance 5
+more
+	arch bighorned_helmet
+		magic 1
+		chance 5
+end

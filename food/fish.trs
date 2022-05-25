@@ -1,34 +1,40 @@
 # Keep 'chance' low so that only a small fraction of all fishable tiles have
 # fish, but increase 'nrof' so that multiple fish can be caught once a
 # fishing tile has been found.
+
+##
 treasure freshwater_fish
- arch fishfood
-  chance 10
-  nrof 6
-  more
- arch fish_4
-  chance 10
-  nrof 4
+	arch fishfood
+		chance 10
+		nrof 6
+more
+	arch fish_4
+		chance 10
+		nrof 4
 end
+
+##
 treasure sea_fish
- arch fish_3
-  chance 7
-  nrof 3
- more
- arch fish_5
-  chance 7
-  nrof 3
- more
- arch fish_6
-  chance 7
-  nrof 3
+	arch fish_3
+		chance 7
+		nrof 3
+more
+	arch fish_5
+		chance 7
+		nrof 3
+more
+	arch fish_6
+		chance 7
+		nrof 3
 end
+
+##
 treasure deepsea_fish
- arch fish_1
-  chance 10
-  nrof 2
- more
- arch fish_2
-  chance 10
-  nrof 2
+	arch fish_1
+		chance 10
+		nrof 2
+more
+	arch fish_2
+		chance 10
+		nrof 2
 end

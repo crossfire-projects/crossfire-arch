@@ -1,5 +1,6 @@
+##
 treasure princess
-  list all_spell_skills
-  more
-  list throw_stnd
+	list all_spell_skills
+more
+	list throw_stnd
 end

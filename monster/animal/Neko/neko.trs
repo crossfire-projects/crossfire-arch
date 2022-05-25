@@ -1,8 +1,11 @@
+##
 treasure neko
-  list neko_parts
-    chance 99
-  end
+	list neko_parts
+		chance 99
+end
+
+##
 treasureone neko_parts
-  arch dead_neko
-    chance 99
-  end
+	arch dead_neko
+		chance 99
+end

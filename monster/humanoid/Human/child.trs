@@ -1,6 +1,7 @@
+##
 treasure child
-  arch skill_use_magic_item
-  more
-  arch chocolate
-  chance 5
-  end
+	arch skill_use_magic_item
+more
+	arch chocolate
+		chance 5
+end

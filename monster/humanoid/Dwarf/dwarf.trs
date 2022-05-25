@@ -1,13 +1,14 @@
+##
 treasure dwarf
-  list fighter_skills
-  more
-  arch hammer
-  more
-  arch shield
-  more
-  arch chain_mail
-  more
-  arch helmet
-  more
-  arch skill_smithery
-  end
+	list fighter_skills
+more
+	arch hammer
+more
+	arch shield
+more
+	arch chain_mail
+more
+	arch helmet
+more
+	arch skill_smithery
+end

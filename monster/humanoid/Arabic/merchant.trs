@@ -1,5 +1,6 @@
+##
 treasure merchant
-  arch skill_use_magic_item
-  more
-  list throw_stnd
-  end
+	arch skill_use_magic_item
+more
+	list throw_stnd
+end

@@ -1,9 +1,8 @@
-# This is only used for the shop_general floor tile, which is deprecated.
+## This is only used for the shop_general floor tile, which is deprecated.
 treasureone shop_general
-  list containers
-    chance 70
-  more
-  arch key
-    chance 30
-  end
-
+	list containers
+		chance 70
+more
+	arch key
+		chance 30
+end
