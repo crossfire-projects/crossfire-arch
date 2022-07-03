@@ -2157,5 +2157,9 @@ treasure humanoidpockets_low
 	more
 	list random_inorganic
 		chance 5
+	more
+	arch potion_generic
+		artifact minor healing
+		chance 3
 	end
 #
