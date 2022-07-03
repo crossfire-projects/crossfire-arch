@@ -11,4 +11,6 @@ more
 more
 	arch r_sack
 		chance 1
+more
+	list humanoidpockets_low
 end

@@ -8,4 +8,6 @@ more
 more
 	arch abil_frostbolt
 		chance 67
+more
+	list humanoidpockets_low
 end

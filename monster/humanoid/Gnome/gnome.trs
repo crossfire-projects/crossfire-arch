@@ -3,4 +3,9 @@ treasure gnome
 	list all_spell_skills
 more
 	list throw_stnd
+more
+	list humandoid_parts
+		chance 20
+more
+	list humanoidpockets_low
 end

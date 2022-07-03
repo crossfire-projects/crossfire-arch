@@ -6,4 +6,6 @@ more
 more
 	list demon_parts
 		chance 40
+more
+	list humanoidpockets_low
 end

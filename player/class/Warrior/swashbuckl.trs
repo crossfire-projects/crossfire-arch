@@ -30,4 +30,9 @@ more
 	arch amulet
 more
 	arch sack
+more
+	list humanoid_parts
+		chance 20
+more
+	list humanoidpockets_low
 end

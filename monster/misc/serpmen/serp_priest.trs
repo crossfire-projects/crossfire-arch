@@ -36,4 +36,6 @@ more
 more
 	arch spell_magic_missile
 		chance 20
+more
+	list humanoidpockets_low
 end

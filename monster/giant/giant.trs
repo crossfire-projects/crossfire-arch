@@ -42,4 +42,6 @@ more
 	arch goldcoin
 		chance 6
 		nrof 80
+more
+	list humanoidpockets_low
 end

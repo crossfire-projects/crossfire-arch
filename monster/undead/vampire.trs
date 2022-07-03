@@ -24,4 +24,6 @@ more
 more
 	arch ring
 		chance 50
+more
+	list humanoidpockets_low
 end

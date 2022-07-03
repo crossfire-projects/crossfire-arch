@@ -20,4 +20,6 @@ more
 	arch amethyst
 		nrof 20
 		chance 50
+more
+	list humanoidpockets_low
 end

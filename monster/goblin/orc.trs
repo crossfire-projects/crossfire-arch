@@ -48,4 +48,6 @@ more
 	arch silvercoin
 		nrof 80
 		chance 15
+more
+	list humanoidpockets_low
 end
