@@ -3,6 +3,7 @@ treasure c_m_priest
 	list all_spell_skills
 more
 	list humanoid_parts
+		chance 20
 more
 	arch staff
 		magic 1
@@ -46,6 +47,7 @@ treasure c_priest
 	list all_spell_skills
 more
 	list humanoid_parts
+		chance 20
 more
 	arch staff
 		magic 3

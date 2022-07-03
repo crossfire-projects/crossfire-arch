@@ -3,6 +3,7 @@ treasure c_knight
 	arch skill_use_magic_item
 more
 	list humanoid_parts
+		chance 20
 more
 	arch sword_2
 		magic 3

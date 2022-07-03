@@ -3,4 +3,7 @@ treasure conjurer2
 	list all_spell_skills
 more
 	list poor
+more
+	list humanoid_parts
+		chance 20
 end

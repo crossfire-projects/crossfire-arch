@@ -11,4 +11,7 @@ more
 	no
 		arch skill_karate
 	end
+more
+	list humanoid_parts
+		chance 20
 end

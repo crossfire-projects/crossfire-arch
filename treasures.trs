@@ -1650,9 +1650,6 @@ end
 ##
 treasure rich
 	list rich_old
-more
-	list humanoid_parts
-		chance 20
 end
 
 ##
@@ -1673,9 +1670,6 @@ end
 ##
 treasure poor
 	list poor_old
-more
-	list humanoid_parts
-		chance 20
 end
 
 # I switched the names to '_old' -- these lists
@@ -1919,6 +1913,9 @@ more
 	arch skill_hide
 more
 	list poor
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -1966,6 +1963,9 @@ more
 	arch r_sack
 more
 	arch sandals
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -1985,6 +1985,9 @@ more
 more
 	arch arrow
 		nrof 50
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -2002,6 +2005,9 @@ more
 	arch sack
 more
 	arch cloak
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -2019,6 +2025,9 @@ more
 	arch bag
 more
 	arch cloak
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -2034,6 +2043,9 @@ more
 	arch plate_mail
 more
 	arch sack
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -2051,6 +2063,9 @@ more
 	arch horned_helmet
 more
 	arch sack
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -2068,6 +2083,9 @@ more
 	arch cleric_book_l1
 more
 	arch amulet
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##
@@ -2083,6 +2101,9 @@ more
 	arch sorcerer_book_l1
 more
 	arch evoker_book_l1
+more
+	list humanoid_parts
+		chance 20
 end
 
 ##

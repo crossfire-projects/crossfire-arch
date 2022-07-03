@@ -1,4 +1,7 @@
 ##
 treasure dancing_girl
 	arch skill_use_magic_item
+more
+	list humanoid_parts
+		chance 20
 end

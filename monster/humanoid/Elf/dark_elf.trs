@@ -9,4 +9,7 @@ more
 	end
 more
 	list throw_rich
+more
+	list humanoid_parts
+		chance 20
 end

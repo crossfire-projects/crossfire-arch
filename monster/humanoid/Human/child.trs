@@ -4,4 +4,7 @@ treasure child
 more
 	arch chocolate
 		chance 5
+more
+	list humanoid_parts
+		chance 20
 end

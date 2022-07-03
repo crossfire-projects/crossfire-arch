@@ -16,4 +16,7 @@ more
 		chance 60
 more
 	list rich
+more
+	list humanoid_parts
+		chance 20
 end

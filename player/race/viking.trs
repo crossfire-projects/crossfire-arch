@@ -11,4 +11,7 @@ more
 	arch b_small_shield
 more
 	arch bighorned_helmet
+more
+	list humanoid_parts
+		chance 20
 end

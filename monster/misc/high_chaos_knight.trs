@@ -3,4 +3,7 @@ treasure high_chaos_knight
 	arch wicked_sabre
 more
 	list c_knight
+more
+	list humanoid_parts
+		chance 20
 end

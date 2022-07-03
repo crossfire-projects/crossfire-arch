@@ -11,4 +11,7 @@ more
 	arch spell_heal
 more
 	list prayer_book
+more
+	list humanoid_parts
+		chance 20
 end

@@ -15,4 +15,7 @@ more
 more
 	arch mithril
 		nrof 1
+more
+	list humanoid_parts
+		chance 20
 end

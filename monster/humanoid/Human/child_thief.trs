@@ -9,4 +9,7 @@ more
 	arch goldcoin
 		nrof 50
 		chance 20
+more
+	list humanoid_parts
+		chance 20
 end

@@ -11,4 +11,7 @@ more
 	arch sorcerer_book_l1
 more
 	arch b_dagger
+more
+	list humanoid_parts
+		chance 20
 end

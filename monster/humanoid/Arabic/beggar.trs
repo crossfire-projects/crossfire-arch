@@ -3,4 +3,7 @@ treasure beggar
 	arch skill_use_magic_item
 more
 	list slave
+more
+	list humanoid_parts
+		chance 20
 end

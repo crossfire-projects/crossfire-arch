@@ -3,4 +3,7 @@ treasure guard_m
 	arch chain_mail
 more
 	arch lspear
+more
+	list humanoid_parts
+		chance 20
 end

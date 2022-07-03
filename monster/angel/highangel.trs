@@ -3,4 +3,7 @@ treasure high_angel
 	list rich
 more
 	list all_spell_skills
+more
+	list humanoid_parts
+		chance 20
 end

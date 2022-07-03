@@ -3,6 +3,7 @@ treasure holy_priest
 	list all_spell_skills
 more
 	list humanoid_parts
+		chance 20
 more
 	arch spell_paralyze
 more

@@ -14,8 +14,8 @@ more
 		arch skill_punching
 	end
 more
-	arch heart
-		chance 5
-more
 	list standard
+more
+	list humanoid_parts
+		chance 20
 end

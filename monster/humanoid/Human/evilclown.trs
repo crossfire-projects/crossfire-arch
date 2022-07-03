@@ -1,7 +1,7 @@
 ##
 treasure evilclown
 	list humanoid_parts
-		chance 50
+		chance 20
 more
 	arch spell_ball_lightning
 more

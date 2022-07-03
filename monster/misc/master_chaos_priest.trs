@@ -5,4 +5,5 @@ more
 	arch spell_dragonbreath
 more
 	list c_priest
+# No need to include humanoid_parts, it's already included in c_priest.
 end

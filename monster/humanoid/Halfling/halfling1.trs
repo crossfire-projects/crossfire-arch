@@ -9,4 +9,7 @@ more
 	arch skill_stealing
 more
 	arch skill_hide
+more
+	list humanoid_parts
+		chance 20
 end

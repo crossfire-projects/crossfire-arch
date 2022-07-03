@@ -3,4 +3,7 @@ treasure elf_1
 	list all_spell_skills
 more
 	list throw_stnd
+more
+	list humanoid_parts
+		chance 20
 end

@@ -3,4 +3,7 @@ treasure merchant
 	arch skill_use_magic_item
 more
 	list throw_stnd
+more
+	list humanoid_parts
+		chance 20
 end

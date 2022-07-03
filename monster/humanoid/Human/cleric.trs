@@ -13,4 +13,7 @@ more
 	arch cleric_book_l1
 more
 	arch b_small_shield
+more
+	list humanoid_parts
+		chance 20
 end

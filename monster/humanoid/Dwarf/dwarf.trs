@@ -11,4 +11,7 @@ more
 	arch helmet
 more
 	arch skill_smithery
+more
+	list humanoid_parts
+		chance 20
 end

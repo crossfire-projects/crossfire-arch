@@ -11,4 +11,5 @@ more
 	end
 more
 	list humanoid_parts
+		chance 20
 end

@@ -11,4 +11,7 @@ more
 	arch abil_slow
 more
 	list random_books
+more
+	list humanoid_parts
+		chance 20
 end
