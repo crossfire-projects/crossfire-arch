@@ -1,3 +1,9 @@
+Rebalance the amulet of Shielding.
+Now it provides ac+1 and armour+20, but costs two item power to wear.
+Prior stats were armour+20 and one item power, making it worse than many nonartifact amulets of armour.
+artifacts
+Daniel Hawkins 2022-07-04
+
 Use a Gervais flaming sword image to replace the Firebrand in the classic face set.
 Need to take the time to animate the flame, but it is a start.
 weapon/artifact/firebrand.clsc.111.png

@@ -3068,10 +3068,11 @@ Allowed all
 chance 127
 Object Shielding
 face amulet_shielding.111
+ac 1
 resist_physical 20
 type 39
 value 20
-item_power 1
+item_power 2
 end
 #
 Allowed all
