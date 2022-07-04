@@ -1,5 +1,5 @@
 Object woods4
-name woods4
+name woods
 face woods_4.111
 type 67
 race /terrain/forest
