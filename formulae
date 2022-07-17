@@ -4265,6 +4265,7 @@ ingred apple
 chance 0
 combination 1
 tool slicingknife,b_slicingknife
+#
 Object NONE
 arch apple_fourth
 yield 2
@@ -4272,6 +4273,7 @@ ingred apple half
 chance 0
 combination 1
 tool slicingknife,b_slicingknife
+#
 Object NONE
 arch apple_eighth
 yield 2
