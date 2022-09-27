@@ -1,3 +1,8 @@
+Add plural name to bolt of silk.
+Multiple stacks of silk will now appear as bolts of silk.
+misc/item/bolt_silk.arc
+Rick Tanner 2022-09-27
+
 Rebalance the amulet of Shielding.
 Now it provides ac+1 and armour+20, but costs two item power to wear.
 Prior stats were armour+20 and one item power, making it worse than many nonartifact amulets of armour.
