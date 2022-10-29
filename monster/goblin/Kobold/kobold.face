@@ -1,6 +1,21 @@
 animation kobold
+facings 8
 kobold.111
 kobold.112
+kobold.121
+kobold.122
+kobold.131
+kobold.132
+kobold.141
+kobold.142
+kobold.151
+kobold.152
+kobold.161
+kobold.162
+kobold.171
+kobold.172
+kobold.181
+kobold.182
 mina
 face kobold.111
 magicmap brown
