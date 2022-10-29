@@ -75,7 +75,7 @@
 #	of 1-nrof of objects will be created.  If 0, then the
 #	default number of the item will be used instead.
 #
-#	'hp', 'maxhp', 'sp', 'maxsp', 'food', 'level' have this: If the value is
+#	'hp', 'maxhp', 'sp', 'maxsp', 'food', 'level', 'grace', 'maxgrace' have this: If the value is
 #	positive, it is increased by that amount. If negative, the
 #	artifact is created with that value absolute (ie, hp -5
 #	will create an artifact with hp value of 5)
