@@ -4201,6 +4201,16 @@ skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of resist draining
 #
+Object NONE
+arch dragon_steak_cooked
+diff 1
+exp 100
+chance 75
+yield 1
+skill woodsman
+cauldron stove
+ingred steak,pile of salt
+#
 # Poisoned food:
 # Uses Zinc filings
 # (Zinc is very toxic when ingested)
