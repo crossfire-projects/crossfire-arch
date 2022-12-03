@@ -36,7 +36,7 @@ resist_chaos 80
 resist_godpower 80
 resist_holyword 100
 resist_blind 100
-randomitems goblin_parts
+randomitems humanoid_parts
 see_invisible 1
 undead 1
 can_use_skill 1

@@ -2,8 +2,8 @@
 treasure broo
 	arch skill_use_magic_item
 more
-	list goblin_parts
-		chance 40
+	list humanoid_parts
+		chance 20
 more
 	arch skill_one_handed_weapon
 more

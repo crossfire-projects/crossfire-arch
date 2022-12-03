@@ -2,7 +2,7 @@
 treasure orc
 	arch skill_use_magic_item
 more
-	list goblin_parts
+	list humanoid_parts
 		chance 20
 	no
 		arch orcchop

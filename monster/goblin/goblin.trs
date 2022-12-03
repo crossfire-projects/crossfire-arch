@@ -2,8 +2,8 @@
 treasure goblin
 	arch skill_use_magic_item
 more
-	list goblin_parts
-		chance 10
+	list humanoid_parts
+		chance 20
 more
 	list poor_old
 more
@@ -11,6 +11,7 @@ more
 end
 
 ##
+# deprecated, goblins now use the humanoid_parts list
 treasureone goblin_parts
 	arch fl_corpse
 		chance 30
