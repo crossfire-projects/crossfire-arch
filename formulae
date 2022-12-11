@@ -1990,7 +1990,7 @@ exp 100
 yield 1
 skill alchemy
 cauldron cauldron
-ingred water,heart
+ingred water,brain
 #
 #
 # -- healing recipe #1
