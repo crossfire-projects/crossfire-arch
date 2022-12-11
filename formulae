@@ -1957,6 +1957,42 @@ skill alchemy
 cauldron cauldron
 ingred potion of recuperation,pile of philosophical salt,4 major potion of life
 #
+# -- Healing
+#	 -- Minor heal
+#		Notes:
+#		This needs some more work. Ideally the player could get plenty of materials from fighting monsters. Maybe allow any flesh part?
+#		Ideally this would not require a cauldron or a skill. But for now, it requires alchemy and a cauldron, because the server code requires either a cauldron or transformation.
+Object minor healing
+arch potion_generic
+chance 10
+diff 0
+exp 100
+yield 1
+skill alchemy
+cauldron cauldron
+ingred water,heart
+#
+Object minor healing
+arch potion_generic
+chance 10
+diff 0
+exp 100
+yield 1
+skill alchemy
+cauldron cauldron
+ingred water,liver
+#
+Object minor healing
+arch potion_generic
+chance 10
+diff 0
+exp 100
+yield 1
+skill alchemy
+cauldron cauldron
+ingred water,heart
+#
+#
 # -- healing recipe #1
 Object NONE
 arch potion_heal
