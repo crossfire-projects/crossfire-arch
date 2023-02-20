@@ -1,5 +1,5 @@
 Object skeleton_leader_arc
-name skeleton bezerk
+name skeleton berzerk
 randomitems skeleton
 race undead,skeleton
 face skeleton_leader.111
