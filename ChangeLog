@@ -1,3 +1,15 @@
+New item: hand mirror
+Fills a weapon slot, but can reflect spells.
+Provides no other bonuses.
+misc/social/handmirror.base.LICENSE
+misc/social/handmirror.base.111.png
+misc/social/handmirror.base.112.png
+misc/social/handmirror.base.113.png
+misc/social/handmirror.base.114.png
+misc/social/handmirror.arc
+misc/social/handmirror.face
+Daniel Hawkins 2023-03-09
+
 New art for dragon's wings.
 Added a recolored version of the old art to the classic face set.
 flesh/dragon/big_dragon_dragon_wing.base.111.png
