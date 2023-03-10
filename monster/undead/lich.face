@@ -1,11 +1,29 @@
 animation lich
-facings 2
+facings 8
 lich.111
 lich.112
 lich.113
+lich.121
+lich.122
+lich.123
+lich.131
+lich.132
+lich.133
+lich.141
+lich.142
+lich.143
 lich.151
 lich.152
 lich.153
+lich.161
+lich.162
+lich.163
+lich.171
+lich.172
+lich.173
+lich.181
+lich.182
+lich.183
 mina
 face lich.111
 magicmap blue
@@ -16,6 +34,33 @@ end
 face lich.113
 magicmap blue
 end
+face lich.121
+magicmap blue
+end
+face lich.122
+magicmap blue
+end
+face lich.123
+magicmap blue
+end
+face lich.131
+magicmap blue
+end
+face lich.132
+magicmap blue
+end
+face lich.133
+magicmap blue
+end
+face lich.141
+magicmap blue
+end
+face lich.142
+magicmap blue
+end
+face lich.143
+magicmap blue
+end
 face lich.151
 magicmap blue
 end
@@ -23,5 +68,32 @@ face lich.152
 magicmap blue
 end
 face lich.153
+magicmap blue
+end
+face lich.161
+magicmap blue
+end
+face lich.162
+magicmap blue
+end
+face lich.163
+magicmap blue
+end
+face lich.171
+magicmap blue
+end
+face lich.172
+magicmap blue
+end
+face lich.173
+magicmap blue
+end
+face lich.181
+magicmap blue
+end
+face lich.182
+magicmap blue
+end
+face lich.183
 magicmap blue
 end
