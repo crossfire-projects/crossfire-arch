@@ -1,3 +1,67 @@
+animation spectre
+facings 8
+spectre.111
+spectre.112
+spectre.121
+spectre.122
+spectre.131
+spectre.132
+spectre.141
+spectre.142
+spectre.151
+spectre.152
+spectre.161
+spectre.162
+spectre.171
+spectre.172
+spectre.181
+spectre.182
+mina
 face spectre.111
+magicmap black
+end
+face spectre.112
+magicmap black
+end
+face spectre.121
+magicmap black
+end
+face spectre.122
+magicmap black
+end
+face spectre.131
+magicmap black
+end
+face spectre.132
+magicmap black
+end
+face spectre.141
+magicmap black
+end
+face spectre.142
+magicmap black
+end
+face spectre.151
+magicmap black
+end
+face spectre.152
+magicmap black
+end
+face spectre.161
+magicmap black
+end
+face spectre.162
+magicmap black
+end
+face spectre.171
+magicmap black
+end
+face spectre.172
+magicmap black
+end
+face spectre.181
+magicmap black
+end
+face spectre.182
 magicmap black
 end
