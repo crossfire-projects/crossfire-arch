@@ -1,3 +1,24 @@
+New cutlery items.
+Meant to be part of the valuables that are less than gems but better than coins,
+that Draug's been talking about would be necessary to rebalance sale prices.
+misc/cutlery/fork.arc
+misc/cutlery/fork.base.LICENSE
+misc/cutlery/fork.base.111.png
+misc/cutlery/fork.face
+misc/cutlery/knife.arc
+misc/cutlery/knife.base.LICENSE
+misc/cutlery/knife.base.111.png
+misc/cutlery/knife.face
+misc/cutlery/spoon.arc
+misc/cutlery/spoon.base.LICENSE
+misc/cutlery/spoon.base.111.png
+misc/cutlery/spoon.face
+misc/cutlery/utensils.arc
+misc/cutlery/utensils.base.LICENSE
+misc/cutlery/utensils.base.111.png
+misc/cutlery/utensils.face
+Daniel Hawkins 2023-03-10
+
 New item: hand mirror
 Fills a weapon slot, but can reflect spells.
 Provides no other bonuses.
