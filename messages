@@ -517,3 +517,15 @@ QUEST quests/Azumauindo 0>10
 TEXT
 (This book is written using indecipherable boxy runes somewhat resembling sheds. The writing appears to start on the top right and works its way to the bottom left.)
 ENDMSG
+
+MSG G-WRITING-SCROLLS
+TITLE Writing Spell Scrolls
+CHANCE 1
+FACE scroll.111
+TEXT
+Safely away from both people and valuables, Saila set about her task.
+She pulled out a stack of low-level spell scrolls, her trusty writing pen, and prepared a spell.
+
+Quickly she began to replace the spells on the scrolls with one of her own choosing, stopping only if she got lightheaded.
+Occasionally, a scroll would activate before she could wipe away the existing text, casting an undesired spell. It was for this reason she'd sought solitude to perform this task; one wrong spell and her whole apartment could be set ablaze.
+ENDMSG
