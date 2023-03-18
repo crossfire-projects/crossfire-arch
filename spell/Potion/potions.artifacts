@@ -124,6 +124,7 @@ face potion_tiny_red_swirling.111
 type 5
 value 1
 other_arch spell_minor_healing
+on_use_yield potion_empty
 end
 #
 Allowed potion_generic
@@ -134,6 +135,7 @@ face potion_mediumtapered_red_swirling.111
 type 5
 value 3
 other_arch spell_medium_healing
+on_use_yield potion_empty
 end
 #
 Allowed potion_generic
@@ -144,6 +146,7 @@ face potion_largesquare_red_swirling.111
 type 5
 value 1
 other_arch spell_major_healing
+on_use_yield potion_empty
 end
 #
 Allowed balm_generic
