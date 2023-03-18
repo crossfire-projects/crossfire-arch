@@ -2,7 +2,7 @@ Object child
 name child
 race human
 randomitems child
-face child.111
+face child.151
 animation child
 monster 1
 move_type walk

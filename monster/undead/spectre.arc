@@ -2,7 +2,7 @@ Object spectre
 race undead
 name Spectre
 randomitems spectre
-face spectre.111
+face spectre.151
 animation spectre
 monster 1
 move_type walk

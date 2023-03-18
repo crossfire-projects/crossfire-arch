@@ -2,7 +2,7 @@ Object child_thief
 name young rogue
 race human
 randomitems c_thief
-face child.111
+face child.151
 monster 1
 move_type walk
 alive 1

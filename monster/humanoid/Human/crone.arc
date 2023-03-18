@@ -1,6 +1,6 @@
 Object crone
 race human
-face crone.111
+face crone.151
 animation crone
 sp 40
 maxsp 40

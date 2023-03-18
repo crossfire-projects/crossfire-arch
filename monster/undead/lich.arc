@@ -2,7 +2,7 @@ Object lich
 name Lich
 race undead
 randomitems lich
-face lich.111
+face lich.151
 animation lich
 monster 1
 move_type walk

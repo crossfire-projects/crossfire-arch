@@ -1,7 +1,7 @@
 Object veiled_woman3
 race human
 name Veiled woman
-face veiled_woman3.111
+face veiled_woman3.151
 animation veiled_woman3
 alive 1
 monster 1
