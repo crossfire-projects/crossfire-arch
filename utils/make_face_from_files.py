@@ -15,6 +15,12 @@
 import argparse
 import shutil
 
+def frame_code(frame):
+    if frame < 10:
+        return frame
+    return chr(ord('A') + frame - 10)
+
+
 parser = argparse.ArgumentParser(description="Copy a sequence of files to Crossfire faces, adequately named. Also "
                                              "generate the .face file.\nFiles are supposed to be ordered by direction "
                                              "then animation frame, that is the second file is direction 2, "
@@ -56,10 +62,10 @@ for f in range(0, len(facings) + 1):
     anims.append([])
     magicmap.append([])
 for file in args.files:
-    shutil.copyfile(file, "{0}.{1}.1{2}{3}.png".format(args.face, args.faceset, facing, frame))
-    anims[facing].append("{0}.1{1}{2}\n".format(args.face, facing, frame))
+    shutil.copyfile(file, "{0}.{1}.1{2}{3}.png".format(args.face, args.faceset, facing, frame_code(frame)))
+    anims[facing].append("{0}.1{1}{2}\n".format(args.face, facing, frame_code(frame)))
     if args.magicmap:
-        magicmap[facing] += "face {0}.1{1}{2}\nmagicmap {3}\nend\n".format(args.face, facing, frame, args.magicmap)
+        magicmap[facing] += "face {0}.1{1}{2}\nmagicmap {3}\nend\n".format(args.face, facing, frame_code(frame), args.magicmap)
 
     facing += 1
     if facing == len(facings) + 1:
