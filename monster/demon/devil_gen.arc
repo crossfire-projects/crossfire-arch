@@ -24,6 +24,7 @@ end
 Object broken_generate_devil
 face broken_devil_gen.111
 name broken archway
+name_pl broken archways
 weight 400000
 type 79
 subtype 48

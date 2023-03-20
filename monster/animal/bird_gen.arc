@@ -19,6 +19,7 @@ end
 Object broken_generate_bird
 face broken_bird_gen.111
 name broken nest
+name_pl broken nests
 weight 10000
 type 79
 subtype 48

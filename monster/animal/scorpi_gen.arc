@@ -19,6 +19,7 @@ end
 Object broken_generate_scorpion
 face broken_scorpi_gen.111
 name broken scorpion generator
+name_pl broken scorpion generators
 weight 700
 type 79
 subtype 48

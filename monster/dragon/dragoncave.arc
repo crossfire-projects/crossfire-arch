@@ -73,6 +73,7 @@ end
 Object broken_generate_dragon
 face broken_dragoncave.111
 name broken dragon cave
+name_pl broken dragon caves
 weight 500000
 type 79
 subtype 48
@@ -84,6 +85,7 @@ end
 Object broken_generate_cold_dragon
 face broken_dragoncave_green.111
 name broken dragon cave
+name_pl broken dragon caves
 weight 500000
 type 79
 subtype 48
@@ -95,6 +97,7 @@ end
 Object broken_generate_electric_dragon
 face broken_dragoncave_blue.111
 name broken dragon cave
+name_pl broken dragon caves
 weight 500000
 type 79
 subtype 48

@@ -23,6 +23,7 @@ end
 Object broken_generate_ghost
 face broken_generate_ghost.111
 name broken tomb
+name_pl broken tombs
 weight 600000
 type 79
 subtype 48

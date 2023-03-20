@@ -20,6 +20,7 @@ end
 Object broken_generate_beholder
 face broken_behold_gen.111
 name broken beholder hive
+name_pl broken beholder hives
 weight 700
 type 79
 subtype 48

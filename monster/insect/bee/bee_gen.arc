@@ -20,6 +20,7 @@ end
 Object broken_generate_bee
 face broken_bee_gen.111
 name broken tree
+name_pl broken trees
 weight 10000
 type 79
 subtype 48

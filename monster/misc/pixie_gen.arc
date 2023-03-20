@@ -20,6 +20,7 @@ end
 Object broken_generate_pixie
 face broken_pixie_gen.111
 name broken pixie generator
+name_pl broken pixie generators
 weight 700
 type 79
 subtype 48

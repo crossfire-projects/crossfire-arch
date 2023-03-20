@@ -19,6 +19,7 @@ end
 Object broken_generate_gnoll
 face broken_gnoll_gen.111
 name broken gnoll generator
+name_pl broken gnoll generators
 weight 700
 type 79
 subtype 48
