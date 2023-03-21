@@ -19,7 +19,7 @@ end
 Object broken_generate_giant
 face broken_giant_gen.111
 name broken bean stalk
-name broken bean stalks
+name_pl broken bean stalks
 weight 600000
 type 79
 subtype 48
