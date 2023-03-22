@@ -2,7 +2,7 @@ Object zone_of_healing
 name zone of healing
 other_arch spell_minor_healing
 invisible 1
-face burnout.111
+face fire.111
 type 102
 subtype 46
 dam 1

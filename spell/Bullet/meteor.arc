@@ -12,7 +12,7 @@ end
 #
 Object fire_trail
 name burningtrail
-face burnout.111
+face fire.111
 animation meteor
 speed 1
 food 9

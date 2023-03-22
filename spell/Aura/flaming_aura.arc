@@ -2,7 +2,7 @@ Object flaming_aura
 name Flaming Aura
 other_arch flaming_aura_mark
 invisible 1
-face burnout.111
+face fire.111
 type 102
 subtype 46
 dam 1

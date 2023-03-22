@@ -1,6 +1,6 @@
 Object fire_permanent
 name fire
-face burnout.111
+face fire.111
 animation fire_permanent
 anim_speed 1
 client_anim_random 1
@@ -9,7 +9,7 @@ end
 # Another permanent fire with a different animation
 Object fire_permanent_flicker
 name fire
-face burnout.111
+face fire.111
 animation fire_flicker
 anim_speed 1
 client_anim_random 1
