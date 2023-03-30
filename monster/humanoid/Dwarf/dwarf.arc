@@ -14,9 +14,10 @@ monster 1
 move_type walk
 unaggressive 1
 alive 1
-ac 1
-wc 8
-dam 9
+# Since dwarves always get a chain mail to equip, we need this to be low enough that the chain mail doesn't make them unhittable
+ac 6
+wc 7
+dam 10
 hp 70
 maxhp 70
 exp 100
