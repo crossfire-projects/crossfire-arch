@@ -1992,6 +1992,28 @@ skill alchemy
 cauldron cauldron
 ingred water,brain
 #
+#	-- Medium heal
+Object medium healing
+arch potion_generic
+chance 5
+diff 3
+exp 300
+yield 1
+skill alchemy
+cauldron cauldron
+ingred pile of salt,2 water,2 ogre's liver
+#
+#	-- Greater heal
+Object greater healing
+arch potion_generic
+chance 3
+diff 10
+exp 1000
+yield 1
+skill alchemy
+cauldron cauldron
+ingred pile of philosophical salt,3 water of the wise,angel's brain
+#
 #
 # -- healing recipe #1
 Object NONE
