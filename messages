@@ -529,3 +529,18 @@ She pulled out a stack of low-level spell scrolls, her trusty writing pen, and p
 Quickly she began to replace the spells on the scrolls with one of her own choosing, stopping only if she got lightheaded.
 Occasionally, a scroll would activate before she could wipe away the existing text, casting an undesired spell. It was for this reason she'd sought solitude to perform this task; one wrong spell and her whole apartment could be set ablaze.
 ENDMSG
+
+MSG G-ALCHEMY-FAILURE
+TITLE Alchemy Failures
+CHANCE 1
+FACE cauldron_cracked.111
+TEXT
+Evren set his newly-purchased cauldron down next to his bed.
+Finally, he was going to figure out this alchemy thing he kept seeing. And, from the comfort of his apartment, no one could stop him.
+He realized he should start small -- he wasn't a fool, after all. He knew you couldn't start by making complicated recipes.
+So he emptied two bottles of water into the cauldron. It was two, right? Or was it five? Whatever. The shopkeeper had said some number as he left, but he had been too excited to try out the cauldron to catch what that number was. The cauldron was cast-iron; it's not like water would burn and stick to it. Quickly, the water began to bubble.
+By the time Evren clapped the cast-iron lid over the top, the cauldron seethed intensely. The cauldron began to rattle violently now that it was closed.
+From what he'd seen from Avinash, his alchemist friend, the cauldron churned on the regular, so he wasn't concerned. In fact, it seemed to be stirring itself this way.
+Steam began to leak around the lid. At first it was thin, wispy, but quickly billowed into clouds, almost as if the lid wasn't even on.
+Sensing something was wrong, Evren moved to lift the lid off the cauldron. He only got the lid partially off before a torrent of energy burst from the cauldron, rendering first the cauldron, then Evren, and finally Evren's apartment, nought but dust.
+ENDMSG
