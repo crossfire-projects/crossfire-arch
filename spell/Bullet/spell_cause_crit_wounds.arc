@@ -19,6 +19,7 @@ attacktype 1048576
 no_drop 1
 invisible 1
 msg
-Only those gods who delight in wounding and shun holy words are prepared to answer prayers for such vindictive force. The nature of this damage is not from the realm of man and represents the force of gods. This prayer is attuned to the path of wounding.
+Only those gods who delight in wounding and shun holy words are prepared to answer prayers for such vindictive force. The nature of this damage is not from the realm of man and represents the force of gods.
+This prayer is granted by Sorig.
 endmsg
 end

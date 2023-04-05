@@ -20,6 +20,7 @@ maxgrace 12
 no_drop 1
 invisible 1
 msg
-Unleashes a very deadly and contagious plague.  This spell is granted by the Devourers.
+Unleashes a very deadly and contagious plague that causes the victims to spontaneously begin bleeding.
+This prayer is granted by the Devourers.
 endmsg
 end

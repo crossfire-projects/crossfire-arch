@@ -22,6 +22,7 @@ no_drop 1
 invisible 1
 skill praying
 msg
-Fires a cone of peacemakers that convert aggressive monsters into unaggressive creatures that run away from battle and assume random movement.  They are no longer considered to be monsters, so things like mood floors cannot make them aggressive again.  This spell is granted by Gaea.
+Projects a cone of tranquility that renders monsters caught in it unagressive. They will wander about randomly and flee battle, and cannot be made aggressive again.
+This prayer is granted by Gaia.
 endmsg
 end

@@ -15,6 +15,7 @@ no_drop 1
 invisible 1
 dam -1
 msg
-Lights up the area.  The spell is granted by Gaea and Valriel.
+Illuminates everything around you as if it were noon, even when deep underground.
+This prayer is granted by Gaia and Valriel.
 endmsg
 end

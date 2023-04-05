@@ -20,6 +20,7 @@ maxgrace 18
 no_drop 1
 invisible 1
 msg
-Causes the disease of rabies.  The spell is granted by Gnarg.
+Infects the target with rabies, gradually weakening it. However, it's not very contagious.
+This prayer is granted by Gnarg.
 endmsg
 end

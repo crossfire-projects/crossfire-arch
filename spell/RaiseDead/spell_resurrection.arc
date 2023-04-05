@@ -17,6 +17,7 @@ Con 1
 exp 10
 randomitems resurrection_failure
 msg
-Casting this spell on the corpse of a slain character will bring the character back to life with full health, at the cost of some loss of experience points and constitution, though the loss is less than that of the raise dead spell. Gaea grants this spell.  This spell is only useful on permanent death servers.
+A more powerful version of Raise Dead, this prayer eases the return from death and tethers the soul more tightly to the body. Casting this on the corpse of a slain character will bring them back to life with full health, and the cost in experience and Constitution is reduced, although not eliminated.
+It is granted by Gaea, and is useful only if permanent death is enabled.
 endmsg
 end
