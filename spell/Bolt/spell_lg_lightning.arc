@@ -21,6 +21,6 @@ range 24
 no_drop 1
 invisible 1
 msg
-Lightning bolts are controlled using magic to create a strong electrical current and, when ready to do so, project a straight path for it to follow. With practice, larger lightning bolts can be released that have greater range and duration. They still have the sometimes unfortunate property of reflecting off of walls which can then return to strike the caster.
+Pyromancers that survive their practice with smaller lightning bolts develop the ability to generate stronger electrical currents, and guide them along longer paths. The resulting lightning bolts have increased damage, range, and duration, although they are still just as prone to bouncing off walls.
 endmsg
 end

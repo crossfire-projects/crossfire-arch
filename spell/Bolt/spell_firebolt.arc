@@ -21,6 +21,6 @@ duration 9
 no_drop 1
 invisible 1
 msg
-By projecting tight vortex of magic and injecting heat, Pyromancer's can propel a damaging bolt of magical fire at will. This scorching beam does significant damage to anything in its path.
+By using magic to confine and focus their fire, Pyromancers can project a searing bolt of magical flame at will. This beam does fire and magic damage to anything in its path.
 endmsg
 end

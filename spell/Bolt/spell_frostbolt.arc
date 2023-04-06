@@ -21,6 +21,6 @@ range 12
 no_drop 1
 invisible 1
 msg
-By projecting tight vortex of magic that rapidly channels heat away, evokers can instantly freeze anything in its path delivering powerful cold and magical damage.
+By forming a tight vortex of magic that rapidly channels heat away, evokers can instantly freeze anything in its path, delivering powerful cold and magical damage.
 endmsg
 end
