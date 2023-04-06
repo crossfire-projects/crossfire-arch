@@ -23,6 +23,7 @@ no_drop 1
 invisible 1
 wc_increase_rate 4
 msg
-Summon a magical sword that battles on behalf of the caster.  The sword may be controlled with the Fire and direction keys.
+Summon a magical sword that fights on the caster's behalf. It is small but fast, and resistant to most damage types; furthermore, its weaponmagic attacks pierce most defences.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

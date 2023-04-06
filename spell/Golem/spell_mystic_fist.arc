@@ -23,6 +23,7 @@ invisible 1
 skill summoning
 wc_increase_rate 4
 msg
-Creates a magical fist that delivers an electrical damage and is controlled with the Fire and direction keys.
+Creates a magical fist that strikes with crushing force.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

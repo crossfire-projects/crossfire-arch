@@ -23,6 +23,7 @@ invisible 1
 skill summoning
 wc_increase_rate 2
 msg
-Summoned from nothing but dust and debris, practice allows the summoner to shape golem into ever deadlier personal minions that deliver more powerful blows. Golems are somewhat ponderous at times and have a finite lifetime that is shortened any time they take damage.
+Summons a small spirit into a body assembled from nearby debris. With practice, the summoner can call forth more powerful spirits and bind them to stronger and more deadly bodies. Golems are unfailingly loyal to their summoner, but somewhat ponderous, and only have a limited lifespan before the animating spirit returns to its home plane, which is further shortened when the golem takes damage.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

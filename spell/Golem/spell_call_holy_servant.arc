@@ -22,6 +22,7 @@ invisible 1
 skill praying
 wc_increase_rate 4
 msg
-Calls a strong fighter from the caster's god, whom you control with the Fire and direction keys, the same way that golems are controlled.  The character receives all experience from the holy servant's kills.
+Calls forth a powerful servant of the caster's god. While present on this plane it is entirely subservient to the caster, who receives all experience from its kills.
+This prayer summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

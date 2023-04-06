@@ -25,6 +25,7 @@ invisible 1
 skill summoning
 wc_increase_rate 4
 msg
-Calls a devil from the infernal regions of the underworld.  The devil is controlled with the Fire and direction keys, and attacks with electrical energy.
+Calls a devil from the infernal regions of the underworld. It is immune to fire and resists physical attacks, but weak against cold. Unlike most summons, it is capable of wearing armour and wielding weapons.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end
