@@ -8,4 +8,7 @@ more
 more
 	arch demon_head
 		chance 15
+more
+	arch demonhorn
+		chance 10
 end

@@ -1,3 +1,12 @@
+New flesh item: demon horn.
+Set up to drop from demons. Could be repurposed to drop from dragons if needed too.
+flesh/demon/demonhorn.base.111.png
+flesh/demon/demonhorn.base.LICENSE
+flesh/demon/demonhorn.arc
+flesh/demon/demonhorn.face
+monster/demon/demon_parts.trs
+Daniel Hawkins 2023-04-06
+
 New message to describe writing spell scrolls.
 messages
 Daniel Hawkins 2023-03-17
