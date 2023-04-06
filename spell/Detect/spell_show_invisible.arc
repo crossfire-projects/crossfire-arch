@@ -18,6 +18,7 @@ range_modifier 5
 other_arch detect_magic
 make_invisible 1
 msg
-Useful for revealing monsters or objects that are invisible.
+Reveals nearby objects and enemies that are invisible. Not only is this vital for fighting invisible enemies, it is also mandatory to complete some dungeons, where levers or other critical infrastructure have been magically concealed.
+Note that it only works on magical invisibility; something that is concealed by mundane means (such as most secret doors) will not be affected.
 endmsg
 end
