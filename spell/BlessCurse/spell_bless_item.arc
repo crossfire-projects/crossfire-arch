@@ -16,6 +16,6 @@ invisible 1
 blessed 1
 maxgrace 30
 msg
-Your god, moved by the piety you show, blesses one of your item, which will now have some special properties.
+Request a blessing from your god, permanently infusing one of your items with divine power. You must mark an item in your inventory before casting this.
 endmsg
 end
