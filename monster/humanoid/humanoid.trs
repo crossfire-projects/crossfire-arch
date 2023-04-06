@@ -39,4 +39,10 @@ more
 more
 	arch brain
 		chance 1
+more
+	arch heart
+		chance 9
+more
+	arch liver
+		chance 9
 end
