@@ -18,6 +18,6 @@ duration 500
 maxsp 30
 can_see_in_dark 1
 msg
-Allows the caster to see in the dark, without a light source.
+By amplifying the sensitivity of the caster's eyes, they become able to see in the dark even without a light source.
 endmsg
 end

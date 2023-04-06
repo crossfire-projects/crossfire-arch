@@ -18,6 +18,6 @@ duration_modifier 4
 duration 500
 attacktype 32
 msg
-The movement and attack directions of creatures affected this spell become random.  When a confused character casts a spell, there is a chance that a completely different spell will result.
+Disrupts the thoughts of the target, causing them to move and strike out randomly. If they try casting a spell, it is possible that an entirely different spell will result.
 endmsg
 end

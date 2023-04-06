@@ -19,6 +19,6 @@ dam_modifier 5
 hp 1
 maxgrace 20
 msg
-Increases the rate of healing.
+This prayer greatly accelerates the body's natural healing processes, increasing the rate at which health regenerates.
 endmsg
 end
