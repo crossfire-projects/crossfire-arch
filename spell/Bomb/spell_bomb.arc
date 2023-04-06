@@ -21,7 +21,7 @@ attacktype 1
 no_drop 1
 invisible 1
 msg
-Creates a bomb in the direction the spell is fired.  The bomb detonates after a few seconds, firing shrapnel and encompassing the area in an explosion. Creatures are wounded if they are in the explosion or if they are hit by the flying shrapnel.
+Compresses nearby debris into a hollow shell and fills it with unstable pyromantic forces. After a few seconds, it will explode, dealing severe damage to anyone caught in the blast -- or anyone hit by the flying shrapnel, which can travel quite far.
 endmsg
 weight 750
 end

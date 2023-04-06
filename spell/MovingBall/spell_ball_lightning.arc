@@ -21,6 +21,6 @@ attacktype 10
 no_drop 1
 invisible 1
 msg
-Master evokers, bored of simple fireballs, started toying with the control of balls of lightning. Electricity can be funnelled into a magical framework and then safely thrown at will. Strangely, unlike fireballs that shatter and release flames, this ball lightning hovers unpredictably and even appears to linger around any unfortunate souls in the vicinity before suddenly dissipating. This spell is attuned to the path of electricity.
+While the projection of lightning from the caster's hands is a specialty of pyromancers, master evokers are capable of constructing a magical framework that continuously generates its own electrical current. The resulting orb of lightning, once released, is drawn to the caster's enemies, continuously electrocuting them until the spell dissipates.
 endmsg
 end

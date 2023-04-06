@@ -22,6 +22,7 @@ no_drop 1
 invisible 1
 race quarterstaff
 msg
-Converts a staff into a snake which you can control with the Fire and direction keys.  A quarterstaff in inventory is marked before casting the spell.
+Transforms a plain staff into a large snake, which the caster can direct against their foes. You must mark a quarterstaff in your inventory before casting this.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end
