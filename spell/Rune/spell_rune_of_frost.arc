@@ -15,6 +15,6 @@ skill evocation
 path_attuned 4
 other_arch rune_frost
 msg
-Creates a rune trap that delivers cold damage when it is triggered.
+Places a rune that freezes the victim with intense cold.
 endmsg
 end

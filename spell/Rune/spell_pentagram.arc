@@ -14,8 +14,8 @@ skill summoning
 path_attuned 2048
 face spell_pentagram.111
 msg
-Creates a special rune that may be used to encapsulate another spell.  When casting the spell, the caster specifies a summoning spell to encapsulate in the pentagram.  When the pentagram is triggered, the specified spell is cast on the target.
-
-An example of use is: cast pentagram summon fire elemental
+Creates a magical rune that can contain any Summoning spell the caster knows. When preparing to inscribe the rune, the caster specifies the spell they wish to embed in it; when the rune is triggered, the spell is cast.
+To use this, declare the name of the spell to embed when you ready it:
+'cast pentagram summon fire elemental
 endmsg
 end

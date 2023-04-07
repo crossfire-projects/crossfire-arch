@@ -15,6 +15,6 @@ skill sorcery
 path_attuned 128
 other_arch rune_antimagic
 msg
-Place a rune that removes magical attributes.  The rune has the same effect as that of the cancellation spell.
+Places a rune with the same effect as the Cancellation spell: when triggered, it permanently removes magical effects, both positive and negative.
 endmsg
 end

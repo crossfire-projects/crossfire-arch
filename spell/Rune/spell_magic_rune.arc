@@ -14,6 +14,8 @@ casting_time 15
 skill sorcery
 path_attuned 2048
 msg
-Creates a special rune that may be used to encapsulate another spell.  When casting the spell, the caster specifies the spell that should be encapsulated in the firetrap.  When the sigil is triggered, the specified spell is cast on the target.
+Creates a magical rune that can contain any Sorcery spell the caster knows. When preparing to inscribe the rune, the caster specifies the spell they wish to embed in it; when the rune is triggered, the spell is cast.
+To use this, declare the name of the spell to embed when you ready it:
+'cast magic rune dimension door
 endmsg
 end

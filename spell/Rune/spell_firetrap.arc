@@ -14,6 +14,8 @@ skill pyromancy
 path_attuned 2048
 face spell_firetrap.111
 msg
-Firetrap is a special rune that may be used to encapsulate another spell that is not necessarily fire based.  When casting the spell, the caster specifies the spell that should be encapsulated in the firetrap.  When the firetrap is triggered, the specified spell is cast on the target.
+Places a magical rune that can contain any Pyromancy spell the caster knows. When preparing to inscribe the rune, the caster specifies the spell they wish to embed in it; when the rune is triggered, the spell is cast.
+To use this, declare the name of the spell to embed when you ready it:
+'cast firetrap burning hands
 endmsg
 end
