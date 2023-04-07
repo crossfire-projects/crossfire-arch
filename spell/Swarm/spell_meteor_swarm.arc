@@ -18,7 +18,7 @@ maxsp 20
 no_drop 1
 invisible 1
 msg
-Inspired by the heavens and seeking to create ever more havoc, master pyromancers learnt to sequence numerous comets together into a rain of fire know as a meteor swarm. As with other comet spells each of these projectiles strikes with damage akin to the most potent magical weapons along with fire damage.
+Inspired by the heavens, and seeking to create ever more powerful and destructive spells, master pyromancers learned to bring the burning meteors of the night sky to earth. This spell calls forth a swarm of meteors that explode into magical fire on impact.
 endmsg
 weight 1250
 end

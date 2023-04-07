@@ -18,6 +18,7 @@ maxsp 20
 no_drop 1
 invisible 1
 msg
-Accomplished evokers often grow tired of toying with single bullets and instead start splitting the bullets up into swarms of razor sharp shards that strike down anything in their path. Keeping track of each of the tiny, rapidly moving shards is the reason this is left to accomplished practioners. This spell fires many small magic bullets in the direction the caster is facing. The number and damage of the bullets depends on the level of the caster. This spell is attuned to the path of missiles.
+Accomplished evokers often grow tired of toying with single bullets, and instead start splitting them into swarms of razor-sharp bolts that strike down anything in their path. The difficulty in simultaneously creating and aiming so many projectiles means this spell is restricted to experienced practitioners.
+The number and damage of the bullets depends on the level of the caster.
 endmsg
 end
