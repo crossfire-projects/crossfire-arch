@@ -16,6 +16,6 @@ no_drop 1
 invisible 1
 attacktype 32
 msg
-Returns a confused character to their normal senses by removing the inability to reliably control movement and spell casting.
+Clears the mind and returns a confused character to their normal senses, allowing them to move and cast spells reliably again. Can be cast on yourself or on another, although casting it on yourself may be difficult while you're confused!
 endmsg
 end
