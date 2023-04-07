@@ -22,6 +22,6 @@ invisible 1
 skill evocation
 food 15
 msg
-Fires a ball of magical energy that explodes in a large burst of magical energy when it hits something.  Few creatures can resist magical attacks.
+The large manaball is effectively the same as its smaller variants, but with even more magical energy compressed even more tightly. The resulting shockwave of raw magic can flatten an entire room.
 endmsg
 end

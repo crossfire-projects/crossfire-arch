@@ -19,6 +19,6 @@ attacktype 2
 no_drop 1
 invisible 1
 msg
-With refinement a magic bullet can be formed in ever more harmful shapes such that evokers can cut down ever larger and meaner foes. This spell is attuned to the path of missiles.
+While the discipline of Sorcery does not include many spells suitable for direct combat, it's still important for novice sorcerers to have some means of self-defence. Magic Bullet is favoured by those who prefer raw power over finesse, consisting of a small packet of raw magical energy fired in a straight line at great speed.
 endmsg
 end

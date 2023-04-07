@@ -22,6 +22,6 @@ invisible 1
 skill evocation
 food 15
 msg
-Fires a ball of magical energy that explodes in a mid-size burst of magical energy when it hits something.  Few creatures can resist magical attacks.
+Manaballs are harder to cast than fireballs, because the raw mana inside, by its very nature, tends to absorb and corrode the magical projectile containing it. With practice, however, an evoker can create a sturdier framework, which in turn lets them compress more mana into it, resulting in a larger explosion.
 endmsg
 end

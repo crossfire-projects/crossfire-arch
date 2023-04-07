@@ -23,6 +23,6 @@ skill evocation
 weight 500
 food 4
 msg
-It is possible to set-up a magical chain reaction that results in a sudden freeze. By packaging this effect up in within a fast moving projectile, evokers can hurl these magical concoctions considerable distances. This is perfect for throwing down long corridors at unsuspecting enemies before quickly taking cover, and allowing the relentless snowstorm to do its work. The cold can damage and freeze equipment and other objects caught in its radius.
+The same techniques used for the Icestorm spell can be carefully "packaged" in a fast-moving projectile. On impact, it nearly instantly freezes the surroundings, creating a short-lived but intense snowstorm that damages enemies and freezes objects caught in it.
 endmsg
 end

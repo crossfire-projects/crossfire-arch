@@ -22,6 +22,6 @@ invisible 1
 skill pyromancy
 food 10
 msg
-This spell is similar to a magical fireball. It fires a small bullet of fire, that then explodes into a large area of fire.  Hellfire is non-magical, and can damage magic-immune creatures.
+Similar to Fireball, this spell launches a burning projectile that explodes into a large cloud of fire. Unlike Fireball, the fire it creates is non-magical, and can harm creatures immune to magic.
 endmsg
 end

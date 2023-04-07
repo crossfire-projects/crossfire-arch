@@ -22,6 +22,6 @@ invisible 1
 skill evocation
 food 15
 msg
-Manaballs are tightly package bundles of seething magic power that can be thrown directly at enemies. Upon striking a hard surface, these balls explode out in a field of pure magic damage. This spell belongs to the path of transferrence.
+Manaballs are tightly packaged bundles of seething magical power that can be thrown directly at enemies. Upon striking a hard surface, these balls explode out in a field of pure magic damage.
 endmsg
 end
