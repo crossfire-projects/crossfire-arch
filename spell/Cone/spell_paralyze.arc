@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill sorcery
 msg
-There is a thread that exists between the soul and body which provides the life (and unlife) force that compels the body to move. Sorcerors can not only perceive this link but briefly use their magic to temporarily sever it. While the body becomes completely immobile, the soul can still perceive the threat and those who have experienced this magic describe the sensation with utter horror. The link will naturally reconnect over time but there is little the victim can do until this happens, perhaps this is why charms that protect from its effects are so treasured?
+This spell temporarily severs the link between the soul's will and the body's action. The target's body becomes completely immobile, while their soul remains fully aware of approaching threats; those who have experienced this magic describe the sensation with utter horror. The link will naturally reconnect over time, but there is little the victim can do until this happens. Perhaps this is why charms that protect from its effects are so treasured?
 endmsg
 end

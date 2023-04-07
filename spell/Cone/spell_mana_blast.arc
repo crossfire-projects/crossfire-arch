@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill evocation
 msg
-Most spells work by controlling various forces of nature, but evokers have learn that magic itself can be a powerful weapon. Manablast enables evokers to use their control of magic to directly harm enemies launching a cone of pure magic damage. 
+One of the fundamental forces manipulated by evocation is magic itself. This spell lets an evoker channel raw, unformed mana into a cone of destruction that does pure magic damage, without attempting to shape it into any other element.
 endmsg
 end

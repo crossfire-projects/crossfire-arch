@@ -22,6 +22,7 @@ no_drop 1
 invisible 1
 skill praying
 msg
-And when the Hour sets in, the guilty will despair. As for those who have faith and do righteous deeds, they shall be in a garden, rejoicing. But as for those who were faithless and denied Our signs and the encounter of the Hereafter, they will be brought to the punishment. Holy word is a common prayer from the devoted that only damages enemies of your god and the undead. The prayer is attuned to the path of turning.
+"And when the Hour sets in, the guilty will despair. As for those who have faith and do righteous deeds, they shall be in a garden, rejoicing. But as for those who were faithless and denied Our signs and the encounter of the Hereafter, they will be brought to the punishment."
+Holy word is a common prayer from the devoted that only damages enemies of your god and the undead.
 endmsg
 end

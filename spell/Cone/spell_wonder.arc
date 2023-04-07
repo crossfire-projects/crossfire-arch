@@ -23,6 +23,6 @@ invisible 1
 skill sorcery
 randomitems wonder_spells
 msg
-Most erroneous magic spells tragedy for the caster, but the spell wonder embraces failure. By developing specialised safety phrases that transmutes deadly magic into harmless flowers, sorcerers can gamble with the gods to experiment with all manner of spells. While this often yields low grade magic it can sometimes provide surprisingly powerful results. This spell belongs to the path of transmutation.
+Experimenting with unknown magic is an inherently risky prospect, and many a curious mage has met a permanent and gruesome end trying to develop new spells. The Wonder spell provides a safe way to experiment, by feeding random magical structures through a thaumaturgic "safety net" that grounds uncontrolled magic and turns it into flowers. The results are sometimes surprisingly powerful, and almost always safe for the caster.
 endmsg
 end

@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill summoning
 msg
-Summoner's love to undo other's hardwork and the abjuration known as counterspell beautifully demonstrates this by draining the energy directly out of any lesser spells that come into contact with this spell.
+While the uninitiated might expect Counterspell to be a sorcery or perhaps evocation spell, the student summoner knows that it actually works by threading an area with short-lived portals into another plane where magic functions differently (or, perhaps, not at all), draining the energy from any spells that pass near them and rendering them ineffectual.
 endmsg
 end

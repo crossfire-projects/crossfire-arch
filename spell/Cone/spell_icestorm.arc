@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill evocation
 msg
-The power to rapidly channel heat out of an area is the mainstay of an evoker wishing to cause sudden damage to their foes. As the heat is channelled away, the rapidly cooling cone of ice quickly chills any creatures unlucky enough to be caught in its path. With practice, the power of these storms can be greatly enhanced. A side-effect of these frost spells is is that any objects lying in its path may become encased in ice.
+An evoker's control of fundamental forces can in principle be used to create both heat and cold; in practice, however, cold is much easier, so most evokers leave fire to the pyromancers. This spell is a common pick for apprentice evokers, flash-freezing a conical area. Any unfortunate caught within will find their life rapidly sapped away, and inanimate objects may be encased in ice.
 endmsg
 end
