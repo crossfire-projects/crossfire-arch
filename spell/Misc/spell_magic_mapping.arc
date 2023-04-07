@@ -15,6 +15,6 @@ value 50
 no_drop 1
 invisible 1
 msg
-Shows an overhead map of the caster’s location.  The map is color-coded and can give some indication of creatures present on the map.
+Magically scans the surrounding area and inserts the knowledge directly into the caster's mind, giving them some idea of both the terrain and inhabitants.
 endmsg
 end

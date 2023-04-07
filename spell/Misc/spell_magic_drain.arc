@@ -17,6 +17,6 @@ dam -75
 dam_modifier 1
 maxsp 20
 msg
-Drains mana points from the target and gives them to the caster. 
+This spell directly attacks the target's internal pool of mana, sucking magical power out of them and drawing it into the caster. A skilled practitioner can use this to restore more mana than they spend in casting it, as long as the target has sufficient magical energy to steal.
 endmsg
 end

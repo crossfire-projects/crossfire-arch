@@ -15,6 +15,7 @@ invisible 1
 dam 40
 dam_modifier 5
 msg
-Used to add charges to rods or wands that are in the caster's possession. Mark the item to be charged before casting.  The item may explode instead of accepting additional charges.
+This spell briefly focuses and condenses ambient mana to recharge a wand or staff. Such field-expendient recharging, however, places significant strain on the original magical framework of the item, and there is a chance that it will explode violently.
+You must mark an item in your inventory before casting this.
 endmsg
 end

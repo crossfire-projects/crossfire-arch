@@ -17,6 +17,6 @@ maxgrace 20
 no_drop 1
 invisible 1
 msg
-Word of recall transports the caster back to the most recently used Bed to Reality, but there is a delay between the time the spell is cast and the time the caster is transported home.
+Word of Recall transports the caster back to the most recently used Bed to Reality. There is a delay between when it is cast and when the caster is transported home, so it cannot be used to escape imminent death, but experienced adventurers will generally try to have at least a few scrolls of this tucked away in case they get trapped somewhere.
 endmsg
 end

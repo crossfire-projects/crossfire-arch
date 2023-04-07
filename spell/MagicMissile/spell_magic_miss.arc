@@ -20,6 +20,6 @@ no_drop 1
 invisible 1
 range 25
 msg
-While sorcerers can spend a great deal of time mastering the perfect projectile, a different approach is to instead stay focussed on telekinetically guiding the projectile (somewhat accurately) towards an enemy. Magic missile does a comparable amount of magical damage by guiding the projectile to each target. This spell is attuned to the path of missiles.
+While the discipline of Sorcery does not include many spells suitable for direct combat, it's still important for novice sorcerers to have some means of self-defence. Magic Missile is favoured by those who appreciate precision; while not as powerful as Magic Bullet, it will home in on nearby enemies and strike them without fail.
 endmsg
 end

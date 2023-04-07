@@ -15,6 +15,6 @@ no_drop 1
 invisible 1
 other_arch rune_mark
 msg
-Some messages are best left unspoken, for such situations evokers learnt the art of embedding verse in carefully crafted runes. Only when standing in the rune or by activating it, will the target hear the message of the caster's choosing.
+Some messages are best left unspoken. For such situations, sorcerers can embed a message in a specially crafted rune; when touched, the message is inserted directly into the recipient's mind without ever being spoken aloud.
 endmsg
 end

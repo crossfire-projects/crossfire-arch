@@ -17,10 +17,7 @@ subtype 13
 no_drop 1
 invisible 1
 msg
-Until Master Gwynfor the outcome of sorcery oneself created a loop that resulted in the sorcerer being ripped apart. Being distracted, the master accidentally projected himself as the target during a casting, however, he quickly repointed the summoning location to the otherside of the room. The other masters were amazed but quickly set about understanding how to replicate the effect, thus dimension door was conceived. Sorcerers soon became notoriously hard to catch even being able to teleport across areas that are impassable to other types of movement.
-
-The nature of the spell results in sorcerers only being able to dimension door in straight lines and cannot cross any magically protected areas. Wards are also built into the spell to prevent the practioner teleporting into a space that is already taken up by something else.
-
-Normally the spell will transport the character the maximum possible distance, but sorcerers can specify the distance (dimension door 5) with the spell transporting the character the specified distance.
+The result of a fortuitous accident and some quick thinking by the now-legendary Master Sorcerer Gwynfor, this spell is now considered one of the defining abilities of sorcery. By carefully warping space around the caster, they can safely teleport short distances, giving the alert sorcerer a means of escape that is nearly impossible to cut off.
+The spell will transport the caster only in straight lines, and cannot teleport across magically protected areas or into locations that already contain an obstacle. Normally it will teleport the maximum possible distance; however, when precision is called for, you can specify the distance when readying the spell: cast dimension door 5
 endmsg
 end

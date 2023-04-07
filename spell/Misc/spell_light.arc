@@ -23,6 +23,6 @@ maxgrace 20
 no_drop 1
 invisible 1
 msg
-Lights up the environment surrounding the caster.
+Summons a stationary magical light. When cast on a creature, creates a flash of light that may blind it.
 endmsg
 end
