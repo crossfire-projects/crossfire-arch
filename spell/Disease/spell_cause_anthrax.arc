@@ -20,6 +20,6 @@ maxgrace 20
 no_drop 1
 invisible 1
 msg
-Causes an outbreak of anthrax that is deadly to animals, but not usually harmful to other creatures. 
+Infects the target with anthrax. It is deadly to animals (and moderately contagious), but not usually harmful to other creatures.
 endmsg
 end
