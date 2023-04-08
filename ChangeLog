@@ -1,3 +1,11 @@
+Add one_hit to magic missile.
+For server version a763845fa3 or later, this will prevent magic missiles from
+having a magic-bullet-like piercing effect when they overkill enemies. For
+prior versions, it will act as a partial fix for missiles destroying items
+on the ground (which is fixed properly in a763845fa3).
+spell/MagicMissile/magic_miss.arc
+Rebecca Kelly 2023-04-10
+
 New flesh item: demon horn.
 Set up to drop from demons. Could be repurposed to drop from dragons if needed too.
 flesh/demon/demonhorn.base.111.png

@@ -12,4 +12,5 @@ move_type fly_low
 no_pick 1
 speed 1
 wc 2
+one_hit 1
 end
