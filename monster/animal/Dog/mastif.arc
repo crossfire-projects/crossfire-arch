@@ -1,5 +1,5 @@
 Object mastif
-name mastif
+name mastiff
 face mastif.131
 race animal
 animation mastif
