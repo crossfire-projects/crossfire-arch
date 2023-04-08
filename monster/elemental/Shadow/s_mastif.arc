@@ -1,5 +1,5 @@
 Object s_mastif
-name shadow mastif
+name shadow mastiff
 face s_mastif.131
 race shadow
 animation s_mastif

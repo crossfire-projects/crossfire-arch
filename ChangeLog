@@ -6,6 +6,12 @@ on the ground (which is fixed properly in a763845fa3).
 spell/MagicMissile/magic_miss.arc
 Rebecca Kelly 2023-04-10
 
+Change display name of Mastif and Shadow Mastiff from "Mastif". Arch name is
+left alone.
+./monster/animal/Dog/mastif.arc
+./monster/elemental/Shadow/s_mastif.arc
+Rebecca Kelly 2023-04-07
+
 New flesh item: demon horn.
 Set up to drop from demons. Could be repurposed to drop from dragons if needed too.
 flesh/demon/demonhorn.base.111.png
