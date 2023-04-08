@@ -1,3 +1,15 @@
+Rework descriptions of most spells and prayers. This is a large change that
+has no mechanical effect, but touches the majority of spell archetypes. The
+objectives of this change were:
+- Accurately description (or least hint at) the spell's in-game effects
+- Consistency between flavour text of related spells
+- Consistency with flavour text of the corresponding casting skill
+- Correct grammar and spelling
+- Correct "granted by god" info for god-granted prayers
+- Remove information that the server provides automatically on examine, primarily
+  the "attuned to path" information
+spell/**/spell_*.arc
+
 Change display name of Mastif and Shadow Mastiff from "Mastif". Arch name is
 left alone.
 ./monster/animal/Dog/mastif.arc
