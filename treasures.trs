@@ -1563,9 +1563,6 @@ more
 	arch ironore
 		chance 15
 more
-	arch uraniumore
-		chance 12
-more
 	arch silverore
 		chance 9
 more

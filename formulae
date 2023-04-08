@@ -353,16 +353,6 @@ skill smithery
 cauldron forge
 ingred 5 tin ore
 #
-# uranium bar
-Object NONE
-arch uraniumbar
-chance 8
-diff 3
-exp 500
-skill smithery
-cauldron forge
-ingred 5 uranium ore
-#
 # zinc bar
 Object NONE
 arch zincbar
