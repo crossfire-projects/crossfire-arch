@@ -18,6 +18,6 @@ dam 2
 dam_modifier 10
 monster 1
 msg
-A handy trick when making hasty retreat or simply to sneak, summoners can reduce the air temperature to summon a temporary harmless fog that lingers in the area and obscures vision.
+A handy trick when stealth is called for, by rapidly reducing the air temperature and increasing the humidity a summoner can call forth a thick but harmless fog bank that lingers in the area and obscures vision.
 endmsg
 end

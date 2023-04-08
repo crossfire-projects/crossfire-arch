@@ -17,6 +17,6 @@ attack_movement 16
 race GODCULTMON
 maxgrace 20
 msg
-Summons pet monsters from your god.  The pets move around on their own and attack the caster's enemies.
+Requests divine aid from your god in the form of a swarm of friendly monsters. Exactly what gets summoned depends on what god you worship.
 endmsg
 end
