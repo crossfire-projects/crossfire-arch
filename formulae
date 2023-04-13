@@ -3011,6 +3011,17 @@ skill smithery
 cauldron forge
 ingred spiked shield,pixie dust,booze
 #
+Object Flight
+arch kite_shield
+chance 2
+diff 10
+exp 15000
+trans 1
+yield 1
+skill smithery
+cauldron forge
+ingred kite shield,3 balm of flying,2 pixie's wings,bottle of philosophical oil
+#
 # ------------------
 # Gauntlets / Gloves
 # ------------------
