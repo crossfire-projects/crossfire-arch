@@ -2326,6 +2326,7 @@ type 3
 other_arch spell_firebolt
 hp -40
 maxhp -40
+level -10
 value 10
 animation_suffix fire
 end
@@ -2337,6 +2338,7 @@ type 3
 other_arch spell_frostbolt
 hp -40
 maxhp -40
+level -10
 value 10
 animation_suffix frost
 end
@@ -2405,6 +2407,7 @@ type 3
 other_arch spell_firebolt
 hp -100
 maxhp -100
+level -40
 value 40
 Cha 1
 animation_suffix eorlingas
