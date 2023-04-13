@@ -280,6 +280,17 @@ skill alchemy
 cauldron cauldron
 ingred 1 charcoal,1 pile of sulphur,6 pile of saltpeter
 #
+# black powder (v2, using magical components)
+Object NONE
+arch blackpowder
+chance 40
+diff 3
+yield 8
+exp 1000
+skill alchemy
+cauldron cauldron
+ingred pile of sulphur,dust of ignition
+#
 # Now for basic smithery ingredients -- the bars (made from ores)
 #
 #
