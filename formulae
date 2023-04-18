@@ -3206,6 +3206,83 @@ skill bowyer
 cauldron workbench
 ingred crossbow,3 dust of consuming wrath,hill giant's heart,3 mithril crystal
 #
+Object Rapid Fire
+arch bow
+diff 12
+chance 2
+exp 15000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred bow,potion of speed,dark elf's arm
+#
+Object Rapid Fire
+arch longbow
+diff 12
+chance 2
+exp 15000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred long bow,potion of speed,dark elf's arm
+#
+Object Rapid Fire
+arch crossbow
+diff 12
+chance 2
+exp 15000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred crossbow,potion of speed,dark elf's arm
+#
+Object Rapid Fire
+arch compositebow
+diff 12
+chance 2
+exp 15000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred composite bow,potion of speed,dark elf's arm
+#
+Object Rapid Fire
+arch huntersbow
+diff 12
+chance 2
+exp 15000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred hunter's bow,potion of speed,dark elf's arm
+#
+Object Rapid Fire
+arch handcrossbow,handcrossbow_ivory
+diff 22
+chance 1
+exp 35000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred crossbow pistol,potion of speed,dark elf's arm
+#
+Object Rapid Fire
+arch reflexbow,reflexbow_ivory,reflexbow_bone
+diff 32
+chance 1
+exp 45000
+trans 1
+yield 1
+skill bowyer
+cauldron workbench
+ingred reflex bow,potion of speed,dark elf's arm
+#
 # ------------------
 # Weapons
 # ------------------
@@ -3231,6 +3308,17 @@ yield 1
 skill smithery
 cauldron forge
 ingred dagger,xan's wing,bottle of mineral oil
+#
+Object Poisoning
+arch punch_dagger
+chance 5
+diff 5
+exp 5000
+trans 1
+yield 1
+skill smithery
+cauldron forge
+ingred punching daggers,2 xan's wing,bottle of mineral oil
 #
 Object Poisoning
 arch falchion
@@ -3597,6 +3685,17 @@ yield 1
 skill smithery
 cauldron forge
 ingred dagger,dust of stasis,bottle of mineral oil
+#
+Object Paralysis
+arch punch_dagger
+chance 4
+diff 8
+exp 8000
+trans 1
+yield 1
+skill smithery
+cauldron forge
+ingred punching daggers,2 dust of stasis,bottle of mineral oil
 #
 # -------------------
 # Amulets
