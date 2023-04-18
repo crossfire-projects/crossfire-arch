@@ -285,8 +285,8 @@ Object NONE
 arch blackpowder
 chance 40
 diff 3
-yield 8
-exp 1000
+yield 1
+exp 500
 skill alchemy
 cauldron cauldron
 ingred pile of sulphur,dust of ignition
