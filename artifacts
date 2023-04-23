@@ -2904,28 +2904,27 @@ type 60
 weight 110
 end
 #
-Allowed diamond
+# Combined down the definitions that can benefit from face_suffix
+Allowed diamond,ruby,sapphire,emerald,amethyst
 chance 20
 difficulty 3
 Object exceptional beauty
-face diamond_exceptional.111
+face_suffix exceptional
 value 100
 stand_still 1
 type 60
 weight 130
-nrof 4
 end
 #
-Allowed diamond
+Allowed diamond,ruby,sapphire,emerald,amethyst
 chance 5
 difficulty 5
 Object flawless beauty
-face diamond_flawless.111
+face_suffix flawless
 value 1000
 stand_still 1
 type 60
 weight 200
-nrof 4
 end
 #
 Allowed ruby
@@ -2938,30 +2937,6 @@ type 60
 weight 110
 end
 #
-Allowed ruby
-chance 20
-difficulty 3
-Object exceptional beauty
-face ruby_exceptional.111
-value 100
-stand_still 1
-type 60
-weight 130
-nrof 4
-end
-#
-Allowed ruby
-chance 5
-difficulty 5
-Object flawless beauty
-face ruby_flawless.111
-value 1000
-stand_still 1
-type 60
-weight 200
-nrof 4
-end
-#
 Allowed sapphire
 chance 60
 Object great value
@@ -2970,30 +2945,6 @@ stand_still 1
 value 10
 type 60
 weight 110
-end
-#
-Allowed sapphire
-chance 20
-difficulty 3
-Object exceptional beauty
-face sapphire_exceptional.111
-value 100
-stand_still 1
-type 60
-weight 130
-nrof 4
-end
-#
-Allowed sapphire
-chance 5
-difficulty 5
-Object flawless beauty
-face sapphire_flawless.111
-value 1000
-stand_still 1
-type 60
-weight 200
-nrof 4
 end
 #
 Allowed emerald
@@ -3006,30 +2957,6 @@ type 60
 weight 110
 end
 #
-Allowed emerald
-chance 20
-difficulty 3
-Object exceptional beauty
-face emerald_exceptional.111
-value 100
-stand_still 1
-type 60
-weight 130
-nrof 4
-end
-#
-Allowed emerald
-chance 5
-difficulty 5
-Object flawless beauty
-face emerald_flawless.111
-value 1000
-stand_still 1
-type 60
-weight 200
-nrof 4
-end
-#
 Allowed amethyst
 chance 60
 Object great value
@@ -3038,30 +2965,6 @@ stand_still 1
 value 10
 type 60
 weight 110
-end
-#
-Allowed amethyst
-chance 20
-difficulty 3
-Object exceptional beauty
-face amethyst_exceptional.111
-value 100
-stand_still 1
-type 60
-weight 130
-nrof 4
-end
-#
-Allowed amethyst
-chance 5
-difficulty 5
-Object flawless beauty
-face amethyst_flawless.111
-value 1000
-stand_still 1
-type 60
-weight 200
-nrof 4
 end
 #
 #
