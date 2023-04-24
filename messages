@@ -273,13 +273,11 @@ MSG G-022
 TITLE Euthville's destruction
 CHANCE 1
 TEXT
-Finally, the Commander decided that the city couldn’t stand this anymore, and ordered that the Demons had to be attracted faraway from the city. On this fateful day, a whole fanfare left the city, hoping that the demons would follow, attracted by the music.
+One after another, the Demons climbed out of the Earth itself, following in the direction of the music. The tread upon the town, clearly unaware of the hundreds of buildings they crushed under their giant footsteps, nor the thousands of inhabitants they toasted with their dark fire. Seeing such a grim spectacle, even the bravest ones went mad and ran for their lives, leaving pipes, violins, and harpsichords to fall to the ground.
 
-And so, they did. One after another, they climbed out of Earth itself, and walked in the direction of the music, obviously unaware of the hundreds of buildings they were crushing by their giant footsteps, and the thousands of inhabitants that they toasted with their dark fire. Seeing that, even the bravest ones went mad, and ran for their lives, leaving pipes, clavicelles and harpsichords fall on the ground.
+The rest of the story is easy to understand: Demons, free from the magical music that enslaved them, crushed what remained of the city in a bloody fest that they will forever keep in their twisted memories.
 
-The rest of the story is easy to understand: Demons, free from the magical music that enslaved them, crushed what remained of the city, in a bloody fest that they will forever keep in their twisted memories.
-
-The Commander went mad, of course, and it is said that his madness was so strong that his mind was unable to understand that he was dead. If you search enough in the ruins of Euthville, you’ll probably encounter his ghost, as well as those of the many who perished for having believed that mortals could enslave the hell. Some demons stayed there, obviously enjoying the area and its newborn ashes that smelled fresh blood and carnage. Euthville is now, of course, a dangerous, deserted place, and the richesses that are still sleeping below the ruins of its former palaces are now guarded by powerful entities of the 9th Circle.
+The Commander went mad, of course. It is said that his madness was so strong that his mind was unable to grasp that he died. If you search enough in the ruins of Euthville, you’ll probably encounter his ghost, as well as spirits of many who perished for having believed that mortals could enslave the denizens of hell. Some demons stayed there, obviously enjoying the area and its newborn ashes that smelled fresh blood and carnage. Euthville is now, of course, a dangerous, deserted place, and the riches that are still sleeping below the ruins of its former palaces are now guarded by powerful entities of the 9th Circle.
 ENDMSG
 MSG G-023
 TITLE The Enchanted Music
@@ -296,19 +294,31 @@ Yet they were facing a problem. All their devices, all their machineries, all th
 
 But even so, their hunger for power wasn’t satisfied, and became an increasing nuisance for them. So, the Commander of Euthville (which was, more or less, the equivalent to our King at Scorn), finally decided to send messengers across the whole Continent, calling the world for a challenge. Whoever would be able to fulfill the needs of Euthvillians of energy would become the new Commander, thus the ruler of the richest city ever built since Khelens.
 ENDMSG
-MSG G-025
+
+# G-025 has been split into two messages so it actually fits in the books.
+MSG G-025.1
+TITLE A Chance for a Boy
+CHANCE 1
+TEXT
+And then came a boy. He wasn’t a wizard, nor pretended to be one. He was young, but the story didn’t keep record of his name, and some now think it is because he was damned. Who knows? The Boy sat in the middle of the city, playing with his flute, laughing whenever he saw one of the demonstrations of powerful wizards and engineers, who were failing again and again.
+
+After several days, the Commander noticed the Boy, and said, “Who are you to laugh, you, who has only a flute?”
+“I have only a flute for sure - but there’s more in my simple pipe than in those legions of wizards.”
+“Really?” said the Commander, half-laughing, half-curious. “So you think you can solve my challenge?”
+
+The Boy smiled. “Not only I can, but I shall - and my price will be quite acceptable to provide the energy you need.”
+“And that would be...?”
+“A new pipe,” came the reply. “That one is becoming old.”
+“Agreed, you have your chance.”
+ENDMSG
+
+MSG G-025.2
 TITLE Euthville's salvation
 CHANCE 1
 TEXT
-And then came a boy. He wasn’t a wizard, nor pretended to be one. He was young, but the story didn’t kept the record of his name, and some now think it is because he was damned. Who knows? The Boy sat in the middle of the city, playing with his flute, laughing whenever he saw one of the demonstrations of the powerful wizards and engineers, who were failing again and again.
+The Boy then started to play an amused melody. It sounded like an invitation to a great feast, the opening of a meeting where everybody was invited. And then came from earth itself rumbling steps, climbing from the depth. The fountain that stood in the middle of the place crumbled, leaving a great flaming hole. But the fire seemed to dance at the rhythm of the music itself.
 
-After several days, the Commander noticed the Boy, and said: “who are you to laugh, you, who has only a flute ?” “I have only a flute for sure - but there’s more in my simple pipe than in those legions of wizards.” “Really ?” said the Commander, half-laughing, half-curious, “so you think you can solve my challenge ?”
-
-The Boy smiled. “Not only I can, but I shall - and my price will be quite acceptable to give you the energy you need.” “And that would be...?” - “A new pipe.” came the reply “That one is becoming old.” “Agreed, you have your chance.”
-
-The Boy then started to play an amused melody. It sounded like an invitation to a great feast, the opening of a meeting where everybody was invited. And then came from earth itself sounds of steps, climbing from the depth. The fountain that stood in the middle of the place crumbled, leaving a great hole from which flames emerged. But the fire seemed to dance at the rythm of the music itself.
-
-The Boy then said to the Commander: “As long as you keep playing for the Demons there, at least 23 hours each day, you’ll get them to make whatever you need.” And he gave them the score, took a brand new silver flute, and left, and never was seen again at Euthville.
+The Boy then said to the Commander, “As long as you keep playing for the Demons there, at least 23 hours each day, you’ll get them to make whatever you need.” And he gave them the score, took a brand-new silver flute, and left, and never was seen again at Euthville.
 ENDMSG
 MSG G-026
 TITLE Euthville's destruction
