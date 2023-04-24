@@ -544,3 +544,38 @@ From what he'd seen from Avinash, his alchemist friend, the cauldron churned on 
 Steam began to leak around the lid. At first it was thin, wispy, but quickly billowed into clouds, almost as if the lid wasn't even on.
 Sensing something was wrong, Evren moved to lift the lid off the cauldron. He only got the lid partially off before a torrent of energy burst from the cauldron, rendering first the cauldron, then Evren, and finally Evren's apartment, nought but dust.
 ENDMSG
+
+MSG G-ORCKNUCKLE-RULES
+TITLE Rules to Orcknuckle
+CHANCE 1
+FACE dice.111
+TEXT
+Orcknuckle is a game played with four dice. Any bets are placed at the start of a round, before dice are tossed.
+Scoring for each player is as follows:
+[fixed]
+| rune     | pts |   other effects    |
+|----------|-----|--------------------|
+| ghost    |  0  | negates a princess |
+| beholder |  1  |                    |
+| princess |  2  |                    |
+| knight   |  2  | negates a dragon   |
+| dragon   |  3  |                    |
+| orc      |  -  | negates everything |
+|-------------------------------------|
+[print]
+Note that any dice involved in a negation are removed from scoring.
+To resolve ties, there are some pairing rules.
+In descreasing priority, the tiebreakers are:
+- four of a kind
+- double-double (two pairs)
+- three of a kind
+- two of a kind
+
+The player with the best score wins the round, gaining any wagers made at the beginning of the round. If no single player won the round, then all wagers remain into the next round.
+
+Variants:
+There are many variants to the game so agreement on rules before a game starts is prudent and sporting. Feuds both large and small arose from rule disagreements stemming from the many variants of this game.
+In one popular variant, the orc is considered "wild" and is scored as decided by the thrower. In others, two throws are made each round. Sometimes points are accumulated over time, rather than lasting only for the round.
+
+-- [hand]Boyle Quickfinger, Navar University archivist
+ENDMSG
