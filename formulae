@@ -4123,6 +4123,16 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 ingred horn base,3 dust of ignition,potion of mystic power
 #
+Object Mysteries
+arch horn2
+chance 3
+diff 29
+exp 20000
+yield 1
+skill thaumaturgy
+cauldron thaumaturg_desk
+ingred horn base,potion of Rainbow Wave,dice
+#
 # -------------------
 # Talismans
 # -------------------
