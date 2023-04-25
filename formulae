@@ -3027,7 +3027,7 @@ ingred kite shield,3 balm of flying,2 pixie's wings,bottle of philosophical oil
 # ------------------
 #
 Object Havok
-arch gloves,gloves_b,gloves_w
+arch gloves_w
 chance 4
 diff 5
 exp 12000
@@ -3037,8 +3037,41 @@ skill woodsman
 cauldron tanbench
 ingred gloves,ogre's corpse,bottle of philosophical oil
 #
+Object Havok
+arch gloves_b
+chance 4
+diff 5
+exp 12000
+trans 1
+yield 1
+skill woodsman
+cauldron tanbench
+ingred black leather gloves,ogre's corpse,bottle of philosophical oil
+#
+Object Havok
+arch gloves
+chance 4
+diff 5
+exp 12000
+trans 1
+yield 1
+skill woodsman
+cauldron tanbench
+ingred leather gloves,ogre's corpse,bottle of philosophical oil
+#
 Object marksmanship
-arch gloves,gloves_b,gloves_w
+arch gloves
+chance 5
+trans 1
+yield 1
+diff 8
+exp 16000
+skill woodsman
+cauldron tanbench
+ingred leather gloves,5 arrow of Accuracy,bottle of mineral oil
+#
+Object marksmanship
+arch gloves_w
 chance 5
 trans 1
 yield 1
@@ -3048,8 +3081,30 @@ skill woodsman
 cauldron tanbench
 ingred gloves,5 arrow of Accuracy,bottle of mineral oil
 #
+Object marksmanship
+arch gloves_b
+chance 5
+trans 1
+yield 1
+diff 8
+exp 16000
+skill woodsman
+cauldron tanbench
+ingred black leather gloves,5 arrow of Accuracy,bottle of mineral oil
+#
 Object Sorig
-arch gloves,gloves_b,gloves_w
+arch gloves
+chance 3
+trans 1
+yield 1
+diff 13
+exp 20000
+skill woodsman
+cauldron tanbench
+ingred leather gloves,hill giant's hand,lightning para-elemental's residue,bottle of philosophical oil
+#
+Object Sorig
+arch gloves_w
 chance 3
 trans 1
 yield 1
@@ -3058,6 +3113,17 @@ exp 20000
 skill woodsman
 cauldron tanbench
 ingred gloves,hill giant's hand,lightning para-elemental's residue,bottle of philosophical oil
+#
+Object Sorig
+arch gloves_b
+chance 3
+trans 1
+yield 1
+diff 13
+exp 20000
+skill woodsman
+cauldron tanbench
+ingred black leather gloves,hill giant's hand,lightning para-elemental's residue,bottle of philosophical oil
 #
 Object the Titans
 arch gauntlets,b_gauntlets
@@ -3071,7 +3137,7 @@ cauldron forge
 ingred gauntlets,hill giant's heart,bottle of philosophical oil
 #
 Object bladed steel
-arch gloves,gloves_b,gloves_w
+arch gloves_w
 chance 5
 diff 10
 exp 20000
@@ -3080,6 +3146,28 @@ yield 1
 skill woodsman
 cauldron tanbench
 ingred gloves,hill giant's hand,bottle of mineral oil
+#
+Object bladed steel
+arch gloves
+chance 5
+diff 10
+exp 20000
+trans 1
+yield 1
+skill woodsman
+cauldron tanbench
+ingred leather gloves,hill giant's hand,bottle of mineral oil
+#
+Object bladed steel
+arch gloves_b
+chance 5
+diff 10
+exp 20000
+trans 1
+yield 1
+skill woodsman
+cauldron tanbench
+ingred black leather gloves,hill giant's hand,bottle of mineral oil
 #
 Object Sorig
 arch gauntlets,b_gauntlets
