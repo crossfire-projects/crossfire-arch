@@ -1425,6 +1425,9 @@ more
 more
 	arch scroll_2
 		chance 35
+more
+	arch quarto
+		chance 20
 end
 
 ##
