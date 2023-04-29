@@ -4367,6 +4367,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of mystic power
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Healing
 arch mushroom_3
@@ -4377,6 +4379,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,balm of first aid
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Stamina
 arch food
@@ -4407,6 +4411,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of strength
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Quickness
 arch mushroom_3
@@ -4417,6 +4423,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of agility
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Heat Resistance
 arch mushroom_1
@@ -4427,6 +4435,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,balm of asbestos
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Frost Resistance
 arch mushroom_2
@@ -4437,6 +4447,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,balm of warmth
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Bravery
 arch mushroom_3
@@ -4447,6 +4459,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,dust of fright
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Magic Resistance
 arch mushroom_3
@@ -4457,6 +4471,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of resist magic
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object Life
 arch mushroom_3
@@ -4467,6 +4483,8 @@ yield 7
 skill woodsman
 cauldron stove
 ingred 7 mushroom of Gourmet,potion of resist draining
+failure_arch ashes
+failure_message Oops, you totally burn the mushrooms!
 #
 Object NONE
 arch dragon_steak_cooked
