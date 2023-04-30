@@ -1401,6 +1401,34 @@ magic 2
 item_power 3
 end
 #
+# Blue dragon mail equivalent to Blazing Fires
+Allowed plate_mail,scale_mail,blue_dragon_mail,b_scale_mail
+chance 6
+Object Crackling Charge
+type 16
+value 55
+ac 1
+resist_physical 15
+resist_electricity 35
+weight 90
+magic 2
+item_power 3
+end
+#
+# Green dragon mail equivalent to Blazing Fires
+Allowed plate_mail,scale_mail,green_dragon_mail,b_scale_mail
+chance 6
+Object Winter's Grasp
+type 16
+value 55
+ac 1
+resist_physical 15
+resist_cold 35
+weight 90
+magic 2
+item_power 3
+end
+#
 Allowed all
 chance 10
 Object Gaea

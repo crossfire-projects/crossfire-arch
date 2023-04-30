@@ -1164,7 +1164,13 @@ more
 		chance 5
 more
 	arch dragon_mail
-		chance 5
+		chance 3
+more
+	arch green_dragon_mail
+		chance 3
+more
+	arch blue_dragon_mail
+		chance 3
 more
 	arch dragon_shield
 		chance 5
