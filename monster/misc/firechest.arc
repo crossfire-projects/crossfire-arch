@@ -12,4 +12,5 @@ level 1
 no_pick 1
 resist_fire 100
 direction 0
+no_mood_change 1
 end

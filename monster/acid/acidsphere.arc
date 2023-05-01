@@ -38,4 +38,7 @@ speed 0.01
 anim_speed 1
 exp 100
 one_hit 1
+# It's literally a blob of acid.
+# Charming it would require it to have intellect
+no_mood_change 1
 end

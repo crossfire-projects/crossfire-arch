@@ -28,4 +28,5 @@ maxhp 5
 level 1
 speed 0.06
 weight 20000
+no_mood_change 1
 end

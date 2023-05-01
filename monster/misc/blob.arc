@@ -27,4 +27,5 @@ weight 50000
 run_away 100
 pick_up 64
 attacktype 1
+no_mood_change 1
 end

@@ -30,4 +30,5 @@ resist_cold 50
 resist_physical 40
 resist_acid 90
 resist_blind 80
+no_mood_change 1
 end

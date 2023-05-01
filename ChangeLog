@@ -1,3 +1,16 @@
+Prevent nonintelligent living monsters from being charmable.
+This includes acid spheres, slimes, blobs, and some others.
+Basically all of these are of race slime.
+Mechanically, these monsters don't have a brain, so they logically cannot be charmed.
+monster/acid/acidsphere.arc
+monster/acid/slimecrawler/slimecrawler.arc
+monster/acid/bpudding.arc
+monster/acid/greenslime.arc
+monster/acid/slime.arc
+monster/misc/blob.arc
+monster/misc/firechest.arc
+Daniel Hawkins 2023-05-01
+
 Add one_hit to magic missile.
 For server version a763845fa3 or later, this will prevent magic missiles from
 having a magic-bullet-like piercing effect when they overkill enemies. For

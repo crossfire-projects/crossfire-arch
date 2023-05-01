@@ -21,4 +21,5 @@ attacktype 64
 hitback 1
 hp 40
 maxhp 40
+no_mood_change 1
 end
