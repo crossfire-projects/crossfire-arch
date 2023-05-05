@@ -1,12 +1,12 @@
-animation gem
-gem.111
-gem.112
+animation diamond
+diamond.111
+diamond.112
 mina
-face gem.111
+face diamond.111
 magicmap green
 visibility 100
 end
-face gem.112
+face diamond.112
 magicmap green
 end
 face diamond_exceptional.111

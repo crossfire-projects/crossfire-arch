@@ -2,8 +2,8 @@ Object gem
 name diamond
 race gold and jewels
 type 60
-face gem.111
-animation gem
+face diamond.111
+animation diamond
 nrof 1
 anim_speed 10
 client_anim_random 1
