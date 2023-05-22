@@ -13,4 +13,7 @@ Cha 1
 name_pl potions
 on_use_yield potion_empty
 client_type 651
+msg
+Permanently increases the drinker's Charisma by 1, up to a maximum based on their species.
+endmsg
 end

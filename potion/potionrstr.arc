@@ -10,6 +10,9 @@ weight 1500
 name_pl supreme potions of life
 on_use_yield potion_empty
 client_type 651
+msg
+Restores stats that have been lost due to depletion attacks or death. Works on players below level 130.
+endmsg
 end
 Object minor_potion_restoration
 name minor potion of life
@@ -23,6 +26,9 @@ weight 1500
 name_pl minor potions of life
 on_use_yield potion_empty
 client_type 651
+msg
+Restores stats that have been lost due to depletion attacks or death. Works on players below level 5.
+endmsg
 end
 Object medium_potion_restoration
 name medium potion of life
@@ -36,6 +42,9 @@ weight 1500
 name_pl medium potions of life
 on_use_yield potion_empty
 client_type 651
+msg
+Restores stats that have been lost due to depletion attacks or death. Works on players below level 30.
+endmsg
 end
 Object major_potion_restoration
 name major potion of life
@@ -49,4 +58,7 @@ weight 1500
 name_pl major potions of life
 on_use_yield potion_empty
 client_type 651
+msg
+Restores stats that have been lost due to depletion attacks or death. Works on players below level 50.
+endmsg
 end

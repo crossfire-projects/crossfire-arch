@@ -15,4 +15,7 @@ invisible 1
 duration_modifier 4
 duration 500
 exp 3
+msg
+Temporarily accelerates the drinker, allowing them to move, attack, and even cast spells with preternatural speed. The effects take some practice to control effectively, but once mastered can give a incredible advantage in combat.
+endmsg
 end

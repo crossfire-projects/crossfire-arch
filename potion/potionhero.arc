@@ -12,4 +12,3 @@ on_use_yield potion_empty
 client_type 651
 arch spell_heroism
 end
-end

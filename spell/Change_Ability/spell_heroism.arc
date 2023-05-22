@@ -17,4 +17,7 @@ duration 500
 Con 1
 Str 1
 Dex 1
+msg
+A favoured draught of those about to enter battle, the potion of heroism temporarily quickens the drinker's reflexes, strengthens their muscles, and enhances their ability to survive injury.
+endmsg
 end
