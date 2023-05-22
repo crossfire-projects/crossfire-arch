@@ -16,6 +16,6 @@ no_drop 1
 invisible 1
 attacktype 1024
 msg
-Cleanses damaging poisons from the body. The caster can cure others by firing the spell toward an afflicted character.
+Cleanses damaging poisons from the target (but will not restore any health lost as a result of the poison).
 endmsg
 end

@@ -27,6 +27,7 @@ Str 1
 Dex 1
 maxgrace 4
 msg
-Fill the caster with the godly rage, temporarily enhancing strength, speed, endurance, and regeneration.  Resistance to physical attack is improved.  The spell is granted by Gorokh and Ruggilli.
+Fill the caster with divine rage, temporarily enhancing strength, speed, endurance, and regeneration, and granting some protection from physical attacks.
+This prayer is granted by Gorokh and Ruggilli.
 endmsg
 end

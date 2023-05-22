@@ -22,6 +22,6 @@ invisible 1
 skill pyromancy
 food 4
 msg
-By weaving a magical framework and injecting heat, pyromancers can create a glowing fireball that can literally be thrown. Pyromancers delight in the subsequent fire storm that engulfs a large area wherever the fireball strikes however the intensity of the heat produced is consistent with other fireballs. Items caught in the blaze may be destroyed.
+The zenith of fireball-working techniques, this glowing ball explodes in a massive wave of heat and flame on impact.
 endmsg
 end

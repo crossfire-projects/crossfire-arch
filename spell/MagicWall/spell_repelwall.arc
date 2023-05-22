@@ -23,6 +23,6 @@ range 1
 range_modifier 60
 move_block all
 msg
-Creates a wall that repels all creatures except those that can fly.
+Creates a wall of force that repels any creature that attempts to walk through it. The wall is bound to the ground and does not affect flying creatures.
 endmsg
 end

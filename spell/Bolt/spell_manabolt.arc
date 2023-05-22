@@ -21,6 +21,6 @@ range 12
 no_drop 1
 invisible 1
 msg
-Fires a bolt of magical energy that few creatures have resistance to.
+The same techniques used to cast Firebolt and Frostbolt can also be used to project a bolt of raw, unadulterated magical energy. What this lacks in flash it makes up for in utility, for few creatures resist pure magic.
 endmsg
 end

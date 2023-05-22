@@ -23,6 +23,6 @@ invisible 1
 skill evocation
 food 10
 msg
-Calling forth celestial powers is widely frowned upon but evoking asteroids is nothing less than black magic. The potential to create something powerful enough to threaten the existence of the world should never really be used, should it? how did you come into the posession of this knowledge anyway? The destructive power of the asteroid is simply terrifying and the impact upon striking yields heat that is comparable only to the most powerful magical devices.
+Evokers who favour the path of ice and have completely mastered its lesser forms may turn to this. Resembling an icy planetismal object that can form only in the blackest depths of space, the projectile called forth by this spell is a dense amalgam of razor-sharp edges and spikes of ice, held together with intense magical forces. A direct hit is equivalent to being run through with the most puissant of enchanted weapons, and even a near miss will release an explosion of deadly cold.
 endmsg
 end

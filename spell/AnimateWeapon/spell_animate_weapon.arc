@@ -21,6 +21,7 @@ maxsp 20
 no_drop 1
 invisible 1
 msg
-Mark a weapon in the caster's inventory, then cast this spell to bring it to life.  The weapon then flies about under the caster's direction.  The weapon is controlled with the fire and direction keys.
+This is the sorcerous counterpart to the Dancing Sword spell beloved of summoners. It requires the use of a physical weapon as a focus, but that also makes it easier to cast, and more powerful weapons will result in more powerful minions. You must mark a weapon in your inventory before casting this.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

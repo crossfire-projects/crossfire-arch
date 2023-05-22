@@ -21,6 +21,6 @@ dam_modifier 1
 maxsp 20
 attacktype 2
 msg
-So dangerous that few would even dream of casting it, destruction represents final stage of contimentiam. So much material in such a small space creates tears into the void. These voids quickly begin to draw in anything nearby ripping apart all and sunder with magical ferocity. Being so indiscriminant, destruction can even be used to harm enemies who are not even visible to the practioner. This spell is attuned to the path of detonation. The damage delivered is entirely magical in nature, and increases as evocation skill level, Intelligence, Wisdom, and Power stats increase.
+Every animate being, even constructs and undead, leaves ripples in the web of magic that suffuses the world. A sufficiently powerful and merciless sorcerer can reflect and amplify these ripples so that they converge back upon their point of origin, striking down every nearby enemy, seen or unseen, with a cataclysmic eruption of magical force that tears apart its victims from the inside.
 endmsg
 end

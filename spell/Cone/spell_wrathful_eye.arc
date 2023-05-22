@@ -22,6 +22,7 @@ no_drop 1
 invisible 1
 skill praying
 msg
-Summons an image of Valriel's Eye that may blind creatures in the cone-shaped area in front of it.  The spell is granted to Valriel.
+Call upon Valriel's Eye to gaze upon the unworthy and strike them with blindness, affecting all enemies in a conical area.
+This prayer is granted by Valriel.
 endmsg
 end

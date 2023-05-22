@@ -18,12 +18,12 @@ duration 260
 duration_modifier 1
 dam 4
 dam_modifier 3
-maxsp 20 
+maxsp 20
 attacktype 6
 range 2
 range_modifier 10
 move_block all
 msg
-Like most magical walls, fire wall presents a unmoving defence for Pyromancers. Pyromancers must learn to project a magical framework where heat can be added. Although it can take some time to master, anything brave enough to attempt cross the line of fire will find the heat unbearable. Pyromancers can recast the spell to add additional energy making increasingly powerful walls of flame.
+Most pyromancy spells are as transient as flame itself, but a skilled pyromancer can project a magical framework that continuously ignites its surroundings. Although it can take some time to master, anything brave enough to attempt cross the line of fire will find the searing heat unbearable. Casting the spell multiple times will increase its potency and make the wall of flame ever more powerful.
 endmsg
 end

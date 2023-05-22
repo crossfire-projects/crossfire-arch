@@ -16,8 +16,10 @@ invisible 1
 dam_modifier 6
 duration 5
 duration_modifier 2
-maxsp 15 
+maxsp 15
 msg
-Summoning has proven to be one of the best synergies with the warrior classes. Never is this so obvious than the combination of archer and evoker. Evoker's can use the create missile spell to evoke arrows and bolts (for bolts, wield a crossbow when casting the spell or 'cast create missile bolt') which can be immediately used on the field of battle. Master practitioners can even create missiles with specific magical bonuses (cast create missile N where N is +0, +1, +2, +3 or +4). This spell is attuned to the creation path.
+A favourite utility spell of those who wish to walk the path of martial prowess, this spell calls forth perfectly crafted arrows (or, if the caster is wielding a crossbow, bolts) from thin air, ensuring that running out of ammunition mid-battle is no longer a concern.
+Master practitioners can even create missiles with specific magical bonuses; for example, to create arrows +2, use: cast create missile 2
+To summon bolts even when not wielding a crossbow, use: cast create missile bolt
 endmsg
 end

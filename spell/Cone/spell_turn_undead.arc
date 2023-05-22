@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill praying
 msg
-A cone spell that can inflict fear in the undead.
+While undead are immune to fear, this prayer generates a metaphysical pressure that causes them to flee the caster in a similar manner.
 endmsg
 end

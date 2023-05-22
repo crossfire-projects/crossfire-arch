@@ -15,6 +15,6 @@ skill pyromancy
 path_attuned 2
 other_arch rune_fire
 msg
-Creates a rune trap that delivers fire damage when it is triggered.
+Places a rune that burns the victim with searing flames.
 endmsg
 end

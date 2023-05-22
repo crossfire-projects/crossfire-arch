@@ -18,6 +18,6 @@ attacktype 37749792
 food 999
 dam 9999
 msg
-Restoration heals all damage, confusion, poison, and disease, and also provides a full stomach of food to the recipient. It does not take care of death.
+The zenith of healing magic, this prayer fully restores health, while also cleansing the target of disease and poison, curing blindness and confusion, and filling their stomach -- in short, it will cure anything short of death itself.
 endmsg
 end

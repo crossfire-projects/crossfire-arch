@@ -23,6 +23,6 @@ wc 2
 ac 2
 last_grace 1
 msg
-Blesses the caster with holy power of his god, both to attack enemies, and to gain protection from attacks. The benefits vary by god, but all give signficant protection against godpower.
+Imbues the caster with a fragment of their god's divine power, greatly strengthening both their attacks and their defences. The exact benefits vary depending on the god, but all give significant protection against godpower.
 endmsg
 end

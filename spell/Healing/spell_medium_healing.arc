@@ -17,6 +17,6 @@ invisible 1
 hp 3
 dam 2
 msg
-A spell that may regenerate a moderate amount of hit points for the caster or to another character.
+Restores a moderate amount of health to the target. Can be cast on yourself or on companions.
 endmsg
 end

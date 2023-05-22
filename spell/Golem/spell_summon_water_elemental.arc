@@ -23,6 +23,7 @@ invisible 1
 skill summoning
 wc_increase_rate 4
 msg
-Summons a creature from the elemental plane of water that is controlled with the Fire and direction keys.  This elemental attacks deliver cold and physical damage.
+Summons a living wave from the elemental plane of water. Its attacks inflict cold and physical damage, and it is resistant to cold, but vulnerable to fire.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

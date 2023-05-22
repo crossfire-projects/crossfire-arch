@@ -21,7 +21,7 @@ resist_godpower 35
 ac 1
 wc 1
 msg
-This spell grants the character a blessing from the god they worship.  It affects resistances and stats, but the specific effect varies depending on the god the character worships.  Some protection from godpower is granted.
+This prayer grants the caster a temporary blessing from their god. It affects resistances and stats, but the specific effect varies depending on the god the character worships. Some protection from godpower is granted regardless.
 endmsg
 other_arch bless_effect
 end

@@ -14,9 +14,8 @@ casting_time 15
 skill praying
 path_attuned 2048
 msg
-Creates a special rune that may be used to encapsulate another spell.  When casting the spell, the caster specifies a praying spell to encapsulate in the glyph.  When the glyph is triggered, the specified spell is cast on the target.
-
-An example of how to create a glyph is:
- cast glyph summon cult monsters
+Creates a magical rune that can contain any prayer the caster knows. When preparing to inscribe the rune, the caster specifies the prayer they wish to embed in it; when the rune is triggered, the prayer is cast.
+To use this, declare the name of the prayer to embed when you ready it:
+'cast glyph holy word
 endmsg
 end

@@ -21,6 +21,6 @@ range 24
 no_drop 1
 invisible 1
 msg
-Fires a negative energy bolt that hits creatures and drains them of experience and also hits them with a cold attack.
+Fires a negative energy bolt that inflicts cold damage and drains experience from its victims.
 endmsg
 end

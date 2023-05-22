@@ -18,7 +18,7 @@ maxsp 20
 no_drop 1
 invisible 1
 msg
-Fires a swarm of asteroid bullets that deliver a weaponmagic attack.
+The zenith of an evoker's affinity with ice, this spell calls forth a swarm of asteroids that explode into magical ice on impact.
 endmsg
 weight 1250
 end

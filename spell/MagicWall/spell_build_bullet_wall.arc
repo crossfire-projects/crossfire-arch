@@ -24,6 +24,6 @@ is_used_up 1
 move_block all
 tear_down 1
 msg
-With a deep understanding of the evocation path and its study and practice into the telekinesis of material comes the ability to form self sustain spell walls that continuously discharge projectiles. Such practioners can be found sitting nearby reading quitely while their magical cantrips leave a bloodbath. This spell is attuned to the path of creation.
+With a sufficiently deep understanding of the path of evocation, it becomes possible to create self-sustaining spells that continuously discharge projectiles. Advanced practitioners can be found sitting nearby quietly enjoying a book while their magical constructions leave a bloodbath.
 endmsg
 end

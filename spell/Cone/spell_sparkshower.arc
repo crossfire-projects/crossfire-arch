@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill sorcery
 msg
-To the untrained eye, spark shower appears like a carpet of electrical sparks moving slowly across the floor, and indeed, stepping foot within the spark shower is a painful experience not soon repeated. These sparks are infact a rare faerie type whose brief existence can be utilised by cunning sorcerers to deliver magically charged electrical damage in a cone in front of them. This spell is attuned to the path of electricity.
+To the untrained eye, spark shower appears like a carpet of electrical sparks crawling slowly across the floor, and indeed, setting foot within the spark shower is a painful experience not soon repeated. These sparks are in fact a rare type of faerie, whose brief existence can be exploited by cunning sorcerers to deliver magically charged shocks in a cone in front of them.
 endmsg
 end

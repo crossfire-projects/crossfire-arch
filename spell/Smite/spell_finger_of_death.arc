@@ -21,6 +21,7 @@ attacktype 131072
 no_drop 1
 invisible 1
 msg
-A spell granted by the Devourers that can to kill a target outright without respect to hit points.
+A powerful prayer that can instantly slay a target without regard for hitpoints.
+It is granted by the Devourers.
 endmsg
 end

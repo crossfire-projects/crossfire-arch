@@ -17,6 +17,7 @@ invisible 1
 dam 3
 dam_modifier 5
 msg
-As a natural consequence of constantly practising visualisation of objects before materialisation, sorcerers become experts at recognising objects by probing them with magic. Although easy to grasp the process is very taxing for beginners and only a small selection of items can be identified before requiring time to recover mana. This spell is attuned to the path of information.
+Understanding a living being is in some ways easier than understanding an inanimate object, since all living things know, on some level, what they are. Understanding the nature of objects is often necessary, however, especially for an adventurer who is often finding mysterious treasures and artifacts. This spell analyzes the physical and magical structure of an item so that the caster might fully understand its nature.
+This spell is mentally taxing and most sorcerers will require significant practice before they can identify more than one or two items at a time.
 endmsg
 end

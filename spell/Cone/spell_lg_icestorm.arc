@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill evocation
 msg
-By studying the most powerful forces of undeath, evokers learnt of ways to improve upon the icestorm. These large icestorms create vast freezing cones of ice that quickly chill and do horrific damage to creatures unlucky enough to be caught in its path. A side-effect of these frost spells is that any objects lying in its path may become encased in ice.
+With experience, evokers learn to slightly enlarge the size of their Icestorm. A true master, however, by making changes to the fundamental structure of the spell, can blanket an entire battlefield with ice using a single spell, instantly reducing an approaching horde to a field of frostbitten corpses.
 endmsg
 end

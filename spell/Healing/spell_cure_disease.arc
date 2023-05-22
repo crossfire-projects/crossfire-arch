@@ -16,6 +16,6 @@ no_drop 1
 invisible 1
 attacktype 33554432
 msg
-Cures a character of a disease.  The caster may cure others by firing the spell at the afflicted character.
+Cures the target of disease; higher-level casters are able to cure worse diseases more reliably. Note that, unlike surviving a disease naturally, there is no chance to develop immunity to it.
 endmsg
 end

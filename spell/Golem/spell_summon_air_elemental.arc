@@ -23,6 +23,7 @@ invisible 1
 skill summoning
 wc_increase_rate 4
 msg
-Summon an air elemental that is controlled with the Fire and direction keys and it's attacks consist of electrical energy.Summoning life into air takes great skill as the flighty nature of these elementals can quickly dissipate especially with a strong physical buffet. Once summoned, the powerful air currents immediately start giving off powerful electrical shocks along with sweeping up debris that is propelled at great speed to anything in the path delivering powerful physical damage.
+Summons a living storm from the elemental plane of air. Binding an air elemental takes great skill, as these elementals are flighty and tend to dissipate quickly when struck. Once summoned, the elemental will give off powerful electrical shocks, while using powerful air currents to sweep up debris with which to pummel enemies.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

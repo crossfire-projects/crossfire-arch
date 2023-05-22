@@ -19,6 +19,6 @@ maxgrace 40
 resist_drain 35
 dam_modifier 3
 msg
-Protection from draining reduces the experience loss when the character is hit with a draining attack.  The character will still lose some experience, but not as much.
+This prayer fortifies the caster's soul against experience-draining attacks. It does not provide complete immunity, but does reduce the severity of such attacks.
 endmsg
 end

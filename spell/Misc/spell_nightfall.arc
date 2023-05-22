@@ -15,6 +15,7 @@ no_drop 1
 invisible 1
 dam 1
 msg
-Brings about a general darkness in the area.  The Devourers and Gaea grant this spell.
+Blankets the surrounding area in magical darkness.
+This prayer is granted by Gaia and the Devourers.
 endmsg
 end

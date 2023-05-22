@@ -20,6 +20,7 @@ range 2
 range_modifier 10
 move_block all
 msg
-A simple but surprisingly effective solution to an age old problem is the earth wall. Summoners can rapidly conjure incredibly durable earthern walls that block vision. Handy when facing off the most fearsome foes or just to pin down the soon to be vanquished. Unlike other wall spells, earthwalls cast no spells and do no damage, and do not disappear after a specified time. They remain standing until destroyed. This spell is attuned to the path of creation.
+A common exercise for novice summoners to practice the summoning of large objects, without the distractions of also trying to summon something alive or complex, is the conjuring of large piles of dirt and rock. But once mastered, being able to call forth several tonnes of earth at a moment's notice also has many practical uses: breaking up line of sight, providing cover from attacks, delaying the advance of powerful foes or sealing away weak ones.
+Unlike other wall spells, there is nothing magical about the wall itself once the summoning is complete, and it will remain in place until physically destroyed.
 endmsg
 end

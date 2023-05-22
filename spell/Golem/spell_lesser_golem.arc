@@ -25,6 +25,7 @@ invisible 1
 skill summoning
 wc_increase_rate 2
 msg
-The power to summon sentience into otherwise lifeless materials is the realm of the summoner. Whilst small in stature, lesser golem's relentless and mindless devotion to their creators allow summoners to participate in the frontline of combat, bash down doors, detonate runes, all from a distance. The golem has a finite lifetime, and this life is shortened any time it takes damage.
+The power to call forth life and thought, and with it animate lifeless clay, is the realm of the summoner. Although small, a golem's relentless devotion to its master allows summoners to participate in the frontline of combat, bash down doors, and trigger traps, all from a safe distance. The summoning does not last long, however, and damage to the golem's body shortens it further.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

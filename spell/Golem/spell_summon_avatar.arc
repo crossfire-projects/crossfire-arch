@@ -22,6 +22,7 @@ invisible 1
 skill praying
 wc_increase_rate 4
 msg
-Summons the strongest fighter of one's god.  Control the avatar with the Fire and direction keys.  This is the most powerful summoning spell.
+Summons the avatar of your god, a direct extension of the god's power onto the mortal plane. It is the most powerful being any caster can summon.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

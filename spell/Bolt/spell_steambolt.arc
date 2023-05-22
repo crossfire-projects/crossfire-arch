@@ -22,6 +22,6 @@ range 12
 no_drop 1
 invisible 1
 msg
-Perhaps inspired by pyromancy, sorcerers have learnt to harness the powerful force of steam. Unlike pyromancers, sorcerers wont directly add heat but instead focus on creating as much water vapour into as small a space as they can. The resulting pressure, once released, scalds any in their path. The more devious practioners delight in evoking tiny sharp projectiles into the beam. A side effect of this spell is the substantial fog that can be left in its wake. This spell is attuned to the path of fire.
+Rather than generating heat directly, this Pyromancy-inspired spell compresses water vapour in the air until it exceeds its boiling point, then releases it, producing a focused jet of steam that burns anything its path and leaves a cloud of fog behind.
 endmsg
 end

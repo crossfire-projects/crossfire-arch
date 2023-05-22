@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill pyromancy
 msg
-Usually the first test for an apprentice pyromancers, burning hands is of the simplest means of projecting fire. Fire is started on the practioners hands and then projected using magic. The spell gains strength as the character gains in level, so it remains a valuable spell even at high levels.
+One of the earliest tests for apprentice pyromancers, Burning Hands is the simplest means of projecting fire. Flames are ignited around the practioner's hands, then projected outwards using magic. As the caster gains in experience they learn how to make the flames hotter and project them further, so this spell remains useful even to master pyromancers.
 endmsg
 end

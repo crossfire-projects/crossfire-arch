@@ -18,6 +18,7 @@ maxsp 20
 no_drop 1
 invisible 1
 msg
-The scale of this spell takes seeing to be believed, accomplished evokers can summon a storm of huge bullets of which each is instantly propelled towards the target. The focus required to maintain the necessary braces to perform this spell without being instantly turned into a smear against the nearest wall does mean that more than few evokers have cast this as their final spell. The number and damage of the bullets depends on the level of the caster. This spell is attuned to the path of missiles.
+The scale of this spell must be seen to be believed. Accomplished evokers can summon a storm of huge bullets, each of which is instantly propelled towards the target. The focus required to protect the caster from the forces involved, and the consequences if that focus wavers, means that this has been the final spell of more than a few over-ambitious evokers.
+The number and damage of the bullets depends on the level of the caster.
 endmsg
 end

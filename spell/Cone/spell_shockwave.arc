@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill evocation
 msg
-Evokers can create powerful shockwave pulses that are attuned to the path of detonation through the air by magically containing explosions. Due to the magical projection required to channel this cone of energy this spell delivers both magical and physical damage.
+By creating a magically contained explosion, an evoker can produce a powerful shockwave affecting a massive conical area. The magical forces required to safely channel the blast away from the caster means this spell delivers both physical and magical damage.
 endmsg
 end

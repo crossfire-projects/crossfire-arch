@@ -16,6 +16,6 @@ skill sorcery
 path_attuned 32768
 maxsp 24
 msg
-Creates a rune that when triggered causes the recipient to gain spell points.  Numerous runes could be set up in advance of a battle to allow quick access to more spell points than could be generated naturally during the fight.
+Places a rune infused with raw magical power. When triggered, it restores the spell points of whoever set it off. These runes make a convenient way for a cautious sorcerer to stockpile mana in advance of a battle, allowing access to more spell points than would be generated naturally during the fight.
 endmsg
 end

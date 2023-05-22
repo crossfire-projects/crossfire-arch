@@ -16,6 +16,7 @@ invisible 1
 damned 1
 maxgrace 30
 msg
-Eliminates the damned status of objects the character currently is wearing to allow the items to be unequipped.  It does not alter the damned status for objects that are not equipped.
+Removes the damned status from objects you have equipped. Unlike curses, which are usually placed by mortal spellcasters or magical accidents, damnations are inflicted by gods; as a consequence, they are much harder to remove. As with Remove Curse, this prayer has no effect on items that are not currently equipped.
+It is granted by Gaea.
 endmsg
 end

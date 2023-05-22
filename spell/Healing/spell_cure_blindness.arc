@@ -16,6 +16,6 @@ no_drop 1
 invisible 1
 attacktype 4194304
 msg
-Allows a blinded character to see again.
+Cures both mundane and magical blindness, restoring sight to the target.
 endmsg
 end

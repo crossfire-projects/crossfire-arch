@@ -22,6 +22,6 @@ no_drop 1
 invisible 1
 skill sorcery
 msg
-By projecting terrifying visages, only the undead can resist their natural reaction to run from fear. The more powerful the sorcerer, and the weaker the mind of those caught, the further they are likely to run. This spell is attuned to the path of the mind.
+Assails the targets with terrifying hallucinations, causing them to flee in terror. The more powerful the sorcerer, and the weaker the mind of those caught, the further they are likely to run. Only the undead are entirely immune to this spell.
 endmsg
 end

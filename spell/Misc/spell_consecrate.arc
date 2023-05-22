@@ -14,6 +14,6 @@ path_attuned 128
 no_drop 1
 invisible 1
 msg
-Consecrate is used to convert an altar into an altar of the god the caster worships.
+When standing at an altar, this prayer allows you attempt to claim it for your god. The more powerful you are, the more likely you are to be able to wrest the altar away from whatever powers it is attuned to.
 endmsg
 end

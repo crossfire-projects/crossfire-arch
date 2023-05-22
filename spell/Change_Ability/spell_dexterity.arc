@@ -17,6 +17,6 @@ duration_modifier 4
 duration 500
 Dex 1
 msg
-There is no surer way to steady the hand and speed up the reflexes than with the manipulation of an sprcerer's magic. Sorcerers may temporarily improve their, or their allies, dexterity based upon the recipient's dexterity and the caster's prowess in sorcerery. This spell is attuned to the path of self.
+There is no surer way to steady the hand and speed up the reflexes than with the manipulation of an sorcerer's magic. Sorcerers may temporarily improve their own dexterity, or that of their allies, based upon the recipient's natural dexterity and the caster's prowess in sorcery.
 endmsg
 end

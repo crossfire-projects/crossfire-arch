@@ -18,6 +18,6 @@ no_drop 1
 invisible 1
 duration 8
 msg
-Releases a bolt of energy that removes magic, curse, and damnation from locations and items. It also removes enchantment, so care must be taken not to remove desirable attributes from good magic items. The spell is useful for improving items that have negative magic bonuses.
+Releases a bolt of anti-magic that dispels all magical effects from items and locations in its path. All magical effects are nullified, so this will strip both negative effects like curses and damnation, and beneficial enchantments, from its targets. Use with care.
 endmsg
 end

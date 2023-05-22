@@ -15,6 +15,6 @@ skill sorcery
 path_attuned 262144
 other_arch rune_death
 msg
-Creates a rune that, when triggered, hits the target with death magic that either results in the death of the creature, with no respect to its hit points, or, does no harm at all.
+Places a rune with the same effect as the Finger of Death spell: when triggered, the target will either escape unharmed or be instantly slain.
 endmsg
 end

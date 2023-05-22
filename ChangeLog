@@ -1,3 +1,16 @@
+Rework descriptions of most spells and prayers. This is a large change that
+has no mechanical effect, but touches the majority of spell archetypes. The
+objectives of this change were:
+- Accurately describe (or least hint at) the spell's in-game effects
+- Consistency between flavour text of related spells
+- Consistency with flavour text of the corresponding casting skill
+- Correct grammar and spelling
+- Correct "granted by god" info for god-granted prayers
+- Remove information that the server provides automatically on examine, primarily
+  the "attuned to path" information
+spell/**/spell_*.arc
+Rebecca Kelly 2023-05-22
+
 Prevent nonintelligent living monsters from being charmable.
 This includes acid spheres, slimes, blobs, and some others.
 Basically all of these are of race slime.

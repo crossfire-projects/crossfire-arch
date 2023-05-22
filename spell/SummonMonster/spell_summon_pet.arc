@@ -16,23 +16,23 @@ invisible 1
 attack_movement 16
 randomitems mage_pet_monster
 msg
-The beckoning of a summoner proves irresistible to those under their thrall. Summoner's pets quickly learn to attend to their masters needs without prompting and will eagerly throw themselves upon those who would wish ill of their master with no regard for safety. The skill of the master is easily seen by the size armies and their strength of their servants.
+The beckoning of a summoner proves irresistible to those under their thrall. A summoner's pets quickly learn to attend to their master's needs without prompting, and will eagerly leap to their master's defence with no regard for their own safety. The skill of the master is reflected in the size of their forces and the strength of their servants.
 
 The type of monster varies by the caster's summoning skill level:
-- 1 bat;
-- 2 bird;
-- 3 bee;
-- 4 spider;
-- 5 killer bee;
-- 6 panther;
-- 7 wolf;
-- 8 stalker;
-- 10 devil;
-- 12 beholder;
-- 14 dark elf;
-- 16 skull;
-- 20 angel;
-- 25 vampire.
+-  1: bat;
+-  2: bird;
+-  3: bee;
+-  4: spider;
+-  5: killer bee;
+-  6: panther;
+-  7: wolf;
+-  8: stalker;
+- 10: devil;
+- 12: beholder;
+- 14: dark elf;
+- 16: skull;
+- 20: angel;
+- 25: vampire.
 
 A specific pet may be summoned as follows: cast summon pet monster killer_bee
 endmsg

@@ -23,6 +23,7 @@ range 24
 no_drop 1
 invisible 1
 msg
-Followers of Sorig harken and take heed; The King of Thunder and Lightning shall grant unto you the treasure of forked lightning. For each good deed, I shall split its bolt such that those who are worthy shall fill the halls of my enemies and reduce their insolence to dust. This prayer is attuned to the path of electricity.
+"Followers of Sorig harken and take heed; The King of Thunder and Lightning shall grant unto you the treasure of forked lightning. For each good deed, I shall split its bolt such that those who are worthy shall fill the halls of my enemies and reduce their insolence to dust."
+This prayer is granted by Sorig.
 endmsg
 end

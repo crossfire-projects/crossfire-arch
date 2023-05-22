@@ -18,6 +18,6 @@ maxsp 20
 range 2
 range_modifier 3
 msg
-Unlike handmade walls, magical earth walls all contain a simple flaw that knowledge sorcerers have little trouble locating. The magic that weaves these defiant barricades together can be undone with this simple transmutation sorcery such that they instantly crumble to dust or otherwise take immense damage.
+Summoning large, inert piles of dirt and rock is a common exercise for the novice summoner. Of course, once the practice field is full of dirt piles, it all has to go somewhere -- hence this spell. Overall simpler than the summoning version, most students are quick to realize the practical applications inherent in being able to banish barriers with a touch. The nature of the unsummoning, however, means that it works only on ad hoc earthen mounds, not actual architecture.
 endmsg
 end

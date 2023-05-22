@@ -15,6 +15,6 @@ skill pyromancy
 path_attuned 8
 other_arch rune_shock
 msg
-Creates a rune trap that delivers electrical damage when it is triggered.
+Places a rune that delivers a powerful electrical shock when triggered.
 endmsg
 end

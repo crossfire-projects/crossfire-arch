@@ -19,6 +19,6 @@ maxgrace 25
 unaggressive 1
 other_arch detect_magic
 msg
-A mood-change spell that makes a target become unaggressive.
+Calms hostile creatures, making them unaggressive.
 endmsg
 end

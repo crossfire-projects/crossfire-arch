@@ -16,6 +16,6 @@ invisible 1
 range 25
 range_modifier 5
 msg
-Using their extensive knowledge in the manipulation of their opponents presents sorcerers with valuable insights into their strengths and weaknesses. With a little magic, sorcerers can readily gather information about nearby enemies such as their power and present condition and even particularly hazardous attack types.
+Before a sorcerer can change something, they must first understand it. This spell represents the first step on the path of true understanding, and gives the caster detailed insights into the nature and abilities of the target.
 endmsg
 end

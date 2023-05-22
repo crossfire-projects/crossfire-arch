@@ -17,6 +17,6 @@ duration 100
 duration_modifier 5
 dam_modifier 1
 msg
-Meddling with the nature of things doesn't always go to plan, but for summoners the transmutation of anything valuable into gold is a reliable spell. Summoners can quickly convert a room full of objects into nothing but gold in seconds using this spell -- a notoriously unpleasant trick when used by those with poor ethical judgement. The transmutation spell converts valuable items into gold nuggets.  If the item is not valuable enough to be converted to a nugget, it is destroyed and vanishes.
+While the transmutation of lead into gold is a cliche of alchemists, this spell belongs to the summoners. While attempts to open portals to a theorized "plane of infinite gold" were ultimately unsuccessful, one outgrowth of this research was a spell that effectively sacrifices nearby items to fuel a spell that creates lumps of gold ex nihilo. Items that are not sufficiently valuable to fuel the spell, however, simply vanish without a trace.
 endmsg
 end

@@ -22,6 +22,7 @@ no_drop 1
 invisible 1
 skill praying
 msg
-Face of death fires a cone of death. Creatures caught within this area of death either die outright (regardless of how many hit points they have) or are completely unharmed.  The spell does not harm equipment whether worn by creatures or laying on the floor.  It is granted by the Devourers.
+An escalation of Finger of Death that affects a conical area. Creatures within the area may be slain outright, although any survivors will be completely unharmed. Like Finger of Death, it does not damage inanimate objects.
+This prayer is granted by the Devourers.
 endmsg
 end

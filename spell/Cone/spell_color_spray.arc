@@ -22,6 +22,7 @@ no_drop 1
 invisible 1
 skill sorcery
 msg
-It is written that legendary wizard Sarumatix was the first to develop continentiam to a new, dangerous, level. Color spray demonstrates the strange effect where minerals can be worked into infinitesimal spaces and the subsequent powerful energy release directed by the sorcerer. While greater damage can be inflicted by more traditional spells, the chaotic spray of pure colours can be useful against enemies with unknown protections or to clear a variety of very powerful creatures. The spell is attuned to the path of transmutation.
+An invention of the legender wizard Sarumatix, this spell temporarily exposes a large area to the formless chaos that exists between the planes themselves. While difficult to cast, few enemies are prepared to defend themselves from this assault of unreality, or have any sort of natural resistance to it.
+The name comes from the description survivors give to the experience, saying that it is like seeing every distinct and unique colour possible at the same time.
 endmsg
 end

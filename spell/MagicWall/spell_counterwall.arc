@@ -21,7 +21,8 @@ maxsp 20
 range 2
 range_modifier 15
 msg
-Counterwall creates a wall that fires counterspells.  Counterspells are cone spells that prevent spells from passing through the affected area.  Counterwalls can be useful to constantly neutralize spell effects.  The counterwall itself has a finite duration.
+One of the more esoteric Summoning spells, Counterwall creates a wall that fires cones of contrathaumic energy, disrupting any spell that enters the affected area. An experienced summoner can use this to effectively disable spellcasting in a large area, while leaving the summoner's minions free to operate unhindered.
+Like all walls that generate spells, the counterwall has a limited duration and will eventually crumble away.
 endmsg
 move_block all
 end

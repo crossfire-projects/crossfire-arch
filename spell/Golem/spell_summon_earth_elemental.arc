@@ -23,6 +23,7 @@ invisible 1
 skill summoning
 wc_increase_rate 4
 msg
-Summoned from rock and clay, these elementals embody the strengths of the earthen gods. Sturdy and powerful, the slow swing of each arm is backed up with an immense physical force. Like the earthen gods, these elementals display no urgency and require a certain degree of patience from the operator.
+Summons a living statue from the elemental plane of earth. These elementals embody the strength of the mountains themselves; they are sturdy and powerful, and their slow swings hit with immense physical force. However, they move sloly and require a certain degree of patience from the summoner.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

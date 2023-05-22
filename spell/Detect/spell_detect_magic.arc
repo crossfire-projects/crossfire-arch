@@ -18,6 +18,6 @@ range_modifier 5
 other_arch detect_magic
 known_magical 1
 msg
-Sorcerer's knowledge of the manner in which magic can be woven into items provides the foundation for a useful spell practised by young and old sorcerers alike. Detect magic reveals objects on and around the caster's that are display magical power. This can be used to quickly sort the wheat from the chaff, so to speak. This spell is attuned to the path of information.
+While some people can sense magical fluxes naturally, this spell allows any sorcerer, novice and master alike, to detect them. Casting it reveals objects carried by, or within reach of, the caster that carry enchantments -- although it does not reveal any information about the nature of those enchantments.
 endmsg
 end

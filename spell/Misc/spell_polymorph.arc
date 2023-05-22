@@ -17,6 +17,6 @@ range 5
 range_modifier 5
 other_arch polymorph
 msg
-Converts a living object into another monster of some sort, or transforms an object to another type of object.
+This spell magically scrambles an object's or creature's ontological anchor, turning it into something else. It cannot turn inanimate objects into living creatures (or vice versa). Living things have a chance to resist; inanimate objects may lose metaphysical cohesion entirely and melt.
 endmsg
 end

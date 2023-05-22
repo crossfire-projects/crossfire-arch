@@ -22,6 +22,6 @@ invisible 1
 skill evocation
 food 8
 msg
-The size of radius of the large snowstorm represents the upper threshold for safety. Evokers should be cautious about lauching too many of these without first checking their range or suffer the consequences of their own power. The cold can damage and freeze equipment and other objects caught in its radius.
+The blast radius of the large snowstorm represents the upper threshold for safety. Evokers must be cautious about lauching these without first checking their range, lest they suffer the consequences of their own power.
 endmsg
 end

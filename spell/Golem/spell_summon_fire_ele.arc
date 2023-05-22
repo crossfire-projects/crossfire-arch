@@ -23,6 +23,7 @@ invisible 1
 skill summoning
 wc_increase_rate 4
 msg
-Summons a creature from the elemental plane of fire controlled with the Fire and direction keys.  They are impervious to fire-based damage, and deliver fire- based attacks.
+Summons a living flame from the elemental plane of fire. It is impervious to fire, and burns enemies with its attacks.
+This spell summons a controlled minion; its movement can be directed with Fire + the direction keys, but you can only have one such minion at a time.
 endmsg
 end

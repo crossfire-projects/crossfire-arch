@@ -18,6 +18,6 @@ maxsp 20
 no_drop 1
 invisible 1
 msg
-It is only natural that with practice, sorcerers start toying with keeping ever greater numbers of magical missiles in flight at one time. Missile swarms represent the mastery of this form of attack with the practitioner simultaneously launching missiles from three separate planes and concurrently directing them as needed. With so much to do, it is hardly surprising a few errant missiles go the wrong way but this is generally the last thing the victim is going to notice. This spell is attuned to the path of missiles.
+It is only natural that practiced sorcerers would start toying with keeping ever greater numbers of magical missiles in flight at one time. Missile swarms represent the mastery of this form of attack, with the practitioner simultaneously launching missiles from three separate planes and concurrently directing them as needed. It is not uncomment for some of the missiles to go astray, but with so many in flight this rarely makes a difference to fate of the caster's enemies.
 endmsg
 end
