@@ -1,3 +1,8 @@
+Replace topaz image with an animated version.
+Touched every topaz file in the process of adding an animation and changing the face.
+jewel/gems/topaz.*
+Daniel Hawkins 2023-08-06
+
 Rework descriptions of most spells and prayers. This is a large change that
 has no mechanical effect, but touches the majority of spell archetypes. The
 objectives of this change were:
