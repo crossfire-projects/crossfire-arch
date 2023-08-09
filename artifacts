@@ -1649,6 +1649,21 @@ msg
 endmsg
 end
 #
+# Apron-specific artifacts.
+#
+#
+# An enchanted butcher's apron.
+Allowed lapron
+chance 12
+Object the Butcher
+type 16
+resist_physical 10
+Str 1
+value 35
+item_power 6
+weight 150
+end
+#
 # Rings
 #
 # Ring of Thieves
