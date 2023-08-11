@@ -2,53 +2,88 @@
 treasure mimic
 	list chest
 more
-	list random_alchemy
-		chance 5
-more
 	list random_armour
-		chance 10
+		chance 40
 more
 	list random_artifact
-		chance 3
+		chance 20
 more
 	list random_books
-		chance 5
+		chance 40
 more
 	list random_wealth
 		nrof 10
 		chance 95
+	no
+		list random_gem
+	end
 more
 	list random_food
-		chance 1
-more
-	list random_inorganic
-		nrof 2
-		chance 5
+		chance 10
 more
 	list random_knowledge
-		chance 1
+		chance 10
 more
 	list random_magical
-		chance 3
+		chance 30
 more
 	list random_ore
-		chance 5
+		chance 15
+	no
+		list random_minerals
+			chance 20
+		no
+			list random_alchemy
+				chance 30
+			no
+				list random_inorganic
+					nrof 2
+					chance 50
+			end
+		end
+	end
 more
 	list random_potion
-		chance 3
+		chance 25
 more
 	list random_scroll
 		chance 55
 more
 	list random_special
-		chance 5
+		chance 10
+	no
+		list special_uncommon
+			chance 30
+	end
 more
 	list random_spells
-		chance 5
+		chance 20
 more
 	list random_talisman
-		chance 5
+		chance 15
 more
 	list rare_weapons
-		chance 4
+		chance 6
+	no
+		list uncommon_weapons
+			chance 12
+		no
+			list random_weapon
+				chance 75
+		end
+	end
+more
+	list uncommon_items
+		chance 8
+	no
+		arch staff
+			chance 20
+		no
+			arch wand
+				chance 50
+		end
+	end
+more
+	list containers
+		chance 60
 end
