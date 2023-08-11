@@ -1,6 +1,6 @@
 Object random_converter
 name random converter
-face randomWeal.111
+face randomConverter.111
 type 4
 hp 1
 randomitems random_converter
