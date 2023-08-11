@@ -1,0 +1,35 @@
+##
+treasureone random_converter
+	arch silver_converter
+		chance 20
+more
+	arch gold_converter2
+		chance 15
+more
+	arch gold_converter
+		chance 17
+more
+	arch platinum_converter
+		chance 10
+more
+	arch platinum_converter2
+		chance 3
+more
+	arch jade_converter
+		chance 3
+more
+	arch jade_converter2
+		chance 3
+more
+	arch amberium_converter
+		chance 3
+more
+	arch diamond_converter
+		chance 1
+more
+	arch pearl_converter
+		chance 1
+more
+	arch ruby_converter
+		chance 1
+end
