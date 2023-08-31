@@ -1,3 +1,5 @@
+# Obsolete. Continues to exist only for legacy items.
+
 Object amulet_lifesave
 name amulet of lifesaving
 name_pl amulets of lifesaving

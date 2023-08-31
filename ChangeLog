@@ -1,3 +1,17 @@
+Move amulet of lifesaving into an artifact definition.
+This prevents creation of amulet of livesaving of Empowerment
+and other such silliness that really shouldn't be done.
+The differences that seem irreconcilable at this time are:
+- value 20000->20400
+- now detects as magic when it did not before
+- obscured as a normal amulet until identification
+- "(lifesaving)" descriptor text is obscured due to being an artifact
+This is a precursor to possibly doing the same to the strange ring.
+talisman/amulet_lif.arc
+artifacts
+treasures.trs
+Daniel Hawkins 2023-08-31
+
 New arch: random_converter.
 Meant to be used with the addition of pop-up banks in random maps, but may have other uses
 as well. Leans toward gold/silver tables, with a small chance of higher denominations.

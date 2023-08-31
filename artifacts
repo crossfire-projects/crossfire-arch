@@ -3214,6 +3214,18 @@ slaying /python/items/finding.py
 end
 end
 #
+# Amulet of lifesaving -- specifically spawned in spots in treasurelists.
+Allowed all
+chance 0
+Object lifesaving
+face amulet_lif.111
+type 39
+weight 120
+value 34
+lifesave 1
+item_power 3
+end
+#
 # Containers (the following is hack to get a quiver for bolts also)
 # It would be better that it would be possible to define object
 # NONE also, and not use the fixed probability.

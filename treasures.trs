@@ -1178,7 +1178,8 @@ more
 	arch helmet_of_xrays
 		chance 5
 more
-	arch amulet_lifesave
+	arch amulet
+		artifact lifesaving
 		chance 5
 more
 	arch elvenboots
