@@ -4275,6 +4275,17 @@ skill thaumaturgy
 cauldron thaumaturg_desk
 ingred talisman of evocation,3 figurine of a clenched hand,3 balm of return home
 #
+# Noticed that none of these were talismans of summoning. Now there is one :)
+Object Creation
+arch talisman_summoning
+chance 3
+diff 26
+exp 35000
+yield 1
+skill thaumaturgy
+cauldron thaumaturg_desk
+ingred talisman of summoning,3 figurine of a clenched hand,3 balm of return home
+#
 # -------------------
 # Holy Symbols
 # -------------------
