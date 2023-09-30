@@ -1,3 +1,9 @@
+New floor tile: checkered-black_gray
+floor/checkered-blk_gry.arc
+floor/checkered-blk_gry.base.111.png
+floor/checkered-blk_gry.face
+Rick Tanner 2023-09-30
+
 Move amulet of lifesaving into an artifact definition.
 This prevents creation of amulet of livesaving of Empowerment
 and other such silliness that really shouldn't be done.
