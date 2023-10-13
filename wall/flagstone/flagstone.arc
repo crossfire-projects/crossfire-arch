@@ -110,6 +110,13 @@ blocksview 1
 no_pick 1
 move_block all
 end
+Object flagstone_win0
+name wall
+face flagstone_win0.111
+blocksview 1
+no_pick 1
+move_block all
+end
 Object flagstone_win1
 name wall
 face flagstone_win1.111

@@ -1,3 +1,9 @@
+New wall segment: flagstone_win0
+Flagstone wall now has a vertical wall segment with a window
+wall/flagstone/flagstone_win0.base.111.png
+wall/flagstone/flagstone.arc
+Rick Tanner 2023-10-13
+
 New floor tile: checkered-black_gray
 floor/checkered-blk_gry.arc
 floor/checkered-blk_gry.base.111.png
