@@ -1,6 +1,3 @@
-Object checkered
 face checkered-blk_gry.111
-no_pick 1
-is_floor 1
-move_block boat swim
+magicmap grey
 end
