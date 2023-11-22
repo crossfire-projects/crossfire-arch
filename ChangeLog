@@ -1,3 +1,13 @@
+Reduce prevalence of permament stat potions.
+In treasureone random_potion, each chance
+is reduced from 5 to 3. This should result in
+permanent stat potions being rarer.
+As a side effect, this should also punish
+overly minmaxed builds by forcing them to grind longer
+to shore up weaknesses.
+treasures.trs
+Daniel Hawkins 2023-11-22
+
 Image license file for checkered-black_gray floor tile
 Released under cc-by-3.0 license
 floor/checkered-black_gray.base.LICENSE

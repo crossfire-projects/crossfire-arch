@@ -620,25 +620,25 @@ treasureone random_potion
 #		chance 30
 #more
 	arch potionstr
-		chance 5
+		chance 3
 more
 	arch potionint
-		chance 5
+		chance 3
 more
 	arch potioncha
-		chance 5
+		chance 3
 more
 	arch potionwis
-		chance 5
+		chance 3
 more
 	arch potioncon
-		chance 5
+		chance 3
 more
 	arch potiondex
-		chance 5
+		chance 3
 more
 	arch potionpow
-		chance 5
+		chance 3
 more
 	list shop_potions
 		magic 2
