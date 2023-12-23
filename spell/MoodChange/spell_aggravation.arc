@@ -21,4 +21,6 @@ monster 1
 msg
 With a well-placed taunt, aggravation can drive most creatures into a rage, compelling them to attack you instead of an ally or no one at all.
 endmsg
+# Because this has the monster flag set, it gets tossed in bestiaries.
+exclude_from_readable 1
 end
