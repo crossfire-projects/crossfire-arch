@@ -18,4 +18,6 @@ monster 1
 msg
 Creates a small bundle of magical energy that hunts down and strikes a nearby enemy, damaging and slowing them.
 endmsg
+# Because this has the monster flag set, it gets tossed in bestiaries.
+exclude_from_readable 1
 end

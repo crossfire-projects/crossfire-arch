@@ -20,4 +20,6 @@ monster 1
 msg
 A handy trick when stealth is called for, by rapidly reducing the air temperature and increasing the humidity a summoner can call forth a thick but harmless fog bank that lingers in the area and obscures vision.
 endmsg
+# Because this has the monster flag set, it gets tossed in bestiaries.
+exclude_from_readable 1
 end
