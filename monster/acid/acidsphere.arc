@@ -41,4 +41,10 @@ one_hit 1
 # It's literally a blob of acid.
 # Charming it would require it to have intellect
 no_mood_change 1
+lore
+The bane of hasty adventurers everywhere, acid spheres wobble slowly and corrode gear quickly.
+Immensely fragile, they break from a single hit, but not without spraying acid on their assailant.
+Elemental attacks have little effect on them.
+Arrows, bolts, and bullets make short work of this dungeon menace. Bring your bracers, just in case.
+endlore
 end
