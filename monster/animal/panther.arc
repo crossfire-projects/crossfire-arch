@@ -20,4 +20,9 @@ level 5
 weight 60000
 run_away 15
 attack_movement 3
+lore
+These melanistic large cats are adept at ambushing and outmaneuvering their prey.
+Usually solitary hunters, it is rare to see large cats hunting in groups. If you disturb their home, though, they will defend it to the end. Together.
+And no, do not pet the panther unless you plan on losing a hand.
+endlore
 end

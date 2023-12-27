@@ -20,4 +20,9 @@ ac 7
 level 1
 weight 20
 resist_physical 30
+lore
+Bats are nocturnal flying mammals native to most regions of the world, best known for locating prey using ultrasonic screams in a tactic called echolocation.
+Contrary to popular lore, most bats are docile, feeding on insects or fruit.
+These bats, however, are very mad at you. Did you disrupt their xan supply perhaps?
+endlore
 end
