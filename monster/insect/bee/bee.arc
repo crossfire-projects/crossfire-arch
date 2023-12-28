@@ -17,5 +17,9 @@ ac 4
 level 1
 weight 20
 resist_physical 30
-
+lore
+Bees are an important pollinator in local ecosystems. Largely docile, bees collect nectar for the hive, spreading pollen between plants in the process.
+Their stinger is ripped out of their body when they sting something, so they don't generally sting unless it is absolutely necessary.
+For them to pursue someone in a swarm, they'd have to have usually agitated the hive. Though there's been some anecdotes from adventurers about bees swarming them before they find a hive, there's not much stock to these fanciful claims.
+endlore
 end

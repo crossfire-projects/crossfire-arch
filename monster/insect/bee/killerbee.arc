@@ -21,4 +21,9 @@ maxhp 35
 Con 1
 run_away 75
 level 4
+lore
+Killer bees are a cross between honeybees found near Scorn and a similar species found only in Khelens, first orchestrated by Navarian wizard and biologist Rea Inioda in the colony years of Navar. The exact date has been lost to time, but undated notes of their work involving killer bees were recovered years ago and are now stored in Navar University.
+Killer bees are far more aggressive than regular bees, and well-known for chasing victims for over a thousand feet from their nest. They reproduce quickly, often pushing other bee populations out of areas they inhabit. We still don't forgive you for unleashing this menace, Rea.
+Conversely, they are great pollinators, albeit angry ones.
+endlore
 end
