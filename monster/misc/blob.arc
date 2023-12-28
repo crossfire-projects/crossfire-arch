@@ -28,4 +28,8 @@ run_away 100
 pick_up 64
 attacktype 1
 no_mood_change 1
+lore
+Originally the creation of some long-forgotten wizard, blobs roam dungeons picking up whatever they move atop. Speedy and cowardly, they often snatch up items from under adventurers' noses and scurry off with them.
+Many scholars theorize blobs were created to help transport goods of some sort, though the specifics of what and why vary widely. Whatever the case, they are not affected by charm spells, so it is unclear how blobs were put to use in the service of wizards in the first place.
+endlore
 end
