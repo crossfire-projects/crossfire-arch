@@ -19,4 +19,10 @@ level 7
 speed -0.35
 exp 1200
 weight 50000
+lore
+Lava para-elementals are a hybrid elemental; part earth, part fire.
+Like other elementals, it is unclear why they hold such hostility toward adventurers, but they seem to attack adventurers and researchers on sight. As such, knowledge of their formation is limited.
+Julio, the researcher who lived in Darcap from 6795 EK to 6813 EK, did not determine the process of the creation of hybrid elementals, and no one has yet extended his work to do so.
+If facing a lava para-elemental, cooling it down will destroy the bindings that hold the elemental together, causing it to unravel.
+endlore
 end

@@ -19,4 +19,9 @@ level 7
 resist_confusion 100
 attacktype 1
 resist_cold -100
+lore
+One of the four "pure" para-elementals, water para-elementals are the basic manifestation of the water element.
+Julio's work details the creation of water elementals of many varieties, rigorously delineating para-elementals from other elementals and carefully noting the different processes to create each.
+When facing a water para-elemental, cooling it down causes it's elemental bindings to rupture, dissipating it.
+endlore
 end
