@@ -5,7 +5,7 @@ face para_lava.111
 randomitems para_elemental
 animation para_lava
 monster 1
-move_type walk fly_low
+move_type walk
 alive 1
 resist_fire 100
 attacktype 4
