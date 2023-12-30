@@ -33,6 +33,9 @@ can_use_skill 1
 body_skill 1
 will_apply 12
 body_arm 2
+lore
+Gaelotrolls are the rarest of the various types of troll, the largest, and also the most dangerous.
+They are usually not found among the raiding parties of the smaller trolls, and as such their existence was overlooked for many years. It is said that gaelotrolls sparked Arvil Powlear's interest in trolls, and ultimately extinguished it when he got too close to one in 3425 EK. Whatever notes he was working on at that time were destroyed by the gaelotroll's acid, along with his body.
 end
 More
 Object gaelotroll_2

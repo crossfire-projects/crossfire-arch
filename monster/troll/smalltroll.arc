@@ -34,4 +34,8 @@ can_use_skill 1
 body_finger 2
 body_skill 1
 body_arm 2
+lore
+Small trolls seem to be a different variety of troll than the larger ones. In 3416 EK, troll researcher Arvil Powlear determined, though years careful observation of troll social structures, that the small troll is a separate type of troll from their larger cousins. He also found that trolls were surprisingly egalitarian within their social circles.
+Small trolls will often serve as backup when large trolls go raiding, helping screen combatants and agress archers and casters that would otherwise be out of reach for the large trolls.
+endlore
 end

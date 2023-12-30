@@ -34,6 +34,10 @@ can_use_skill 1
 body_finger 2
 body_skill 1
 body_arm 2
+lore
+Armored trolls often serve as shock troops in troll raiding parties, keeping opposed melee fighters occupied while other the trolls do their thing.
+Interstingly, most troll armor appears to serve no functional purpose. Troll researcher Arvil Powlear posited that it may be a form of insignia for a given troll raiding party.
+endlore
 end
 
 Object armour_troll3
@@ -71,6 +75,10 @@ can_use_skill 1
 body_finger 2
 body_skill 1
 body_arm 2
+lore
+Armored trolls often serve as shock troops in troll raiding parties, keeping opposed melee fighters occupied while other the trolls do their thing.
+Interstingly, most troll armor appears to serve no functional purpose. Troll researcher Arvil Powlear posited that it may be a form of insignia for a given troll raiding party.
+endlore
 end
 
 Object armour_troll4
@@ -108,4 +116,9 @@ can_use_skill 1
 body_finger 2
 body_skill 1
 body_arm 2
+lore
+Armored trolls often serve as shock troops in troll raiding parties, keeping opposed melee fighters occupied while other the trolls do their thing.
+Interstingly, most troll armor appears to serve no functional purpose. Troll researcher Arvil Powlear posited that it may be a form of insignia for a given troll raiding party.
+The shield they carry is almost exclusively decorative, painted with crude pigments and symbols. It is common they break early in combat. It is unclear what purpose this serves to the trolls.
+endlore
 end

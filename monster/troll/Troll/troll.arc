@@ -31,6 +31,11 @@ can_use_skill 1
 body_skill 1
 will_apply 12
 body_arm 2
+lore
+Best known for ambushing travelers crossing bridges, trolls pose a threat for any inexperienced adventurer.
+Healthy and fast-healing, they are eager to pummel their resistance with both boulders and their handy club, knowing they can outlast most advesaries in close combat. They fear little other than fire.
+The hide of a troll makes fantastic leather, and is usually in demand among tanners and leatherworkers. The resultant leather is frequently made into armors and other adventuring gear, as its durability is sought by the very people who put it through the most action.
+endlore
 end
 More
 Object troll_2
