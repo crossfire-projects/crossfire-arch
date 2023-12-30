@@ -37,4 +37,8 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+Stronger than orcs, goblins primarily organize and fill raiding parties, the primary source of resources for goblin society.
+In combat, goblins usually wade into battle, relying on their numbers to wear down adversaries. Often overaggressive, goblins are prone to not fleeing until after it's too late for them to successfully do so.
+endlore
 end

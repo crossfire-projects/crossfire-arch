@@ -36,4 +36,8 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+Porcine in appearance, orcs are the toolsmiths and weaponsmiths in goblin society. Most commonly, they work in bronze and wood, distributing their works to their fellow goblinoids.
+Unfazed by danger alone, orcs are quick to rush into battle, and only flee when it is evident they've lost the fight. Many seek to emulate Zormola, a legendary orcish warrior woman, in their fighting.
+endlore
 end

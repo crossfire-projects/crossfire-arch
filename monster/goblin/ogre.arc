@@ -44,4 +44,10 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+For all their hulking, brutish appearance, ogres are surprisingly clever, thought to be almost as intelligent as gnolls.
+Despite this, they tend to communicate directly, and prefer the simplicity of raiding and miscellaneous menial tasks.
+Formidable warriors, ogres boast unrivaled strength and endurance in goblin raiding parties. Unlike most other goblinoids, ogres recover quickly from wounds and bounce back from nearly injury.
+Priests of Lythander have long noted that their holy word does not seem to affect ogres. Priests of Mostrai have not encountered the same trouble. Rea Inioda posited that they may be a type of giant, bridging the gap between goblin societies and giant ones.
+endlore
 end
