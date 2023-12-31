@@ -26,4 +26,8 @@ weight 45000
 run_away 30
 can_use_skill 1
 body_skill 1
+lore
+Gnoll chiefs spearhead a governance council comprised of gnoll champions. The chief is the one who decides what issues are addresed and when, has latitude in determining the outcome of petty disputes, and has first dibs on the spoils of raids.
+Rea Inioda's notes detail a time when a gnoll chief was ousted for abuse of power; the champions of the council agreed to remove the chief from their station, and the transition to a new chief was entirely bloodless. The former chief was stripped of all status and barred from returning to the council. The former chief, largely blocked from standard gnoll duties, reliably went on goblin raids, and ended up dying in a raid on some travelers within the month. Inioda noted that, for reasons unclear, the former chief did not return to structural integrity determinations, the standard task of the average gnoll.
+endlore
 end

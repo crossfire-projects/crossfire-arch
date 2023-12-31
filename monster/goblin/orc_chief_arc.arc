@@ -38,4 +38,8 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+Interstingly, orc chiefs hold no authority outside of combat in goblinoid society. The combination of a lack of normal orcish duties plus their leadership within raiding parties caused Rea Inioda to incorrectly conclude they held some sort of power in goblinoid society. This observation was later refuted by Wattya Derun in 3423 EK in her own lengthy study of goblinoid behaviors. Inioda's naming convention, however, stuck around.
+Seen as fully emulating Zormola's legend, orc chiefs will often be the first to engage in battle from a goblinoid raiding party.
+endlore
 end

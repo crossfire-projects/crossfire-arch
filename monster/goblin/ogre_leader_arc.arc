@@ -44,4 +44,8 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+Ogre champions are dedicated warriors in goblinoid society. Whereas regular ogres are typically afforded leeway in what raids they participate in, ogre champions are often assigned to raids by the gnoll council on a priority basis. Rea Inioda's researchs details how the success rate of raids with distinguished ogres are significantly higher than those without, and it appears the gnoll council understands this.
+Socially, ogre champions are provided higher quality gear than even the average ogre, but otherwise appear to obtain no additional benefits. Rea Inioda's work observed how ogre champions were treated exactly the same as other ogres in goblinoid society, save for the better gear.
+endlore
 end

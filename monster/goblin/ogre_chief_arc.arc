@@ -45,4 +45,8 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+Rea Inioda's work coined the moniker "chief" for these brutes, the pinnacle of physical might in goblinoid society. In their notes, they state that every other goblinoid aside from kobolds seemed to have three levels of might and prestige, and recycled the same terminology they used for the others to descibe those statuses, despite how unfitting it is.
+Ogre chiefs are provided with only the best gear goblinoid society has to offer, placed on the most important raids by the gnoll council, and often appraising the quality of any weaponry acquired from raids or otherwise crafted by orcish smiths.
+endlore
 end

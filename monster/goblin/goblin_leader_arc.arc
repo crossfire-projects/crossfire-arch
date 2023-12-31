@@ -37,4 +37,9 @@ body_hand 2
 body_waist 1
 body_arm 2
 body_range 1
+lore
+Having outlasted most of their peers in numerous raids, goblin champions are formidable, tactical warriors.
+Goblin champions often decide where and when to raid travelers, relying on their tactical prowess built up from a steady supply of combat.
+Despite extensive study by Rea Inioda and later Wattya Derun, it is unclear what processes cause goblin champions to be a lighter shade of green than their fellow goblins.
+endlore
 end
