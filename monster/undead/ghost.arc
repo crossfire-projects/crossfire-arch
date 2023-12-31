@@ -27,4 +27,9 @@ resist_blind 30
 undead 1
 can_see_in_dark 1
 one_hit 1
+lore
+Tormented spirits borne of a violent death, ghosts usually linger near the place their body perished.
+Left to their own devices, ghosts usually seek out a strong enough living spirit to touch -- that contact with life is usually enough to break a spirit free of their endless agony, but not without significant harm to the individual they touched.
+Places of mass death, such as battlefields, are the easiest place to find ghosts, but they are incredibly common from activities as simple as goblin raids as well.
+endlore
 end

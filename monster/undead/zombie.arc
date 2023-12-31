@@ -23,4 +23,10 @@ attacktype 1
 resist_cold 50
 resist_fear 100
 can_see_in_dark 1
+lore
+The basic component of any undead army, zombies are mindless animations of partially-rotted corpses.
+Many are raised by ambitious necromancers, but there are also numerous recorded instances where no known necromancer was behind their animation.
+Contrary to popular belief, a zombie's bite does not turn it's victim into a zombie, it just hurts.
+Holy magics of most dieties make short work of such simple undead.
+endlore
 end
