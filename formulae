@@ -327,12 +327,22 @@ ingred 5 iron ore
 # lead bar
 Object NONE
 arch leadbar
-chance 8
+chance 4
 diff 3
 exp 500
 skill smithery
 cauldron forge
 ingred 5 lead ore
+#
+# lead bar (from alchemical lead)
+# Not quite weight-constant to avoid exp loops with the file
+Object NONE
+chance 4
+diff 2
+exp 250
+skill smithery
+cauldron forge
+ingred 3 lead
 #
 # platinum bar
 Object NONE
@@ -4601,6 +4611,14 @@ Object NONE
 arch zinc_filings
 yield 1000
 ingred zinc bar
+chance 0
+combination 1
+tool file
+#
+Object NONE
+arch lead
+yield 2
+ingred lead bar
 chance 0
 combination 1
 tool file
