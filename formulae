@@ -337,6 +337,7 @@ ingred 5 lead ore
 # lead bar (from alchemical lead)
 # Not quite weight-constant to avoid exp loops with the file
 Object NONE
+arch leadbar
 chance 4
 diff 2
 exp 250
