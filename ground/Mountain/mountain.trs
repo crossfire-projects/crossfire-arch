@@ -1,4 +1,44 @@
 ##
+## On average, a mountain tile will have 3.61 mines in it.
+## Some will have none. Many will have one or two.
+## Very, very few will have 11.
+## And, unlike before, a given mining tile will give a mishmash of stuff instead of the same thing repeatedly.
+## Part of this is due to the inability of rubble containers to stack in multiples, since opening one empties the inventory of all.
+## So we have individual entries here as a workaround.
+## This should solve the exceedingly exploitable infinite gold nugget abuse I figured out earlier
+## -- Neila H. (2024-02-06)
+##
 treasure mountain
 	arch mountain_rubble
+		chance 95
+more
+	arch mountain_rubble
+		chance 80
+more
+	arch mountain_rubble
+		chance 65
+more
+	arch mountain_rubble
+		chance 50
+more
+	arch mountain_rubble
+		chance 30
+more
+	arch mountain_rubble
+		chance 20
+more
+	arch mountain_rubble
+		chance 10
+more
+	arch mountain_rubble
+		chance 5
+more
+	arch mountain_rubble
+		chance 3
+more
+	arch mountain_rubble
+		chance 2
+more
+	arch mountain_rubble
+		chance 1
 end
