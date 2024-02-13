@@ -12,7 +12,7 @@ is_floor 1
 smoothlevel 20
 client_anim_sync 1
 anim_speed 5
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea1
 name sea
@@ -28,7 +28,7 @@ is_floor 1
 smoothlevel 20
 client_anim_sync 1
 anim_speed 5
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_route
 name sea route 1
@@ -62,7 +62,7 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 20
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_ne
 name sea
@@ -72,7 +72,7 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 20
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_sw
 name sea
@@ -82,7 +82,7 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 20
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_se
 name sea
@@ -92,7 +92,7 @@ no_pick 1
 move_block all
 is_water 1
 smoothlevel 20
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_nes
 name sea
@@ -102,7 +102,7 @@ no_pick 1
 is_water 1
 smoothlevel 255
 smoothface sea_7.111 empty_S.111
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_new
 name sea
@@ -112,7 +112,7 @@ no_pick 1
 is_water 1
 smoothlevel 255
 smoothface sea_B.111 empty_S.111
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_nse
 name sea
@@ -122,7 +122,7 @@ no_pick 1
 is_water 1
 smoothlevel 255
 smoothface sea_D.111 empty_S.111
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_sew
 name sea
@@ -132,7 +132,7 @@ no_pick 1
 is_water 1
 smoothlevel 255
 smoothface sea_E.111 empty_S.111
-randomitems sea_fish
+harvestitems sea_fish
 end
 Object sea_nsew
 name sea
@@ -142,5 +142,5 @@ no_pick 1
 is_water 1
 smoothlevel 255
 smoothface sea_E.111 empty_S.111
-randomitems sea_fish
+harvestitems sea_fish
 end

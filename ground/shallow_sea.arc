@@ -13,5 +13,5 @@ no_pick 1
 is_water 1
 is_floor 1
 move_block all
-randomitems sea_fish
+harvestitems sea_fish
 end
