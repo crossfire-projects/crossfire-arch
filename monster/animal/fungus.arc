@@ -5,6 +5,7 @@ race slime
 face fungus.111
 speed -0.08
 generator 1
+generator_limit 2
 sp 129
 maxsp 20
 no_pick 1
