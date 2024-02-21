@@ -4518,6 +4518,66 @@ skill woodsman
 cauldron stove
 ingred steak,pile of salt
 #
+Object NONE
+arch stew_meat
+diff 0
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred cooking pot,water,roast bird,2 carrots,onion,cabbage
+#
+Object NONE
+arch stew_meat
+diff 0
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred cooking pot,water,10 orc chop,3 carrots,onion,cabbage
+#
+Object NONE
+arch stew_meat
+diff 0
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred cooking pot,water,food ration,carrots,onion,potatoes
+#
+Object NONE
+arch stew_mushroom
+diff 0
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred cooking pot,water,7 mushroom,potatoes,onion,cabbage
+#
+Object NONE
+arch stew_fish
+diff 0
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred cooking pot,water,3 fish,3 carrots,onion,potatoes
+#
+Object NONE
+arch stew_veg
+diff 0
+exp 100
+chance 0
+yield 1
+skill woodsman
+cauldron stove
+ingred cooking pot,water,4 carrots,2 onion,3 potatoes,2 cabbage
+#
 # Poisoned food:
 # Uses Zinc filings
 # (Zinc is very toxic when ingested)
