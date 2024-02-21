@@ -62,4 +62,16 @@ more
 more
 	arch waybread
 		chance 4
+more
+	arch stew_meat
+		chance 1
+more
+	arch stew_fish
+		chance 1
+more
+	arch stew_veg
+		chance 1
+more
+	arch stew_mushroom
+		chance 1
 end
