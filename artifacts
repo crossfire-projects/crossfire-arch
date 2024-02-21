@@ -4036,3 +4036,41 @@ Con 1
 resist_drain 30
 resist_deplete 30
 end
+#
+# Stews
+# Got their own set of buffs, with some overlap from mushrooms.
+#
+Allowed stew_meat, stew_mushroom, stew_fish, stew_veg
+chance 5
+Object Heat Resistance
+type 6
+value 30
+resist_fire 30
+other_arch protection_fire_effect
+end
+#
+Allowed stew_meat, stew_mushroom, stew_fish, stew_veg
+chance 5
+Object Frost Resistance
+type 6
+value 30
+resist_cold 30
+other_arch protection_cold_effect
+end
+#
+Allowed stew_meat, stew_mushroom, stew_fish, stew_veg
+chance 5
+Object Shock Resistance
+type 6
+value 30
+resist_electricity 30
+other_arch protection_electricity_effect
+end
+# Lotsa carrots :)
+Allowed stew_veg
+chance 5
+Object Dark Vision
+type 6
+value 60
+can_see_in_dark 1
+end
