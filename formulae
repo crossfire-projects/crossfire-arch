@@ -565,6 +565,20 @@ skill smithery
 cauldron forge
 ingred bomb shell,3 pile of black powder
 #
+# Cooking pot
+# Metal ingredients are supposed to approximate molybdochalkos.
+# Unfortunately it's normally 9:1 lead:copper, so I'm taking some liberty with
+# the alloy. Making it 2:1 because yielding 3 at a time seems viable.
+Object NONE
+arch cookpot
+chance 30
+diff 3
+exp 400
+yield 3
+skill smithery
+cauldron forge
+ingred 2 lead bar,copper bar,2 leather strip
+#
 # ----------------
 # Silvered weapons
 # ----------------
