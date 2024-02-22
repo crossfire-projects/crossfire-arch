@@ -67,4 +67,12 @@ more
 	arch amethyst
 		chance 1
 		nrof 3
+more
+	arch topaz
+		chance 3
+		nrof 5
+more
+	arch topaz
+		chance 1
+		nrof 3
 end
