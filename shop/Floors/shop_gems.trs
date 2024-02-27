@@ -75,4 +75,12 @@ more
 	arch topaz
 		chance 1
 		nrof 3
+more
+	arch bloodstone
+		chance 2
+		nrof 4
+more
+	arch bloodstone
+		chance 2
+		nrof 6
 end
