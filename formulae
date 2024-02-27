@@ -3952,9 +3952,19 @@ skill jeweler
 cauldron jeweler_bench
 ingred ring,3 potion of dexterity,potion of speed,3 emerald of exceptional beauty
 #
+Object Fighting
+arch ring
+chance 3
+diff 10
+exp 10000
+yield 1
+skill jeweler
+cauldron jeweler_bench
+ingred ring,6 bloodstone,ogre's heart,water of ruby
+#
 Object Combat
 arch ring
-chance 5
+chance 2
 diff 20
 exp 50000
 yield 1
@@ -3962,15 +3972,39 @@ skill jeweler
 cauldron jeweler_bench
 ingred ring of Fighting,potion of constitution,3 sapphire of exceptional beauty
 #
-Object Strife
+# Alternate version
+# Does not use stat potions
+Object Combat
 arch ring
 chance 3
+diff 20
+exp 50000
+yield 1
+skill jeweler
+cauldron jeweler_bench
+ingred ring of Fighting,3 sapphire of exceptional beauty,5 bloodstone,troll's heart
+#
+Object Strife
+arch ring
+chance 1
 diff 25
 exp 75000
 yield 1
 skill jeweler
 cauldron jeweler_bench
 ingred ring of Combat,potion of dexterity,potion of constitution,potion of strength,3 ruby of flawless beauty
+#
+# Alternate version
+# Does not use stat potions.
+Object Strife
+arch ring
+chance 2
+diff 25
+exp 75000
+yield 1
+skill jeweler
+cauldron jeweler_bench
+ingred ring of Combat,3 ruby of flawless beauty,5 bloodstone,3 potion of heroism,gravestone
 #
 Object Ice
 arch ring
