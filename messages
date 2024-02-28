@@ -84,6 +84,7 @@ TITLE Map of western world
 CHANCE 1
 FACE map.111
 TEXT
+[fixed]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~
