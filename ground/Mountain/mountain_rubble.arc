@@ -3,7 +3,7 @@ face rubble1.111
 harvest_race mountain_rubble
 harvest_tool pickaxe
 harvestable -1
-harvest_level 1
+harvest_level -5
 harvest_exp 0
 nrof 0
 type 4
