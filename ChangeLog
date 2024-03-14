@@ -6,7 +6,7 @@ As a side effect, this should also punish
 overly minmaxed builds by forcing them to grind longer
 to shore up weaknesses.
 treasures.trs
-Daniel Hawkins 2023-11-22
+Neila Hawkins 2023-11-22
 
 Image license file for checkered-black_gray floor tile
 Released under cc-by-3.0 license
@@ -37,7 +37,7 @@ This is a precursor to possibly doing the same to the strange ring.
 talisman/amulet_lif.arc
 artifacts
 treasures.trs
-Daniel Hawkins 2023-08-31
+Neila Hawkins 2023-08-31
 
 New arch: random_converter.
 Meant to be used with the addition of pop-up banks in random maps, but may have other uses
@@ -45,16 +45,16 @@ as well. Leans toward gold/silver tables, with a small chance of higher denomina
 random/randomConverter.arc
 random/randomConverter.base.111.png
 random/randomConverter.trs
-Daniel Hawkins 2023-08-11
+Neila Hawkins 2023-08-11
 
 New artifact armor: apron of the Butcher
 artifacts
-Daniel Hawkins 2023-08-09
+Neila Hawkins 2023-08-09
 
 Replace topaz image with an animated version.
 Touched every topaz file in the process of adding an animation and changing the face.
 jewel/gems/topaz.*
-Daniel Hawkins 2023-08-06
+Neila Hawkins 2023-08-06
 
 Rework descriptions of most spells and prayers. This is a large change that
 has no mechanical effect, but touches the majority of spell archetypes. The
@@ -80,7 +80,7 @@ monster/acid/greenslime.arc
 monster/acid/slime.arc
 monster/misc/blob.arc
 monster/misc/firechest.arc
-Daniel Hawkins 2023-05-01
+Neila Hawkins 2023-05-01
 
 Add one_hit to magic missile.
 For server version a763845fa3 or later, this will prevent magic missiles from
@@ -103,11 +103,11 @@ flesh/demon/demonhorn.base.LICENSE
 flesh/demon/demonhorn.arc
 flesh/demon/demonhorn.face
 monster/demon/demon_parts.trs
-Daniel Hawkins 2023-04-06
+Neila Hawkins 2023-04-06
 
 New message to describe writing spell scrolls.
 messages
-Daniel Hawkins 2023-03-17
+Neila Hawkins 2023-03-17
 
 New cutlery items.
 Meant to be part of the valuables that are less than gems but better than coins,
@@ -128,7 +128,7 @@ misc/cutlery/utensils.arc
 misc/cutlery/utensils.base.LICENSE
 misc/cutlery/utensils.base.111.png
 misc/cutlery/utensils.face
-Daniel Hawkins 2023-03-10
+Neila Hawkins 2023-03-10
 
 New item: hand mirror
 Fills a weapon slot, but can reflect spells.
@@ -140,7 +140,7 @@ misc/social/handmirror.base.113.png
 misc/social/handmirror.base.114.png
 misc/social/handmirror.arc
 misc/social/handmirror.face
-Daniel Hawkins 2023-03-09
+Neila Hawkins 2023-03-09
 
 New art for dragon's wings.
 Added a recolored version of the old art to the classic face set.
@@ -148,7 +148,7 @@ flesh/dragon/big_dragon_dragon_wing.base.111.png
 flesh/dragon/big_dragon_dragon_wing.base.LICENSE
 flesh/dragon/big_dragon_dragon_wing.clsc.111.png
 flesh/dragon/big_dragon_dragon_wing.face
-Daniel Hawkins 2023-02-12
+Neila Hawkins 2023-02-12
 
 New art for steaks.
 Additional arch for a cooked version of the steak.
@@ -158,7 +158,7 @@ food/drag_steak.clsc.111.png
 food/drag_steak_cooked.base.111.png
 food/drag_steak.arc
 formulae
-Daniel Hawkins 2022-11-22
+Neila Hawkins 2022-11-22
 
 Add plural name to bolt of silk.
 Multiple stacks of silk will now appear as bolts of silk.
@@ -169,7 +169,7 @@ Rebalance the amulet of Shielding.
 Now it provides ac+1 and armour+20, but costs two item power to wear.
 Prior stats were armour+20 and one item power, making it worse than many nonartifact amulets of armour.
 artifacts
-Daniel Hawkins 2022-07-04
+Neila Hawkins 2022-07-04
 
 Use a Gervais flaming sword image to replace the Firebrand in the classic face set.
 Need to take the time to animate the flame, but it is a start.
@@ -177,7 +177,7 @@ weapon/artifact/firebrand.clsc.111.png
 weapon/artifact/firebrand.clsc.112.png
 weapon/artifact/firebrand.clsc.113.png
 weapon/artifact/firebrand.clsc.LICENSE
-Daniel Hawkins 2022-06-15
+Neila Hawkins 2022-06-15
 
 Prevent gods from appearing in readables
 Nicolas Weeger 2022-05-21
@@ -200,7 +200,7 @@ grace 3 -> 4 (since the grace increase goes by doubling, this causes a >1 increa
 dam 4 -> 3
 dam_modifier 3 -> 4 (This causes the damage to increase less quickly)
 spell/MovingBall/spell_divine_shock.arc
-Daniel Hawkins 2021-11-14
+Neila Hawkins 2021-11-14
 
 Move current 'dragoncave.base' face to clsc set, create new faces and animation for base,
 make new face for 'broken_dragoncave.base', move old one to clsc set
@@ -219,13 +219,13 @@ armour/mail/random_mail.trs
 armour/mail/dress1.arc
 armour/mail/dress2.arc
 armour/mail/dress3.arc
-Daniel Hawkins 2021-10-31
+Neila Hawkins 2021-10-31
 
 Two new artifacts for bows/crossbows: Lethargy and Rapid Fire
 Lethargy fires very slowly and is cursed.
 Rapid Fire fires a little faster, and seems to be more noticeable on crossbows.
 artifacts
-Daniel Hawkins 2021-10-03
+Neila Hawkins 2021-10-03
 
 Replace existing fiend image in the classic face set with a Gervais tile.
 Existing tile was derived from Greater Demon or Medium Demon, both
@@ -235,37 +235,37 @@ for the same reason.
 monster/demon/fiend.clsc.111.png
 monster/demon/fiend.clsc.112.png
 monster/demon/fiend.clsc.LICENSE
-Daniel Hawkins 2021-09-19
+Neila Hawkins 2021-09-19
 
 Redraw the tridents to have some depth.
 The darker color I gave them earlier made them hard to see on some floors.
 Giving them a black outline and some lighting effects should resolve this.
 weapon/misc/trident.base.*.png
-Daniel Hawkins 2021-09-05
+Neila Hawkins 2021-09-05
 
 Added some Modified David Gervais tiles to be vials in the classic face set.
 potion/vial_*.clsc.111.png
-Daniel Hawkins 2021-09-03
+Neila Hawkins 2021-09-03
 
 Redesigned small bulletwall images using Saiapatsu's
 earthwall graphics. Moved old images to the classic face set.
 wall/bulletwall/bul_wall_*.base.111.png
 wall/bulletwall/bul_wall_*.clsc.111.png
-Daniel Hawkins 2021-08-28
+Neila Hawkins 2021-08-28
 
 New flat-perspective art for coif for the classic face set.
 armour/helmet/coif.clsc.111.png
-Daniel Hawkins 2021-08-15
+Neila Hawkins 2021-08-15
 
 Twiddle with the pixels and lighting on small buttons
 Add untwiddled images to classic image set.
 connect/button_sma.*.png
-Daniel Hawkins 2021-08-15
+Neila Hawkins 2021-08-15
 
 Add lighting effects to orange image.
 Move old face to the classic faceset.
 food/produce/orange.*.111.png
-Daniel Hawkins 2021-08-15
+Neila Hawkins 2021-08-15
 
 New weapon -- punching daggers
 Similar to regular daggers, but use the punching skill instead of
@@ -276,7 +276,7 @@ weapon/sword/punch_dagger.face
 weapon/sword/punch_dagger.base.111.png
 treasures.trs
 artifacts
-Daniel Hawkins 2021-08-13
+Neila Hawkins 2021-08-13
 
 New arch for tear-downable (or, rather, force open) garden gate.
 A custom thing was used in Pupland maps like this,
@@ -284,12 +284,12 @@ but it appears the animations it relied on got changed
 at some point and made it break backward.
 connect/Garden_gate/ggate_breakable.face
 wall/swall/ggate_breakable.arc
-Daniel Hawkins 2021-08-12
+Neila Hawkins 2021-08-12
 
 New image for goblin's foot.
 flesh/goblin/goblin_foot.base.111.png
 flesh/goblin/goblin_foot.clsc.111.png
-Daniel Hawkins 2021-08-12
+Neila Hawkins 2021-08-12
 
 Make icecubes and torches be of new type -- lightable
 This tells the server to find a fire/heat sourceto light it
@@ -297,13 +297,13 @@ when you apply the item.
 misc/icecube.arc
 misc/smallicecube.arc
 light/torch.arc
-Daniel Hawkins 2021-08-11
+Neila Hawkins 2021-08-11
 
 New ring -- ring of Wizard's Bane
 Gives the wearer vulnerability to magic damage, as well as
 denies the wearer all spell paths.
 artifacts
-Daniel Hawkins 2021-07-26
+Neila Hawkins 2021-07-26
 
 New spell -- zone of healing (level 18 prayer)
 Utilizes new aura range-aware code to be larger than 1 space radius.
@@ -311,23 +311,23 @@ Can spawn as a prayerbook.
 spell/Aura/spell_zone_of_healing.arc
 spell/Aura/zone_of_healing.arc
 spell/SpellBook/prayer_book.trs
-Daniel Hawkins 2021-07-24
+Neila Hawkins 2021-07-24
 
 Define range directly in aura spells in preparation for having higher-radius
 auras possible in the spell code.
 spell/Aura/spell_sanctuary.arc
 spell/Aura/spell_flaming_aura.arc
-Daniel Hawkins 2021-07-24
+Neila Hawkins 2021-07-24
 
 Fix potential for quivers of Holding Arrows to generate and expect throwing items.
 artifacts
-Daniel Hawkins 2021-07-23
+Neila Hawkins 2021-07-23
 
 New face for cracked cauldrons.
 Adjusted cracked cauldrons to use this new face when identified.
 crafting/Container/cauldron.arc
 crafting/Container/cauldron.face
-Daniel Hawkins 2021-07-19
+Neila Hawkins 2021-07-19
 
 Add a variant of fire_permanent that flickers a bit better
 Created initially to be used on the random maps northeast of Navar
@@ -336,12 +336,12 @@ Uses the burnout face, but is animated differently than fire_permanent.
 Additionally, they glow a little, as a fire would.
 spell/fire_permanent.arc
 spell/fire_permanent.face
-Daniel Hawkins 2021-07-17
+Neila Hawkins 2021-07-17
 
 Add throwing hammer of Reflection -- a throwing hammer that reflects off walls like lightning bolts do
 Expects server revision v1.75.0-172 or newer, else will behave like a normal throwing hammer.
 artifacts
-Daniel Hawkins 2021-07-14
+Neila Hawkins 2021-07-14
 
 Apply patch #401 by Saiapatsu: new base graphics for bwall, earthwall and stoneblock graphics
 See https://sourceforge.net/p/crossfire/patches/401/ for details.
@@ -349,7 +349,7 @@ Nicolas Weeger 2021-07-10
 
 Adapt existing chest image to create a new firechest image.
 Moved old image to the classic face set.
-Daniel Hawkins 2021-06-20
+Neila Hawkins 2021-06-20
 
 Rename 'fine gloves' to 'gloves' because of alchemy use
 Rename 'gloves' to 'steel gloves' to avoid duplicate name
@@ -392,17 +392,17 @@ appearance for that face set.
 flesh/goblin/goblin_hand.base.111.png
 flesh/goblin/goblin_hand.clsc.111.png
 flesh/goblin/goblin_hand.face
-Daniel Hawkins 2021-05-06
+Neila Hawkins 2021-05-06
 
 Fix animation issue from a missing face in the classic faceset for big galleon.
 transport/biggalleon.clsc.x71.png
-Daniel Hawkins 2021-04-26
+Neila Hawkins 2021-04-26
 
 New art to override the default corpse art for zombies and goblin.
 Added copies of classic corpse image so that image set gets a consistent corpse.
 flesh/goblin/goblin_corpse.*
 flesh/misc/zombie_corpse.*
-Daniel Hawkins 2021-04-24
+Neila Hawkins 2021-04-24
 
 Rename and move the treasurelist for human bodyparts.
 Patch https://sourceforge.net/p/crossfire/patches/393/
@@ -433,7 +433,7 @@ This should be easier to use as a base for making different corpse images for go
 Moved old image to classic image set.
 flesh/human/corpse.base.111.png
 flesh/human/corpse.clsc.111.png
-Daniel Hawkins 2021-04-22
+Neila Hawkins 2021-04-22
 
 Erase previously defined recipes.
 This solves duplicated recipes index warnings when 'make install' is done on the server
@@ -448,22 +448,22 @@ Nicolas Weeger 2021-03-21
 Add bludgeoning weapons of "the Brute", which do more damage at the expense
 of a sizable amount of AC. Do more damage, take more damage.
 artifacts
-Daniel Hawkins 2021-03-18
+Neila Hawkins 2021-03-18
 
 Amend book message to use the prepare weapon scroll's face,
 per Nicholas Weeger's suggestion.
 messages
-Daniel Hawkins 2021-03-12
+Neila Hawkins 2021-03-12
 
 Add new book message that describes using a Prepare Weapon scroll
 as an anecdote of an onlooker.
 messages
-Daniel Hawkins 2021-03-11
+Neila Hawkins 2021-03-11
 
 Utilize new level-scaling attributes for the mimic type.
 This should rebalance mimics to be an appropriate challenge for the random map level they are on.
 monster/mimic/mimic.arc
-Daniel Hawkins 2021-03-11
+Neila Hawkins 2021-03-11
 
 New art for deposit box in the cavalier perspective.
 Shifted old art to classic face set.
@@ -475,7 +475,7 @@ Saiapatsu (art) and SilverNexus (classic faceset move, optimizing pngs) 2021-03-
 
 Make puddles more transparent.
 ground/Weather/rain*.base.111.png
-Daniel Hawkins 2021-03-03
+Neila Hawkins 2021-03-03
 
 Decrease probability of blue dragon scale for electric dragons.
 monster/dragon/Electric/elec_dr.trs
@@ -483,18 +483,18 @@ Nicolas Weeger 2021-03-03
 
 Fix some incorrect arches in the formula list
 formulae
-Daniel Hawkins 2021-03-01
+Neila Hawkins 2021-03-01
 
 Adjust the spawn rate for literacy and use magic item scrolls.
 literacy chance 15 -> 8, use magic item chance 1 -> 8.
 Since barbarians no longer get UMI out-of-the-box, there
 needs to be a reasonable chance to get it.
 treasures.trs
-Daniel Hawkins 2021-02-25
+Neila Hawkins 2021-02-25
 
 Adjust the value on spell rings to not be insanely expensive.
 spell/Wand/spell_ring.arc
-Daniel Hawkins 2021-02-25
+Neila Hawkins 2021-02-25
 
 Add faces for arrows and bolts of Assassinating Dragons.
 artifacts
@@ -528,7 +528,7 @@ Give greater dwarven guards enough wc to actually hit things
 wc 20 -> 2 (this is improvement, since negative wc is better)
 dam 12-> 22
 monster/humanoid/Dwarf/greater_dwarven_guard.arc
-Daniel Hawkins 2021-02-23
+Neila Hawkins 2021-02-23
 
 Give a value to dice.
 misc/dice.arc
@@ -543,19 +543,19 @@ Reduce light angel's wc to -8 from -10.
 Reduce messengers to 70k XP from 80k XP.
 monster/angel/liteangel.arc
 monster/angel/mesangel.arc
-Daniel Hawkins 2021-02-21
+Neila Hawkins 2021-02-21
 
 New art for kobold generator that puts it in perspective.
 monster/goblin/kobold_gen.base.111.png
-Daniel Hawkins 2021-02-20
+Neila Hawkins 2021-02-20
 
 Give kobold generator flavorful name: "kobold hole"
 monster/goblin/kobold_gen.arc
-Daniel Hawkins 2021-02-20
+Neila Hawkins 2021-02-20
 
 Reduce goblin generator XP from 100 to 50.
 monster/goblin/goblin_gen.arc
-Daniel Hawkins 2021-02-20
+Neila Hawkins 2021-02-20
 
 Fix allowed item for horn of Mysteries.
 artifacts
@@ -567,16 +567,16 @@ Nicolas Weeger 2021-02-17
 
 Add recipes for making long swords, broadswords, and a two-handed sword.
 formulae
-Daniel Hawkins 2021-02-16
+Neila Hawkins 2021-02-16
 
 Introduce some crossover in treasure between random_inorganic and random_ore
 treasures.trs
-Daniel Hawkins 2021-02-16
+Neila Hawkins 2021-02-16
 
 Add recipes for crafting minor, medium, major, and supreme potions of life.
 Previous supreme recipe is now major.
 formulae
-Daniel Hawkins 2021-02-16
+Neila Hawkins 2021-02-16
 
 Apply patch #388 Remove default sage NPC message
 by DraugTheWhopper.
@@ -617,29 +617,29 @@ Add placeholder faces to the classic faceset for wraith feeding
 skill. This prevents jarring style changes when using the wraith
 with the classic face set.
 player/race/wraith_player_feeding.clsc.*
-Daniel Hawkins 2021-02-08
+Neila Hawkins 2021-02-08
 
 Restyle black fire bullet face to look like new fire bullet face.
 Moved old faces to the classic image set.
 misc/blackfirebullet.base.1*1.png
 misc/blackfirebullet.clsc.1*1.png
-Daniel Hawkins 2021-02-07
+Neila Hawkins 2021-02-07
 
 New image for firebullet. Moved old image to classic image set.
 spell/Bullet/Fire/firebullet.base.1*1.png
 spell/Bullet/Fire/firebullet.clsc.1*1.png
-Daniel Hawkins 2021-02-06
+Neila Hawkins 2021-02-06
 
 Add name for stonefloor2 so that it shows in in-game as "stone floor"
 floor/stfloor.arc
-Daniel Hawkins 2021-02-05
+Neila Hawkins 2021-02-05
 
 Add zinc filings and a couple recipes to craft poison food.
 crafting/Materials/zinc_filings.arc
 crafting/Materials/zinc_filings.base.111.png
 crafting/Materials/zinc_filings.face
 formulae
-Daniel Hawkins 2021-02-04
+Neila Hawkins 2021-02-04
 
 Add images to the classic faceset for the broken generators.
 This avoids jarring style changes when the classic and base
@@ -654,7 +654,7 @@ monster/undead/broken_sarcophagus.clsc.111.png
 misc/broken_gravestone.clsc.111.png
 monster/beholder/broken_behold_gen.clsc.111.png
 monster/insect/bee/broken_bee_gen.clsc.111.png
-Daniel Hawkins 2021-02-02
+Neila Hawkins 2021-02-02
 
 Fix spell effect name.
 spell/Change_Ability/protection_cold_effect.arc
@@ -770,7 +770,7 @@ Nicolas Weeger 2021-01-28
 
 Adjust quarterstaff after realizing I made a 9 kg weapon keep up with 20 kg weapons.
 weapon/club/quarters.arc
-Daniel Hawkins 2021-01-26
+Neila Hawkins 2021-01-26
 
 Rebalance two-handed weapons.
 Many of the weapons were worse than a broadsword.
@@ -784,14 +784,14 @@ weapon/club/quarters.arc
 weapon/club/big_club.arc
 weapon/chained/sflail1.arc
 weapon/chained/lmornstar.arc
-Daniel Hawkins 2021-01-23
+Neila Hawkins 2021-01-23
 
 Add rings that contain spells.
 Functionally like low-power rods, but groups with rings client-side.
 spell/Wand/spell_ring.arc
 spell/Wand/spell_ring.trs
 treasures.trs
-Daniel Hawkins 2021-01-21
+Neila Hawkins 2021-01-21
 
 Add archetypes for building instructions, found in enough shops to warrant it.
 readable/guide/buildings_instructions.arc
@@ -808,12 +808,12 @@ armour/helmet/coif.base.111.png
 armour/helmet/coif.arc
 armour/helmet/coif.face
 treasures.trs
-Daniel Hawkins 2021-01-17
+Neila Hawkins 2021-01-17
 
 Add barn-like food store.
 Intended to be used for Wolfsburg Provisions.
 shop/store_food_barn.*
-Daniel Hawkins 2021-01-16
+Neila Hawkins 2021-01-16
 
 Add "tissue paper" archetype, to replace ones in Raffle.
 misc/item/tissue*
@@ -834,7 +834,7 @@ Nicolas Weeger 2021-01-14
 Enable sheepskin crafting for leather.
 Handles both fresh sheepskin and sheepskin rugs.
 formulae
-Daniel Hawkins 2021-01-12
+Neila Hawkins 2021-01-12
 
 Add food shop archetype.
 shop/store_food.arc
@@ -903,7 +903,7 @@ Clean up tinted ores (green, yellow, red) to no longer use an alpha channel.
 jewel/ores/ore_g.base.111.png
 jewel/ores/ore_r.base.111.png
 jewel/ores/ore_y.base.111.png
-Daniel Hawkins 2020-12-08
+Neila Hawkins 2020-12-08
 
 Remove damage_physical from flame touch.
 skills/flame_touch.arc
@@ -911,7 +911,7 @@ Nicolas Weeger 2020-12-08
 
 Add name for deep sea, so it does not show up in-game with an underscore.
 ground/deep_sea.arc
-Daniel Hawkins 2020-12-04
+Neila Hawkins 2020-12-04
 
 Change face for counterwall, add animation.
 spells/MagicWall/counterwall.arc
@@ -929,11 +929,11 @@ Nicolas Weeger 2020-12-02
 
 Add horn of Mysteries as a horn artifact. It casts wonder.
 artifacts
-Daniel Hawkins 2020-12-02
+Neila Hawkins 2020-12-02
 
 Fiddle with the big tomato image so that it doesn't have the insufficient-transparency outline.
 food/produce/tomato_big.base.111.png
-Daniel Hawkins 2020-12-02
+Neila Hawkins 2020-12-02
 
 Add smoothing to firebolt so diagonals actually merge seamlessly.
 Nicolas Weeger 2020-12-01
@@ -941,17 +941,17 @@ Nicolas Weeger 2020-12-01
 Make the light bulb invisible lighting arches have no_pick
 so that spells can't push them around.
 light/light_bulb.arc
-Daniel Hawkins 2020-11-21
+Neila Hawkins 2020-11-21
 
 Add guide to Ranged Combat so that the Ranger class can start with a guide.
 readable/guide/guide_ranged.arc
 player/class/Warrior/ranger.trs
-Daniel Hawkins 2020-11-13
+Neila Hawkins 2020-11-13
 
 New image for composite bow. Move the old image to the classic tileset.
 weapon/bow/compositebow.base.111.png
 weapon/bow/compositebow.clsc.111.png
-Daniel Hawkins 2020-11-12
+Neila Hawkins 2020-11-12
 
 Add new player class -- ranger
 This is intended to allow better early-game focus on missile weapons.
@@ -960,11 +960,11 @@ the elf ranger image.
 player/class/Warrior/ranger.*
 player/class/Warrior/ranger_class.face
 player/race/elf_player_class_ranger.*
-Daniel Hawkins 2020-11-10
+Neila Hawkins 2020-11-10
 
 Add subtype 2 to guide to Close Combat
 readable/guide/guide_melee.arc
-Daniel Hawkins 2020-10-28
+Neila Hawkins 2020-10-28
 
 Add descriptions to all skill objects.
 This annotates each skill with flavour text and information about what the
@@ -987,11 +987,11 @@ crafting/Tools/slicingknife.arc
 crafting/Tools/slicingknife.base.111.png
 crafting/Tools/slicingknife.face
 crafting/Container/*
-Daniel Hawkins 2020-10-12
+Neila Hawkins 2020-10-12
 
 Fix weirdness involving repeated races on dwarves.
 races
-Daniel Hawkins 2020-10-12
+Neila Hawkins 2020-10-12
 
 Make aggravation a castable spell, and give it level-scaling
 The code to prevent charm monsters abuse
@@ -1002,18 +1002,18 @@ Add the aggravation spell to the random spell list for sorcery.
 spell/MoodChange/spell_aggravation.arc
 spell/SpellBook/sorcerer_book.trs
 artifacts
-Daniel Hawkins 2020-10-10
+Neila Hawkins 2020-10-10
 
 Add the file as a random drop.
 treasures.trs
-Daniel Hawkins 2020-10-09
+Neila Hawkins 2020-10-09
 
 Add formulae for crafting weapons of Silvered Edge
 from the newly-added silver filings.
 Also added scythe to the list of valid weapons to silver.
 formulae
 artifacts
-Daniel Hawkins 2020-10-09
+Neila Hawkins 2020-10-09
 
 Add silver filings as the first item creatable from
 the nee file crafting tool.
@@ -1021,7 +1021,7 @@ formulae
 crafting/Materials/silver_filings.arc
 crafting/Materials/silver_filings.base.111.png
 crafting/Materials/silver_filings.face
-Daniel Hawkins 2020-10-09
+Neila Hawkins 2020-10-09
 
 Add crafting tool "file".
 Can be used to powderize metal bars (well, that's the plan anyway).
@@ -1029,20 +1029,20 @@ crafting/Tools/file.arc
 crafting/Tools/file.base.111.png
 crafting/Tools/file.face
 crafting/README
-Daniel Hawkins 2020-10-09
+Neila Hawkins 2020-10-09
 
 Add artifact entry for silvered weapons.
 Ensure it is restricted to stabbing and slicing weapons, since bludgeoning with
 silver doesn't seem like it would make much difference.
 artifacts
-Daniel Hawkins 2020-10-09
+Neila Hawkins 2020-10-09
 
 Make the trident imagery less bright, using the W3C green rather than XPM green.
 This put the green hue at half the previous brightness.
 Move the bright green trident to the classic image set.
 weapon/misc/trident.base.*.png
 weapon/misc/trident.clsc.*.png
-Daniel Hawkins 2020-09-14
+Neila Hawkins 2020-09-14
 
 Update all class descriptions with crunch headers.
 This adds headers to all class descriptions, similar to the race headers,
@@ -1106,7 +1106,7 @@ Faerie dragons are both faeries and dragons.
 Balrogs are demons and Balrogs, so ring of Mithrandir fully works.
 monster/dragon/fae_drag.arc
 monster/demon/Balrog.arc
-Daniel Hawkins 2020-09-09
+Neila Hawkins 2020-09-09
 
 Repurpose existing unused mountain dwarf face as custom racial class face
 for dwarf barbarians. Requires r21357 to appear, otherwise does nothing,
@@ -1119,7 +1119,7 @@ player/race/dwarf_player_class_barbarian.base.152.png
 player/race/dwarf_player_class_barbarian.base.171.png
 player/race/dwarf_player_class_barbarian.base.172.png
 player/race/dwarf_player_class_barbarian.face
-Daniel Hawkins 2020-09-08
+Neila Hawkins 2020-09-08
 
 New items -- armor of lead
 This is intented to be craftable with smithery for moderate acid resistance.
@@ -1135,19 +1135,19 @@ armour/helmet/lead_fullhelmet.arc
 armour/helmet/lead_fullhelmet.base.111.png
 armour/helmet/lead_fullhelmet.face
 formulae
-Daniel Hawkins 2020-09-07
+Neila Hawkins 2020-09-07
 
 Prevent xp shenanigans with dip command by making empty containers be identified.
 Did all of them, rather than just empty water bottles, for consistency and future-proofing.
 potion/emptybottles.arc
-Daniel Hawkins 2020-09-07
+Neila Hawkins 2020-09-07
 
 New spell -- Searing Weapon
 Appears in spellbooks only at this point.
 spell/Spellbook/pyro_book.trs
 spell/Change_Ability/spell_searing_weapon.arc
 spell/Change_Ability/spell_searing_weapon.base.111.png
-Daniel Hawkins 2020-09-03
+Neila Hawkins 2020-09-03
 
 New face for demon gate -- it actually looks like a gate now.
 And it is animated.
@@ -1170,7 +1170,7 @@ monster/demon/devil_gen.clsc.115.png
 monster/demon/devil_gen.clsc.116.png
 monster/demon/devil_gen.clsc.117.png
 monster/demon/devil_gen.clsc.118.png
-Daniel Hawkins 2020-09-02
+Neila Hawkins 2020-09-02
 
 Clean up pixelation on the flagstone wall sections
 Redesign of flagstone_0.base.111.png
@@ -1205,11 +1205,11 @@ Add a new rune -- rune of sparking. It's spark shower in a rune.
 spell/Rune/rune_sparking.arc
 spell/Rune/rune_sparking.face
 spell/Rune/rune_spark.base.111.png
-Daniel Hawkins 2020-08-14
+Neila Hawkins 2020-08-14
 
 Add a new artifact: (weapon) of Souls. Requires server and maps (python scripts) updates to function.
 artifacts
-Daniel Hawkins 2020-08-07
+Neila Hawkins 2020-08-07
 
 Remove duplicate attributes.
 skills/Skill_Tools/mining_pick.arc
@@ -1271,7 +1271,7 @@ Rick Tanner 2020-01-13
 
 Add kite shield to random treasure
 treasures.trs
-Daniel Hawkins 2019-11-30
+Neila Hawkins 2019-11-30
 
 Add new shield type -- kite shield.
 These were generally intended for use on horseback, but saw significant use among foot
@@ -1281,12 +1281,12 @@ armour/shield/kite_shield.base.111.png
 armour/shield/kite_shield.arc
 armour/shield/kite_shield.face
 treasures.trs
-Daniel Hawkins 2019-11-30
+Neila Hawkins 2019-11-30
 
 Add updated cloak graphics for white and black cloaks to be styled more like the regular cloak.
 armour/cloak/cloak_white.base.111.png
 armour/cloak/cloak_black.base.111.png
-Daniel Hawkins 2019-08-11
+Neila Hawkins 2019-08-11
 
 Modify fishing pole graphic to clean up pixelation.
 skills/Skill_Tools/fishing_pole.base.111.png
@@ -1314,7 +1314,7 @@ Rick Tanner 2019-04-21
 Make level for dragon ability gain stored a the data-level by using "magic" in th treasurelist.
 Requires subsequent server update to actually use those values.
 player/dragon_ability/dragon_abilities.trs
-Daniel Hawkins 2018-10-24
+Neila Hawkins 2018-10-24
 
 Added a new monster -- mimic
 monster/mimic/chest_1_mimic.base.111.png
@@ -1322,7 +1322,7 @@ monster/mimic/chest_1_mimic.base.112.png
 monster/mimic/mimic.arc
 monster/mimic/mimic.face
 monster/mimic/mimic.trs
-Daniel Hawkins 2018-09-24
+Neila Hawkins 2018-09-24
 
 Updated races for several monsters so they can be hit by quirky effects like "slay ant"
 Also gave death attacktype to stake so it can actually kill vampires.
@@ -1342,7 +1342,7 @@ monster/insect/ant/spit_ant.arc
 monster/insect/ant/war_ant.arc
 monster/insect/ant/work_ant.arc
 weapons/misc/stake.arc
-Daniel Hawkins 2018-05-23
+Neila Hawkins 2018-05-23
 
 New graphical face for the archon (monster/chaos/archon) monster, as the original graphic is of questionable
 origin.
@@ -1354,7 +1354,7 @@ Rick Tanner 2018-04-30
 
 Fix r13937, which changed coffee to poison_food type when it meant to change to drink.
 food/coffee.arc
-Daniel Hawkins 2018-01-27
+Neila Hawkins 2018-01-27
 
 Make beholder leaders look slightly dfferent from regular beholders and give them a second forward face.
 monster/beholder/beholder_leader_arc.face
@@ -1362,7 +1362,7 @@ monster/beholder/beholder_leader.face
 monster/beholder/beholder_leader.base.111.png
 monster/beholder/beholder_leader.base.112.png
 monster/beholder/beholder_leader.clsc.112.png
-Daniel Hawkins 2018-01-15
+Neila Hawkins 2018-01-15
 
 Merge in updated spell message information (only) from branches/Spell_shuffle
 Rick Tanner 2017-09-30
@@ -1370,7 +1370,7 @@ Rick Tanner 2017-09-30
 Added name to ant_egg and ant_larvae arches so they show up in-game as "ant egg" and "ant larva", respectively.
 monster/insect/ant/ant_larvae.arc
 monster/insect/ant/ant_egg.arc
-Daniel Hawkins 2017-09-04
+Neila Hawkins 2017-09-04
 
 Added lore text to the scroll of literacy skill scroll
 skills/Skill_Scrolls/scroll_literacy.arc
@@ -1384,12 +1384,12 @@ wall/firewall/firewall.arc
 wall/lbulletwall/lbull_wall.arc
 wall/lightnngwall/light_wall.arc
 wall/snowstorm_x.arc
-Daniel Hawkins 2017-08-05
+Neila Hawkins 2017-08-05
 
 Modify ring.110 images to look like other rings. Move old ring image to classic image set.
 talisman/ring.base.110.png
 talisman/ring.clsc.110.png
-Daniel Hawkins 2017-07-29
+Neila Hawkins 2017-07-29
 
 Update Frost Shield to take up a body slot when applied
 armour/shield/frostshield.arc
@@ -1475,19 +1475,19 @@ New face for bird_generator.
 Moved old image to the classic imageset.
 monster/animal/bird_gen.base.111.png
 monster/animal/bird_gen.clsc.111.png
-Daniel Hawkins 2015-05-22
+Neila Hawkins 2015-05-22
 
 Adjust the leather strip image to look like a skilled artisan cut the strip
 instead of a sugar-buzzed kindergartener. In other words, I straightened the edges
 of the leather strip.
 misc/leather_strips.base.111.png
-Daniel Hawkins 2016-05-18
+Neila Hawkins 2016-05-18
 
 Give the tile floors an in-game name that lacks underscores.
 floor/tile.arc
 floor/tile_tan.arc
 floor/tile_white.arc
-Daniel Hawkins 2016-05-18
+Neila Hawkins 2016-05-18
 
 Give the dcross and fcross floors a name.
 Unfortunately, I couldn't come up with anything better then "floor"
@@ -1495,14 +1495,14 @@ floor/dcross-red.arc
 floor/dcross-white.arc
 floor/fcross-blue.arc
 floor/fcross-white.arc
-Daniel Hawkins 2016-05-17
+Neila Hawkins 2016-05-17
 
 Nerf the experience rewarded by reading a book.
 Since the exp could be gained twice per book (identify/read),
 each book was essentially worth upwards of 1000 exp.
 Each book is now worth a little under 600 in the same situation.
 skills/literacy.arc
-Daniel Hawkins 2016-05-17
+Neila Hawkins 2016-05-17
 
 New weapon: dragonclaw dagger.
 Its better than normal daggers, but still not as nice at low level
@@ -1510,7 +1510,7 @@ as a good iron broadsword.
 weapon/sword/dragonclaw_dagger.arc
 weapon/sword/dragonclaw_dagger.base.111.png
 weapon/sword/dragonclaw_dagger.face
-Daniel Hawkins 2016-05-11
+Neila Hawkins 2016-05-11
 
 Removed duplicate other_arch setting to Cure Disease spell.
 spell/Healing/spell_cure_disease.arc
@@ -1524,17 +1524,17 @@ Rick Tanner 2015-03-30
 Pixel cleanup on a_helmet.
 Removed unused palette colors when done.
 armour/helmet/a_helmet.base.111.png
-Daniel Hawkins 2015-12-13
+Neila Hawkins 2015-12-13
 
 Removed what appeared to be a leftover mid-word line break hyphen
 in the Guide to Close Combat.
 readable/guide/guide_melee.arc
-Daniel Hawkins 2015-12-01
+Neila Hawkins 2015-12-01
 
 Fixed half-orc player to start with full food bar rather
 than empty one.
 player/race/pl_half_orc.arc
-Daniel Hawkins 2015-11-30
+Neila Hawkins 2015-11-30
 
 New ground type, acid (based on lava archetype but color
 has changed and attacktype changed from fire to acid.)
@@ -1553,31 +1553,31 @@ Rick Tanner 2015-05-31
 Added "wall" as the names for the mine walls.
 wall/mine/mine1.arc
 wall/mine/mine.arc
-Daniel Hawkins 2015-05-25
+Neila Hawkins 2015-05-25
 
 Added "wall" as the names for the dungeon walls.
 wall/dun/dun.arc
 wall/dun/dungeon.arc
-Daniel Hawkins 2015-05-23
+Neila Hawkins 2015-05-23
 
 Changes to plural names for multi-tile tables to improve consistency between
 singular and plural versions of object names.
 indoor/table_1x2.arc
 indoor/table_2x1.arc
 indoor/table_2x2.arc
-Daniel Hawkins (SilverNexus) 2015-05-22
+Neila Hawkins (SilverNexus) 2015-05-22
 
 Naming change to plural name for tentacle's hook to indicate the hooks
 came from multiple tentacles, not just a single tentacle.
 "tentacle's" became "tentacles'"
 monster/misc/tentacle/tentaclehook.arc
-Daniel Hawkins (SilverNexus) 2015-05-22
+Neila Hawkins (SilverNexus) 2015-05-22
 
 Naming and hyphenation changes to Imperial Bank Notes
 readable/imperial.arc
 readable/imperial10.arc
 readable/imperial100.arc
-Daniel Hawkins (SilverNexus) 2015-05-22
+Neila Hawkins (SilverNexus) 2015-05-22
 
 New graphic and archetype for a Scorn style bank.
 shop/bank_scorn.base.x11.png
