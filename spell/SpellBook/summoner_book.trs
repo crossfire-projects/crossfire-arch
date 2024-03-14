@@ -65,6 +65,9 @@ treasureone summoner_book_high
 more
 	arch spell_pentagram
 		chance 1
+more
+	arch spell_earthquake
+		chance 1
 end
 
 ##
