@@ -3,7 +3,6 @@ name child
 race human
 randomitems child
 face child.151
-animation child
 monster 1
 move_type walk
 unaggressive 1

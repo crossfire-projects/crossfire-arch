@@ -1,35 +1,3 @@
-animation child
-facings 8
-child.111
-child.121
-child.131
-child.141
-child.151
-child.161
-child.171
-child.181
-mina
-face child.111
-magicmap yellow
-end
-face child.121
-magicmap yellow
-end
-face child.131
-magicmap yellow
-end
-face child.141
-magicmap yellow
-end
 face child.151
-magicmap yellow
-end
-face child.161
-magicmap yellow
-end
-face child.171
-magicmap yellow
-end
-face child.181
 magicmap yellow
 end
