@@ -1,3 +1,17 @@
+New spell: earthquake
+Flavored as summoning earthwalls below ground to cause tremors and fissures.
+This gives a less clunky way of dealing damage to summoning
+once you reach high enough level.
+Also added it to treasurelists to spawn in codexes randomly.
+spell/Aura/earthquake.arc
+spell/Aura/earthquake.base.11*.png
+spell/Aura/earthquake.base.LICENSE
+spell/Aura/earthquake.face
+spell/Aura/spell_earthquake.arc
+spell/Aura/spell_earthquake.base.111.png
+spell/SpellBook/summoner_book.trs
+Neila Hawkins 2024-03-14
+
 Reduce prevalence of permament stat potions.
 In treasureone random_potion, each chance
 is reduced from 5 to 3. This should result in
