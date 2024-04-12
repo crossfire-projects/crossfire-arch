@@ -1,3 +1,9 @@
+Add treasurelist humanoidpockets_medium and call it from rich_old.
+This causes angels, demons, and other mid-tier and higher monsters
+to drop potions of medium healing, among other things.
+treasures.trs
+Neila Hawkins 2024-04-12
+
 New spell: earthquake
 Flavored as summoning earthwalls below ground to cause tremors and fissures.
 This gives a less clunky way of dealing damage to summoning

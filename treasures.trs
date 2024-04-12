@@ -1907,6 +1907,9 @@ more
 more
 	arch cloak
 		chance 10
+more
+	list humanoidpockets_medium
+		chance 70
 end
 
 ##
@@ -2225,3 +2228,23 @@ treasure humanoidpockets_low
 		chance 3
 	end
 #
+treasure humanoidpockets_medium
+	list random_wealth
+		chance 5
+	more
+	list random_gem
+		chance 1
+	more
+	list random_read
+		chance 8
+	more
+	list random_inorganic
+		chance 7
+	more
+	arch potion_generic
+		artifact medium healing
+		chance 4
+	more
+	list random_knowledge
+		chance 4
+end
