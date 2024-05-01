@@ -1,40 +1,40 @@
 # attackmess -- messages to describe attacks and their effects
 # arrows
 TYPE:0
-3=hit
+3=graze
 3=
 3= grazes
-6=hit
+6=prick
 6=
 6= pricks
-11=hit
+11=pierce
 11=
 11= pierces
-17=hit
+17=puncture
 17=
 17= punctures
-29=hit
+29=deeply puncture
 29=
 29= deeply punctures
-45=hit
+45=stab
 45=
 45= stabs
-65=hit
+65=deeply stab
 65=
 65= deeply stabs
-90=hit
+90=penetrate
 90=
 90= penetrates
-130=hit
+130=perforate
 130=
 130= perforates
-160=hit
+160=drill into
 160=
 160= drills into
-200=hit
+200=drive deeply into
 200=
 200= drives deeply into
-9999=hit
+9999=go straight through
 9999=
 9999= goes straight through
 #drain
