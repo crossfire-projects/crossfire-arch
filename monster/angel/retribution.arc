@@ -12,7 +12,7 @@ ac -2
 wc -30
 dam 50
 speed 0.3
-attacktype 1048577
+attacktype 1
 Con 10
 Pow 32
 maxsp 60

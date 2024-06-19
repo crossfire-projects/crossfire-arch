@@ -42,7 +42,7 @@ can_use_armour 1
 can_use_weapon 1
 can_use_ring 1
 attack_movement 4
-attacktype 1048577
+attacktype 1
 body_skill 1
 body_torso 1
 body_head 1
