@@ -1,3 +1,4 @@
+#It allows mage (magic) spells but forbids cleric (prayer) spells.
 Object unholy_ground
 name unholy ground
 face unholy_ground.111

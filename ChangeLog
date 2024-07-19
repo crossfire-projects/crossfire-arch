@@ -1,3 +1,10 @@
+Add summary comments to clarify how no_magic, no_spells, and unholy_ground
+floor tiles function.
+floor/no_magic.arc
+floor/no_spells.arc
+floor/unholy_ground.arc
+Rick Tanner 2024-07-19
+
 Add treasurelist humanoidpockets_medium and call it from rich_old.
 This causes angels, demons, and other mid-tier and higher monsters
 to drop potions of medium healing, among other things.

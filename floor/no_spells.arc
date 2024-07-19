@@ -1,5 +1,5 @@
 #for backward compatibility, this arch is named "dungeon magic"
-#It forbids both magic and cleric spells.
+#It forbids both mage (magic) spells and cleric (prayer) spells.
 Object dungeon_magic
 name no_spells
 face no_spells.111

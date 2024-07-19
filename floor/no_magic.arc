@@ -1,3 +1,4 @@
+#It forbids mage (magic) spells but allows cleric (prayer) spells.
 Object magic_banned
 name no_magic
 face no_magic.111
