@@ -513,7 +513,7 @@ TITLE Stats depletion
 CHANCE 1
 FACE potion_heal2.111
 TEXT
-If, unfortunately, you should lose stats after being defeated by an evil foo, drink a potion of life.
+If, unfortunately, you should lose stats after being defeated by an evil foe, drink a potion of life.
 It will restore everything you lost.
 
 Depending on your level, you must drink a minor, medium, major or supreme potion.
