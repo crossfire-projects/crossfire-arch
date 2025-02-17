@@ -1,5 +1,6 @@
 Object skill_missile_weapon
 name missile weapons
+face skill_missile_weap.111
 skill missile weapons
 type 43
 invisible 1

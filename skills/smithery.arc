@@ -1,5 +1,6 @@
 Object skill_smithery
 name smithery
+face skill_smithing.111
 skill smithery
 type 43
 invisible 1

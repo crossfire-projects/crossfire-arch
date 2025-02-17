@@ -1,5 +1,6 @@
 Object skill_jumping
 name jumping
+face skill_jumping.111
 skill jumping
 type 43
 invisible 1

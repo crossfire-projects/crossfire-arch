@@ -1,5 +1,6 @@
 Object skill_fishing
 name fishing
+face skill_fishing.111
 skill fishing
 slaying fish
 type 43

@@ -1,5 +1,6 @@
 Object skill_climbing
 name climbing
+face skill_climbing.111
 skill climbing
 type 43
 invisible 1

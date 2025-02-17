@@ -1,5 +1,6 @@
 Object skill_karate
 name karate
+face skill_karate.111
 anim_suffix karate
 skill karate
 type 43

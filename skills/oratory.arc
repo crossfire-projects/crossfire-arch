@@ -1,5 +1,6 @@
 Object skill_oratory
 name oratory
+face skill_oratory.111
 skill oratory
 type 43
 invisible 1

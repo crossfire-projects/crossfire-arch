@@ -1,5 +1,6 @@
 Object skill_flame_touch
 name flame touch
+face skill_flame_touch.111
 skill flame touch
 type 43
 invisible 1

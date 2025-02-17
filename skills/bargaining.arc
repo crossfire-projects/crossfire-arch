@@ -1,5 +1,6 @@
 Object skill_bargaining
 name bargaining
+face skill_bargaining.111
 skill bargaining
 type 43
 invisible 1

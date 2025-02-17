@@ -1,5 +1,6 @@
 Object skill_alchemy
 name alchemy
+face skill_alchemy.111
 skill alchemy
 type 43
 invisible 1

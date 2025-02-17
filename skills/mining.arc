@@ -1,5 +1,6 @@
 Object skill_mining
 name mining
+face skill_mining.111
 skill mining
 slaying mine
 type 43

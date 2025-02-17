@@ -1,5 +1,6 @@
 Object skill_bowyer
 name bowyer
+face skill_bowyer.111
 skill bowyer
 type 43
 invisible 1

@@ -1,5 +1,6 @@
 Object skill_use_magic_item
 name use magic item
+face skill_use_magic_item.111
 skill use magic item
 type 43
 invisible 1

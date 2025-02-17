@@ -1,5 +1,6 @@
 Object skill_sense_curse
 name sense curse
+face skill_sense_curse.111
 skill sense curse
 type 43
 invisible 1

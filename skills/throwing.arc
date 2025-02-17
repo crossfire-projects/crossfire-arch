@@ -1,5 +1,6 @@
 Object skill_throwing
 name throwing
+face skill_throwing.111
 skill throwing
 type 43
 invisible 1

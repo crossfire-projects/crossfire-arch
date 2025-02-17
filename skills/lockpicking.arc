@@ -1,5 +1,6 @@
 Object skill_lockpick
 name lockpicking
+face skill_lockpicking.111
 skill lockpicking
 type 43
 invisible 1

@@ -1,5 +1,6 @@
 Object skill_levitate
 name levitation
+face skill_levitation.111
 skill levitation
 type 43
 invisible 1

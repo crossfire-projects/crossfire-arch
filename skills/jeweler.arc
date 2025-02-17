@@ -1,5 +1,6 @@
 Object skill_jeweler
 name jeweler
+face skill_jeweler.111
 skill jeweler
 type 43
 invisible 1

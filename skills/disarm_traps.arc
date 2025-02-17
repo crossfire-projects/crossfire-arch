@@ -1,5 +1,6 @@
 Object skill_remove_trap
 name disarm traps
+face skill_disarm_traps.111
 skill disarm traps
 type 43
 invisible 1

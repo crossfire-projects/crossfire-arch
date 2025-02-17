@@ -1,5 +1,6 @@
 Object skill_stealing
 name stealing
+face skill_stealing.111
 skill stealing
 type 43
 invisible 1

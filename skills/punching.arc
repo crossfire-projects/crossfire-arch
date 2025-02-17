@@ -1,5 +1,6 @@
 Object skill_punching
 name punching
+face skill_punching.111
 anim_suffix punching
 skill punching
 type 43

@@ -1,5 +1,6 @@
 Object skill_find_traps
 name find traps
+face skill_find_traps.111
 skill find traps
 type 43
 invisible 1

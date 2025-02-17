@@ -1,5 +1,6 @@
 Object skill_thaumaturgy
 name thaumaturgy
+face skill_thaumaturgy.111
 skill thaumaturgy
 type 43
 invisible 1

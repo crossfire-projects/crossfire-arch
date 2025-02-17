@@ -1,5 +1,6 @@
 Object skill_singing
 name singing
+face skill_singing.111
 skill singing
 type 43
 invisible 1

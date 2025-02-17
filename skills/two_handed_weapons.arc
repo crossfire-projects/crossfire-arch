@@ -1,5 +1,6 @@
 Object skill_two_handed_weapon
 name two handed weapons
+face skill_two_handed_weapons.111
 skill two handed weapons
 type 43
 invisible 1

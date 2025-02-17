@@ -1,5 +1,6 @@
 Object skill_literacy
 name literacy
+face skill_literacy.111
 skill literacy
 type 43
 invisible 1

@@ -1,5 +1,6 @@
 Object skill_wraith_feed
 name wraith feed
+face skill_wraith_feed.111
 anim_suffix feeding
 skill wraith feed
 type 43

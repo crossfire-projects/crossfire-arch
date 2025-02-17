@@ -1,5 +1,6 @@
 Object skill_sense_magic
 name sense magic
+face skill_sense_magic.111
 skill sense magic
 type 43
 invisible 1

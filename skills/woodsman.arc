@@ -1,5 +1,6 @@
 Object skill_woodsman
 name woodsman
+face skill_woodsman.111
 skill woodsman
 type 43
 invisible 1

@@ -1,5 +1,6 @@
 Object skill_inscription
 name inscription
+face skill_inscription.111
 skill inscription
 type 43
 invisible 1

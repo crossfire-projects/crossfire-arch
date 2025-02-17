@@ -1,5 +1,6 @@
 Object skill_meditation
 name meditation
+face skill_meditation.111
 skill meditation
 type 43
 invisible 1

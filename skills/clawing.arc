@@ -1,5 +1,6 @@
 Object skill_clawing
 name clawing
+face skill_clawing.111
 skill clawing
 type 43
 invisible 1

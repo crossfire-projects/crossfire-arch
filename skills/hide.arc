@@ -1,5 +1,6 @@
 Object skill_hide
 name hiding
+face skill_hiding.111
 skill hiding
 type 43
 invisible 1
