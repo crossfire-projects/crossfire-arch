@@ -1,0 +1,23 @@
+name: Mirror SourceForge Repository
+
+# This schedule runs the workflow every hour; adjust the cron expression as needed.
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:  # Optional: allows manual triggering
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Clone the SourceForge repository as a mirror
+      - name: Clone SourceForge repo
+        run: |
+          git clone git://git.code.sf.net/p/crossfire/crossfire-arch crossfire-arch
+      # Step 2: Push the mirror to GitHub
+      - name: Push mirror to GitHub
+        working-directory: repo-mirror
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git push https://github.com/basictheprogram/crossfire-arch.git
