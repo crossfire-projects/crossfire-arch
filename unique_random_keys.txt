@@ -1,0 +1,7 @@
+"Object",
+"auto_apply",
+"face",
+"hp",
+"name",
+"randomitems",
+"type",
