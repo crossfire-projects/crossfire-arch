@@ -1,0 +1,7 @@
+"Object",
+"face",
+"harvestitems",
+"is_water",
+"move_block",
+"name",
+"no_pick",
