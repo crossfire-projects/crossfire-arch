@@ -21,4 +21,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          git push --mirror https://github.com/basictheprogram/crossfire-arch.git
+          git push --mirror https://x-access-token:${GH_TOKEN}@github.com/basictheprogram/crossfire-arch.git
+
