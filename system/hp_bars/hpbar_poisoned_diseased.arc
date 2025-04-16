@@ -1,90 +1,90 @@
 Object hpbar_poisoned_diseased_1
-face hpbar_poisoned_diseased_1.111
+face hpbar_poisoned_diseased.111
 end
 Object hpbar_poisoned_diseased_2
-face hpbar_poisoned_diseased_2.111
+face hpbar_poisoned_diseased.112
 end
 Object hpbar_poisoned_diseased_3
-face hpbar_poisoned_diseased_3.111
+face hpbar_poisoned_diseased.113
 end
 Object hpbar_poisoned_diseased_4
-face hpbar_poisoned_diseased_4.111
+face hpbar_poisoned_diseased.114
 end
 Object hpbar_poisoned_diseased_5
-face hpbar_poisoned_diseased_5.111
+face hpbar_poisoned_diseased.115
 end
 Object hpbar_poisoned_diseased_6
-face hpbar_poisoned_diseased_6.111
+face hpbar_poisoned_diseased.116
 end
 Object hpbar_poisoned_diseased_7
-face hpbar_poisoned_diseased_7.111
+face hpbar_poisoned_diseased.117
 end
 Object hpbar_poisoned_diseased_8
-face hpbar_poisoned_diseased_8.111
+face hpbar_poisoned_diseased.118
 end
 Object hpbar_poisoned_diseased_9
-face hpbar_poisoned_diseased_9.111
+face hpbar_poisoned_diseased.119
 end
 Object hpbar_poisoned_diseased_10
-face hpbar_poisoned_diseased_10.111
+face hpbar_poisoned_diseased.11a
 end
 Object hpbar_poisoned_diseased_11
-face hpbar_poisoned_diseased_11.111
+face hpbar_poisoned_diseased.11b
 end
 Object hpbar_poisoned_diseased_12
-face hpbar_poisoned_diseased_12.111
+face hpbar_poisoned_diseased.11c
 end
 Object hpbar_poisoned_diseased_13
-face hpbar_poisoned_diseased_13.111
+face hpbar_poisoned_diseased.11d
 end
 Object hpbar_poisoned_diseased_14
-face hpbar_poisoned_diseased_14.111
+face hpbar_poisoned_diseased.11e
 end
 Object hpbar_poisoned_diseased_15
-face hpbar_poisoned_diseased_15.111
+face hpbar_poisoned_diseased.11f
 end
 Object hpbar_poisoned_diseased_16
-face hpbar_poisoned_diseased_16.111
+face hpbar_poisoned_diseased.11g
 end
 Object hpbar_poisoned_diseased_17
-face hpbar_poisoned_diseased_17.111
+face hpbar_poisoned_diseased.11h
 end
 Object hpbar_poisoned_diseased_18
-face hpbar_poisoned_diseased_18.111
+face hpbar_poisoned_diseased.11i
 end
 Object hpbar_poisoned_diseased_19
-face hpbar_poisoned_diseased_19.111
+face hpbar_poisoned_diseased.11j
 end
 Object hpbar_poisoned_diseased_20
-face hpbar_poisoned_diseased_20.111
+face hpbar_poisoned_diseased.11k
 end
 Object hpbar_poisoned_diseased_21
-face hpbar_poisoned_diseased_21.111
+face hpbar_poisoned_diseased.11l
 end
 Object hpbar_poisoned_diseased_22
-face hpbar_poisoned_diseased_22.111
+face hpbar_poisoned_diseased.11m
 end
 Object hpbar_poisoned_diseased_23
-face hpbar_poisoned_diseased_23.111
+face hpbar_poisoned_diseased.11n
 end
 Object hpbar_poisoned_diseased_24
-face hpbar_poisoned_diseased_24.111
+face hpbar_poisoned_diseased.11o
 end
 Object hpbar_poisoned_diseased_25
-face hpbar_poisoned_diseased_25.111
+face hpbar_poisoned_diseased.11p
 end
 Object hpbar_poisoned_diseased_26
-face hpbar_poisoned_diseased_26.111
+face hpbar_poisoned_diseased.11q
 end
 Object hpbar_poisoned_diseased_27
-face hpbar_poisoned_diseased_27.111
+face hpbar_poisoned_diseased.11r
 end
 Object hpbar_poisoned_diseased_28
-face hpbar_poisoned_diseased_28.111
+face hpbar_poisoned_diseased.11s
 end
 Object hpbar_poisoned_diseased_29
-face hpbar_poisoned_diseased_29.111
+face hpbar_poisoned_diseased.11t
 end
 Object hpbar_poisoned_diseased_30
-face hpbar_poisoned_diseased_30.111
+face hpbar_poisoned_diseased.11u
 end
