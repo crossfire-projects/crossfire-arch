@@ -2685,6 +2685,21 @@ end
 Allowed all
 chance 3
 difficulty 3
+Object the Inferno
+type 87
+weight 135
+value 400
+resist_fire -50
+path_attuned 2
+face cloak_red.111
+stand_still 1
+item_power 1
+cursed 1
+end
+#
+Allowed all
+chance 3
+difficulty 3
 Object Warmth
 type 87
 weight 140
@@ -2695,6 +2710,21 @@ materialname wool
 face cloak_red.111
 stand_still 1
 item_power 1
+end
+#
+Allowed all
+chance 3
+difficulty 3
+Object Freezing
+type 87
+weight 140
+value 350
+resist_cold -50
+path_attuned 4
+face cloak_lblue.111
+stand_still 1
+item_power 1
+cursed 1
 end
 #
 Allowed all
@@ -2713,6 +2743,23 @@ item_power 1
 end
 #
 Allowed all
+chance 3
+difficulty 3
+Object Conductivity
+type 87
+weight 140
+value 350
+resist_electricity -50
+path_attuned 8
+material 8320
+materialname copper
+face cloak_white.111
+stand_still 1
+item_power 1
+cursed 1
+end
+#
+Allowed all
 chance 2
 difficulty 3
 Object Acid Proofing
@@ -2725,6 +2772,23 @@ materialname astolare
 face cloak_acid_proofing.111
 stand_still 1
 item_power 3
+end
+#
+Allowed all
+chance 5
+difficulty 5
+Object Anchoring
+type 87
+value 20
+path_denied 4096
+face cloak_purple.111
+stand_still 1
+item_power 2
+cursed 1
+msg
+Originally created by a paranoid wizard, this cloak once served to calm a troubled mind.
+Now it just prevents its wearer from casting teleportation magic, for better or for worse.
+endmsg
 end
 #
 Allowed all

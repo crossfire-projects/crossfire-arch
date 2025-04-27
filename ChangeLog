@@ -1,3 +1,13 @@
+Add four new cursed cloaks to add variety to the
+cursed item selection for cloaks.
+- cloak of the Inferno, which attunes the wearer to
+    fire, but also makes them vulnerable to fire damage
+- cloak of Freezing, which is the same for ice
+- cloak of Conductivity, which is the same for electricity
+- cloak of Anchoring, which denies access to Teleportation spells.
+artifacts
+Neila Hawkins 2025-04-27
+
 Add images for all skills.
 skills/skill_alchemy.base.111.png
 skills/skill_bargaining.base.111.png
