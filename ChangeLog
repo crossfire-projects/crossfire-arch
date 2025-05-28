@@ -1,3 +1,15 @@
+Documentation update for the stwall* image credit files to use
+the new forum URL.
+wall/stwall/credits.txt
+wall/stwallmossy/credits.txt
+wall/stwallred/credits.txt
+wall/stwallblue/credits.txt
+connect/stwallblue_secret/credits.txt
+connect/stwallmossy_secret/credits.txt
+connect/stwallred_secret/credits.txt
+connect/stwall_secret/credits.txt
+Rick Tanner 2025-05-28
+
 Add four new cursed cloaks to add variety to the
 cursed item selection for cloaks.
 - cloak of the Inferno, which attunes the wearer to
