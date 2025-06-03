@@ -4,10 +4,6 @@ animation oil_sea
 name oil ocean
 name_pl oil ocean
 smoothlevel 16
-smoothface oil_sea.111 oil_sea_S.111
-smoothface oil_sea.112 oil_sea_S.112
-smoothface oil_sea.113 oil_sea_S.113
-smoothface oil_sea.114 oil_sea_S.114
 anim_speed 10
 client_anim_sync 1
 move_block all
@@ -25,10 +21,6 @@ animation oil_sea_ultra_viscous
 name ultra viscous oil
 name_pl ultra viscous oil
 smoothlevel 16
-smoothface oil_sea.111 oil_sea_S.111
-smoothface oil_sea.112 oil_sea_S.112
-smoothface oil_sea.113 oil_sea_S.113
-smoothface oil_sea.114 oil_sea_S.114
 anim_speed 10
 client_anim_sync 1
 no_pick 1
