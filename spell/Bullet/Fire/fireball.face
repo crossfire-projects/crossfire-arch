@@ -7,10 +7,13 @@ face fireball.111
 visibility 100
 magicmap red
 is_floor 1
+smoothface fireball_S.111
 end
 face fireball.112
 magicmap red
+smoothface fireball_S.112
 end
 face fireball.113
 magicmap red
+smoothface fireball_S.113
 end
