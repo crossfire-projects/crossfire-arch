@@ -3,22 +3,6 @@ name footpath
 face footpath_0.111
 no_pick 1
 is_floor 1
-smoothface footpath_0.111 grass_S.111
-smoothface footpath_1.111 grass_S.111
-smoothface footpath_2.111 grass_S.111
-smoothface footpath_3.111 grass_S.111
-smoothface footpath_4.111 grass_S.111
-smoothface footpath_5.111 grass_S.111
-smoothface footpath_6.111 grass_S.111
-smoothface footpath_7.111 grass_S.111
-smoothface footpath_8.111 grass_S.111
-smoothface footpath_9.111 grass_S.111
-smoothface footpath_A.111 grass_S.111
-smoothface footpath_B.111 grass_S.111
-smoothface footpath_C.111 grass_S.111
-smoothface footpath_D.111 grass_S.111
-smoothface footpath_E.111 grass_S.111
-smoothface footpath_F.111 grass_S.111
 smoothlevel 40
 end
 Object footpath_1_2
