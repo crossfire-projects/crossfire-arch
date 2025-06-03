@@ -1,10 +1,6 @@
 Object sea
 face sea.111
 animation sea
-smoothface sea.111 sea_S.111
-smoothface sea.112 sea_S.112
-smoothface sea.113 sea_S.113
-smoothface sea.114 sea_S.114
 move_block all -boat
 no_pick 1
 is_water 1
@@ -18,10 +14,6 @@ Object sea1
 name sea
 face sea.111
 animation sea
-smoothface sea.111 sea_S.111
-smoothface sea.112 sea_S.112
-smoothface sea.113 sea_S.113
-smoothface sea.114 sea_S.114
 no_pick 1
 is_water 1
 is_floor 1
@@ -101,7 +93,6 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
-smoothface sea_7.111 empty_S.111
 harvestitems sea_fish
 end
 Object sea_new
@@ -111,7 +102,6 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
-smoothface sea_B.111 empty_S.111
 harvestitems sea_fish
 end
 Object sea_nse
@@ -121,7 +111,6 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
-smoothface sea_D.111 empty_S.111
 harvestitems sea_fish
 end
 Object sea_sew
@@ -131,7 +120,6 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
-smoothface sea_E.111 empty_S.111
 harvestitems sea_fish
 end
 Object sea_nsew
@@ -141,6 +129,5 @@ move_block all
 no_pick 1
 is_water 1
 smoothlevel 255
-smoothface sea_E.111 empty_S.111
 harvestitems sea_fish
 end

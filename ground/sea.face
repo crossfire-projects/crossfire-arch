@@ -8,4 +8,17 @@ sea.112
 mina
 face sea.111
 magicmap light_blue
+smoothface sea_S.111
+end
+face sea.112
+magicmap light_blue
+smoothface sea_S.112
+end
+face sea.113
+magicmap light_blue
+smoothface sea_S.113
+end
+face sea.114
+magicmap light_blue
+smoothface sea_S.114
 end
