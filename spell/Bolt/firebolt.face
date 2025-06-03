@@ -11,25 +11,33 @@ firebolt.181
 mina
 face firebolt.111
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.121
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.131
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.141
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.151
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.161
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.171
 magicmap red
+smoothface firebolt_S.111
 end
 face firebolt.181
 magicmap red
+smoothface firebolt_S.111
 end
