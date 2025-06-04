@@ -1,4 +1,5 @@
 face darkforest.111
 magicmap green
 visibility 100
+smoothface darkforest_S.111
 end
