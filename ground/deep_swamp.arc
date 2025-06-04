@@ -11,7 +11,5 @@ move_slow walk
 move_slow_penalty 5
 is_wooded 1
 smoothlevel 8
-smoothface deep_swamp.111 deep_swamp_S.111
-smoothface deep_swamp.112 deep_swamp_S.112
 is_floor 1
 end

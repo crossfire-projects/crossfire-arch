@@ -8,6 +8,5 @@ is_wooded 1
 move_slow walk
 move_slow_penalty 1
 smoothlevel 35
-smoothface farmland.111 empty_S.111
 move_block boat swim
 end

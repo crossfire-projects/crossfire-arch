@@ -8,6 +8,5 @@ no_pick 1
 is_water 1
 is_floor 1
 smoothlevel 45
-smoothface cyangrasspond.111 cyangrass_S.111
 harvestitems freshwater_fish
 end

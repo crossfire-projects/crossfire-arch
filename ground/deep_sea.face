@@ -1,5 +1,18 @@
 face deep_sea.111
 magicmap blue
+smoothface deep_sea_S.111
+end
+face deep_sea.112
+magicmap blue
+smoothface deep_sea_S.112
+end
+face deep_sea.113
+magicmap blue
+smoothface deep_sea_S.113
+end
+face deep_sea.114
+magicmap blue
+smoothface deep_sea_S.114
 end
 animation deep_sea
 deep_sea.111

@@ -5,8 +5,10 @@ mina
 face deep_swamp.111
 is_floor 1
 magicmap green
+smoothface deep_swamp_S.111
 end
 face deep_swamp.112
 is_floor 1
 magicmap green
+smoothface deep_swamp_S.112
 end

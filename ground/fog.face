@@ -12,8 +12,10 @@ mina
 face fog.111
 magicmap grey
 visibility 100
+smoothface fog_S.111
 end
 face fog.112
 magicmap white
 visibility 100
+smoothface fog_S.112
 end
