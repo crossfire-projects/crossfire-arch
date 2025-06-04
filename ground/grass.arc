@@ -9,7 +9,6 @@ move_slow walk
 move_slow_penalty 1
 is_wooded 1
 smoothlevel 40
-smoothface grass.111 grass_S.111
 move_block boat swim
 end
 Object grass_only
@@ -23,6 +22,5 @@ move_slow walk
 move_slow_penalty 1
 is_wooded 1
 smoothlevel 40
-smoothface grass.111 grass_S.111
 move_block boat swim
 end

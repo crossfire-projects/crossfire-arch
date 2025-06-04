@@ -9,24 +9,29 @@ face lava.111
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface lava_S.111
 end
 face lava.112
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface lava_S.112
 end
 face lava.113
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface lava_S.113
 end
 face lava.114
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface lava_S.114
 end
 face lava.115
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface lava_S.115
 end

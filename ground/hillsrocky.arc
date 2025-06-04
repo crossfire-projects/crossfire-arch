@@ -10,6 +10,5 @@ move_slow walk
 move_slow_penalty 2
 is_floor 1
 smoothlevel 60
-smoothface hillsrocky.111 hillsrocky_S.111
 move_block boat swim
 end
