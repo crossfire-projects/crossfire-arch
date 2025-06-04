@@ -9,16 +9,20 @@ mina
 face blood_sea.111
 is_floor 1
 magicmap red
+smoothface blood_sea_S.111
 end
 face blood_sea.112
 is_floor 1
 magicmap red
+smoothface blood_sea_S.112
 end
 face blood_sea.113
 is_floor 1
 magicmap red
+smoothface blood_sea_S.113
 end
 face blood_sea.114
 is_floor 1
 magicmap red
+smoothface blood_sea_S.114
 end
