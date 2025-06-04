@@ -1,4 +1,5 @@
 face dunes.111
 is_floor 1
 magicmap green
+smoothface dunes_S.111
 end
