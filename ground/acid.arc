@@ -9,11 +9,6 @@ wc -30
 name acid
 face acid.111
 animation acid
-smoothface acid.111 acid_S.111
-smoothface acid.112 acid_S.112
-smoothface acid.113 acid_S.113
-smoothface acid.114 acid_S.114
-smoothface acid.115 acid_S.115
 smoothlevel 28
 speed 0.2
 no_pick 1
@@ -37,11 +32,6 @@ animation permanent_acid
 speed 0.2
 no_pick 1
 smoothlevel 28
-smoothface acid.111 acid_S.111
-smoothface acid.112 acid_S.112
-smoothface acid.113 acid_S.113
-smoothface acid.114 acid_S.114
-smoothface acid.115 acid_S.115
 attacktype 64
 hp 1
 dam 3

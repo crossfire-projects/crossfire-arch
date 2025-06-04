@@ -9,24 +9,29 @@ face acid.111
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface acid_S.111
 end
 face acid.112
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface acid_S.112
 end
 face acid.113
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface acid_S.113
 end
 face acid.114
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface acid_S.114
 end
 face acid.115
 is_floor 1
 magicmap yellow
 visibility 100
+smoothface acid_S.115
 end
