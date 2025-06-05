@@ -4,7 +4,6 @@ name marble
 no_pick 1
 is_floor 1
 smoothlevel 30
-smoothface green-white-h-marble.111 empty_S.111
 end
 
 Object green-white-h-marble_112
@@ -13,5 +12,4 @@ name marble
 no_pick 1
 is_floor 1
 smoothlevel 30
-smoothface green-white-h-marble.112 empty_S.111
 end
