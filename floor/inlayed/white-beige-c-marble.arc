@@ -4,7 +4,6 @@ name marble
 no_pick 1
 is_floor 1
 smoothlevel 30
-smoothface white-beige-c-marble.111 empty_S.111
 end
 
 Object white-beige-c-marble_112
@@ -13,7 +12,6 @@ name marble
 no_pick 1
 is_floor 1
 smoothlevel 30
-smoothface white-beige-c-marble.112 empty_S.111
 end
 
 Object white-beige-c-marble_113
@@ -22,7 +20,6 @@ name marble
 no_pick 1
 is_floor 1
 smoothlevel 30
-smoothface white-beige-c-marble.113 empty_S.111
 end
 
 Object white-beige-c-marble_114
@@ -31,5 +28,4 @@ name marble
 no_pick 1
 is_floor 1
 smoothlevel 30
-smoothface white-beige-c-marble.114 empty_S.111
 end
