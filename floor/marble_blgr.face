@@ -1,4 +1,5 @@
 face marble_blgr.111
 magicmap grey
 is_floor 1
+smoothface empty_S.111
 end
